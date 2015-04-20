@@ -1,0 +1,62 @@
+<VSTemplate Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Project">
+  <TemplateData>
+    <Name>Module</Name>
+    <Description>&lt;No description available&gt;</Description>
+    <ProjectType>CSharp</ProjectType>
+    <ProjectSubType>
+    </ProjectSubType>
+    <SortOrder>1000</SortOrder>
+    <CreateNewFolder>true</CreateNewFolder>
+    <DefaultName>Module</DefaultName>
+    <ProvideDefaultName>true</ProvideDefaultName>
+    <LocationField>Enabled</LocationField>
+    <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+    <Icon>__TemplateIcon.ico</Icon>
+  </TemplateData>
+  <TemplateContent>
+    <Project TargetFileName="ModuleTemplate.csproj" File="ModuleTemplate.csproj" ReplaceParameters="true">
+		<ProjectItem ReplaceParameters="true" TargetFileName="AboutPhotos.resx">AboutPhotos.resx</ProjectItem>
+		<ProjectItem ReplaceParameters="true" TargetFileName="ModuleTemplate.csproj.user">ModuleTemplate.csproj.user</ProjectItem>
+		<ProjectItem ReplaceParameters="true" TargetFileName="AboutPhotos.Designer.cs">AboutPhotos.Designer.cs</ProjectItem>
+      <Folder Name="binary" TargetFolderName="binary">
+        <ProjectItem ReplaceParameters="false" TargetFileName="Common.dll">Common.dll</ProjectItem>
+        <Folder Name="en-US" TargetFolderName="en-US">
+          <ProjectItem ReplaceParameters="false" TargetFileName="Common.resources.dll">Common.resources.dll</ProjectItem>
+          <ProjectItem ReplaceParameters="false" TargetFileName="SMPR.resources.dll">SMPR.resources.dll</ProjectItem>
+        </Folder>
+        <Folder Name="ru-RU" TargetFolderName="ru-RU">
+          <ProjectItem ReplaceParameters="false" TargetFileName="Common.resources.dll">Common.resources.dll</ProjectItem>
+          <ProjectItem ReplaceParameters="false" TargetFileName="SMPR.resources.dll">SMPR.resources.dll</ProjectItem>
+        </Folder>
+        <ProjectItem ReplaceParameters="false" TargetFileName="SMPR.exe">SMPR.exe</ProjectItem>
+      </Folder>
+      <ProjectItem ReplaceParameters="true" TargetFileName="frmModule.cs">frmModule.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="frmModule.designer.cs">frmModule.designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="frmModule.en-US.resx">frmModule.en-US.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="frmModule.resx">frmModule.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="frmModule.ru-RU.resx">frmModule.ru-RU.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Method.cs">Method.cs</ProjectItem>
+      <Folder Name="Methods" TargetFolderName="Methods">
+        <ProjectItem ReplaceParameters="true" TargetFileName="Example.cs">Example.cs</ProjectItem>
+      </Folder>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Module.cs">Module.cs</ProjectItem>
+      <Folder Name="Properties" TargetFolderName="Properties">
+        <ProjectItem ReplaceParameters="true" TargetFileName="AssemblyInfo.cs">AssemblyInfo.cs</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Resources.en-US.resx">Resources.en-US.resx</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Resources.resx">Resources.resx</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Resources.Designer.cs">Resources.Designer.cs</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Resources.ru-RU.resx">Resources.ru-RU.resx</ProjectItem>
+      </Folder>
+      <Folder Name="Resources" TargetFolderName="Resources">
+        <ProjectItem ReplaceParameters="false" TargetFileName="Icon.png">Icon.png</ProjectItem>
+        <ProjectItem ReplaceParameters="false" TargetFileName="MethodHelp_Example.rtf">MethodHelp_Example.rtf</ProjectItem>
+        <ProjectItem ReplaceParameters="false" TargetFileName="ModuleHelp.rtf">ModuleHelp.rtf</ProjectItem>
+        <ProjectItem ReplaceParameters="false" TargetFileName="ModuleUIHelp.rtf">ModuleUIHelp.rtf</ProjectItem>
+      </Folder>
+    </Project>
+  </TemplateContent>
+	<WizardExtension>
+		<Assembly>wizard, Version=1.0.0.0, Culture=Neutral, PublicKeyToken=e1e14d6de2db1ed1</Assembly>
+		<FullClassName>wizard.SMPRTemplateWizard</FullClassName>
+	</WizardExtension>
+</VSTemplate>

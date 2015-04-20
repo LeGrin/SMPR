@@ -1,0 +1,588 @@
+Y:\Documents\SMPR\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.AboutPhotos.resources
+Y:\Documents\SMPR\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.Properties.Resources.resources
+Y:\Documents\SMPR\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodSequentialConcession.resources
+Y:\Documents\SMPR\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodLimiting.resources
+Y:\Documents\SMPR\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.ctrlThereIsNoData.resources
+Y:\Documents\SMPR\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.ctrlMatrix.resources
+Y:\Documents\SMPR\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMultipleRangeSelector.resources
+Y:\Documents\SMPR\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlRangeSelector.resources
+Y:\Documents\SMPR\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodCallbackBase.resources
+Y:\Documents\SMPR\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlShowAlternativeAndYesNoDialog.resources
+Y:\Documents\SMPR\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlVariantsSelector.resources
+Y:\Documents\SMPR\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlYesNoDialog.resources
+Y:\Documents\SMPR\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmBase.resources
+Y:\Documents\SMPR\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmMatrixEdit.resources
+Y:\Documents\SMPR\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmModule.resources
+Y:\Documents\SMPR\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmNameEdit.resources
+Y:\Documents\SMPR\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmResultPresenter.resources
+Y:\Documents\SMPR\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.MethodCallback.frmMethodCallback.resources
+Y:\Documents\SMPR\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.Testing.resources
+Y:\Documents\SMPR\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.Properties.Resources.en-US.resources
+Y:\Documents\SMPR\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.Properties.Resources.ru-RU.resources
+Y:\Documents\SMPR\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodLimiting.en-US.resources
+Y:\Documents\SMPR\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodLimiting.ru-RU.resources
+Y:\Documents\SMPR\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodSequentialConcession.en-US.resources
+Y:\Documents\SMPR\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodSequentialConcession.ru-RU.resources
+Y:\Documents\SMPR\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlVariantsSelector.en-US.resources
+Y:\Documents\SMPR\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlVariantsSelector.ru-RU.resources
+Y:\Documents\SMPR\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmMatrixEdit.en-US.resources
+Y:\Documents\SMPR\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmMatrixEdit.ru-RU.resources
+Y:\Documents\SMPR\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmModule.en-US.resources
+Y:\Documents\SMPR\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmModule.ru-RU.resources
+Y:\Documents\SMPR\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmModule.uk-UA.resources
+Y:\Documents\SMPR\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmNameEdit.en-US.resources
+Y:\Documents\SMPR\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmNameEdit.ru-RU.resources
+Y:\Documents\SMPR\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmResultPresenter.en-US.resources
+Y:\Documents\SMPR\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmResultPresenter.ru-RU.resources
+Y:\Documents\SMPR\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.MethodCallback.frmMethodCallback.en-US.resources
+Y:\Documents\SMPR\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.MethodCallback.frmMethodCallback.ru-RU.resources
+Y:\Documents\SMPR\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.Testing.en-US.resources
+Y:\Documents\SMPR\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.Testing.ru-RU.resources
+Y:\Documents\SMPR\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.Testing.uk-UA.resources
+Y:\Documents\SMPR\ModuleMulticriterionProblemMethods\obj\Debug\ModuleMulticriterionProblemMethods.csproj.GenerateResource.Cache
+Y:\Documents\SMPR\ModuleMulticriterionProblemMethods\bin\Debug\ModuleMulticriterionProblemMethods.dll
+Y:\Documents\SMPR\ModuleMulticriterionProblemMethods\bin\Debug\ModuleMulticriterionProblemMethods.pdb
+Y:\Documents\SMPR\ModuleMulticriterionProblemMethods\bin\Debug\en-US\ModuleMulticriterionProblemMethods.resources.dll
+Y:\Documents\SMPR\ModuleMulticriterionProblemMethods\bin\Debug\ru-RU\ModuleMulticriterionProblemMethods.resources.dll
+Y:\Documents\SMPR\ModuleMulticriterionProblemMethods\bin\Debug\uk-UA\ModuleMulticriterionProblemMethods.resources.dll
+Y:\Documents\SMPR\ModuleMulticriterionProblemMethods\bin\Debug\Common.dll
+Y:\Documents\SMPR\ModuleMulticriterionProblemMethods\bin\Debug\Common.pdb
+Y:\Documents\SMPR\ModuleMulticriterionProblemMethods\bin\Debug\en-US\Common.resources.dll
+Y:\Documents\SMPR\ModuleMulticriterionProblemMethods\bin\Debug\ru-RU\Common.resources.dll
+Y:\Documents\SMPR\ModuleMulticriterionProblemMethods\obj\Debug\en-US\ModuleMulticriterionProblemMethods.resources.dll
+Y:\Documents\SMPR\ModuleMulticriterionProblemMethods\obj\Debug\ru-RU\ModuleMulticriterionProblemMethods.resources.dll
+Y:\Documents\SMPR\ModuleMulticriterionProblemMethods\obj\Debug\uk-UA\ModuleMulticriterionProblemMethods.resources.dll
+Y:\Documents\SMPR\ModuleMulticriterionProblemMethods\obj\Debug\ModuleMulticriterionProblemMethods.dll
+Y:\Documents\SMPR\ModuleMulticriterionProblemMethods\obj\Debug\ModuleMulticriterionProblemMethods.pdb
+Y:\Documents\SMPR\ModuleMulticriterionProblemMethods\obj\Debug\ModuleMulticriterionProblemMethods.csprojResolveAssemblyReference.cache
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleMulticriterionProblemMethods\bin\Debug\ModuleMulticriterionProblemMethods.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleMulticriterionProblemMethods\bin\Debug\ModuleMulticriterionProblemMethods.pdb
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleMulticriterionProblemMethods\bin\Debug\en-US\ModuleMulticriterionProblemMethods.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleMulticriterionProblemMethods\bin\Debug\ru-RU\ModuleMulticriterionProblemMethods.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleMulticriterionProblemMethods\bin\Debug\uk-UA\ModuleMulticriterionProblemMethods.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleMulticriterionProblemMethods\bin\Debug\Common.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleMulticriterionProblemMethods\bin\Debug\Common.pdb
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleMulticriterionProblemMethods\bin\Debug\en-US\Common.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleMulticriterionProblemMethods\bin\Debug\ru-RU\Common.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\ModuleMulticriterionProblemMethods.csprojResolveAssemblyReference.cache
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.AboutPhotos.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.Properties.Resources.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodSequentialConcession.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodLimiting.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.ctrlThereIsNoData.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.ctrlMatrix.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMultipleRangeSelector.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlRangeSelector.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodCallbackBase.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlShowAlternativeAndYesNoDialog.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlVariantsSelector.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlYesNoDialog.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmBase.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmMatrixEdit.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmModule.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmNameEdit.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmResultPresenter.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.MethodCallback.frmMethodCallback.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.Testing.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.Properties.Resources.en-US.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.Properties.Resources.ru-RU.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodLimiting.en-US.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodLimiting.ru-RU.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodSequentialConcession.en-US.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodSequentialConcession.ru-RU.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlVariantsSelector.en-US.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlVariantsSelector.ru-RU.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmMatrixEdit.en-US.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmMatrixEdit.ru-RU.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmModule.en-US.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmModule.ru-RU.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmModule.uk-UA.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmNameEdit.en-US.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmNameEdit.ru-RU.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmResultPresenter.en-US.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmResultPresenter.ru-RU.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.MethodCallback.frmMethodCallback.en-US.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.MethodCallback.frmMethodCallback.ru-RU.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.Testing.en-US.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.Testing.ru-RU.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.Testing.uk-UA.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\ModuleMulticriterionProblemMethods.csproj.GenerateResource.Cache
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\en-US\ModuleMulticriterionProblemMethods.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\ru-RU\ModuleMulticriterionProblemMethods.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\uk-UA\ModuleMulticriterionProblemMethods.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\ModuleMulticriterionProblemMethods.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\ModuleMulticriterionProblemMethods.pdb
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleMulticriterionProblemMethods\bin\Debug\ModuleMulticriterionProblemMethods.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleMulticriterionProblemMethods\bin\Debug\ModuleMulticriterionProblemMethods.pdb
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleMulticriterionProblemMethods\bin\Debug\en-US\ModuleMulticriterionProblemMethods.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleMulticriterionProblemMethods\bin\Debug\ru-RU\ModuleMulticriterionProblemMethods.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleMulticriterionProblemMethods\bin\Debug\uk-UA\ModuleMulticriterionProblemMethods.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleMulticriterionProblemMethods\bin\Debug\Common.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleMulticriterionProblemMethods\bin\Debug\Common.pdb
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleMulticriterionProblemMethods\bin\Debug\en-US\Common.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleMulticriterionProblemMethods\bin\Debug\ru-RU\Common.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\ModuleMulticriterionProblemMethods.csprojResolveAssemblyReference.cache
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.AboutPhotos.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.Properties.Resources.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodSequentialConcession.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodLimiting.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.ctrlThereIsNoData.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.ctrlMatrix.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMultipleRangeSelector.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlRangeSelector.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodCallbackBase.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlShowAlternativeAndYesNoDialog.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlVariantsSelector.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlYesNoDialog.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmBase.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmMatrixEdit.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmModule.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmNameEdit.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmResultPresenter.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.MethodCallback.frmMethodCallback.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.Testing.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.Properties.Resources.en-US.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.Properties.Resources.ru-RU.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodLimiting.en-US.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodLimiting.ru-RU.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodSequentialConcession.en-US.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodSequentialConcession.ru-RU.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlVariantsSelector.en-US.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlVariantsSelector.ru-RU.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmMatrixEdit.en-US.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmMatrixEdit.ru-RU.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmModule.en-US.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmModule.ru-RU.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmModule.uk-UA.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmNameEdit.en-US.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmNameEdit.ru-RU.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmResultPresenter.en-US.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmResultPresenter.ru-RU.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.MethodCallback.frmMethodCallback.en-US.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.MethodCallback.frmMethodCallback.ru-RU.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.Testing.en-US.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.Testing.ru-RU.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.Testing.uk-UA.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\ModuleMulticriterionProblemMethods.csproj.GenerateResource.Cache
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\en-US\ModuleMulticriterionProblemMethods.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\ru-RU\ModuleMulticriterionProblemMethods.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\uk-UA\ModuleMulticriterionProblemMethods.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\ModuleMulticriterionProblemMethods.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\ModuleMulticriterionProblemMethods.pdb
+C:\Andrew\Programming\TPR\SMPR3\ModuleMulticriterionProblemMethods\bin\Debug\ModuleMulticriterionProblemMethods.dll
+C:\Andrew\Programming\TPR\SMPR3\ModuleMulticriterionProblemMethods\bin\Debug\ModuleMulticriterionProblemMethods.pdb
+C:\Andrew\Programming\TPR\SMPR3\ModuleMulticriterionProblemMethods\bin\Debug\en-US\ModuleMulticriterionProblemMethods.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\ModuleMulticriterionProblemMethods\bin\Debug\ru-RU\ModuleMulticriterionProblemMethods.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\ModuleMulticriterionProblemMethods\bin\Debug\uk-UA\ModuleMulticriterionProblemMethods.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\ModuleMulticriterionProblemMethods\bin\Debug\Common.dll
+C:\Andrew\Programming\TPR\SMPR3\ModuleMulticriterionProblemMethods\bin\Debug\Common.pdb
+C:\Andrew\Programming\TPR\SMPR3\ModuleMulticriterionProblemMethods\bin\Debug\en-US\Common.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\ModuleMulticriterionProblemMethods\bin\Debug\ru-RU\Common.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\ModuleMulticriterionProblemMethods\obj\Debug\ModuleMulticriterionProblemMethods.csprojResolveAssemblyReference.cache
+C:\Andrew\Programming\TPR\SMPR3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.AboutPhotos.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.Properties.Resources.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodSequentialConcession.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodLimiting.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.ctrlThereIsNoData.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.ctrlMatrix.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMultipleRangeSelector.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlRangeSelector.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodCallbackBase.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlShowAlternativeAndYesNoDialog.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlVariantsSelector.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlYesNoDialog.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmBase.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmMatrixEdit.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmModule.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmNameEdit.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmResultPresenter.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.MethodCallback.frmMethodCallback.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.Testing.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.Properties.Resources.en-US.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.Properties.Resources.ru-RU.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodLimiting.en-US.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodLimiting.ru-RU.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodSequentialConcession.en-US.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodSequentialConcession.ru-RU.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlVariantsSelector.en-US.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlVariantsSelector.ru-RU.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmMatrixEdit.en-US.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmMatrixEdit.ru-RU.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmModule.en-US.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmModule.ru-RU.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmModule.uk-UA.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmNameEdit.en-US.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmNameEdit.ru-RU.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmResultPresenter.en-US.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmResultPresenter.ru-RU.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.MethodCallback.frmMethodCallback.en-US.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.MethodCallback.frmMethodCallback.ru-RU.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.Testing.en-US.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.Testing.ru-RU.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.Testing.uk-UA.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleMulticriterionProblemMethods\obj\Debug\ModuleMulticriterionProblemMethods.csproj.GenerateResource.Cache
+C:\Andrew\Programming\TPR\SMPR3\ModuleMulticriterionProblemMethods\obj\Debug\en-US\ModuleMulticriterionProblemMethods.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\ModuleMulticriterionProblemMethods\obj\Debug\ru-RU\ModuleMulticriterionProblemMethods.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\ModuleMulticriterionProblemMethods\obj\Debug\uk-UA\ModuleMulticriterionProblemMethods.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\ModuleMulticriterionProblemMethods\obj\Debug\ModuleMulticriterionProblemMethods.dll
+C:\Andrew\Programming\TPR\SMPR3\ModuleMulticriterionProblemMethods\obj\Debug\ModuleMulticriterionProblemMethods.pdb
+D:\TPR\SMPR3.0\ModuleMulticriterionProblemMethods\bin\Debug\ModuleMulticriterionProblemMethods.dll
+D:\TPR\SMPR3.0\ModuleMulticriterionProblemMethods\bin\Debug\ModuleMulticriterionProblemMethods.pdb
+D:\TPR\SMPR3.0\ModuleMulticriterionProblemMethods\bin\Debug\en-US\ModuleMulticriterionProblemMethods.resources.dll
+D:\TPR\SMPR3.0\ModuleMulticriterionProblemMethods\bin\Debug\ru-RU\ModuleMulticriterionProblemMethods.resources.dll
+D:\TPR\SMPR3.0\ModuleMulticriterionProblemMethods\bin\Debug\uk-UA\ModuleMulticriterionProblemMethods.resources.dll
+D:\TPR\SMPR3.0\ModuleMulticriterionProblemMethods\bin\Debug\Common.dll
+D:\TPR\SMPR3.0\ModuleMulticriterionProblemMethods\bin\Debug\Common.pdb
+D:\TPR\SMPR3.0\ModuleMulticriterionProblemMethods\bin\Debug\en-US\Common.resources.dll
+D:\TPR\SMPR3.0\ModuleMulticriterionProblemMethods\bin\Debug\ru-RU\Common.resources.dll
+D:\TPR\SMPR3.0\ModuleMulticriterionProblemMethods\obj\Debug\ModuleMulticriterionProblemMethods.csprojResolveAssemblyReference.cache
+D:\TPR\SMPR3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.AboutPhotos.resources
+D:\TPR\SMPR3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.Properties.Resources.resources
+D:\TPR\SMPR3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodSequentialConcession.resources
+D:\TPR\SMPR3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodLimiting.resources
+D:\TPR\SMPR3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.ctrlThereIsNoData.resources
+D:\TPR\SMPR3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.ctrlMatrix.resources
+D:\TPR\SMPR3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMultipleRangeSelector.resources
+D:\TPR\SMPR3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlRangeSelector.resources
+D:\TPR\SMPR3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodCallbackBase.resources
+D:\TPR\SMPR3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlShowAlternativeAndYesNoDialog.resources
+D:\TPR\SMPR3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlVariantsSelector.resources
+D:\TPR\SMPR3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlYesNoDialog.resources
+D:\TPR\SMPR3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmBase.resources
+D:\TPR\SMPR3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmMatrixEdit.resources
+D:\TPR\SMPR3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmModule.resources
+D:\TPR\SMPR3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmNameEdit.resources
+D:\TPR\SMPR3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmResultPresenter.resources
+D:\TPR\SMPR3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.MethodCallback.frmMethodCallback.resources
+D:\TPR\SMPR3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.Testing.resources
+D:\TPR\SMPR3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.Properties.Resources.en-US.resources
+D:\TPR\SMPR3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.Properties.Resources.ru-RU.resources
+D:\TPR\SMPR3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodLimiting.en-US.resources
+D:\TPR\SMPR3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodLimiting.ru-RU.resources
+D:\TPR\SMPR3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodSequentialConcession.en-US.resources
+D:\TPR\SMPR3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodSequentialConcession.ru-RU.resources
+D:\TPR\SMPR3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlVariantsSelector.en-US.resources
+D:\TPR\SMPR3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlVariantsSelector.ru-RU.resources
+D:\TPR\SMPR3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmMatrixEdit.en-US.resources
+D:\TPR\SMPR3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmMatrixEdit.ru-RU.resources
+D:\TPR\SMPR3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmModule.en-US.resources
+D:\TPR\SMPR3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmModule.ru-RU.resources
+D:\TPR\SMPR3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmModule.uk-UA.resources
+D:\TPR\SMPR3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmNameEdit.en-US.resources
+D:\TPR\SMPR3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmNameEdit.ru-RU.resources
+D:\TPR\SMPR3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmResultPresenter.en-US.resources
+D:\TPR\SMPR3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmResultPresenter.ru-RU.resources
+D:\TPR\SMPR3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.MethodCallback.frmMethodCallback.en-US.resources
+D:\TPR\SMPR3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.MethodCallback.frmMethodCallback.ru-RU.resources
+D:\TPR\SMPR3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.Testing.en-US.resources
+D:\TPR\SMPR3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.Testing.ru-RU.resources
+D:\TPR\SMPR3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.Testing.uk-UA.resources
+D:\TPR\SMPR3.0\ModuleMulticriterionProblemMethods\obj\Debug\ModuleMulticriterionProblemMethods.csproj.GenerateResource.Cache
+D:\TPR\SMPR3.0\ModuleMulticriterionProblemMethods\obj\Debug\en-US\ModuleMulticriterionProblemMethods.resources.dll
+D:\TPR\SMPR3.0\ModuleMulticriterionProblemMethods\obj\Debug\ru-RU\ModuleMulticriterionProblemMethods.resources.dll
+D:\TPR\SMPR3.0\ModuleMulticriterionProblemMethods\obj\Debug\uk-UA\ModuleMulticriterionProblemMethods.resources.dll
+D:\TPR\SMPR3.0\ModuleMulticriterionProblemMethods\obj\Debug\ModuleMulticriterionProblemMethods.dll
+D:\TPR\SMPR3.0\ModuleMulticriterionProblemMethods\obj\Debug\ModuleMulticriterionProblemMethods.pdb
+D:\TPR\SMPR3.0\ModuleMulticriterionProblemMethods\bin\Debug\zh\ModuleMulticriterionProblemMethods.resources.dll
+D:\TPR\SMPR3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.Properties.Resources.zh.resources
+D:\TPR\SMPR3.0\ModuleMulticriterionProblemMethods\obj\Debug\zh\ModuleMulticriterionProblemMethods.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\bin\Debug\ModuleMulticriterionProblemMethods.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\bin\Debug\ModuleMulticriterionProblemMethods.pdb
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\bin\Debug\en-US\ModuleMulticriterionProblemMethods.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\bin\Debug\ru-RU\ModuleMulticriterionProblemMethods.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\bin\Debug\zh\ModuleMulticriterionProblemMethods.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\bin\Debug\uk-UA\ModuleMulticriterionProblemMethods.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\bin\Debug\Common.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\bin\Debug\Common.pdb
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\bin\Debug\en-US\Common.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\bin\Debug\ru-RU\Common.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\ModuleMulticriterionProblemMethods.csprojResolveAssemblyReference.cache
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.AboutPhotos.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.Properties.Resources.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodSequentialConcession.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodLimiting.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.ctrlThereIsNoData.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.ctrlMatrix.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMultipleRangeSelector.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlRangeSelector.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodCallbackBase.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlShowAlternativeAndYesNoDialog.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlVariantsSelector.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlYesNoDialog.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmBase.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmMatrixEdit.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmModule.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmNameEdit.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmResultPresenter.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.MethodCallback.frmMethodCallback.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.Testing.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.Properties.Resources.en-US.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.Properties.Resources.ru-RU.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.Properties.Resources.zh.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodLimiting.en-US.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodLimiting.ru-RU.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodSequentialConcession.en-US.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodSequentialConcession.ru-RU.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlVariantsSelector.en-US.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlVariantsSelector.ru-RU.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmMatrixEdit.en-US.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmMatrixEdit.ru-RU.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmModule.en-US.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmModule.ru-RU.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmModule.uk-UA.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmNameEdit.en-US.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmNameEdit.ru-RU.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmResultPresenter.en-US.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmResultPresenter.ru-RU.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.MethodCallback.frmMethodCallback.en-US.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.MethodCallback.frmMethodCallback.ru-RU.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.Testing.en-US.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.Testing.ru-RU.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.Testing.uk-UA.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\ModuleMulticriterionProblemMethods.csproj.GenerateResource.Cache
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\en-US\ModuleMulticriterionProblemMethods.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\ru-RU\ModuleMulticriterionProblemMethods.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\zh\ModuleMulticriterionProblemMethods.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\uk-UA\ModuleMulticriterionProblemMethods.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\ModuleMulticriterionProblemMethods.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\ModuleMulticriterionProblemMethods.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleMulticriterionProblemMethods\bin\Debug\ModuleMulticriterionProblemMethods.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleMulticriterionProblemMethods\bin\Debug\ModuleMulticriterionProblemMethods.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleMulticriterionProblemMethods\bin\Debug\en-US\ModuleMulticriterionProblemMethods.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleMulticriterionProblemMethods\bin\Debug\ru-RU\ModuleMulticriterionProblemMethods.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleMulticriterionProblemMethods\bin\Debug\zh\ModuleMulticriterionProblemMethods.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleMulticriterionProblemMethods\bin\Debug\uk-UA\ModuleMulticriterionProblemMethods.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleMulticriterionProblemMethods\bin\Debug\Common.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleMulticriterionProblemMethods\bin\Debug\Common.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleMulticriterionProblemMethods\bin\Debug\en-US\Common.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleMulticriterionProblemMethods\bin\Debug\ru-RU\Common.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleMulticriterionProblemMethods\obj\Debug\ModuleMulticriterionProblemMethods.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.AboutPhotos.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodSequentialConcession.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodLimiting.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.ctrlThereIsNoData.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.ctrlMatrix.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMultipleRangeSelector.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlRangeSelector.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodCallbackBase.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlShowAlternativeAndYesNoDialog.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlVariantsSelector.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlYesNoDialog.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmBase.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmMatrixEdit.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmModule.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmNameEdit.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmResultPresenter.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.MethodCallback.frmMethodCallback.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.Testing.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.Properties.Resources.en-US.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.Properties.Resources.ru-RU.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.Properties.Resources.zh.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodLimiting.en-US.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodLimiting.ru-RU.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodSequentialConcession.en-US.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodSequentialConcession.ru-RU.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlVariantsSelector.en-US.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlVariantsSelector.ru-RU.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmMatrixEdit.en-US.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmMatrixEdit.ru-RU.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmModule.en-US.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmModule.ru-RU.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmModule.uk-UA.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmNameEdit.en-US.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmNameEdit.ru-RU.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmResultPresenter.en-US.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmResultPresenter.ru-RU.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.MethodCallback.frmMethodCallback.en-US.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.MethodCallback.frmMethodCallback.ru-RU.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.Testing.en-US.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.Testing.ru-RU.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.Testing.uk-UA.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleMulticriterionProblemMethods\obj\Debug\ModuleMulticriterionProblemMethods.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleMulticriterionProblemMethods\obj\Debug\en-US\ModuleMulticriterionProblemMethods.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleMulticriterionProblemMethods\obj\Debug\ru-RU\ModuleMulticriterionProblemMethods.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleMulticriterionProblemMethods\obj\Debug\zh\ModuleMulticriterionProblemMethods.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleMulticriterionProblemMethods\obj\Debug\uk-UA\ModuleMulticriterionProblemMethods.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleMulticriterionProblemMethods\obj\Debug\ModuleMulticriterionProblemMethods.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleMulticriterionProblemMethods\obj\Debug\ModuleMulticriterionProblemMethods.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleMulticriterionProblemMethods\bin\Debug\ModuleMulticriterionProblemMethods.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleMulticriterionProblemMethods\bin\Debug\ModuleMulticriterionProblemMethods.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleMulticriterionProblemMethods\bin\Debug\en-US\ModuleMulticriterionProblemMethods.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleMulticriterionProblemMethods\bin\Debug\ru-RU\ModuleMulticriterionProblemMethods.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleMulticriterionProblemMethods\bin\Debug\zh\ModuleMulticriterionProblemMethods.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleMulticriterionProblemMethods\bin\Debug\uk-UA\ModuleMulticriterionProblemMethods.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleMulticriterionProblemMethods\bin\Debug\Common.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleMulticriterionProblemMethods\bin\Debug\Common.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleMulticriterionProblemMethods\bin\Debug\en-US\Common.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleMulticriterionProblemMethods\bin\Debug\ru-RU\Common.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\ModuleMulticriterionProblemMethods.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.AboutPhotos.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodSequentialConcession.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodLimiting.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.ctrlThereIsNoData.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.ctrlMatrix.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMultipleRangeSelector.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlRangeSelector.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodCallbackBase.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlShowAlternativeAndYesNoDialog.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlVariantsSelector.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlYesNoDialog.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmBase.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmMatrixEdit.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmModule.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmNameEdit.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmResultPresenter.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.MethodCallback.frmMethodCallback.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.Testing.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.Properties.Resources.en-US.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.Properties.Resources.ru-RU.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.Properties.Resources.zh.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodLimiting.en-US.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodLimiting.ru-RU.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodSequentialConcession.en-US.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodSequentialConcession.ru-RU.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlVariantsSelector.en-US.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlVariantsSelector.ru-RU.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmMatrixEdit.en-US.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmMatrixEdit.ru-RU.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmModule.en-US.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmModule.ru-RU.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmModule.uk-UA.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmNameEdit.en-US.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmNameEdit.ru-RU.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmResultPresenter.en-US.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmResultPresenter.ru-RU.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.MethodCallback.frmMethodCallback.en-US.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.MethodCallback.frmMethodCallback.ru-RU.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.Testing.en-US.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.Testing.ru-RU.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.Testing.uk-UA.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\ModuleMulticriterionProblemMethods.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\en-US\ModuleMulticriterionProblemMethods.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\ru-RU\ModuleMulticriterionProblemMethods.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\zh\ModuleMulticriterionProblemMethods.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\uk-UA\ModuleMulticriterionProblemMethods.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\ModuleMulticriterionProblemMethods.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleMulticriterionProblemMethods\obj\Debug\ModuleMulticriterionProblemMethods.pdb
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\bin\Debug\ModuleMulticriterionProblemMethods.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\bin\Debug\ModuleMulticriterionProblemMethods.pdb
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\bin\Debug\en-US\ModuleMulticriterionProblemMethods.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\bin\Debug\ru-RU\ModuleMulticriterionProblemMethods.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\bin\Debug\zh\ModuleMulticriterionProblemMethods.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\bin\Debug\uk-UA\ModuleMulticriterionProblemMethods.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\bin\Debug\Common.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\bin\Debug\Common.pdb
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\bin\Debug\en-US\Common.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\bin\Debug\ru-RU\Common.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\ModuleMulticriterionProblemMethods.csprojResolveAssemblyReference.cache
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.AboutPhotos.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.Properties.Resources.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodSequentialConcession.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodLimiting.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.ctrlThereIsNoData.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.ctrlMatrix.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMultipleRangeSelector.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlRangeSelector.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodCallbackBase.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlShowAlternativeAndYesNoDialog.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlVariantsSelector.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlYesNoDialog.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmBase.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmMatrixEdit.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmModule.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmNameEdit.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmResultPresenter.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.MethodCallback.frmMethodCallback.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.Testing.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.Properties.Resources.en-US.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.Properties.Resources.ru-RU.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.Properties.Resources.zh.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodLimiting.en-US.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodLimiting.ru-RU.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodSequentialConcession.en-US.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodSequentialConcession.ru-RU.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlVariantsSelector.en-US.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlVariantsSelector.ru-RU.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmMatrixEdit.en-US.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmMatrixEdit.ru-RU.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmModule.en-US.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmModule.ru-RU.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmModule.uk-UA.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmNameEdit.en-US.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmNameEdit.ru-RU.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmResultPresenter.en-US.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmResultPresenter.ru-RU.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.MethodCallback.frmMethodCallback.en-US.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.MethodCallback.frmMethodCallback.ru-RU.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.Testing.en-US.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.Testing.ru-RU.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.Testing.uk-UA.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\ModuleMulticriterionProblemMethods.csproj.GenerateResource.Cache
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\en-US\ModuleMulticriterionProblemMethods.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\ru-RU\ModuleMulticriterionProblemMethods.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\zh\ModuleMulticriterionProblemMethods.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\uk-UA\ModuleMulticriterionProblemMethods.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\ModuleMulticriterionProblemMethods.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleMulticriterionProblemMethods\obj\Debug\ModuleMulticriterionProblemMethods.pdb
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleMulticriterionProblemMethods\bin\Debug\ModuleMulticriterionProblemMethods.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleMulticriterionProblemMethods\bin\Debug\ModuleMulticriterionProblemMethods.pdb
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleMulticriterionProblemMethods\bin\Debug\en-US\ModuleMulticriterionProblemMethods.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleMulticriterionProblemMethods\bin\Debug\ru-RU\ModuleMulticriterionProblemMethods.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleMulticriterionProblemMethods\bin\Debug\zh\ModuleMulticriterionProblemMethods.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleMulticriterionProblemMethods\bin\Debug\uk-UA\ModuleMulticriterionProblemMethods.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleMulticriterionProblemMethods\bin\Debug\Common.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleMulticriterionProblemMethods\bin\Debug\Common.pdb
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleMulticriterionProblemMethods\bin\Debug\en-US\Common.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleMulticriterionProblemMethods\bin\Debug\ru-RU\Common.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleMulticriterionProblemMethods\obj\Debug\ModuleMulticriterionProblemMethods.csprojResolveAssemblyReference.cache
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.AboutPhotos.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.Properties.Resources.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodSequentialConcession.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodLimiting.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.ctrlThereIsNoData.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.ctrlMatrix.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMultipleRangeSelector.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlRangeSelector.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodCallbackBase.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlShowAlternativeAndYesNoDialog.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlVariantsSelector.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlYesNoDialog.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmBase.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmMatrixEdit.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmModule.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmNameEdit.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmResultPresenter.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.MethodCallback.frmMethodCallback.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.Testing.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.Properties.Resources.en-US.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.Properties.Resources.ru-RU.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.Properties.Resources.zh.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodLimiting.en-US.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodLimiting.ru-RU.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodSequentialConcession.en-US.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodSequentialConcession.ru-RU.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlVariantsSelector.en-US.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlVariantsSelector.ru-RU.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmMatrixEdit.en-US.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmMatrixEdit.ru-RU.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmModule.en-US.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmModule.ru-RU.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmModule.uk-UA.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmNameEdit.en-US.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmNameEdit.ru-RU.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmResultPresenter.en-US.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.frmResultPresenter.ru-RU.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.MethodCallback.frmMethodCallback.en-US.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.MethodCallback.frmMethodCallback.ru-RU.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.Testing.en-US.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.Testing.ru-RU.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleMulticriterionProblemMethods\obj\Debug\Modules.MulticriterionProblemMethods.View.Forms.Testing.uk-UA.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleMulticriterionProblemMethods\obj\Debug\ModuleMulticriterionProblemMethods.csproj.GenerateResource.Cache
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleMulticriterionProblemMethods\obj\Debug\en-US\ModuleMulticriterionProblemMethods.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleMulticriterionProblemMethods\obj\Debug\ru-RU\ModuleMulticriterionProblemMethods.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleMulticriterionProblemMethods\obj\Debug\zh\ModuleMulticriterionProblemMethods.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleMulticriterionProblemMethods\obj\Debug\uk-UA\ModuleMulticriterionProblemMethods.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleMulticriterionProblemMethods\obj\Debug\ModuleMulticriterionProblemMethods.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleMulticriterionProblemMethods\obj\Debug\ModuleMulticriterionProblemMethods.pdb

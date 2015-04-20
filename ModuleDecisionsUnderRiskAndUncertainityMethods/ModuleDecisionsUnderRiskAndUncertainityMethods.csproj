@@ -1,0 +1,352 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5A3E7496-4E47-4AB3-9BDA-B3F160C08B40}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Modules.DecisionsUnderRiskAndUncertainityMethods</RootNamespace>
+    <AssemblyName>ModuleDecisionsUnderRiskAndUncertainityMethods</AssemblyName>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'CodeAnalysis|AnyCPU'">
+    <OutputPath>bin\CodeAnalysis\</OutputPath>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <RunCodeAnalysis>true</RunCodeAnalysis>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutPhoto.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AboutPhoto.resx</DependentUpon>
+    </Compile>
+    <Compile Include="frmModule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmModule.designer.cs">
+      <DependentUpon>frmModule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Method.cs" />
+    <Compile Include="Methods\Adytyvn.cs" />
+    <Compile Include="Methods\BL.cs" />
+    <Compile Include="Methods\Disp.cs" />
+    <Compile Include="Methods\Dob.cs" />
+    <Compile Include="Methods\Germeier.cs" />
+    <Compile Include="Methods\Gurvitz.cs" />
+    <Compile Include="Methods\HL.cs" />
+    <Compile Include="Methods\MaxProb.cs" />
+    <Compile Include="Methods\MM.cs" />
+    <Compile Include="Methods\Modal.cs" />
+    <Compile Include="Methods\Opt.cs" />
+    <Compile Include="Methods\Sevidj.cs" />
+    <Compile Include="Methods\Voloshin.cs" />
+    <Compile Include="Module.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="TestDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TestDialog.Designer.cs">
+      <DependentUpon>TestDialog.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Common\Common.csproj">
+      <Project>{1E272A87-5C29-47E9-8864-BC5D1919A0F0}</Project>
+      <Name>Common</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AboutPhoto.resx">
+      <SubType>Designer</SubType>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>AboutPhoto.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmModule.en-US.resx">
+      <DependentUpon>frmModule.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmModule.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmModule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmModule.ru-RU.resx">
+      <DependentUpon>frmModule.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmModule.uk-UA.resx">
+      <DependentUpon>frmModule.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.en-US.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.ru-RU.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.zh.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TestDialog.en-US.resx">
+      <DependentUpon>TestDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TestDialog.resx">
+      <DependentUpon>TestDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TestDialog.ru-RU.resx">
+      <DependentUpon>TestDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TestDialog.uk-UA.resx">
+      <DependentUpon>TestDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Me_rs.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gala2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon.png" />
+    <None Include="Resources\MethodHelp_Adytyvn.en-US.rtf" />
+    <None Include="Resources\MethodHelp_Adytyvn.en-US1.rtf" />
+    <None Include="Resources\MethodHelp_Adytyvn.en-US2.rtf" />
+    <None Include="Resources\MethodHelp_Adytyvn.rtf" />
+    <None Include="Resources\MethodHelp_Adytyvn.ru-RU.rtf" />
+    <None Include="Resources\MethodHelp_Adytyvn.ru-RU1.rtf" />
+    <None Include="Resources\MethodHelp_Adytyvn.ru-RU2.rtf" />
+    <None Include="Resources\MethodHelp_Adytyvn1.rtf" />
+    <None Include="Resources\MethodHelp_Adytyvn2.rtf" />
+    <None Include="Resources\MethodHelp_BL.en-US.rtf" />
+    <None Include="Resources\MethodHelp_BL.en-US1.rtf" />
+    <None Include="Resources\MethodHelp_BL.en-US2.rtf" />
+    <None Include="Resources\MethodHelp_BL.rtf" />
+    <None Include="Resources\MethodHelp_BL.ru_RU.rtf" />
+    <None Include="Resources\MethodHelp_BL.ru_RU1.rtf" />
+    <None Include="Resources\MethodHelp_BL.ru_RU2.rtf" />
+    <None Include="Resources\MethodHelp_BL1.rtf" />
+    <None Include="Resources\MethodHelp_BL2.rtf" />
+    <None Include="Resources\MethodHelp_BL3.rtf" />
+    <None Include="Resources\MethodHelp_BL4.rtf" />
+    <None Include="Resources\MethodHelp_DB.rtf" />
+    <None Include="Resources\MethodHelp_DB1.rtf" />
+    <None Include="Resources\MethodHelp_DB2.rtf" />
+    <None Include="Resources\MethodHelp_DB3.rtf" />
+    <None Include="Resources\MethodHelp_DB4.rtf" />
+    <None Include="Resources\MethodHelp_Disp.en-US.rtf" />
+    <None Include="Resources\MethodHelp_Disp.en-US1.rtf" />
+    <None Include="Resources\MethodHelp_Disp.en-US2.rtf" />
+    <None Include="Resources\MethodHelp_Disp.rtf" />
+    <None Include="Resources\MethodHelp_Disp.ru-RU.rtf" />
+    <None Include="Resources\MethodHelp_Disp.ru-RU1.rtf" />
+    <None Include="Resources\MethodHelp_Disp.ru-RU2.rtf" />
+    <None Include="Resources\MethodHelp_Disp1.rtf" />
+    <None Include="Resources\MethodHelp_Disp2.rtf" />
+    <None Include="Resources\MethodHelp_Disp3.rtf" />
+    <None Include="Resources\MethodHelp_Disp4.rtf" />
+    <None Include="Resources\MethodHelp_Dob.en-US.rtf" />
+    <None Include="Resources\MethodHelp_Dob.en-US1.rtf" />
+    <None Include="Resources\MethodHelp_Dob.en-US2.rtf" />
+    <None Include="Resources\MethodHelp_Dob.rtf" />
+    <None Include="Resources\MethodHelp_Dob.ru-RU.rtf" />
+    <None Include="Resources\MethodHelp_Dob.ru-RU1.rtf" />
+    <None Include="Resources\MethodHelp_Dob.ru-RU2.rtf" />
+    <None Include="Resources\MethodHelp_Dob1.rtf" />
+    <None Include="Resources\MethodHelp_Dob2.rtf" />
+    <None Include="Resources\MethodHelp_Germeier.en-US.rtf" />
+    <None Include="Resources\MethodHelp_Germeier.en-US1.rtf" />
+    <None Include="Resources\MethodHelp_Germeier.en-US2.rtf" />
+    <None Include="Resources\MethodHelp_Germeier.rtf" />
+    <None Include="Resources\MethodHelp_Germeier.ru-RU.rtf" />
+    <None Include="Resources\MethodHelp_Germeier.ru-RU1.rtf" />
+    <None Include="Resources\MethodHelp_Germeier.ru-RU2.rtf" />
+    <None Include="Resources\MethodHelp_Germeier1.rtf" />
+    <None Include="Resources\MethodHelp_Germeier2.rtf" />
+    <None Include="Resources\MethodHelp_Germeier3.rtf" />
+    <None Include="Resources\MethodHelp_Germeier4.rtf" />
+    <None Include="Resources\MethodHelp_Gurvitz.en-US.rtf" />
+    <None Include="Resources\MethodHelp_Gurvitz.en-US1.rtf" />
+    <None Include="Resources\MethodHelp_Gurvitz.en-US2.rtf" />
+    <None Include="Resources\MethodHelp_Gurvitz.rtf" />
+    <None Include="Resources\MethodHelp_Gurvitz.ru-RU.rtf" />
+    <None Include="Resources\MethodHelp_Gurvitz.ru-RU1.rtf" />
+    <None Include="Resources\MethodHelp_Gurvitz.ru-RU2.rtf" />
+    <None Include="Resources\MethodHelp_Gurvitz1.rtf" />
+    <None Include="Resources\MethodHelp_Gurvitz2.rtf" />
+    <None Include="Resources\MethodHelp_Gurvitz3.rtf" />
+    <None Include="Resources\MethodHelp_Gurvitz4.rtf" />
+    <None Include="Resources\MethodHelp_HL.en-US.rtf" />
+    <None Include="Resources\MethodHelp_HL.en-US1.rtf" />
+    <None Include="Resources\MethodHelp_HL.en-US2.rtf" />
+    <None Include="Resources\MethodHelp_HL.rtf" />
+    <None Include="Resources\MethodHelp_HL.ru-RU.rtf" />
+    <None Include="Resources\MethodHelp_HL.ru-RU1.rtf" />
+    <None Include="Resources\MethodHelp_HL.ru-RU2.rtf" />
+    <None Include="Resources\MethodHelp_HL1.rtf" />
+    <None Include="Resources\MethodHelp_HL2.rtf" />
+    <None Include="Resources\MethodHelp_HL3.rtf" />
+    <None Include="Resources\MethodHelp_HL4.rtf" />
+    <None Include="Resources\MethodHelp_MaxProb.en-US.rtf" />
+    <None Include="Resources\MethodHelp_MaxProb.en-US1.rtf" />
+    <None Include="Resources\MethodHelp_MaxProb.en-US2.rtf" />
+    <None Include="Resources\MethodHelp_MaxProb.rtf" />
+    <None Include="Resources\MethodHelp_MaxProb.ru-RU.rtf" />
+    <None Include="Resources\MethodHelp_MaxProb.ru-RU1.rtf" />
+    <None Include="Resources\MethodHelp_MaxProb.ru-RU2.rtf" />
+    <None Include="Resources\MethodHelp_MaxProb1.rtf" />
+    <None Include="Resources\MethodHelp_MaxProb2.rtf" />
+    <None Include="Resources\MethodHelp_MaxProb3.rtf" />
+    <None Include="Resources\MethodHelp_MaxProb4.rtf" />
+    <None Include="Resources\MethodHelp_MM.en-US.rtf" />
+    <None Include="Resources\MethodHelp_MM.en-US1.rtf" />
+    <None Include="Resources\MethodHelp_MM.en-US2.rtf" />
+    <None Include="Resources\MethodHelp_MM.rtf" />
+    <None Include="Resources\MethodHelp_MM.ru-RU.rtf" />
+    <None Include="Resources\MethodHelp_MM.ru-RU1.rtf" />
+    <None Include="Resources\MethodHelp_MM.ru-RU2.rtf" />
+    <None Include="Resources\MethodHelp_MM1.rtf" />
+    <None Include="Resources\MethodHelp_MM2.rtf" />
+    <None Include="Resources\MethodHelp_MM3.rtf" />
+    <None Include="Resources\MethodHelp_MM4.rtf" />
+    <None Include="Resources\MethodHelp_Modal.en-US.rtf" />
+    <None Include="Resources\MethodHelp_Modal.en-US1.rtf" />
+    <None Include="Resources\MethodHelp_Modal.en-US2.rtf" />
+    <None Include="Resources\MethodHelp_Modal.rtf" />
+    <None Include="Resources\MethodHelp_Modal.ru-RU.rtf" />
+    <None Include="Resources\MethodHelp_Modal.ru-RU1.rtf" />
+    <None Include="Resources\MethodHelp_Modal.ru-RU2.rtf" />
+    <None Include="Resources\MethodHelp_Modal1.rtf" />
+    <None Include="Resources\MethodHelp_Modal2.rtf" />
+    <None Include="Resources\MethodHelp_Opt.en-US.rtf" />
+    <None Include="Resources\MethodHelp_Opt.en-US1.rtf" />
+    <None Include="Resources\MethodHelp_Opt.en-US2.rtf" />
+    <None Include="Resources\MethodHelp_Opt.rtf" />
+    <None Include="Resources\MethodHelp_Opt.ru-RU.rtf" />
+    <None Include="Resources\MethodHelp_Opt.ru-RU1.rtf" />
+    <None Include="Resources\MethodHelp_Opt.ru-RU2.rtf" />
+    <None Include="Resources\MethodHelp_Opt1.rtf" />
+    <None Include="Resources\MethodHelp_Opt2.rtf" />
+    <None Include="Resources\MethodHelp_Sevidj.en-US.rtf" />
+    <None Include="Resources\MethodHelp_Sevidj.en-US1.rtf" />
+    <None Include="Resources\MethodHelp_Sevidj.en-US2.rtf" />
+    <None Include="Resources\MethodHelp_Sevidj.rtf" />
+    <None Include="Resources\MethodHelp_Sevidj.ru-RU.rtf" />
+    <None Include="Resources\MethodHelp_Sevidj.ru-RU1.rtf" />
+    <None Include="Resources\MethodHelp_Sevidj.ru-RU2.rtf" />
+    <None Include="Resources\MethodHelp_Sevidj1.rtf" />
+    <None Include="Resources\MethodHelp_Sevidj2.rtf" />
+    <None Include="Resources\MethodHelp_Sevidj3.rtf" />
+    <None Include="Resources\MethodHelp_Sevidj4.rtf" />
+    <None Include="Resources\MethodHelp_Voloshin.en-US.rtf" />
+    <None Include="Resources\MethodHelp_Voloshin.en-US1.rtf" />
+    <None Include="Resources\MethodHelp_Voloshin.en-US2.rtf" />
+    <None Include="Resources\MethodHelp_Voloshin.rtf" />
+    <None Include="Resources\MethodHelp_Voloshin.ru-RU.rtf" />
+    <None Include="Resources\MethodHelp_Voloshin.ru-RU1.rtf" />
+    <None Include="Resources\MethodHelp_Voloshin.ru-RU2.rtf" />
+    <None Include="Resources\MethodHelp_Voloshin1.rtf" />
+    <None Include="Resources\MethodHelp_Voloshin2.rtf" />
+    <None Include="Resources\ModuleHelp.en_US.rtf" />
+    <None Include="Resources\ModuleHelp.en_US1.rtf" />
+    <None Include="Resources\ModuleHelp.en_US2.rtf" />
+    <None Include="Resources\ModuleHelp.rtf" />
+    <None Include="Resources\ModuleHelp.ru_RU.rtf" />
+    <None Include="Resources\ModuleHelp.ru_RU1.rtf" />
+    <None Include="Resources\ModuleHelp.ru_RU2.rtf" />
+    <None Include="Resources\ModuleHelp1.rtf" />
+    <None Include="Resources\ModuleHelp2.rtf" />
+    <None Include="Resources\ModuleHelp3.rtf" />
+    <None Include="Resources\ModuleHelp4.rtf" />
+    <None Include="Resources\My.rtf" />
+    <None Include="Resources\My1.rtf" />
+    <None Include="Resources\My2.rtf" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>Клиентский профиль .NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Установщик Windows 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

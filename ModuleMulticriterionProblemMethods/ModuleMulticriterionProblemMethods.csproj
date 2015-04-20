@@ -1,0 +1,458 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2E37A79C-3610-4E2D-ACD2-B7423F3C3DE4}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Modules.MulticriterionProblemMethods</RootNamespace>
+    <AssemblyName>ModuleMulticriterionProblemMethods</AssemblyName>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'CodeAnalysis|AnyCPU'">
+    <OutputPath>bin\CodeAnalysis\</OutputPath>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <RunCodeAnalysis>true</RunCodeAnalysis>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutPhotos.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AboutPhotos.resx</DependentUpon>
+    </Compile>
+    <Compile Include="DataTypes\EventArgs.cs" />
+    <Compile Include="DataTypes\EntityKind.cs" />
+    <Compile Include="DataTypes\MethodCallbackConstants.cs" />
+    <Compile Include="DataTypes\MinMaxPair.cs" />
+    <Compile Include="DataTypes\NameKind.cs" />
+    <Compile Include="DataTypes\ValidatioResult.cs" />
+    <Compile Include="Inerfaces\IDataContainer.cs" />
+    <Compile Include="Inerfaces\IMulticriterionProblemMethodsModuleForm.cs" />
+    <Compile Include="Inerfaces\IMulticriterionMatrixEditor.cs" />
+    <Compile Include="Inerfaces\INameEditor.cs" />
+    <Compile Include="Inerfaces\IResultPresenter.cs" />
+    <Compile Include="Inerfaces\IValidationResult.cs" />
+    <Compile Include="Inerfaces\IValidator.cs" />
+    <Compile Include="Methods\MethodLimiting.cs" />
+    <Compile Include="Methods\MethodPerfectPoint.cs" />
+    <Compile Include="Methods\MethodDominativeCriteria.cs" />
+    <Compile Include="Methods\MethodSequentialConcession.cs" />
+    <Compile Include="Methods\MethodWantedPoint.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="View\Controls\MethodCallback\ctrlMethodSequentialConcession.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\Controls\MethodCallback\ctrlMethodSequentialConcession.designer.cs">
+      <DependentUpon>ctrlMethodSequentialConcession.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Controls\MethodCallback\ctrlMethodLimiting.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\Controls\MethodCallback\ctrlMethodLimiting.designer.cs">
+      <DependentUpon>ctrlMethodLimiting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Controls\ctrlThereIsNoData.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\Controls\ctrlThereIsNoData.Designer.cs">
+      <DependentUpon>ctrlThereIsNoData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Controls\ctrlMatrix.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DataTypes\MultiCriteriumDataTypes\Alternative.cs" />
+    <Compile Include="DataTypes\MultiCriteriumDataTypes\AlternativeComparer.cs" />
+    <Compile Include="Exceptions\Algorithm\AlgorithmException.cs" />
+    <Compile Include="Exceptions\Alternative\AlternativeConstraintException.cs" />
+    <Compile Include="DataTypes\MultiCriteriumDataTypes\Criterium.cs" />
+    <Compile Include="DataTypes\MultiCriteriumDataTypes\Matrix.cs" />
+    <Compile Include="Exceptions\Alternative\AlternativeComparingException.cs" />
+    <Compile Include="Exceptions\Alternative\AlternativeIsNotDominatingException.cs" />
+    <Compile Include="Exceptions\Alternative\AlternativesIncomparableException.cs" />
+    <Compile Include="Exceptions\ModuleException.cs" />
+    <Compile Include="Inerfaces\IAlternativeComparer.cs" />
+    <Compile Include="Method.cs" />
+    <Compile Include="Module.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Inerfaces\IMatrixPresenter.cs" />
+    <Compile Include="View\Controls\MethodCallback\ctrlMultipleRangeSelector.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\Controls\MethodCallback\ctrlMultipleRangeSelector.Designer.cs">
+      <DependentUpon>ctrlMultipleRangeSelector.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Controls\MethodCallback\ctrlRangeSelector.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\Controls\MethodCallback\ctrlRangeSelector.Designer.cs">
+      <DependentUpon>ctrlRangeSelector.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Controls\MethodCallback\ctrlMethodCallbackBase.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\Controls\MethodCallback\ctrlMethodCallbackBase.Designer.cs">
+      <DependentUpon>ctrlMethodCallbackBase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Controls\MethodCallback\ctrlShowAlternativeAndYesNoDialog.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\Controls\MethodCallback\ctrlShowAlternativeAndYesNoDialog.Designer.cs">
+      <DependentUpon>ctrlShowAlternativeAndYesNoDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Controls\MethodCallback\ctrlVariantsSelector.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\Controls\MethodCallback\ctrlVariantsSelector.Designer.cs">
+      <DependentUpon>ctrlVariantsSelector.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Controls\MethodCallback\ctrlYesNoDialog.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View\Controls\MethodCallback\ctrlYesNoDialog.Designer.cs">
+      <DependentUpon>ctrlYesNoDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Forms\frmBase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Forms\frmBase.Designer.cs">
+      <DependentUpon>frmBase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Forms\frmMatrixEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Forms\frmMatrixEdit.Designer.cs">
+      <DependentUpon>frmMatrixEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Forms\frmModule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Forms\frmModule.designer.cs">
+      <DependentUpon>frmModule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Forms\frmNameEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Forms\frmNameEdit.Designer.cs">
+      <DependentUpon>frmNameEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Forms\frmResultPresenter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Forms\frmResultPresenter.Designer.cs">
+      <DependentUpon>frmResultPresenter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Forms\MethodCallback\frmMethodCallback.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Forms\MethodCallback\frmMethodCallback.Designer.cs">
+      <DependentUpon>frmMethodCallback.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Forms\Testing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Forms\Testing.Designer.cs">
+      <DependentUpon>Testing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Workflow\DataContainer.cs" />
+    <Compile Include="Workflow\DataStorage.cs" />
+    <Compile Include="Workflow\MatrixConverter.cs" />
+    <Compile Include="Workflow\Messaging\MessageKind.cs" />
+    <Compile Include="Workflow\Messaging\Messenger.cs" />
+    <Compile Include="Workflow\Validation\MatrixValidator.cs" />
+    <Compile Include="Workflow\Validation\UniqueValidator.cs" />
+    <Compile Include="Workflow\Validation\ValidationKind.cs" />
+    <Compile Include="Workflow\Validation\ValidatorProvider.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Common\Common.csproj">
+      <Project>{1E272A87-5C29-47E9-8864-BC5D1919A0F0}</Project>
+      <Name>Common</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AboutPhotos.resx">
+      <SubType>Designer</SubType>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>AboutPhotos.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.en-US.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.ru-RU.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.zh.resx" />
+    <EmbeddedResource Include="View\Controls\MethodCallback\ctrlMethodLimiting.en-US.resx">
+      <DependentUpon>ctrlMethodLimiting.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Controls\MethodCallback\ctrlMethodLimiting.ru-RU.resx">
+      <DependentUpon>ctrlMethodLimiting.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Controls\MethodCallback\ctrlMethodSequentialConcession.en-US.resx">
+      <DependentUpon>ctrlMethodSequentialConcession.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Controls\MethodCallback\ctrlMethodSequentialConcession.resx">
+      <DependentUpon>ctrlMethodSequentialConcession.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Controls\MethodCallback\ctrlMethodLimiting.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ctrlMethodLimiting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Controls\ctrlThereIsNoData.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ctrlThereIsNoData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Controls\ctrlMatrix.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ctrlMatrix.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Controls\MethodCallback\ctrlMethodSequentialConcession.ru-RU.resx">
+      <DependentUpon>ctrlMethodSequentialConcession.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Controls\MethodCallback\ctrlMultipleRangeSelector.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ctrlMultipleRangeSelector.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Controls\MethodCallback\ctrlRangeSelector.resx">
+      <DependentUpon>ctrlRangeSelector.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Controls\MethodCallback\ctrlMethodCallbackBase.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ctrlMethodCallbackBase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Controls\MethodCallback\ctrlShowAlternativeAndYesNoDialog.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ctrlShowAlternativeAndYesNoDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Controls\MethodCallback\ctrlVariantsSelector.en-US.resx">
+      <DependentUpon>ctrlVariantsSelector.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Controls\MethodCallback\ctrlVariantsSelector.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ctrlVariantsSelector.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Controls\MethodCallback\ctrlVariantsSelector.ru-RU.resx">
+      <DependentUpon>ctrlVariantsSelector.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Controls\MethodCallback\ctrlYesNoDialog.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ctrlYesNoDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Forms\frmBase.resx">
+      <DependentUpon>frmBase.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Forms\frmMatrixEdit.en-US.resx">
+      <DependentUpon>frmMatrixEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Forms\frmMatrixEdit.resx">
+      <DependentUpon>frmMatrixEdit.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Forms\frmMatrixEdit.ru-RU.resx">
+      <DependentUpon>frmMatrixEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Forms\frmModule.en-US.resx">
+      <DependentUpon>frmModule.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Forms\frmModule.resx">
+      <DependentUpon>frmModule.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Forms\frmModule.ru-RU.resx">
+      <DependentUpon>frmModule.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Forms\frmModule.uk-UA.resx">
+      <DependentUpon>frmModule.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Forms\frmNameEdit.en-US.resx">
+      <DependentUpon>frmNameEdit.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Forms\frmNameEdit.resx">
+      <DependentUpon>frmNameEdit.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Forms\frmNameEdit.ru-RU.resx">
+      <DependentUpon>frmNameEdit.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Forms\frmResultPresenter.en-US.resx">
+      <DependentUpon>frmResultPresenter.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Forms\frmResultPresenter.resx">
+      <DependentUpon>frmResultPresenter.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Forms\frmResultPresenter.ru-RU.resx">
+      <DependentUpon>frmResultPresenter.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Forms\MethodCallback\frmMethodCallback.en-US.resx">
+      <DependentUpon>frmMethodCallback.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Forms\MethodCallback\frmMethodCallback.resx">
+      <DependentUpon>frmMethodCallback.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Forms\MethodCallback\frmMethodCallback.ru-RU.resx">
+      <DependentUpon>frmMethodCallback.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Forms\Testing.en-US.resx">
+      <DependentUpon>Testing.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Forms\Testing.resx">
+      <DependentUpon>Testing.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Forms\Testing.ru-RU.resx">
+      <DependentUpon>Testing.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Forms\Testing.uk-UA.resx">
+      <DependentUpon>Testing.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagrams\DataTypes.cd">
+      <SubType>
+      </SubType>
+    </None>
+    <None Include="ClassDiagrams\Exceptions.cd" />
+    <None Include="ClassDiagrams\Interfaces.cd" />
+    <None Include="ClassDiagrams\Methods.cd" />
+    <None Include="ClassDiagrams\Module.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lexx.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kolja.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ira.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon.png" />
+    <None Include="Resources\MethodHelp_MethodDominativeCriteria.rtf" />
+    <None Include="Resources\MethodHelp_MethodDominativeCriteria_en.rtf" />
+    <None Include="Resources\MethodHelp_MethodDominativeCriteria_ru.rtf" />
+    <None Include="Resources\MethodHelp_MethodLimiting.rtf" />
+    <None Include="Resources\MethodHelp_MethodLimiting_en.rtf" />
+    <None Include="Resources\MethodHelp_MethodLimiting_ru.rtf" />
+    <None Include="Resources\MethodHelp_MethodPerfectPoint.rtf" />
+    <None Include="Resources\MethodHelp_MethodPerfectPoint_en.rtf" />
+    <None Include="Resources\MethodHelp_MethodPerfectPoint_ru.rtf" />
+    <None Include="Resources\MethodHelp_MethodSequentialConcession.rtf" />
+    <None Include="Resources\MethodHelp_MethodSequentialConcession_en.rtf" />
+    <None Include="Resources\MethodHelp_MethodSequentialConcession_ru.rtf" />
+    <None Include="Resources\MethodHelp_MethodWantedPoint.rtf" />
+    <None Include="Resources\MethodHelp_MethodWantedPoint_en.rtf" />
+    <None Include="Resources\MethodHelp_MethodWantedPoint_ru.rtf" />
+    <None Include="Resources\MethodHelp_ModuleUIHelp_en.rtf" />
+    <None Include="Resources\MethodHelp_Perfect.rtf" />
+    <None Include="Resources\MethodHelp_PerfectPoint.rtf" />
+    <None Include="Resources\ModuleUIHelp.rtf" />
+    <None Include="Resources\ModuleUIHelp_ru.rtf" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>Клиентский профиль .NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Установщик Windows 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

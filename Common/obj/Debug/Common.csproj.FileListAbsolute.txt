@@ -1,0 +1,294 @@
+Y:\Documents\SMPR\Common\bin\Debug\Common.dll
+Y:\Documents\SMPR\Common\bin\Debug\Common.pdb
+Y:\Documents\SMPR\Common\bin\Debug\en-US\Common.resources.dll
+Y:\Documents\SMPR\Common\bin\Debug\ru-RU\Common.resources.dll
+Y:\Documents\SMPR\Common\obj\Debug\Common.AboutPhotos.resources
+Y:\Documents\SMPR\Common\obj\Debug\Common.DataTypes.MatrixUserControl.resources
+Y:\Documents\SMPR\Common\obj\Debug\Common.DataTypes.ScalarUserControl.resources
+Y:\Documents\SMPR\Common\obj\Debug\Common.DataTypes.VectorUserControl.resources
+Y:\Documents\SMPR\Common\obj\Debug\Common.frmHelp.resources
+Y:\Documents\SMPR\Common\obj\Debug\Common.frmNewBufferElement.resources
+Y:\Documents\SMPR\Common\obj\Debug\Common.frmSelectBufferData.resources
+Y:\Documents\SMPR\Common\obj\Debug\Common.Properties.Resources.resources
+Y:\Documents\SMPR\Common\obj\Debug\Common.Resources.resources
+Y:\Documents\SMPR\Common\obj\Debug\Common.frmHelp.en-US.resources
+Y:\Documents\SMPR\Common\obj\Debug\Common.frmHelp.ru-RU.resources
+Y:\Documents\SMPR\Common\obj\Debug\Common.frmNewBufferElement.en-US.resources
+Y:\Documents\SMPR\Common\obj\Debug\Common.frmNewBufferElement.ru-RU.resources
+Y:\Documents\SMPR\Common\obj\Debug\Common.frmSelectBufferData.en-US.resources
+Y:\Documents\SMPR\Common\obj\Debug\Common.frmSelectBufferData.ru-RU.resources
+Y:\Documents\SMPR\Common\obj\Debug\Common.Properties.Resources.en-US.resources
+Y:\Documents\SMPR\Common\obj\Debug\Common.Properties.Resources.ru-RU.resources
+Y:\Documents\SMPR\Common\obj\Debug\Common.csproj.GenerateResource.Cache
+Y:\Documents\SMPR\Common\obj\Debug\en-US\Common.resources.dll
+Y:\Documents\SMPR\Common\obj\Debug\ru-RU\Common.resources.dll
+Y:\Documents\SMPR\Common\obj\Debug\Common.dll
+Y:\Documents\SMPR\Common\obj\Debug\Common.pdb
+C:\Andrew\Programming\TPR\SMPR_3.0\Common\bin\Debug\Common.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\Common\bin\Debug\Common.pdb
+C:\Andrew\Programming\TPR\SMPR_3.0\Common\bin\Debug\en-US\Common.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\Common\bin\Debug\ru-RU\Common.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Andrew\Programming\TPR\SMPR_3.0\Common\obj\Debug\Common.AboutPhotos.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\Common\obj\Debug\Common.DataTypes.MatrixUserControl.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\Common\obj\Debug\Common.DataTypes.ScalarUserControl.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\Common\obj\Debug\Common.DataTypes.VectorUserControl.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\Common\obj\Debug\Common.frmHelp.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\Common\obj\Debug\Common.frmNewBufferElement.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\Common\obj\Debug\Common.frmSelectBufferData.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\Common\obj\Debug\Common.Properties.Resources.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\Common\obj\Debug\Common.Resources.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\Common\obj\Debug\Common.frmHelp.en-US.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\Common\obj\Debug\Common.frmHelp.ru-RU.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\Common\obj\Debug\Common.frmNewBufferElement.en-US.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\Common\obj\Debug\Common.frmNewBufferElement.ru-RU.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\Common\obj\Debug\Common.frmSelectBufferData.en-US.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\Common\obj\Debug\Common.frmSelectBufferData.ru-RU.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\Common\obj\Debug\Common.Properties.Resources.en-US.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\Common\obj\Debug\Common.Properties.Resources.ru-RU.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\Common\obj\Debug\Common.csproj.GenerateResource.Cache
+C:\Andrew\Programming\TPR\SMPR_3.0\Common\obj\Debug\en-US\Common.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\Common\obj\Debug\ru-RU\Common.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\Common\obj\Debug\Common.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\Common\obj\Debug\Common.pdb
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\Common\bin\Debug\Common.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\Common\bin\Debug\Common.pdb
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\Common\bin\Debug\en-US\Common.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\Common\bin\Debug\ru-RU\Common.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\Common\obj\Debug\Common.AboutPhotos.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\Common\obj\Debug\Common.DataTypes.MatrixUserControl.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\Common\obj\Debug\Common.DataTypes.ScalarUserControl.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\Common\obj\Debug\Common.DataTypes.VectorUserControl.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\Common\obj\Debug\Common.frmHelp.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\Common\obj\Debug\Common.frmNewBufferElement.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\Common\obj\Debug\Common.frmSelectBufferData.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\Common\obj\Debug\Common.Properties.Resources.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\Common\obj\Debug\Common.Resources.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\Common\obj\Debug\Common.frmHelp.en-US.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\Common\obj\Debug\Common.frmHelp.ru-RU.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\Common\obj\Debug\Common.frmNewBufferElement.en-US.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\Common\obj\Debug\Common.frmNewBufferElement.ru-RU.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\Common\obj\Debug\Common.frmSelectBufferData.en-US.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\Common\obj\Debug\Common.frmSelectBufferData.ru-RU.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\Common\obj\Debug\Common.Properties.Resources.en-US.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\Common\obj\Debug\Common.Properties.Resources.ru-RU.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\Common\obj\Debug\Common.csproj.GenerateResource.Cache
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\Common\obj\Debug\en-US\Common.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\Common\obj\Debug\ru-RU\Common.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\Common\obj\Debug\Common.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\Common\obj\Debug\Common.pdb
+C:\Andrew\Programming\TPR\SMPR3\Common\bin\Debug\Common.dll
+C:\Andrew\Programming\TPR\SMPR3\Common\bin\Debug\Common.pdb
+C:\Andrew\Programming\TPR\SMPR3\Common\bin\Debug\en-US\Common.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\Common\bin\Debug\ru-RU\Common.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Andrew\Programming\TPR\SMPR3\Common\obj\Debug\Common.AboutPhotos.resources
+C:\Andrew\Programming\TPR\SMPR3\Common\obj\Debug\Common.DataTypes.MatrixUserControl.resources
+C:\Andrew\Programming\TPR\SMPR3\Common\obj\Debug\Common.DataTypes.ScalarUserControl.resources
+C:\Andrew\Programming\TPR\SMPR3\Common\obj\Debug\Common.DataTypes.VectorUserControl.resources
+C:\Andrew\Programming\TPR\SMPR3\Common\obj\Debug\Common.frmHelp.resources
+C:\Andrew\Programming\TPR\SMPR3\Common\obj\Debug\Common.frmNewBufferElement.resources
+C:\Andrew\Programming\TPR\SMPR3\Common\obj\Debug\Common.frmSelectBufferData.resources
+C:\Andrew\Programming\TPR\SMPR3\Common\obj\Debug\Common.Properties.Resources.resources
+C:\Andrew\Programming\TPR\SMPR3\Common\obj\Debug\Common.Resources.resources
+C:\Andrew\Programming\TPR\SMPR3\Common\obj\Debug\Common.frmHelp.en-US.resources
+C:\Andrew\Programming\TPR\SMPR3\Common\obj\Debug\Common.frmHelp.ru-RU.resources
+C:\Andrew\Programming\TPR\SMPR3\Common\obj\Debug\Common.frmNewBufferElement.en-US.resources
+C:\Andrew\Programming\TPR\SMPR3\Common\obj\Debug\Common.frmNewBufferElement.ru-RU.resources
+C:\Andrew\Programming\TPR\SMPR3\Common\obj\Debug\Common.frmSelectBufferData.en-US.resources
+C:\Andrew\Programming\TPR\SMPR3\Common\obj\Debug\Common.frmSelectBufferData.ru-RU.resources
+C:\Andrew\Programming\TPR\SMPR3\Common\obj\Debug\Common.Properties.Resources.en-US.resources
+C:\Andrew\Programming\TPR\SMPR3\Common\obj\Debug\Common.Properties.Resources.ru-RU.resources
+C:\Andrew\Programming\TPR\SMPR3\Common\obj\Debug\Common.csproj.GenerateResource.Cache
+C:\Andrew\Programming\TPR\SMPR3\Common\obj\Debug\en-US\Common.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\Common\obj\Debug\ru-RU\Common.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\Common\obj\Debug\Common.dll
+C:\Andrew\Programming\TPR\SMPR3\Common\obj\Debug\Common.pdb
+D:\TPR\SMPR3.0\Common\bin\Debug\Common.dll
+D:\TPR\SMPR3.0\Common\bin\Debug\Common.pdb
+D:\TPR\SMPR3.0\Common\bin\Debug\en-US\Common.resources.dll
+D:\TPR\SMPR3.0\Common\bin\Debug\ru-RU\Common.resources.dll
+D:\TPR\SMPR3.0\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\TPR\SMPR3.0\Common\obj\Debug\Common.AboutPhotos.resources
+D:\TPR\SMPR3.0\Common\obj\Debug\Common.DataTypes.MatrixUserControl.resources
+D:\TPR\SMPR3.0\Common\obj\Debug\Common.DataTypes.ScalarUserControl.resources
+D:\TPR\SMPR3.0\Common\obj\Debug\Common.DataTypes.VectorUserControl.resources
+D:\TPR\SMPR3.0\Common\obj\Debug\Common.frmHelp.resources
+D:\TPR\SMPR3.0\Common\obj\Debug\Common.frmNewBufferElement.resources
+D:\TPR\SMPR3.0\Common\obj\Debug\Common.frmSelectBufferData.resources
+D:\TPR\SMPR3.0\Common\obj\Debug\Common.Properties.Resources.resources
+D:\TPR\SMPR3.0\Common\obj\Debug\Common.Resources.resources
+D:\TPR\SMPR3.0\Common\obj\Debug\Common.frmHelp.en-US.resources
+D:\TPR\SMPR3.0\Common\obj\Debug\Common.frmHelp.ru-RU.resources
+D:\TPR\SMPR3.0\Common\obj\Debug\Common.frmNewBufferElement.en-US.resources
+D:\TPR\SMPR3.0\Common\obj\Debug\Common.frmNewBufferElement.ru-RU.resources
+D:\TPR\SMPR3.0\Common\obj\Debug\Common.frmSelectBufferData.en-US.resources
+D:\TPR\SMPR3.0\Common\obj\Debug\Common.frmSelectBufferData.ru-RU.resources
+D:\TPR\SMPR3.0\Common\obj\Debug\Common.Properties.Resources.en-US.resources
+D:\TPR\SMPR3.0\Common\obj\Debug\Common.Properties.Resources.ru-RU.resources
+D:\TPR\SMPR3.0\Common\obj\Debug\Common.csproj.GenerateResource.Cache
+D:\TPR\SMPR3.0\Common\obj\Debug\en-US\Common.resources.dll
+D:\TPR\SMPR3.0\Common\obj\Debug\ru-RU\Common.resources.dll
+D:\TPR\SMPR3.0\Common\obj\Debug\Common.dll
+D:\TPR\SMPR3.0\Common\obj\Debug\Common.pdb
+D:\TPR\SMPR_3.0\SMPR_3.0\Common\bin\Debug\Common.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\Common\bin\Debug\Common.pdb
+D:\TPR\SMPR_3.0\SMPR_3.0\Common\bin\Debug\en-US\Common.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\Common\bin\Debug\ru-RU\Common.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\Common\obj\Debug\Common.AboutPhotos.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\Common\obj\Debug\Common.DataTypes.MatrixUserControl.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\Common\obj\Debug\Common.DataTypes.ScalarUserControl.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\Common\obj\Debug\Common.DataTypes.VectorUserControl.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\Common\obj\Debug\Common.frmHelp.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\Common\obj\Debug\Common.frmNewBufferElement.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\Common\obj\Debug\Common.frmSelectBufferData.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\Common\obj\Debug\Common.Properties.Resources.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\Common\obj\Debug\Common.Resources.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\Common\obj\Debug\Common.frmHelp.en-US.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\Common\obj\Debug\Common.frmHelp.ru-RU.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\Common\obj\Debug\Common.frmNewBufferElement.en-US.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\Common\obj\Debug\Common.frmNewBufferElement.ru-RU.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\Common\obj\Debug\Common.frmSelectBufferData.en-US.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\Common\obj\Debug\Common.frmSelectBufferData.ru-RU.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\Common\obj\Debug\Common.Properties.Resources.en-US.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\Common\obj\Debug\Common.Properties.Resources.ru-RU.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\Common\obj\Debug\Common.csproj.GenerateResource.Cache
+D:\TPR\SMPR_3.0\SMPR_3.0\Common\obj\Debug\en-US\Common.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\Common\obj\Debug\ru-RU\Common.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\Common\obj\Debug\Common.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\Common\obj\Debug\Common.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\Common\bin\Debug\Common.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\Common\bin\Debug\Common.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\Common\bin\Debug\en-US\Common.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\Common\bin\Debug\ru-RU\Common.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\Common\obj\Debug\Common.AboutPhotos.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\Common\obj\Debug\Common.DataTypes.MatrixUserControl.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\Common\obj\Debug\Common.DataTypes.ScalarUserControl.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\Common\obj\Debug\Common.DataTypes.VectorUserControl.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\Common\obj\Debug\Common.frmHelp.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\Common\obj\Debug\Common.frmNewBufferElement.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\Common\obj\Debug\Common.frmSelectBufferData.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\Common\obj\Debug\Common.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\Common\obj\Debug\Common.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\Common\obj\Debug\Common.frmHelp.en-US.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\Common\obj\Debug\Common.frmHelp.ru-RU.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\Common\obj\Debug\Common.frmNewBufferElement.en-US.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\Common\obj\Debug\Common.frmNewBufferElement.ru-RU.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\Common\obj\Debug\Common.frmSelectBufferData.en-US.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\Common\obj\Debug\Common.frmSelectBufferData.ru-RU.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\Common\obj\Debug\Common.Properties.Resources.en-US.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\Common\obj\Debug\Common.Properties.Resources.ru-RU.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\Common\obj\Debug\Common.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\Common\obj\Debug\en-US\Common.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\Common\obj\Debug\ru-RU\Common.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\Common\obj\Debug\Common.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\Common\obj\Debug\Common.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\Common\bin\Debug\Common.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\Common\bin\Debug\Common.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\Common\bin\Debug\en-US\Common.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\Common\bin\Debug\ru-RU\Common.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\Common\obj\Debug\Common.AboutPhotos.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\Common\obj\Debug\Common.DataTypes.MatrixUserControl.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\Common\obj\Debug\Common.DataTypes.ScalarUserControl.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\Common\obj\Debug\Common.DataTypes.VectorUserControl.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\Common\obj\Debug\Common.frmHelp.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\Common\obj\Debug\Common.frmNewBufferElement.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\Common\obj\Debug\Common.frmSelectBufferData.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\Common\obj\Debug\Common.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\Common\obj\Debug\Common.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\Common\obj\Debug\Common.frmHelp.en-US.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\Common\obj\Debug\Common.frmHelp.ru-RU.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\Common\obj\Debug\Common.frmNewBufferElement.en-US.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\Common\obj\Debug\Common.frmNewBufferElement.ru-RU.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\Common\obj\Debug\Common.frmSelectBufferData.en-US.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\Common\obj\Debug\Common.frmSelectBufferData.ru-RU.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\Common\obj\Debug\Common.Properties.Resources.en-US.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\Common\obj\Debug\Common.Properties.Resources.ru-RU.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\Common\obj\Debug\Common.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\Common\obj\Debug\en-US\Common.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\Common\obj\Debug\ru-RU\Common.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\Common\obj\Debug\Common.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\Common\obj\Debug\Common.pdb
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\Common\bin\Debug\Common.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\Common\bin\Debug\Common.pdb
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\Common\bin\Debug\en-US\Common.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\Common\bin\Debug\ru-RU\Common.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\Common\obj\Debug\Common.AboutPhotos.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\Common\obj\Debug\Common.DataTypes.MatrixUserControl.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\Common\obj\Debug\Common.DataTypes.ScalarUserControl.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\Common\obj\Debug\Common.DataTypes.VectorUserControl.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\Common\obj\Debug\Common.frmHelp.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\Common\obj\Debug\Common.frmNewBufferElement.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\Common\obj\Debug\Common.frmSelectBufferData.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\Common\obj\Debug\Common.Properties.Resources.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\Common\obj\Debug\Common.Resources.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\Common\obj\Debug\Common.frmHelp.en-US.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\Common\obj\Debug\Common.frmHelp.ru-RU.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\Common\obj\Debug\Common.frmNewBufferElement.en-US.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\Common\obj\Debug\Common.frmNewBufferElement.ru-RU.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\Common\obj\Debug\Common.frmSelectBufferData.en-US.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\Common\obj\Debug\Common.frmSelectBufferData.ru-RU.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\Common\obj\Debug\Common.Properties.Resources.en-US.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\Common\obj\Debug\Common.Properties.Resources.ru-RU.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\Common\obj\Debug\Common.csproj.GenerateResource.Cache
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\Common\obj\Debug\en-US\Common.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\Common\obj\Debug\ru-RU\Common.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\Common\obj\Debug\Common.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\Common\obj\Debug\Common.pdb
+\\psf\Home\Documents\SMPR\SMPR 4\Common\bin\Debug\Common.dll
+\\psf\Home\Documents\SMPR\SMPR 4\Common\bin\Debug\Common.pdb
+\\psf\Home\Documents\SMPR\SMPR 4\Common\bin\Debug\en-US\Common.resources.dll
+\\psf\Home\Documents\SMPR\SMPR 4\Common\bin\Debug\ru-RU\Common.resources.dll
+\\psf\Home\Documents\SMPR\SMPR 4\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\SMPR\SMPR 4\Common\obj\Debug\Common.AboutPhotos.resources
+\\psf\Home\Documents\SMPR\SMPR 4\Common\obj\Debug\Common.DataTypes.MatrixUserControl.resources
+\\psf\Home\Documents\SMPR\SMPR 4\Common\obj\Debug\Common.DataTypes.ScalarUserControl.resources
+\\psf\Home\Documents\SMPR\SMPR 4\Common\obj\Debug\Common.DataTypes.VectorUserControl.resources
+\\psf\Home\Documents\SMPR\SMPR 4\Common\obj\Debug\Common.frmHelp.resources
+\\psf\Home\Documents\SMPR\SMPR 4\Common\obj\Debug\Common.frmNewBufferElement.resources
+\\psf\Home\Documents\SMPR\SMPR 4\Common\obj\Debug\Common.frmSelectBufferData.resources
+\\psf\Home\Documents\SMPR\SMPR 4\Common\obj\Debug\Common.Properties.Resources.resources
+\\psf\Home\Documents\SMPR\SMPR 4\Common\obj\Debug\Common.Resources.resources
+\\psf\Home\Documents\SMPR\SMPR 4\Common\obj\Debug\Common.frmHelp.en-US.resources
+\\psf\Home\Documents\SMPR\SMPR 4\Common\obj\Debug\Common.frmHelp.ru-RU.resources
+\\psf\Home\Documents\SMPR\SMPR 4\Common\obj\Debug\Common.frmNewBufferElement.en-US.resources
+\\psf\Home\Documents\SMPR\SMPR 4\Common\obj\Debug\Common.frmNewBufferElement.ru-RU.resources
+\\psf\Home\Documents\SMPR\SMPR 4\Common\obj\Debug\Common.frmSelectBufferData.en-US.resources
+\\psf\Home\Documents\SMPR\SMPR 4\Common\obj\Debug\Common.frmSelectBufferData.ru-RU.resources
+\\psf\Home\Documents\SMPR\SMPR 4\Common\obj\Debug\Common.Properties.Resources.en-US.resources
+\\psf\Home\Documents\SMPR\SMPR 4\Common\obj\Debug\Common.Properties.Resources.ru-RU.resources
+\\psf\Home\Documents\SMPR\SMPR 4\Common\obj\Debug\Common.csproj.GenerateResource.Cache
+\\psf\Home\Documents\SMPR\SMPR 4\Common\obj\Debug\en-US\Common.resources.dll
+\\psf\Home\Documents\SMPR\SMPR 4\Common\obj\Debug\ru-RU\Common.resources.dll
+\\psf\Home\Documents\SMPR\SMPR 4\Common\obj\Debug\Common.dll
+\\psf\Home\Documents\SMPR\SMPR 4\Common\obj\Debug\Common.pdb
+C:\SMPR\Common\bin\Debug\Common.dll
+C:\SMPR\Common\bin\Debug\Common.pdb
+C:\SMPR\Common\bin\Debug\en-US\Common.resources.dll
+C:\SMPR\Common\bin\Debug\ru-RU\Common.resources.dll
+C:\SMPR\Common\obj\Debug\Common.AboutPhotos.resources
+C:\SMPR\Common\obj\Debug\Common.DataTypes.MatrixUserControl.resources
+C:\SMPR\Common\obj\Debug\Common.DataTypes.ScalarUserControl.resources
+C:\SMPR\Common\obj\Debug\Common.DataTypes.VectorUserControl.resources
+C:\SMPR\Common\obj\Debug\Common.frmHelp.resources
+C:\SMPR\Common\obj\Debug\Common.frmNewBufferElement.resources
+C:\SMPR\Common\obj\Debug\Common.frmSelectBufferData.resources
+C:\SMPR\Common\obj\Debug\Common.Properties.Resources.resources
+C:\SMPR\Common\obj\Debug\Common.Resources.resources
+C:\SMPR\Common\obj\Debug\Common.frmHelp.en-US.resources
+C:\SMPR\Common\obj\Debug\Common.frmHelp.ru-RU.resources
+C:\SMPR\Common\obj\Debug\Common.frmNewBufferElement.en-US.resources
+C:\SMPR\Common\obj\Debug\Common.frmNewBufferElement.ru-RU.resources
+C:\SMPR\Common\obj\Debug\Common.frmSelectBufferData.en-US.resources
+C:\SMPR\Common\obj\Debug\Common.frmSelectBufferData.ru-RU.resources
+C:\SMPR\Common\obj\Debug\Common.Properties.Resources.en-US.resources
+C:\SMPR\Common\obj\Debug\Common.Properties.Resources.ru-RU.resources
+C:\SMPR\Common\obj\Debug\Common.csproj.GenerateResource.Cache
+C:\SMPR\Common\obj\Debug\en-US\Common.resources.dll
+C:\SMPR\Common\obj\Debug\ru-RU\Common.resources.dll
+C:\SMPR\Common\obj\Debug\Common.dll
+C:\SMPR\Common\obj\Debug\Common.pdb

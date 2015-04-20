@@ -1,0 +1,322 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{CF4D65E4-E1A4-4CA2-9E88-195A44BC09D4}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Modules.VotingMethods</RootNamespace>
+    <AssemblyName>ModuleVotingMethods</AssemblyName>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'CodeAnalysis|AnyCPU'">
+    <OutputPath>bin\CodeAnalysis\</OutputPath>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <RunCodeAnalysis>true</RunCodeAnalysis>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Candidates.cs" />
+    <Compile Include="Element.cs" />
+    <Compile Include="frmAddCandidate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddCandidate.Designer.cs">
+      <DependentUpon>frmAddCandidate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChangeCandidate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChangeCandidate.Designer.cs">
+      <DependentUpon>frmChangeCandidate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDeleteCandidate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDeleteCandidate.Designer.cs">
+      <DependentUpon>frmDeleteCandidate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmModule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmModule.designer.cs">
+      <DependentUpon>frmModule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInfo.Designer.cs">
+      <DependentUpon>frmInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Method.cs" />
+    <Compile Include="Methods\AbsoluteMajority.cs" />
+    <Compile Include="Methods\Bord.cs" />
+    <Compile Include="Methods\ConsecutiveException.cs" />
+    <Compile Include="Methods\Copland.cs" />
+    <Compile Include="Methods\AlternativeVoices.cs" />
+    <Compile Include="Methods\Condorse.cs" />
+    <Compile Include="Methods\Simpson.cs" />
+    <Compile Include="Methods\RelativeMajority.cs" />
+    <Compile Include="Module.cs" />
+    <Compile Include="Profile.cs" />
+    <Compile Include="Exceptions.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="AboutPhotos.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AboutPhotos.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="SequenceRenderer.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Common\Common.csproj">
+      <Project>{1E272A87-5C29-47E9-8864-BC5D1919A0F0}</Project>
+      <Name>Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ModuleTests\ModuleTests.csproj">
+      <Project>{6379845E-6265-415D-9C4A-E3B4BB86D2AE}</Project>
+      <Name>ModuleTests</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmAddCandidate.en-US.resx">
+      <DependentUpon>frmAddCandidate.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddCandidate.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmAddCandidate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddCandidate.ru-RU.resx">
+      <DependentUpon>frmAddCandidate.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChangeCandidate.en-US.resx">
+      <DependentUpon>frmChangeCandidate.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChangeCandidate.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmChangeCandidate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChangeCandidate.ru-RU.resx">
+      <DependentUpon>frmChangeCandidate.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDeleteCandidate.en-US.resx">
+      <DependentUpon>frmDeleteCandidate.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDeleteCandidate.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmDeleteCandidate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDeleteCandidate.ru-RU.resx">
+      <DependentUpon>frmDeleteCandidate.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInfo.en-US.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInfo.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInfo.ru-RU.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmModule.en-US.resx">
+      <DependentUpon>frmModule.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmModule.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmModule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AboutPhotos.resx">
+      <SubType>Designer</SubType>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>AboutPhotos.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmModule.ru-RU.resx">
+      <DependentUpon>frmModule.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.ru-RU.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.en-US.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.zh.resx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DeleteHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\graphhs.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NewDocumentHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\openHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OpenSelectedItemHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OrganizerHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SaveAsWebPageHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\saveHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RadialChartHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Simpson method.en-US.rtf" />
+    <None Include="Resources\TableHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CommentHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AddTableHS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Alternative voices method.en-US.rtf" />
+    <None Include="Resources\Bord method.en-US.rtf" />
+    <None Include="Resources\BreakpointHS.png" />
+    <Content Include="Resources\Help Blue Button.png" />
+    <None Include="Resources\Condorse method.en-US.rtf" />
+    <None Include="Resources\Consecutive exception method.en-US.rtf" />
+    <None Include="Resources\Copland method.en-US.rtf" />
+    <None Include="Resources\Help.rtf" />
+    <None Include="Resources\Info.bmp" />
+    <None Include="Resources\Info.png" />
+    <Content Include="Resources\mit.jpg" />
+    <Content Include="Resources\order.png" />
+    <None Include="Resources\question.png" />
+    <None Include="Resources\perm.png" />
+    <None Include="Resources\perm.bmp" />
+    <None Include="Resources\MathodHelp_Conderse.rtf" />
+    <None Include="Resources\MethodHelp_AlternativeVoices.rtf" />
+    <None Include="Resources\MethodHelp_ConsecutiveException.rtf" />
+    <None Include="Resources\MethodHelp_Copland.rtf" />
+    <None Include="Resources\MethodHelp_RelativeMajority.rtf" />
+    <None Include="Resources\MethodHelp_Simpon.rtf" />
+    <None Include="Resources\MethodHelp_Simpson.rtf" />
+    <None Include="Resources\MethodHelp_Bord.rtf" />
+    <None Include="Resources\ModuleHelp.rtf" />
+    <None Include="Resources\Paste.png" />
+    <None Include="Resources\Relative majority method.en-US.rtf" />
+    <None Include="Resources\Допомога.doc" />
+    <None Include="Resources\Допомога.rtf" />
+    <None Include="Resources\Метод альтернативних голосів.uk-UA.rtf" />
+    <None Include="Resources\Метод альтернативных голосов.ru-RU.rtf" />
+    <None Include="Resources\Метод Борда.ru-RU.rtf" />
+    <None Include="Resources\Метод Борда.uk-UA.rtf" />
+    <None Include="Resources\Метод відносної більшості.uk-UA.rtf" />
+    <None Include="Resources\Метод Кондорсе.ru-RU.rtf" />
+    <None Include="Resources\Метод Кондорсе.uk-UA.rtf" />
+    <None Include="Resources\Метод Копленда.ru-RU.rtf" />
+    <None Include="Resources\Метод Копленда.uk-UA.rtf" />
+    <None Include="Resources\Метод относительного большинства.ru-RU.rtf" />
+    <None Include="Resources\Метод послідовного виключення.uk-UA.rtf" />
+    <None Include="Resources\Метод последовательного исключения.ru-RU.rtf" />
+    <None Include="Resources\Метод Сімпосона.uk-UA.rtf" />
+    <None Include="Resources\Метод Сімпсона.uk-UA.rtf" />
+    <None Include="Resources\Метод Симпсона.ru-RU.rtf" />
+    <None Include="Resources\Помощь.rtf" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>Клиентский профиль .NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Установщик Windows 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,337 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\icon.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MethodHelp_DB" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MethodHelp_DB.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="MethodHelp_Disp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MethodHelp_Disp.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="MethodHelp_Germeier" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MethodHelp_Germeier.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="MethodHelp_Gurvitz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MethodHelp_Gurvitz.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="MethodHelp_HL" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MethodHelp_HL.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="MethodHelp_MaxProb" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MethodHelp_MaxProb.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="MethodHelp_MM" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MethodHelp_MM.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="MethodHelp_Sevidj" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MethodHelp_Sevidj.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="ModuleHelp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ModuleHelp.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="MethodAdytyvn" xml:space="preserve">
+    <value>Адитивний</value>
+  </data>
+  <data name="MethodBayesLaplace" xml:space="preserve">
+    <value>Байеса-Лапласа</value>
+  </data>
+  <data name="MethodGermeier" xml:space="preserve">
+    <value>Гермейєра</value>
+  </data>
+  <data name="MethodGurvits" xml:space="preserve">
+    <value>Гурвіца</value>
+  </data>
+  <data name="MethodHodgesLehmann" xml:space="preserve">
+    <value>Ходжа-Лемана</value>
+  </data>
+  <data name="MethodMinimax" xml:space="preserve">
+    <value>Мінімаксний</value>
+  </data>
+  <data name="MethodModal" xml:space="preserve">
+    <value>Модальний</value>
+  </data>
+  <data name="MethodOptimistic" xml:space="preserve">
+    <value>Оптимістичний</value>
+  </data>
+  <data name="MethodProbabilityMaximization" xml:space="preserve">
+    <value>Максимізації ймовірності</value>
+  </data>
+  <data name="MethodProduct" xml:space="preserve">
+    <value>Добутків</value>
+  </data>
+  <data name="MethodSavage" xml:space="preserve">
+    <value>Севіджа</value>
+  </data>
+  <data name="MethodVarianceMinimization" xml:space="preserve">
+    <value>Мінімізації дисперсії</value>
+  </data>
+  <data name="MethodVoloshin" xml:space="preserve">
+    <value>Волошина</value>
+  </data>
+  <data name="TestRight" xml:space="preserve">
+    <value>Вірно!</value>
+  </data>
+  <data name="TestWrong" xml:space="preserve">
+    <value>Невірно! Правильна відповідь : </value>
+  </data>
+  <data name="MethodHelp_BL" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MethodHelp_BL.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="MethodHelp_Adytyvn" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MethodHelp_Adytyvn.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="MethodHelp_Adytyvn_en_US" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MethodHelp_Adytyvn.en-US.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="MethodHelp_Adytyvn_ru_RU" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MethodHelp_Adytyvn.ru-RU.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="MethodHelp_BL1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MethodHelp_BL.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="MethodHelp_BL_en_US" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MethodHelp_BL.en-US.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="MethodHelp_BL_ru_RU" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MethodHelp_BL.ru_RU.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="MethodHelp_DB1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MethodHelp_DB.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="MethodHelp_Disp1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MethodHelp_Disp.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="MethodHelp_Disp_en_US" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MethodHelp_Disp.en-US.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="MethodHelp_Disp_ru_RU" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MethodHelp_Disp.ru-RU.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="MethodHelp_Dob" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MethodHelp_Dob.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="MethodHelp_Dob_en_US" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MethodHelp_Dob.en-US.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="MethodHelp_Dob_ru_RU" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MethodHelp_Dob.ru-RU.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="MethodHelp_Germeier1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MethodHelp_Germeier.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="MethodHelp_Germeier_en_US" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MethodHelp_Germeier.en-US.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="MethodHelp_Germeier_ru_RU" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MethodHelp_Germeier.ru-RU.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="MethodHelp_Gurvitz1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MethodHelp_Gurvitz.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="MethodHelp_Gurvitz_en_US" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MethodHelp_Gurvitz.en-US.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="MethodHelp_Gurvitz_ru_RU" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MethodHelp_Gurvitz.ru-RU.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="MethodHelp_HL1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MethodHelp_HL.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="MethodHelp_HL_en_US" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MethodHelp_HL.en-US.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="MethodHelp_HL_ru_RU" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MethodHelp_HL.ru-RU.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="MethodHelp_MaxProb1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MethodHelp_MaxProb.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="MethodHelp_MaxProb_en_US" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MethodHelp_MaxProb.en-US.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="MethodHelp_MaxProb_ru_RU" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MethodHelp_MaxProb.ru-RU.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="MethodHelp_MM1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MethodHelp_MM.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="MethodHelp_MM_en_US" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MethodHelp_MM.en-US.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="MethodHelp_MM_ru_RU" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MethodHelp_MM.ru-RU.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="MethodHelp_Modal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MethodHelp_Modal.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="MethodHelp_Modal_en_US" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MethodHelp_Modal.en-US.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="MethodHelp_Modal_ru_RU" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MethodHelp_Modal.ru-RU.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="MethodHelp_Opt" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MethodHelp_Opt.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="MethodHelp_Opt_en_US" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MethodHelp_Opt.en-US.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="MethodHelp_Opt_ru_RU" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MethodHelp_Opt.ru-RU.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="MethodHelp_Sevidj1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MethodHelp_Sevidj.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="MethodHelp_Sevidj_en_US" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MethodHelp_Sevidj.en-US.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="MethodHelp_Sevidj_ru_RU" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MethodHelp_Sevidj.ru-RU.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="MethodHelp_Voloshin" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MethodHelp_Voloshin.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="MethodHelp_Voloshin_en_US" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MethodHelp_Voloshin.en-US.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="MethodHelp_Voloshin_ru_RU" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MethodHelp_Voloshin.ru-RU.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="ModuleHelp1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ModuleHelp.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="ModuleHelp_en_US" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ModuleHelp.en_US.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="ModuleHelp_ru_RU" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ModuleHelp.ru_RU.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="My" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\My.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="of" xml:space="preserve">
+    <value> з </value>
+  </data>
+  <data name="YourResult" xml:space="preserve">
+    <value>Ваш результат:</value>
+  </data>
+</root>

@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="Modules.MulticriterionProblemMethods.DataTypes.Alternative">
+    <Position X="8" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <FileName>DataTypes\MultiCriteriumDataTypes\Alternative.cs</FileName>
+      <HashCode>EAAACAAEAgAAAAAEiACAAAQAAAAAAKAEAAACAABAAiA=</HashCode>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Criteriums" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Modules.MulticriterionProblemMethods.DataTypes.AlternativeComparer" BaseTypeListCollapsed="true">
+    <Position X="13.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>DataTypes\MultiCriteriumDataTypes\AlternativeComparer.cs</FileName>
+      <HashCode>AAAAAAAAAAEAAAABAQAAAAAGAAAAAAACAABAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.1" />
+  </Class>
+  <Class Name="Modules.MulticriterionProblemMethods.DataTypes.Matrix">
+    <Position X="5.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <FileName>DataTypes\MultiCriteriumDataTypes\Matrix.cs</FileName>
+      <HashCode>CAAQCAgFAgAAAQAACACAAAAIAAAAgKAEAAACABBAAQA=</HashCode>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Alternatives" />
+      <Property Name="Criteriums" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Modules.MulticriterionProblemMethods.Method">
+    <Position X="2.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>Method.cs</FileName>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAACAAgAAAAAAACAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modules.MulticriterionProblemMethods.Workflow.DataContainer">
+    <Position X="1.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Workflow\DataContainer.cs</FileName>
+      <HashCode>AAAEAAJAAAAAAAAAAAAgAAAAAAAgAgAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_matrix" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="_lastResult" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Modules.MulticriterionProblemMethods.Workflow.Messaging.Messenger">
+    <Position X="10" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Workflow\Messaging\Messenger.cs</FileName>
+      <HashCode>AABAAAgAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Current" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Modules.MulticriterionProblemMethods.Workflow.Validation.MatrixValidator" BaseTypeListCollapsed="true">
+    <Position X="17" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Workflow\Validation\MatrixValidator.cs</FileName>
+      <HashCode>AAAAAABAAACAAAAAAAAAAAAAAAAgAAAAAAACAAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Modules.MulticriterionProblemMethods.Workflow.Validation.UniqueValidator&lt;T&gt;" BaseTypeListCollapsed="true">
+    <Position X="15" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Workflow\Validation\UniqueValidator.cs</FileName>
+      <HashCode>AAAAAAAAAQCAAAABAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Modules.MulticriterionProblemMethods.Workflow.ValidatorProvider">
+    <Position X="15.25" Y="2.75" Width="3.5" />
+    <TypeIdentifier>
+      <FileName>Workflow\Validation\ValidatorProvider.cs</FileName>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Modules.MulticriterionProblemMethods.DataTypes.Criterium">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>DataTypes\MultiCriteriumDataTypes\Criterium.cs</FileName>
+      <HashCode>EAAAAAAAAAAAAAAEgAAAAAQAAAAAAIAAAAAAAAAAAiA=</HashCode>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="Modules.MulticriterionProblemMethods.Inerfaces.IValidationResult">
+    <Position X="16.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Inerfaces\IValidationResult.cs</FileName>
+      <HashCode>AQAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Modules.MulticriterionProblemMethods.Inerfaces.IValidator">
+    <Position X="16" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Inerfaces\IValidator.cs</FileName>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Modules.MulticriterionProblemMethods.Workflow.Messaging.MessageKind" Collapsed="true">
+    <Position X="10" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Workflow\Messaging\MessageKind.cs</FileName>
+      <HashCode>AARAAAAAAAAAAAAAAAAAAAAACABAAAAAAABAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Modules.MulticriterionProblemMethods.Workflow.Validation.ValidationKind" Collapsed="true">
+    <Position X="18.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Workflow\Validation\ValidationKind.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAgAAAAAgAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Enum>
+</ClassDiagram>

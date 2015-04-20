@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="bufferLoadPointsException" xml:space="preserve">
+    <value>Choosen element is not a points vector. Loading aborted</value>
+  </data>
+  <data name="bufferLoadProfileException" xml:space="preserve">
+    <value>Choosen element is not a profile. Loading aborted</value>
+  </data>
+  <data name="candidateCaption" xml:space="preserve">
+    <value>Candidate #</value>
+  </data>
+  <data name="frmAddCandidateCaption" xml:space="preserve">
+    <value>Add candidate</value>
+  </data>
+  <data name="frmAddCandidateException" xml:space="preserve">
+    <value>Candidate with such name has been registered already</value>
+  </data>
+  <data name="frmChangeCandidateCaption" xml:space="preserve">
+    <value>Rename candidates</value>
+  </data>
+  <data name="frmDeleteCandidateCaption" xml:space="preserve">
+    <value>Remove candidates</value>
+  </data>
+  <data name="frmDeleteCandidateQuestion" xml:space="preserve">
+    <value>Are you sure you want to remove selected candidates?</value>
+  </data>
+  <data name="frmDeleteCandidateStatusDelete" xml:space="preserve">
+    <value>Remove</value>
+  </data>
+  <data name="frmModuleCaption" xml:space="preserve">
+    <value>Votind methods</value>
+  </data>
+  <data name="MethodAbsoluteMajority" xml:space="preserve">
+    <value>Absolute majority method</value>
+  </data>
+  <data name="MethodAlternativeVoices" xml:space="preserve">
+    <value>Alternative voices method</value>
+  </data>
+  <data name="MethodBord" xml:space="preserve">
+    <value>Bord method</value>
+  </data>
+  <data name="MethodCondorse" xml:space="preserve">
+    <value>Condorse method</value>
+  </data>
+  <data name="methodCondorseException" xml:space="preserve">
+    <value>Current profile doesn't have a winner by the Condorse's method</value>
+  </data>
+  <data name="MethodConsecutiveException" xml:space="preserve">
+    <value>Consecutive exception method</value>
+  </data>
+  <data name="methodConsecutiveExceptionException" xml:space="preserve">
+    <value>У даному профілі не можна однозначно визначити переможця при порівнянні 2х кандидатів</value>
+  </data>
+  <data name="MethodCopland" xml:space="preserve">
+    <value>Copland method</value>
+  </data>
+  <data name="methodCopplandException" xml:space="preserve">
+    <value>Current profile doesn't have a winner by the Copland's method</value>
+  </data>
+  <data name="methodException" xml:space="preserve">
+    <value>Executing method "{0}" interrupted by error: "{1}"</value>
+  </data>
+  <data name="MethodRelativeMajority" xml:space="preserve">
+    <value>Relative majority method</value>
+  </data>
+  <data name="MethodSimpson" xml:space="preserve">
+    <value>Simpson method</value>
+  </data>
+  <data name="methodSimpsonException" xml:space="preserve">
+    <value>Current profile doesn't have a winner by the Simpson's method</value>
+  </data>
+  <data name="pointsCaption" xml:space="preserve">
+    <value>Points</value>
+  </data>
+  <data name="profileOrder1Exception" xml:space="preserve">
+    <value>Wrong candidate's number</value>
+  </data>
+  <data name="profileOrder2Exception" xml:space="preserve">
+    <value>One candidate cannot meet more than once in the comparison</value>
+  </data>
+  <data name="profilePointsException" xml:space="preserve">
+    <value>You must fill in all points data in the descending order</value>
+  </data>
+  <data name="profileProfileFullException" xml:space="preserve">
+    <value>You must fill in all the data to the profile</value>
+  </data>
+  <data name="profileProfileUniqueException" xml:space="preserve">
+    <value>One candidate must have only one rate in the voters group</value>
+  </data>
+  <data name="profileVotersCorrectException" xml:space="preserve">
+    <value>Voters's number in the group must be positive</value>
+  </data>
+  <data name="profileVotersFullException" xml:space="preserve">
+    <value>You must fill in all voters groupes</value>
+  </data>
+  <data name="profileVotersGroupCaption" xml:space="preserve">
+    <value>Voters group #</value>
+  </data>
+  <data name="typeDataGridCellError" xml:space="preserve">
+    <value>The data in the table is not valid. Only numbers are required.</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="MethodHelp_AlternativeVoices" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Alternative voices method.en-US.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="MethodHelp_Bord" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Bord method.en-US.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="MethodHelp_Condorse" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Condorse method.en-US.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="MethodHelp_ConsecutiveException" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Consecutive exception method.en-US.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="MethodHelp_Copland" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Copland method.en-US.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="MethodHelp_RelativeMajority" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Relative majority method.en-US.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="MethodHelp_Simpson" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Simpson method.en-US.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="ModuleHelp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Help.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+</root>

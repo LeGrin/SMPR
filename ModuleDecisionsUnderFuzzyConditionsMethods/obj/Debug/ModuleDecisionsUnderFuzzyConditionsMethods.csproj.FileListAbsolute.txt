@@ -1,0 +1,288 @@
+Y:\Documents\SMPR\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.AboutPhotos.resources
+Y:\Documents\SMPR\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.frmModule.resources
+Y:\Documents\SMPR\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.OptionsForm.resources
+Y:\Documents\SMPR\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.Properties.Resources.resources
+Y:\Documents\SMPR\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.StandartSetForm.resources
+Y:\Documents\SMPR\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.frmModule.en-US.resources
+Y:\Documents\SMPR\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.frmModule.ru-RU.resources
+Y:\Documents\SMPR\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.OptionsForm.en-US.resources
+Y:\Documents\SMPR\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.OptionsForm.ru-RU.resources
+Y:\Documents\SMPR\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.Properties.Resources.en-US.resources
+Y:\Documents\SMPR\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.Properties.Resources.ru-RU.resources
+Y:\Documents\SMPR\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.StandartSetForm.en-US.resources
+Y:\Documents\SMPR\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.StandartSetForm.ru-RU.resources
+Y:\Documents\SMPR\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.csproj.GenerateResource.Cache
+Y:\Documents\SMPR\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.dll
+Y:\Documents\SMPR\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.pdb
+Y:\Documents\SMPR\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\en-US\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+Y:\Documents\SMPR\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\ru-RU\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+Y:\Documents\SMPR\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\Common.dll
+Y:\Documents\SMPR\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\Common.pdb
+Y:\Documents\SMPR\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\en-US\Common.resources.dll
+Y:\Documents\SMPR\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\ru-RU\Common.resources.dll
+Y:\Documents\SMPR\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\en-US\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+Y:\Documents\SMPR\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\ru-RU\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+Y:\Documents\SMPR\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.dll
+Y:\Documents\SMPR\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.pdb
+Y:\Documents\SMPR\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.csprojResolveAssemblyReference.cache
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.pdb
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\en-US\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\ru-RU\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\Common.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\Common.pdb
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\en-US\Common.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\ru-RU\Common.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.csprojResolveAssemblyReference.cache
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.AboutPhotos.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.frmModule.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.OptionsForm.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.Properties.Resources.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.StandartSetForm.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.frmModule.en-US.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.frmModule.ru-RU.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.OptionsForm.en-US.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.OptionsForm.ru-RU.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.Properties.Resources.en-US.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.Properties.Resources.ru-RU.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.StandartSetForm.en-US.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.StandartSetForm.ru-RU.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.csproj.GenerateResource.Cache
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\en-US\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\ru-RU\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.pdb
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.pdb
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\en-US\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\ru-RU\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\Common.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\Common.pdb
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\en-US\Common.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\ru-RU\Common.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.csprojResolveAssemblyReference.cache
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.AboutPhotos.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.frmModule.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.OptionsForm.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.Properties.Resources.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.StandartSetForm.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.frmModule.en-US.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.frmModule.ru-RU.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.OptionsForm.en-US.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.OptionsForm.ru-RU.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.Properties.Resources.en-US.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.Properties.Resources.ru-RU.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.StandartSetForm.en-US.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.StandartSetForm.ru-RU.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.csproj.GenerateResource.Cache
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\en-US\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\ru-RU\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.pdb
+C:\Andrew\Programming\TPR\SMPR3\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.dll
+C:\Andrew\Programming\TPR\SMPR3\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.pdb
+C:\Andrew\Programming\TPR\SMPR3\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\en-US\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\ru-RU\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\Common.dll
+C:\Andrew\Programming\TPR\SMPR3\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\Common.pdb
+C:\Andrew\Programming\TPR\SMPR3\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\en-US\Common.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\ru-RU\Common.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.csprojResolveAssemblyReference.cache
+C:\Andrew\Programming\TPR\SMPR3\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.AboutPhotos.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.frmModule.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.OptionsForm.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.Properties.Resources.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.StandartSetForm.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.frmModule.en-US.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.frmModule.ru-RU.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.OptionsForm.en-US.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.OptionsForm.ru-RU.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.Properties.Resources.en-US.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.Properties.Resources.ru-RU.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.StandartSetForm.en-US.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.StandartSetForm.ru-RU.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.csproj.GenerateResource.Cache
+C:\Andrew\Programming\TPR\SMPR3\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\en-US\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\ru-RU\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.dll
+C:\Andrew\Programming\TPR\SMPR3\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.pdb
+D:\TPR\SMPR3.0\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.dll
+D:\TPR\SMPR3.0\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.pdb
+D:\TPR\SMPR3.0\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\en-US\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+D:\TPR\SMPR3.0\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\ru-RU\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+D:\TPR\SMPR3.0\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\Common.dll
+D:\TPR\SMPR3.0\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\Common.pdb
+D:\TPR\SMPR3.0\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\en-US\Common.resources.dll
+D:\TPR\SMPR3.0\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\ru-RU\Common.resources.dll
+D:\TPR\SMPR3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.csprojResolveAssemblyReference.cache
+D:\TPR\SMPR3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.AboutPhotos.resources
+D:\TPR\SMPR3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.frmModule.resources
+D:\TPR\SMPR3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.OptionsForm.resources
+D:\TPR\SMPR3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.Properties.Resources.resources
+D:\TPR\SMPR3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.StandartSetForm.resources
+D:\TPR\SMPR3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.frmModule.en-US.resources
+D:\TPR\SMPR3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.frmModule.ru-RU.resources
+D:\TPR\SMPR3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.OptionsForm.en-US.resources
+D:\TPR\SMPR3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.OptionsForm.ru-RU.resources
+D:\TPR\SMPR3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.Properties.Resources.en-US.resources
+D:\TPR\SMPR3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.Properties.Resources.ru-RU.resources
+D:\TPR\SMPR3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.StandartSetForm.en-US.resources
+D:\TPR\SMPR3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.StandartSetForm.ru-RU.resources
+D:\TPR\SMPR3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.csproj.GenerateResource.Cache
+D:\TPR\SMPR3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\en-US\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+D:\TPR\SMPR3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\ru-RU\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+D:\TPR\SMPR3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.dll
+D:\TPR\SMPR3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.pdb
+D:\TPR\SMPR3.0\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\zh\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+D:\TPR\SMPR3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.Properties.Resources.zh.resources
+D:\TPR\SMPR3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\zh\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.pdb
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\en-US\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\ru-RU\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\zh\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\Common.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\Common.pdb
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\en-US\Common.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\ru-RU\Common.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.csprojResolveAssemblyReference.cache
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.AboutPhotos.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.frmModule.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.OptionsForm.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.Properties.Resources.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.StandartSetForm.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.frmModule.en-US.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.frmModule.ru-RU.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.OptionsForm.en-US.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.OptionsForm.ru-RU.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.Properties.Resources.en-US.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.Properties.Resources.ru-RU.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.Properties.Resources.zh.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.StandartSetForm.en-US.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.StandartSetForm.ru-RU.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.csproj.GenerateResource.Cache
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\en-US\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\ru-RU\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\zh\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\en-US\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\ru-RU\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\zh\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\Common.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\Common.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\en-US\Common.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\ru-RU\Common.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.AboutPhotos.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.frmModule.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.OptionsForm.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.StandartSetForm.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.frmModule.en-US.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.frmModule.ru-RU.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.OptionsForm.en-US.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.OptionsForm.ru-RU.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.Properties.Resources.en-US.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.Properties.Resources.ru-RU.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.Properties.Resources.zh.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.StandartSetForm.en-US.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.StandartSetForm.ru-RU.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\en-US\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\ru-RU\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\zh\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\en-US\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\ru-RU\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\zh\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\Common.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\Common.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\en-US\Common.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\ru-RU\Common.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.AboutPhotos.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.frmModule.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.OptionsForm.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.StandartSetForm.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.frmModule.en-US.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.frmModule.ru-RU.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.OptionsForm.en-US.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.OptionsForm.ru-RU.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.Properties.Resources.en-US.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.Properties.Resources.ru-RU.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.Properties.Resources.zh.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.StandartSetForm.en-US.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.StandartSetForm.ru-RU.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\en-US\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\ru-RU\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\zh\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.pdb
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.pdb
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\en-US\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\ru-RU\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\zh\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\Common.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\Common.pdb
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\en-US\Common.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\ru-RU\Common.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.csprojResolveAssemblyReference.cache
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.AboutPhotos.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.frmModule.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.OptionsForm.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.Properties.Resources.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.StandartSetForm.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.frmModule.en-US.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.frmModule.ru-RU.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.OptionsForm.en-US.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.OptionsForm.ru-RU.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.Properties.Resources.en-US.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.Properties.Resources.ru-RU.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.Properties.Resources.zh.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.StandartSetForm.en-US.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.StandartSetForm.ru-RU.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.csproj.GenerateResource.Cache
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\en-US\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\ru-RU\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\zh\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.pdb
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.pdb
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\en-US\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\ru-RU\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\zh\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\Common.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\Common.pdb
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\en-US\Common.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleDecisionsUnderFuzzyConditionsMethods\bin\Debug\ru-RU\Common.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.csprojResolveAssemblyReference.cache
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.AboutPhotos.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.frmModule.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.OptionsForm.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.Properties.Resources.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.StandartSetForm.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.frmModule.en-US.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.frmModule.ru-RU.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.OptionsForm.en-US.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.OptionsForm.ru-RU.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.Properties.Resources.en-US.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.Properties.Resources.ru-RU.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.Properties.Resources.zh.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.StandartSetForm.en-US.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\Modules.DecisionsUnderFuzzyConditionsMethods.StandartSetForm.ru-RU.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.csproj.GenerateResource.Cache
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\en-US\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\ru-RU\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\zh\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleDecisionsUnderFuzzyConditionsMethods\obj\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.pdb

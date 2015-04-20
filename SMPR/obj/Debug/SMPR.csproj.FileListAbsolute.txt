@@ -1,0 +1,882 @@
+Y:\Documents\SMPR\SMPR\bin\Debug\SMPR.exe.config
+Y:\Documents\SMPR\SMPR\obj\Debug\SMPR.csprojResolveAssemblyReference.cache
+Y:\Documents\SMPR\SMPR\obj\Debug\SMPR.About.resources
+Y:\Documents\SMPR\SMPR\obj\Debug\SMPR.AboutBlock.resources
+Y:\Documents\SMPR\SMPR\obj\Debug\SMPR.LicenseForm.resources
+Y:\Documents\SMPR\SMPR\obj\Debug\SMPR.pbTests.resources
+Y:\Documents\SMPR\SMPR\obj\Debug\SMPR.ModulesListForm.resources
+Y:\Documents\SMPR\SMPR\obj\Debug\SMPR.Properties.Resources.resources
+Y:\Documents\SMPR\SMPR\obj\Debug\SMPR.About.en-US.resources
+Y:\Documents\SMPR\SMPR\obj\Debug\SMPR.About.ru-RU.resources
+Y:\Documents\SMPR\SMPR\obj\Debug\SMPR.About.zh.resources
+Y:\Documents\SMPR\SMPR\obj\Debug\SMPR.AboutBlock.en-US.resources
+Y:\Documents\SMPR\SMPR\obj\Debug\SMPR.AboutBlock.ru-RU.resources
+Y:\Documents\SMPR\SMPR\obj\Debug\SMPR.pbTests.en-US.resources
+Y:\Documents\SMPR\SMPR\obj\Debug\SMPR.pbTests.ru-RU.resources
+Y:\Documents\SMPR\SMPR\obj\Debug\SMPR.pbTests.zh.resources
+Y:\Documents\SMPR\SMPR\obj\Debug\SMPR.ModulesListForm.en-US.resources
+Y:\Documents\SMPR\SMPR\obj\Debug\SMPR.ModulesListForm.ru-RU.resources
+Y:\Documents\SMPR\SMPR\obj\Debug\SMPR.ModulesListForm.zh.resources
+Y:\Documents\SMPR\SMPR\obj\Debug\SMPR.Properties.Resources.en-US.resources
+Y:\Documents\SMPR\SMPR\obj\Debug\SMPR.Properties.Resources.ru-RU.resources
+Y:\Documents\SMPR\SMPR\obj\Debug\SMPR.Properties.Resources.zh.resources
+Y:\Documents\SMPR\SMPR\obj\Debug\SMPR.csproj.GenerateResource.Cache
+Y:\Documents\SMPR\SMPR\bin\Debug\SMPR.exe
+Y:\Documents\SMPR\SMPR\bin\Debug\SMPR.pdb
+Y:\Documents\SMPR\SMPR\bin\Debug\en-US\SMPR.resources.dll
+Y:\Documents\SMPR\SMPR\bin\Debug\ru-RU\SMPR.resources.dll
+Y:\Documents\SMPR\SMPR\bin\Debug\zh\SMPR.resources.dll
+Y:\Documents\SMPR\SMPR\bin\Debug\Common.dll
+Y:\Documents\SMPR\SMPR\bin\Debug\ModuleCollectiveBenefitFunctions.dll
+Y:\Documents\SMPR\SMPR\bin\Debug\ModuleConflictsAndCompromises.dll
+Y:\Documents\SMPR\SMPR\bin\Debug\ModuleCooperativeProblemSolving.dll
+Y:\Documents\SMPR\SMPR\bin\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.dll
+Y:\Documents\SMPR\SMPR\bin\Debug\ModuleDecisionsUnderRiskAndUncertainityMethods.dll
+Y:\Documents\SMPR\SMPR\bin\Debug\ModuleExpertProcessingMethods.dll
+Y:\Documents\SMPR\SMPR\bin\Debug\ModuleMulticriterionProblemMethods.dll
+Y:\Documents\SMPR\SMPR\bin\Debug\ModuleTests.dll
+Y:\Documents\SMPR\SMPR\bin\Debug\ModuleVotingMethods.dll
+Y:\Documents\SMPR\SMPR\bin\Debug\Common.pdb
+Y:\Documents\SMPR\SMPR\bin\Debug\ModuleCollectiveBenefitFunctions.pdb
+Y:\Documents\SMPR\SMPR\bin\Debug\ModuleConflictsAndCompromises.pdb
+Y:\Documents\SMPR\SMPR\bin\Debug\ModuleCooperativeProblemSolving.pdb
+Y:\Documents\SMPR\SMPR\bin\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.pdb
+Y:\Documents\SMPR\SMPR\bin\Debug\ModuleDecisionsUnderRiskAndUncertainityMethods.pdb
+Y:\Documents\SMPR\SMPR\bin\Debug\ModuleExpertProcessingMethods.pdb
+Y:\Documents\SMPR\SMPR\bin\Debug\ModuleMulticriterionProblemMethods.pdb
+Y:\Documents\SMPR\SMPR\bin\Debug\ModuleTests.pdb
+Y:\Documents\SMPR\SMPR\bin\Debug\ModuleVotingMethods.pdb
+Y:\Documents\SMPR\SMPR\bin\Debug\en-US\Common.resources.dll
+Y:\Documents\SMPR\SMPR\bin\Debug\ru-RU\Common.resources.dll
+Y:\Documents\SMPR\SMPR\bin\Debug\en-US\ModuleCollectiveBenefitFunctions.resources.dll
+Y:\Documents\SMPR\SMPR\bin\Debug\ru-RU\ModuleCollectiveBenefitFunctions.resources.dll
+Y:\Documents\SMPR\SMPR\bin\Debug\en-US\ModuleConflictsAndCompromises.resources.dll
+Y:\Documents\SMPR\SMPR\bin\Debug\ru-RU\ModuleConflictsAndCompromises.resources.dll
+Y:\Documents\SMPR\SMPR\bin\Debug\en-US\ModuleCooperativeProblemSolving.resources.dll
+Y:\Documents\SMPR\SMPR\bin\Debug\ru-RU\ModuleCooperativeProblemSolving.resources.dll
+Y:\Documents\SMPR\SMPR\bin\Debug\en-US\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+Y:\Documents\SMPR\SMPR\bin\Debug\ru-RU\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+Y:\Documents\SMPR\SMPR\bin\Debug\en-US\ModuleDecisionsUnderRiskAndUncertainityMethods.resources.dll
+Y:\Documents\SMPR\SMPR\bin\Debug\ru-RU\ModuleDecisionsUnderRiskAndUncertainityMethods.resources.dll
+Y:\Documents\SMPR\SMPR\bin\Debug\uk-UA\ModuleDecisionsUnderRiskAndUncertainityMethods.resources.dll
+Y:\Documents\SMPR\SMPR\bin\Debug\en-US\ModuleExpertProcessingMethods.resources.dll
+Y:\Documents\SMPR\SMPR\bin\Debug\ru-RU\ModuleExpertProcessingMethods.resources.dll
+Y:\Documents\SMPR\SMPR\bin\Debug\en-US\ModuleMulticriterionProblemMethods.resources.dll
+Y:\Documents\SMPR\SMPR\bin\Debug\ru-RU\ModuleMulticriterionProblemMethods.resources.dll
+Y:\Documents\SMPR\SMPR\bin\Debug\uk-UA\ModuleMulticriterionProblemMethods.resources.dll
+Y:\Documents\SMPR\SMPR\bin\Debug\en-US\ModuleTests.resources.dll
+Y:\Documents\SMPR\SMPR\bin\Debug\ru-RU\ModuleTests.resources.dll
+Y:\Documents\SMPR\SMPR\bin\Debug\en-US\ModuleVotingMethods.resources.dll
+Y:\Documents\SMPR\SMPR\bin\Debug\ru-RU\ModuleVotingMethods.resources.dll
+Y:\Documents\SMPR\SMPR\obj\Debug\en-US\SMPR.resources.dll
+Y:\Documents\SMPR\SMPR\obj\Debug\ru-RU\SMPR.resources.dll
+Y:\Documents\SMPR\SMPR\obj\Debug\zh\SMPR.resources.dll
+Y:\Documents\SMPR\SMPR\obj\Debug\SMPR.exe
+Y:\Documents\SMPR\SMPR\obj\Debug\SMPR.pdb
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\bin\Debug\SMPR.exe.config
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\obj\Debug\SMPR.exe
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\obj\Debug\SMPR.pdb
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\bin\Debug\SMPR.exe
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\bin\Debug\SMPR.pdb
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\bin\Debug\en-US\SMPR.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\bin\Debug\ru-RU\SMPR.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\bin\Debug\zh\SMPR.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\bin\Debug\Common.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\bin\Debug\ModuleCollectiveBenefitFunctions.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\bin\Debug\ModuleConflictsAndCompromises.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\bin\Debug\ModuleCooperativeProblemSolving.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\bin\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\bin\Debug\ModuleDecisionsUnderRiskAndUncertainityMethods.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\bin\Debug\ModuleExpertProcessingMethods.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\bin\Debug\ModuleMulticriterionProblemMethods.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\bin\Debug\ModuleTests.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\bin\Debug\ModuleVotingMethods.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\bin\Debug\Common.pdb
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\bin\Debug\ModuleCollectiveBenefitFunctions.pdb
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\bin\Debug\ModuleConflictsAndCompromises.pdb
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\bin\Debug\ModuleCooperativeProblemSolving.pdb
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\bin\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.pdb
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\bin\Debug\ModuleDecisionsUnderRiskAndUncertainityMethods.pdb
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\bin\Debug\ModuleExpertProcessingMethods.pdb
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\bin\Debug\ModuleMulticriterionProblemMethods.pdb
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\bin\Debug\ModuleTests.pdb
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\bin\Debug\ModuleVotingMethods.pdb
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\bin\Debug\en-US\Common.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\bin\Debug\ru-RU\Common.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\bin\Debug\en-US\ModuleCollectiveBenefitFunctions.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\bin\Debug\ru-RU\ModuleCollectiveBenefitFunctions.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\bin\Debug\en-US\ModuleConflictsAndCompromises.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\bin\Debug\ru-RU\ModuleConflictsAndCompromises.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\bin\Debug\en-US\ModuleCooperativeProblemSolving.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\bin\Debug\ru-RU\ModuleCooperativeProblemSolving.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\bin\Debug\en-US\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\bin\Debug\ru-RU\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\bin\Debug\en-US\ModuleDecisionsUnderRiskAndUncertainityMethods.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\bin\Debug\ru-RU\ModuleDecisionsUnderRiskAndUncertainityMethods.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\bin\Debug\uk-UA\ModuleDecisionsUnderRiskAndUncertainityMethods.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\bin\Debug\en-US\ModuleExpertProcessingMethods.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\bin\Debug\ru-RU\ModuleExpertProcessingMethods.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\bin\Debug\en-US\ModuleMulticriterionProblemMethods.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\bin\Debug\ru-RU\ModuleMulticriterionProblemMethods.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\bin\Debug\uk-UA\ModuleMulticriterionProblemMethods.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\bin\Debug\en-US\ModuleTests.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\bin\Debug\ru-RU\ModuleTests.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\bin\Debug\en-US\ModuleVotingMethods.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\bin\Debug\ru-RU\ModuleVotingMethods.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\obj\Debug\SMPR.csprojResolveAssemblyReference.cache
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\obj\Debug\SMPR.About.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\obj\Debug\SMPR.AboutBlock.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\obj\Debug\SMPR.LicenseForm.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\obj\Debug\SMPR.pbTests.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\obj\Debug\SMPR.ModulesListForm.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\obj\Debug\SMPR.Properties.Resources.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\obj\Debug\SMPR.About.en-US.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\obj\Debug\SMPR.About.ru-RU.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\obj\Debug\SMPR.About.zh.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\obj\Debug\SMPR.AboutBlock.en-US.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\obj\Debug\SMPR.AboutBlock.ru-RU.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\obj\Debug\SMPR.pbTests.en-US.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\obj\Debug\SMPR.pbTests.ru-RU.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\obj\Debug\SMPR.pbTests.zh.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\obj\Debug\SMPR.ModulesListForm.en-US.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\obj\Debug\SMPR.ModulesListForm.ru-RU.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\obj\Debug\SMPR.ModulesListForm.zh.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\obj\Debug\SMPR.Properties.Resources.en-US.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\obj\Debug\SMPR.Properties.Resources.ru-RU.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\obj\Debug\SMPR.Properties.Resources.zh.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\obj\Debug\SMPR.csproj.GenerateResource.Cache
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\obj\Debug\en-US\SMPR.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\obj\Debug\ru-RU\SMPR.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\SMPR\obj\Debug\zh\SMPR.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleCollectiveBenefitFunctions\obj\Debug\SMPR.exe
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleCollectiveBenefitFunctions\obj\Debug\SMPR.pdb
+D:\Скачана\КОД\C#\SMPR\SMPR\bin\Debug\SMPR.exe.config
+D:\Скачана\КОД\C#\SMPR\SMPR\bin\Debug\SMPR.exe
+D:\Скачана\КОД\C#\SMPR\SMPR\bin\Debug\SMPR.pdb
+D:\Скачана\КОД\C#\SMPR\SMPR\bin\Debug\en-US\SMPR.resources.dll
+D:\Скачана\КОД\C#\SMPR\SMPR\bin\Debug\ru-RU\SMPR.resources.dll
+D:\Скачана\КОД\C#\SMPR\SMPR\bin\Debug\zh\SMPR.resources.dll
+D:\Скачана\КОД\C#\SMPR\SMPR\bin\Debug\Common.dll
+D:\Скачана\КОД\C#\SMPR\SMPR\bin\Debug\ModuleCollectiveBenefitFunctions.dll
+D:\Скачана\КОД\C#\SMPR\SMPR\bin\Debug\ModuleConflictsAndCompromises.dll
+D:\Скачана\КОД\C#\SMPR\SMPR\bin\Debug\ModuleCooperativeProblemSolving.dll
+D:\Скачана\КОД\C#\SMPR\SMPR\bin\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.dll
+D:\Скачана\КОД\C#\SMPR\SMPR\bin\Debug\ModuleDecisionsUnderRiskAndUncertainityMethods.dll
+D:\Скачана\КОД\C#\SMPR\SMPR\bin\Debug\ModuleExpertProcessingMethods.dll
+D:\Скачана\КОД\C#\SMPR\SMPR\bin\Debug\ModuleMulticriterionProblemMethods.dll
+D:\Скачана\КОД\C#\SMPR\SMPR\bin\Debug\ModuleTests.dll
+D:\Скачана\КОД\C#\SMPR\SMPR\bin\Debug\ModuleVotingMethods.dll
+D:\Скачана\КОД\C#\SMPR\SMPR\bin\Debug\Common.pdb
+D:\Скачана\КОД\C#\SMPR\SMPR\bin\Debug\ModuleCollectiveBenefitFunctions.pdb
+D:\Скачана\КОД\C#\SMPR\SMPR\bin\Debug\ModuleConflictsAndCompromises.pdb
+D:\Скачана\КОД\C#\SMPR\SMPR\bin\Debug\ModuleCooperativeProblemSolving.pdb
+D:\Скачана\КОД\C#\SMPR\SMPR\bin\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.pdb
+D:\Скачана\КОД\C#\SMPR\SMPR\bin\Debug\ModuleDecisionsUnderRiskAndUncertainityMethods.pdb
+D:\Скачана\КОД\C#\SMPR\SMPR\bin\Debug\ModuleExpertProcessingMethods.pdb
+D:\Скачана\КОД\C#\SMPR\SMPR\bin\Debug\ModuleMulticriterionProblemMethods.pdb
+D:\Скачана\КОД\C#\SMPR\SMPR\bin\Debug\ModuleTests.pdb
+D:\Скачана\КОД\C#\SMPR\SMPR\bin\Debug\ModuleVotingMethods.pdb
+D:\Скачана\КОД\C#\SMPR\SMPR\bin\Debug\en-US\Common.resources.dll
+D:\Скачана\КОД\C#\SMPR\SMPR\bin\Debug\ru-RU\Common.resources.dll
+D:\Скачана\КОД\C#\SMPR\SMPR\bin\Debug\en-US\ModuleCollectiveBenefitFunctions.resources.dll
+D:\Скачана\КОД\C#\SMPR\SMPR\bin\Debug\ru-RU\ModuleCollectiveBenefitFunctions.resources.dll
+D:\Скачана\КОД\C#\SMPR\SMPR\bin\Debug\en-US\ModuleConflictsAndCompromises.resources.dll
+D:\Скачана\КОД\C#\SMPR\SMPR\bin\Debug\ru-RU\ModuleConflictsAndCompromises.resources.dll
+D:\Скачана\КОД\C#\SMPR\SMPR\bin\Debug\en-US\ModuleCooperativeProblemSolving.resources.dll
+D:\Скачана\КОД\C#\SMPR\SMPR\bin\Debug\ru-RU\ModuleCooperativeProblemSolving.resources.dll
+D:\Скачана\КОД\C#\SMPR\SMPR\bin\Debug\en-US\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+D:\Скачана\КОД\C#\SMPR\SMPR\bin\Debug\ru-RU\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+D:\Скачана\КОД\C#\SMPR\SMPR\bin\Debug\en-US\ModuleDecisionsUnderRiskAndUncertainityMethods.resources.dll
+D:\Скачана\КОД\C#\SMPR\SMPR\bin\Debug\ru-RU\ModuleDecisionsUnderRiskAndUncertainityMethods.resources.dll
+D:\Скачана\КОД\C#\SMPR\SMPR\bin\Debug\uk-UA\ModuleDecisionsUnderRiskAndUncertainityMethods.resources.dll
+D:\Скачана\КОД\C#\SMPR\SMPR\bin\Debug\en-US\ModuleExpertProcessingMethods.resources.dll
+D:\Скачана\КОД\C#\SMPR\SMPR\bin\Debug\ru-RU\ModuleExpertProcessingMethods.resources.dll
+D:\Скачана\КОД\C#\SMPR\SMPR\bin\Debug\en-US\ModuleMulticriterionProblemMethods.resources.dll
+D:\Скачана\КОД\C#\SMPR\SMPR\bin\Debug\ru-RU\ModuleMulticriterionProblemMethods.resources.dll
+D:\Скачана\КОД\C#\SMPR\SMPR\bin\Debug\uk-UA\ModuleMulticriterionProblemMethods.resources.dll
+D:\Скачана\КОД\C#\SMPR\SMPR\bin\Debug\en-US\ModuleTests.resources.dll
+D:\Скачана\КОД\C#\SMPR\SMPR\bin\Debug\ru-RU\ModuleTests.resources.dll
+D:\Скачана\КОД\C#\SMPR\SMPR\bin\Debug\en-US\ModuleVotingMethods.resources.dll
+D:\Скачана\КОД\C#\SMPR\SMPR\bin\Debug\ru-RU\ModuleVotingMethods.resources.dll
+D:\Скачана\КОД\C#\SMPR\SMPR\obj\Debug\SMPR.csprojResolveAssemblyReference.cache
+D:\Скачана\КОД\C#\SMPR\SMPR\obj\Debug\SMPR.About.resources
+D:\Скачана\КОД\C#\SMPR\SMPR\obj\Debug\SMPR.AboutBlock.resources
+D:\Скачана\КОД\C#\SMPR\SMPR\obj\Debug\SMPR.LicenseForm.resources
+D:\Скачана\КОД\C#\SMPR\SMPR\obj\Debug\SMPR.pbTests.resources
+D:\Скачана\КОД\C#\SMPR\SMPR\obj\Debug\SMPR.ModulesListForm.resources
+D:\Скачана\КОД\C#\SMPR\SMPR\obj\Debug\SMPR.Properties.Resources.resources
+D:\Скачана\КОД\C#\SMPR\SMPR\obj\Debug\SMPR.About.en-US.resources
+D:\Скачана\КОД\C#\SMPR\SMPR\obj\Debug\SMPR.About.ru-RU.resources
+D:\Скачана\КОД\C#\SMPR\SMPR\obj\Debug\SMPR.About.zh.resources
+D:\Скачана\КОД\C#\SMPR\SMPR\obj\Debug\SMPR.AboutBlock.en-US.resources
+D:\Скачана\КОД\C#\SMPR\SMPR\obj\Debug\SMPR.AboutBlock.ru-RU.resources
+D:\Скачана\КОД\C#\SMPR\SMPR\obj\Debug\SMPR.pbTests.en-US.resources
+D:\Скачана\КОД\C#\SMPR\SMPR\obj\Debug\SMPR.pbTests.ru-RU.resources
+D:\Скачана\КОД\C#\SMPR\SMPR\obj\Debug\SMPR.pbTests.zh.resources
+D:\Скачана\КОД\C#\SMPR\SMPR\obj\Debug\SMPR.ModulesListForm.en-US.resources
+D:\Скачана\КОД\C#\SMPR\SMPR\obj\Debug\SMPR.ModulesListForm.ru-RU.resources
+D:\Скачана\КОД\C#\SMPR\SMPR\obj\Debug\SMPR.ModulesListForm.zh.resources
+D:\Скачана\КОД\C#\SMPR\SMPR\obj\Debug\SMPR.Properties.Resources.en-US.resources
+D:\Скачана\КОД\C#\SMPR\SMPR\obj\Debug\SMPR.Properties.Resources.ru-RU.resources
+D:\Скачана\КОД\C#\SMPR\SMPR\obj\Debug\SMPR.Properties.Resources.zh.resources
+D:\Скачана\КОД\C#\SMPR\SMPR\obj\Debug\SMPR.csproj.GenerateResource.Cache
+D:\Скачана\КОД\C#\SMPR\SMPR\obj\Debug\en-US\SMPR.resources.dll
+D:\Скачана\КОД\C#\SMPR\SMPR\obj\Debug\ru-RU\SMPR.resources.dll
+D:\Скачана\КОД\C#\SMPR\SMPR\obj\Debug\zh\SMPR.resources.dll
+D:\Скачана\КОД\C#\SMPR\SMPR\obj\Debug\SMPR.exe
+D:\Скачана\КОД\C#\SMPR\SMPR\obj\Debug\SMPR.pdb
+C:\Program Files (x86)\Microsoft Visual Studio 11.0\Common7\IDE\bin\Debug\SMPR.exe.config
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\bin\Debug\SMPR.exe.config
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\obj\Debug\SMPR.exe
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\obj\Debug\SMPR.pdb
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\bin\Debug\SMPR.exe
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\bin\Debug\SMPR.pdb
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\bin\Debug\en-US\SMPR.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\bin\Debug\ru-RU\SMPR.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\bin\Debug\zh\SMPR.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\bin\Debug\Common.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\bin\Debug\ModuleCollectiveBenefitFunctions.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\bin\Debug\ModuleConflictsAndCompromises.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\bin\Debug\ModuleCooperativeProblemSolving.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\bin\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\bin\Debug\ModuleDecisionsUnderRiskAndUncertainityMethods.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\bin\Debug\ModuleExpertProcessingMethods.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\bin\Debug\ModuleMulticriterionProblemMethods.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\bin\Debug\ModuleTests.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\bin\Debug\ModuleVotingMethods.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\bin\Debug\Common.pdb
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\bin\Debug\ModuleCollectiveBenefitFunctions.pdb
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\bin\Debug\ModuleConflictsAndCompromises.pdb
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\bin\Debug\ModuleCooperativeProblemSolving.pdb
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\bin\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.pdb
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\bin\Debug\ModuleDecisionsUnderRiskAndUncertainityMethods.pdb
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\bin\Debug\ModuleExpertProcessingMethods.pdb
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\bin\Debug\ModuleMulticriterionProblemMethods.pdb
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\bin\Debug\ModuleTests.pdb
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\bin\Debug\ModuleVotingMethods.pdb
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\bin\Debug\en-US\Common.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\bin\Debug\ru-RU\Common.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\bin\Debug\en-US\ModuleCollectiveBenefitFunctions.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\bin\Debug\ru-RU\ModuleCollectiveBenefitFunctions.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\bin\Debug\en-US\ModuleConflictsAndCompromises.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\bin\Debug\ru-RU\ModuleConflictsAndCompromises.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\bin\Debug\en-US\ModuleCooperativeProblemSolving.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\bin\Debug\ru-RU\ModuleCooperativeProblemSolving.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\bin\Debug\en-US\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\bin\Debug\ru-RU\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\bin\Debug\en-US\ModuleDecisionsUnderRiskAndUncertainityMethods.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\bin\Debug\ru-RU\ModuleDecisionsUnderRiskAndUncertainityMethods.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\bin\Debug\uk-UA\ModuleDecisionsUnderRiskAndUncertainityMethods.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\bin\Debug\en-US\ModuleExpertProcessingMethods.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\bin\Debug\ru-RU\ModuleExpertProcessingMethods.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\bin\Debug\en-US\ModuleMulticriterionProblemMethods.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\bin\Debug\ru-RU\ModuleMulticriterionProblemMethods.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\bin\Debug\uk-UA\ModuleMulticriterionProblemMethods.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\bin\Debug\en-US\ModuleTests.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\bin\Debug\ru-RU\ModuleTests.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\bin\Debug\en-US\ModuleVotingMethods.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\bin\Debug\ru-RU\ModuleVotingMethods.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\obj\Debug\SMPR.csprojResolveAssemblyReference.cache
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\obj\Debug\SMPR.About.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\obj\Debug\SMPR.AboutBlock.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\obj\Debug\SMPR.LicenseForm.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\obj\Debug\SMPR.pbTests.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\obj\Debug\SMPR.ModulesListForm.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\obj\Debug\SMPR.Properties.Resources.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\obj\Debug\SMPR.About.en-US.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\obj\Debug\SMPR.About.ru-RU.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\obj\Debug\SMPR.About.zh.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\obj\Debug\SMPR.AboutBlock.en-US.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\obj\Debug\SMPR.AboutBlock.ru-RU.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\obj\Debug\SMPR.pbTests.en-US.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\obj\Debug\SMPR.pbTests.ru-RU.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\obj\Debug\SMPR.pbTests.zh.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\obj\Debug\SMPR.ModulesListForm.en-US.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\obj\Debug\SMPR.ModulesListForm.ru-RU.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\obj\Debug\SMPR.ModulesListForm.zh.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\obj\Debug\SMPR.Properties.Resources.en-US.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\obj\Debug\SMPR.Properties.Resources.ru-RU.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\obj\Debug\SMPR.Properties.Resources.zh.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\obj\Debug\SMPR.csproj.GenerateResource.Cache
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\obj\Debug\en-US\SMPR.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\obj\Debug\ru-RU\SMPR.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\SMPR\obj\Debug\zh\SMPR.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\SMPR\bin\Debug\SMPR.exe.config
+C:\Andrew\Programming\TPR\SMPR3\SMPR\obj\Debug\SMPR.exe
+C:\Andrew\Programming\TPR\SMPR3\SMPR\obj\Debug\SMPR.pdb
+C:\Andrew\Programming\TPR\SMPR3\SMPR\bin\Debug\SMPR.exe
+C:\Andrew\Programming\TPR\SMPR3\SMPR\bin\Debug\SMPR.pdb
+C:\Andrew\Programming\TPR\SMPR3\SMPR\bin\Debug\en-US\SMPR.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\SMPR\bin\Debug\ru-RU\SMPR.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\SMPR\bin\Debug\zh\SMPR.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\SMPR\bin\Debug\Common.dll
+C:\Andrew\Programming\TPR\SMPR3\SMPR\bin\Debug\ModuleCollectiveBenefitFunctions.dll
+C:\Andrew\Programming\TPR\SMPR3\SMPR\bin\Debug\ModuleConflictsAndCompromises.dll
+C:\Andrew\Programming\TPR\SMPR3\SMPR\bin\Debug\ModuleCooperativeProblemSolving.dll
+C:\Andrew\Programming\TPR\SMPR3\SMPR\bin\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.dll
+C:\Andrew\Programming\TPR\SMPR3\SMPR\bin\Debug\ModuleDecisionsUnderRiskAndUncertainityMethods.dll
+C:\Andrew\Programming\TPR\SMPR3\SMPR\bin\Debug\ModuleExpertProcessingMethods.dll
+C:\Andrew\Programming\TPR\SMPR3\SMPR\bin\Debug\ModuleMulticriterionProblemMethods.dll
+C:\Andrew\Programming\TPR\SMPR3\SMPR\bin\Debug\ModuleTests.dll
+C:\Andrew\Programming\TPR\SMPR3\SMPR\bin\Debug\ModuleVotingMethods.dll
+C:\Andrew\Programming\TPR\SMPR3\SMPR\bin\Debug\Common.pdb
+C:\Andrew\Programming\TPR\SMPR3\SMPR\bin\Debug\ModuleCollectiveBenefitFunctions.pdb
+C:\Andrew\Programming\TPR\SMPR3\SMPR\bin\Debug\ModuleConflictsAndCompromises.pdb
+C:\Andrew\Programming\TPR\SMPR3\SMPR\bin\Debug\ModuleCooperativeProblemSolving.pdb
+C:\Andrew\Programming\TPR\SMPR3\SMPR\bin\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.pdb
+C:\Andrew\Programming\TPR\SMPR3\SMPR\bin\Debug\ModuleDecisionsUnderRiskAndUncertainityMethods.pdb
+C:\Andrew\Programming\TPR\SMPR3\SMPR\bin\Debug\ModuleExpertProcessingMethods.pdb
+C:\Andrew\Programming\TPR\SMPR3\SMPR\bin\Debug\ModuleMulticriterionProblemMethods.pdb
+C:\Andrew\Programming\TPR\SMPR3\SMPR\bin\Debug\ModuleTests.pdb
+C:\Andrew\Programming\TPR\SMPR3\SMPR\bin\Debug\ModuleVotingMethods.pdb
+C:\Andrew\Programming\TPR\SMPR3\SMPR\bin\Debug\en-US\Common.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\SMPR\bin\Debug\ru-RU\Common.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\SMPR\bin\Debug\en-US\ModuleCollectiveBenefitFunctions.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\SMPR\bin\Debug\ru-RU\ModuleCollectiveBenefitFunctions.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\SMPR\bin\Debug\en-US\ModuleConflictsAndCompromises.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\SMPR\bin\Debug\ru-RU\ModuleConflictsAndCompromises.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\SMPR\bin\Debug\en-US\ModuleCooperativeProblemSolving.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\SMPR\bin\Debug\ru-RU\ModuleCooperativeProblemSolving.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\SMPR\bin\Debug\en-US\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\SMPR\bin\Debug\ru-RU\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\SMPR\bin\Debug\en-US\ModuleDecisionsUnderRiskAndUncertainityMethods.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\SMPR\bin\Debug\ru-RU\ModuleDecisionsUnderRiskAndUncertainityMethods.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\SMPR\bin\Debug\uk-UA\ModuleDecisionsUnderRiskAndUncertainityMethods.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\SMPR\bin\Debug\en-US\ModuleExpertProcessingMethods.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\SMPR\bin\Debug\ru-RU\ModuleExpertProcessingMethods.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\SMPR\bin\Debug\en-US\ModuleMulticriterionProblemMethods.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\SMPR\bin\Debug\ru-RU\ModuleMulticriterionProblemMethods.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\SMPR\bin\Debug\uk-UA\ModuleMulticriterionProblemMethods.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\SMPR\bin\Debug\en-US\ModuleTests.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\SMPR\bin\Debug\ru-RU\ModuleTests.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\SMPR\bin\Debug\en-US\ModuleVotingMethods.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\SMPR\bin\Debug\ru-RU\ModuleVotingMethods.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\SMPR\obj\Debug\SMPR.csprojResolveAssemblyReference.cache
+C:\Andrew\Programming\TPR\SMPR3\SMPR\obj\Debug\SMPR.About.resources
+C:\Andrew\Programming\TPR\SMPR3\SMPR\obj\Debug\SMPR.AboutBlock.resources
+C:\Andrew\Programming\TPR\SMPR3\SMPR\obj\Debug\SMPR.LicenseForm.resources
+C:\Andrew\Programming\TPR\SMPR3\SMPR\obj\Debug\SMPR.pbTests.resources
+C:\Andrew\Programming\TPR\SMPR3\SMPR\obj\Debug\SMPR.ModulesListForm.resources
+C:\Andrew\Programming\TPR\SMPR3\SMPR\obj\Debug\SMPR.Properties.Resources.resources
+C:\Andrew\Programming\TPR\SMPR3\SMPR\obj\Debug\SMPR.About.en-US.resources
+C:\Andrew\Programming\TPR\SMPR3\SMPR\obj\Debug\SMPR.About.ru-RU.resources
+C:\Andrew\Programming\TPR\SMPR3\SMPR\obj\Debug\SMPR.About.zh.resources
+C:\Andrew\Programming\TPR\SMPR3\SMPR\obj\Debug\SMPR.AboutBlock.en-US.resources
+C:\Andrew\Programming\TPR\SMPR3\SMPR\obj\Debug\SMPR.AboutBlock.ru-RU.resources
+C:\Andrew\Programming\TPR\SMPR3\SMPR\obj\Debug\SMPR.pbTests.en-US.resources
+C:\Andrew\Programming\TPR\SMPR3\SMPR\obj\Debug\SMPR.pbTests.ru-RU.resources
+C:\Andrew\Programming\TPR\SMPR3\SMPR\obj\Debug\SMPR.pbTests.zh.resources
+C:\Andrew\Programming\TPR\SMPR3\SMPR\obj\Debug\SMPR.ModulesListForm.en-US.resources
+C:\Andrew\Programming\TPR\SMPR3\SMPR\obj\Debug\SMPR.ModulesListForm.ru-RU.resources
+C:\Andrew\Programming\TPR\SMPR3\SMPR\obj\Debug\SMPR.ModulesListForm.zh.resources
+C:\Andrew\Programming\TPR\SMPR3\SMPR\obj\Debug\SMPR.Properties.Resources.en-US.resources
+C:\Andrew\Programming\TPR\SMPR3\SMPR\obj\Debug\SMPR.Properties.Resources.ru-RU.resources
+C:\Andrew\Programming\TPR\SMPR3\SMPR\obj\Debug\SMPR.Properties.Resources.zh.resources
+C:\Andrew\Programming\TPR\SMPR3\SMPR\obj\Debug\SMPR.csproj.GenerateResource.Cache
+C:\Andrew\Programming\TPR\SMPR3\SMPR\obj\Debug\en-US\SMPR.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\SMPR\obj\Debug\ru-RU\SMPR.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\SMPR\obj\Debug\zh\SMPR.resources.dll
+D:\TPR\SMPR3.0\SMPR\bin\Debug\SMPR.exe.config
+D:\TPR\SMPR3.0\SMPR\obj\Debug\SMPR.exe
+D:\TPR\SMPR3.0\SMPR\obj\Debug\SMPR.pdb
+D:\TPR\SMPR3.0\SMPR\bin\Debug\SMPR.exe
+D:\TPR\SMPR3.0\SMPR\bin\Debug\SMPR.pdb
+D:\TPR\SMPR3.0\SMPR\bin\Debug\en-US\SMPR.resources.dll
+D:\TPR\SMPR3.0\SMPR\bin\Debug\ru-RU\SMPR.resources.dll
+D:\TPR\SMPR3.0\SMPR\bin\Debug\zh\SMPR.resources.dll
+D:\TPR\SMPR3.0\SMPR\bin\Debug\Common.dll
+D:\TPR\SMPR3.0\SMPR\bin\Debug\ModuleCollectiveBenefitFunctions.dll
+D:\TPR\SMPR3.0\SMPR\bin\Debug\ModuleConflictsAndCompromises.dll
+D:\TPR\SMPR3.0\SMPR\bin\Debug\ModuleCooperativeProblemSolving.dll
+D:\TPR\SMPR3.0\SMPR\bin\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.dll
+D:\TPR\SMPR3.0\SMPR\bin\Debug\ModuleDecisionsUnderRiskAndUncertainityMethods.dll
+D:\TPR\SMPR3.0\SMPR\bin\Debug\ModuleExpertProcessingMethods.dll
+D:\TPR\SMPR3.0\SMPR\bin\Debug\ModuleMulticriterionProblemMethods.dll
+D:\TPR\SMPR3.0\SMPR\bin\Debug\ModuleTests.dll
+D:\TPR\SMPR3.0\SMPR\bin\Debug\ModuleVotingMethods.dll
+D:\TPR\SMPR3.0\SMPR\bin\Debug\Common.pdb
+D:\TPR\SMPR3.0\SMPR\bin\Debug\ModuleCollectiveBenefitFunctions.pdb
+D:\TPR\SMPR3.0\SMPR\bin\Debug\ModuleConflictsAndCompromises.pdb
+D:\TPR\SMPR3.0\SMPR\bin\Debug\ModuleCooperativeProblemSolving.pdb
+D:\TPR\SMPR3.0\SMPR\bin\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.pdb
+D:\TPR\SMPR3.0\SMPR\bin\Debug\ModuleDecisionsUnderRiskAndUncertainityMethods.pdb
+D:\TPR\SMPR3.0\SMPR\bin\Debug\ModuleExpertProcessingMethods.pdb
+D:\TPR\SMPR3.0\SMPR\bin\Debug\ModuleMulticriterionProblemMethods.pdb
+D:\TPR\SMPR3.0\SMPR\bin\Debug\ModuleTests.pdb
+D:\TPR\SMPR3.0\SMPR\bin\Debug\ModuleVotingMethods.pdb
+D:\TPR\SMPR3.0\SMPR\bin\Debug\en-US\Common.resources.dll
+D:\TPR\SMPR3.0\SMPR\bin\Debug\ru-RU\Common.resources.dll
+D:\TPR\SMPR3.0\SMPR\bin\Debug\en-US\ModuleCollectiveBenefitFunctions.resources.dll
+D:\TPR\SMPR3.0\SMPR\bin\Debug\ru-RU\ModuleCollectiveBenefitFunctions.resources.dll
+D:\TPR\SMPR3.0\SMPR\bin\Debug\en-US\ModuleConflictsAndCompromises.resources.dll
+D:\TPR\SMPR3.0\SMPR\bin\Debug\ru-RU\ModuleConflictsAndCompromises.resources.dll
+D:\TPR\SMPR3.0\SMPR\bin\Debug\en-US\ModuleCooperativeProblemSolving.resources.dll
+D:\TPR\SMPR3.0\SMPR\bin\Debug\ru-RU\ModuleCooperativeProblemSolving.resources.dll
+D:\TPR\SMPR3.0\SMPR\bin\Debug\en-US\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+D:\TPR\SMPR3.0\SMPR\bin\Debug\ru-RU\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+D:\TPR\SMPR3.0\SMPR\bin\Debug\en-US\ModuleDecisionsUnderRiskAndUncertainityMethods.resources.dll
+D:\TPR\SMPR3.0\SMPR\bin\Debug\ru-RU\ModuleDecisionsUnderRiskAndUncertainityMethods.resources.dll
+D:\TPR\SMPR3.0\SMPR\bin\Debug\uk-UA\ModuleDecisionsUnderRiskAndUncertainityMethods.resources.dll
+D:\TPR\SMPR3.0\SMPR\bin\Debug\en-US\ModuleExpertProcessingMethods.resources.dll
+D:\TPR\SMPR3.0\SMPR\bin\Debug\ru-RU\ModuleExpertProcessingMethods.resources.dll
+D:\TPR\SMPR3.0\SMPR\bin\Debug\en-US\ModuleMulticriterionProblemMethods.resources.dll
+D:\TPR\SMPR3.0\SMPR\bin\Debug\ru-RU\ModuleMulticriterionProblemMethods.resources.dll
+D:\TPR\SMPR3.0\SMPR\bin\Debug\uk-UA\ModuleMulticriterionProblemMethods.resources.dll
+D:\TPR\SMPR3.0\SMPR\bin\Debug\en-US\ModuleTests.resources.dll
+D:\TPR\SMPR3.0\SMPR\bin\Debug\ru-RU\ModuleTests.resources.dll
+D:\TPR\SMPR3.0\SMPR\bin\Debug\en-US\ModuleVotingMethods.resources.dll
+D:\TPR\SMPR3.0\SMPR\bin\Debug\ru-RU\ModuleVotingMethods.resources.dll
+D:\TPR\SMPR3.0\SMPR\obj\Debug\SMPR.csprojResolveAssemblyReference.cache
+D:\TPR\SMPR3.0\SMPR\obj\Debug\SMPR.About.resources
+D:\TPR\SMPR3.0\SMPR\obj\Debug\SMPR.AboutBlock.resources
+D:\TPR\SMPR3.0\SMPR\obj\Debug\SMPR.LicenseForm.resources
+D:\TPR\SMPR3.0\SMPR\obj\Debug\SMPR.pbTests.resources
+D:\TPR\SMPR3.0\SMPR\obj\Debug\SMPR.ModulesListForm.resources
+D:\TPR\SMPR3.0\SMPR\obj\Debug\SMPR.Properties.Resources.resources
+D:\TPR\SMPR3.0\SMPR\obj\Debug\SMPR.About.en-US.resources
+D:\TPR\SMPR3.0\SMPR\obj\Debug\SMPR.About.ru-RU.resources
+D:\TPR\SMPR3.0\SMPR\obj\Debug\SMPR.About.zh.resources
+D:\TPR\SMPR3.0\SMPR\obj\Debug\SMPR.AboutBlock.en-US.resources
+D:\TPR\SMPR3.0\SMPR\obj\Debug\SMPR.AboutBlock.ru-RU.resources
+D:\TPR\SMPR3.0\SMPR\obj\Debug\SMPR.pbTests.en-US.resources
+D:\TPR\SMPR3.0\SMPR\obj\Debug\SMPR.pbTests.ru-RU.resources
+D:\TPR\SMPR3.0\SMPR\obj\Debug\SMPR.pbTests.zh.resources
+D:\TPR\SMPR3.0\SMPR\obj\Debug\SMPR.ModulesListForm.en-US.resources
+D:\TPR\SMPR3.0\SMPR\obj\Debug\SMPR.ModulesListForm.ru-RU.resources
+D:\TPR\SMPR3.0\SMPR\obj\Debug\SMPR.ModulesListForm.zh.resources
+D:\TPR\SMPR3.0\SMPR\obj\Debug\SMPR.Properties.Resources.en-US.resources
+D:\TPR\SMPR3.0\SMPR\obj\Debug\SMPR.Properties.Resources.ru-RU.resources
+D:\TPR\SMPR3.0\SMPR\obj\Debug\SMPR.Properties.Resources.zh.resources
+D:\TPR\SMPR3.0\SMPR\obj\Debug\SMPR.csproj.GenerateResource.Cache
+D:\TPR\SMPR3.0\SMPR\obj\Debug\en-US\SMPR.resources.dll
+D:\TPR\SMPR3.0\SMPR\obj\Debug\ru-RU\SMPR.resources.dll
+D:\TPR\SMPR3.0\SMPR\obj\Debug\zh\SMPR.resources.dll
+D:\TPR\SMPR3.0\SMPR\bin\Debug\zh\ModuleCooperativeProblemSolving.resources.dll
+D:\TPR\SMPR3.0\SMPR\bin\Debug\zh\ModuleCollectiveBenefitFunctions.resources.dll
+D:\TPR\SMPR3.0\SMPR\bin\Debug\zh\ModuleConflictsAndCompromises.resources.dll
+D:\TPR\SMPR3.0\SMPR\bin\Debug\zh\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+D:\TPR\SMPR3.0\SMPR\bin\Debug\zh\ModuleDecisionsUnderRiskAndUncertainityMethods.resources.dll
+D:\TPR\SMPR3.0\SMPR\bin\Debug\zh\ModuleExpertProcessingMethods.resources.dll
+D:\TPR\SMPR3.0\SMPR\bin\Debug\zh\ModuleMulticriterionProblemMethods.resources.dll
+D:\TPR\SMPR3.0\SMPR\bin\Debug\zh\ModuleTests.resources.dll
+D:\TPR\SMPR3.0\SMPR\bin\Debug\zh\ModuleVotingMethods.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\bin\Debug\SMPR.exe.config
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\obj\Debug\SMPR.exe
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\obj\Debug\SMPR.pdb
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\bin\Debug\SMPR.exe
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\bin\Debug\SMPR.pdb
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\bin\Debug\en-US\SMPR.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\bin\Debug\ru-RU\SMPR.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\bin\Debug\zh\SMPR.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\bin\Debug\Common.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\bin\Debug\ModuleCollectiveBenefitFunctions.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\bin\Debug\ModuleConflictsAndCompromises.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\bin\Debug\ModuleCooperativeProblemSolving.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\bin\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\bin\Debug\ModuleDecisionsUnderRiskAndUncertainityMethods.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\bin\Debug\ModuleExpertProcessingMethods.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\bin\Debug\ModuleMulticriterionProblemMethods.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\bin\Debug\ModuleTests.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\bin\Debug\ModuleVotingMethods.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\bin\Debug\Common.pdb
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\bin\Debug\ModuleCollectiveBenefitFunctions.pdb
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\bin\Debug\ModuleConflictsAndCompromises.pdb
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\bin\Debug\ModuleCooperativeProblemSolving.pdb
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\bin\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.pdb
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\bin\Debug\ModuleDecisionsUnderRiskAndUncertainityMethods.pdb
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\bin\Debug\ModuleExpertProcessingMethods.pdb
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\bin\Debug\ModuleMulticriterionProblemMethods.pdb
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\bin\Debug\ModuleTests.pdb
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\bin\Debug\ModuleVotingMethods.pdb
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\bin\Debug\en-US\Common.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\bin\Debug\ru-RU\Common.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\bin\Debug\en-US\ModuleCollectiveBenefitFunctions.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\bin\Debug\ru-RU\ModuleCollectiveBenefitFunctions.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\bin\Debug\zh\ModuleCollectiveBenefitFunctions.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\bin\Debug\en-US\ModuleConflictsAndCompromises.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\bin\Debug\ru-RU\ModuleConflictsAndCompromises.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\bin\Debug\zh\ModuleConflictsAndCompromises.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\bin\Debug\en-US\ModuleCooperativeProblemSolving.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\bin\Debug\ru-RU\ModuleCooperativeProblemSolving.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\bin\Debug\zh\ModuleCooperativeProblemSolving.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\bin\Debug\en-US\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\bin\Debug\ru-RU\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\bin\Debug\zh\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\bin\Debug\en-US\ModuleDecisionsUnderRiskAndUncertainityMethods.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\bin\Debug\ru-RU\ModuleDecisionsUnderRiskAndUncertainityMethods.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\bin\Debug\uk-UA\ModuleDecisionsUnderRiskAndUncertainityMethods.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\bin\Debug\zh\ModuleDecisionsUnderRiskAndUncertainityMethods.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\bin\Debug\en-US\ModuleExpertProcessingMethods.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\bin\Debug\ru-RU\ModuleExpertProcessingMethods.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\bin\Debug\zh\ModuleExpertProcessingMethods.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\bin\Debug\en-US\ModuleMulticriterionProblemMethods.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\bin\Debug\ru-RU\ModuleMulticriterionProblemMethods.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\bin\Debug\uk-UA\ModuleMulticriterionProblemMethods.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\bin\Debug\zh\ModuleMulticriterionProblemMethods.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\bin\Debug\en-US\ModuleTests.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\bin\Debug\ru-RU\ModuleTests.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\bin\Debug\zh\ModuleTests.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\bin\Debug\en-US\ModuleVotingMethods.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\bin\Debug\ru-RU\ModuleVotingMethods.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\bin\Debug\zh\ModuleVotingMethods.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\obj\Debug\SMPR.csprojResolveAssemblyReference.cache
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\obj\Debug\SMPR.About.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\obj\Debug\SMPR.AboutBlock.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\obj\Debug\SMPR.LicenseForm.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\obj\Debug\SMPR.pbTests.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\obj\Debug\SMPR.ModulesListForm.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\obj\Debug\SMPR.Properties.Resources.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\obj\Debug\SMPR.About.en-US.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\obj\Debug\SMPR.About.ru-RU.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\obj\Debug\SMPR.About.zh.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\obj\Debug\SMPR.AboutBlock.en-US.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\obj\Debug\SMPR.AboutBlock.ru-RU.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\obj\Debug\SMPR.pbTests.en-US.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\obj\Debug\SMPR.pbTests.ru-RU.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\obj\Debug\SMPR.pbTests.zh.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\obj\Debug\SMPR.ModulesListForm.en-US.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\obj\Debug\SMPR.ModulesListForm.ru-RU.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\obj\Debug\SMPR.ModulesListForm.zh.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\obj\Debug\SMPR.Properties.Resources.en-US.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\obj\Debug\SMPR.Properties.Resources.ru-RU.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\obj\Debug\SMPR.Properties.Resources.zh.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\obj\Debug\SMPR.csproj.GenerateResource.Cache
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\obj\Debug\en-US\SMPR.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\obj\Debug\ru-RU\SMPR.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\SMPR\obj\Debug\zh\SMPR.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\bin\Debug\SMPR.exe.config
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\obj\Debug\SMPR.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\obj\Debug\SMPR.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\bin\Debug\SMPR.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\bin\Debug\SMPR.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\bin\Debug\en-US\SMPR.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\bin\Debug\ru-RU\SMPR.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\bin\Debug\zh\SMPR.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\bin\Debug\Common.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\bin\Debug\ModuleCollectiveBenefitFunctions.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\bin\Debug\ModuleConflictsAndCompromises.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\bin\Debug\ModuleCooperativeProblemSolving.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\bin\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\bin\Debug\ModuleDecisionsUnderRiskAndUncertainityMethods.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\bin\Debug\ModuleExpertProcessingMethods.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\bin\Debug\ModuleMulticriterionProblemMethods.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\bin\Debug\ModuleTests.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\bin\Debug\ModuleVotingMethods.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\bin\Debug\Common.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\bin\Debug\ModuleCollectiveBenefitFunctions.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\bin\Debug\ModuleConflictsAndCompromises.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\bin\Debug\ModuleCooperativeProblemSolving.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\bin\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\bin\Debug\ModuleDecisionsUnderRiskAndUncertainityMethods.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\bin\Debug\ModuleExpertProcessingMethods.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\bin\Debug\ModuleMulticriterionProblemMethods.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\bin\Debug\ModuleTests.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\bin\Debug\ModuleVotingMethods.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\bin\Debug\en-US\Common.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\bin\Debug\ru-RU\Common.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\bin\Debug\en-US\ModuleCollectiveBenefitFunctions.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\bin\Debug\ru-RU\ModuleCollectiveBenefitFunctions.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\bin\Debug\zh\ModuleCollectiveBenefitFunctions.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\bin\Debug\en-US\ModuleConflictsAndCompromises.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\bin\Debug\ru-RU\ModuleConflictsAndCompromises.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\bin\Debug\zh\ModuleConflictsAndCompromises.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\bin\Debug\en-US\ModuleCooperativeProblemSolving.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\bin\Debug\ru-RU\ModuleCooperativeProblemSolving.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\bin\Debug\zh\ModuleCooperativeProblemSolving.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\bin\Debug\en-US\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\bin\Debug\ru-RU\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\bin\Debug\zh\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\bin\Debug\en-US\ModuleDecisionsUnderRiskAndUncertainityMethods.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\bin\Debug\ru-RU\ModuleDecisionsUnderRiskAndUncertainityMethods.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\bin\Debug\uk-UA\ModuleDecisionsUnderRiskAndUncertainityMethods.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\bin\Debug\zh\ModuleDecisionsUnderRiskAndUncertainityMethods.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\bin\Debug\en-US\ModuleExpertProcessingMethods.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\bin\Debug\ru-RU\ModuleExpertProcessingMethods.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\bin\Debug\zh\ModuleExpertProcessingMethods.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\bin\Debug\en-US\ModuleMulticriterionProblemMethods.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\bin\Debug\ru-RU\ModuleMulticriterionProblemMethods.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\bin\Debug\uk-UA\ModuleMulticriterionProblemMethods.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\bin\Debug\zh\ModuleMulticriterionProblemMethods.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\bin\Debug\en-US\ModuleTests.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\bin\Debug\ru-RU\ModuleTests.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\bin\Debug\zh\ModuleTests.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\bin\Debug\en-US\ModuleVotingMethods.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\bin\Debug\ru-RU\ModuleVotingMethods.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\bin\Debug\zh\ModuleVotingMethods.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\obj\Debug\SMPR.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\obj\Debug\SMPR.About.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\obj\Debug\SMPR.AboutBlock.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\obj\Debug\SMPR.LicenseForm.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\obj\Debug\SMPR.pbTests.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\obj\Debug\SMPR.ModulesListForm.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\obj\Debug\SMPR.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\obj\Debug\SMPR.About.en-US.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\obj\Debug\SMPR.About.ru-RU.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\obj\Debug\SMPR.About.zh.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\obj\Debug\SMPR.AboutBlock.en-US.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\obj\Debug\SMPR.AboutBlock.ru-RU.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\obj\Debug\SMPR.pbTests.en-US.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\obj\Debug\SMPR.pbTests.ru-RU.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\obj\Debug\SMPR.pbTests.zh.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\obj\Debug\SMPR.ModulesListForm.en-US.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\obj\Debug\SMPR.ModulesListForm.ru-RU.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\obj\Debug\SMPR.ModulesListForm.zh.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\obj\Debug\SMPR.Properties.Resources.en-US.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\obj\Debug\SMPR.Properties.Resources.ru-RU.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\obj\Debug\SMPR.Properties.Resources.zh.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\obj\Debug\SMPR.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\obj\Debug\en-US\SMPR.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\obj\Debug\ru-RU\SMPR.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\SMPR\obj\Debug\zh\SMPR.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\bin\Debug\SMPR.exe.config
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\obj\Debug\SMPR.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\obj\Debug\SMPR.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\bin\Debug\SMPR.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\bin\Debug\SMPR.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\bin\Debug\en-US\SMPR.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\bin\Debug\ru-RU\SMPR.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\bin\Debug\zh\SMPR.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\bin\Debug\Common.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\bin\Debug\ModuleCollectiveBenefitFunctions.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\bin\Debug\ModuleConflictsAndCompromises.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\bin\Debug\ModuleCooperativeProblemSolving.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\bin\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\bin\Debug\ModuleDecisionsUnderRiskAndUncertainityMethods.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\bin\Debug\ModuleExpertProcessingMethods.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\bin\Debug\ModuleMulticriterionProblemMethods.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\bin\Debug\ModuleTests.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\bin\Debug\ModuleVotingMethods.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\bin\Debug\Common.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\bin\Debug\ModuleCollectiveBenefitFunctions.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\bin\Debug\ModuleConflictsAndCompromises.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\bin\Debug\ModuleCooperativeProblemSolving.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\bin\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\bin\Debug\ModuleDecisionsUnderRiskAndUncertainityMethods.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\bin\Debug\ModuleExpertProcessingMethods.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\bin\Debug\ModuleMulticriterionProblemMethods.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\bin\Debug\ModuleTests.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\bin\Debug\ModuleVotingMethods.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\bin\Debug\en-US\Common.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\bin\Debug\ru-RU\Common.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\bin\Debug\en-US\ModuleCollectiveBenefitFunctions.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\bin\Debug\ru-RU\ModuleCollectiveBenefitFunctions.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\bin\Debug\zh\ModuleCollectiveBenefitFunctions.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\bin\Debug\en-US\ModuleConflictsAndCompromises.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\bin\Debug\ru-RU\ModuleConflictsAndCompromises.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\bin\Debug\zh\ModuleConflictsAndCompromises.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\bin\Debug\en-US\ModuleCooperativeProblemSolving.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\bin\Debug\ru-RU\ModuleCooperativeProblemSolving.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\bin\Debug\zh\ModuleCooperativeProblemSolving.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\bin\Debug\en-US\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\bin\Debug\ru-RU\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\bin\Debug\zh\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\bin\Debug\en-US\ModuleDecisionsUnderRiskAndUncertainityMethods.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\bin\Debug\ru-RU\ModuleDecisionsUnderRiskAndUncertainityMethods.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\bin\Debug\uk-UA\ModuleDecisionsUnderRiskAndUncertainityMethods.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\bin\Debug\zh\ModuleDecisionsUnderRiskAndUncertainityMethods.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\bin\Debug\en-US\ModuleExpertProcessingMethods.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\bin\Debug\ru-RU\ModuleExpertProcessingMethods.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\bin\Debug\zh\ModuleExpertProcessingMethods.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\bin\Debug\en-US\ModuleMulticriterionProblemMethods.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\bin\Debug\ru-RU\ModuleMulticriterionProblemMethods.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\bin\Debug\uk-UA\ModuleMulticriterionProblemMethods.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\bin\Debug\zh\ModuleMulticriterionProblemMethods.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\bin\Debug\en-US\ModuleTests.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\bin\Debug\ru-RU\ModuleTests.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\bin\Debug\zh\ModuleTests.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\bin\Debug\en-US\ModuleVotingMethods.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\bin\Debug\ru-RU\ModuleVotingMethods.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\bin\Debug\zh\ModuleVotingMethods.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\obj\Debug\SMPR.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\obj\Debug\SMPR.About.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\obj\Debug\SMPR.AboutBlock.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\obj\Debug\SMPR.LicenseForm.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\obj\Debug\SMPR.pbTests.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\obj\Debug\SMPR.ModulesListForm.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\obj\Debug\SMPR.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\obj\Debug\SMPR.About.en-US.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\obj\Debug\SMPR.About.ru-RU.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\obj\Debug\SMPR.About.zh.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\obj\Debug\SMPR.AboutBlock.en-US.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\obj\Debug\SMPR.AboutBlock.ru-RU.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\obj\Debug\SMPR.pbTests.en-US.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\obj\Debug\SMPR.pbTests.ru-RU.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\obj\Debug\SMPR.pbTests.zh.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\obj\Debug\SMPR.ModulesListForm.en-US.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\obj\Debug\SMPR.ModulesListForm.ru-RU.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\obj\Debug\SMPR.ModulesListForm.zh.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\obj\Debug\SMPR.Properties.Resources.en-US.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\obj\Debug\SMPR.Properties.Resources.ru-RU.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\obj\Debug\SMPR.Properties.Resources.zh.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\obj\Debug\SMPR.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\obj\Debug\en-US\SMPR.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\obj\Debug\ru-RU\SMPR.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\SMPR\obj\Debug\zh\SMPR.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\bin\Debug\SMPR.exe.config
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\bin\Debug\SMPR.exe
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\bin\Debug\SMPR.pdb
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\bin\Debug\en-US\SMPR.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\bin\Debug\ru-RU\SMPR.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\bin\Debug\zh\SMPR.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\bin\Debug\Common.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\bin\Debug\ModuleCollectiveBenefitFunctions.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\bin\Debug\ModuleConflictsAndCompromises.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\bin\Debug\ModuleCooperativeProblemSolving.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\bin\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\bin\Debug\ModuleDecisionsUnderRiskAndUncertainityMethods.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\bin\Debug\ModuleExpertProcessingMethods.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\bin\Debug\ModuleMulticriterionProblemMethods.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\bin\Debug\ModuleTests.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\bin\Debug\ModuleVotingMethods.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\bin\Debug\Common.pdb
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\bin\Debug\ModuleCollectiveBenefitFunctions.pdb
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\bin\Debug\ModuleConflictsAndCompromises.pdb
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\bin\Debug\ModuleCooperativeProblemSolving.pdb
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\bin\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.pdb
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\bin\Debug\ModuleDecisionsUnderRiskAndUncertainityMethods.pdb
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\bin\Debug\ModuleExpertProcessingMethods.pdb
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\bin\Debug\ModuleMulticriterionProblemMethods.pdb
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\bin\Debug\ModuleTests.pdb
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\bin\Debug\ModuleVotingMethods.pdb
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\bin\Debug\en-US\Common.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\bin\Debug\ru-RU\Common.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\bin\Debug\en-US\ModuleCollectiveBenefitFunctions.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\bin\Debug\ru-RU\ModuleCollectiveBenefitFunctions.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\bin\Debug\zh\ModuleCollectiveBenefitFunctions.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\bin\Debug\en-US\ModuleConflictsAndCompromises.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\bin\Debug\ru-RU\ModuleConflictsAndCompromises.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\bin\Debug\zh\ModuleConflictsAndCompromises.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\bin\Debug\en-US\ModuleCooperativeProblemSolving.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\bin\Debug\ru-RU\ModuleCooperativeProblemSolving.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\bin\Debug\zh\ModuleCooperativeProblemSolving.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\bin\Debug\en-US\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\bin\Debug\ru-RU\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\bin\Debug\zh\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\bin\Debug\en-US\ModuleDecisionsUnderRiskAndUncertainityMethods.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\bin\Debug\ru-RU\ModuleDecisionsUnderRiskAndUncertainityMethods.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\bin\Debug\uk-UA\ModuleDecisionsUnderRiskAndUncertainityMethods.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\bin\Debug\zh\ModuleDecisionsUnderRiskAndUncertainityMethods.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\bin\Debug\en-US\ModuleExpertProcessingMethods.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\bin\Debug\ru-RU\ModuleExpertProcessingMethods.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\bin\Debug\zh\ModuleExpertProcessingMethods.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\bin\Debug\en-US\ModuleMulticriterionProblemMethods.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\bin\Debug\ru-RU\ModuleMulticriterionProblemMethods.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\bin\Debug\uk-UA\ModuleMulticriterionProblemMethods.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\bin\Debug\zh\ModuleMulticriterionProblemMethods.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\bin\Debug\en-US\ModuleTests.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\bin\Debug\ru-RU\ModuleTests.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\bin\Debug\zh\ModuleTests.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\bin\Debug\en-US\ModuleVotingMethods.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\bin\Debug\ru-RU\ModuleVotingMethods.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\bin\Debug\zh\ModuleVotingMethods.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\obj\Debug\SMPR.csprojResolveAssemblyReference.cache
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\obj\Debug\SMPR.About.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\obj\Debug\SMPR.AboutBlock.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\obj\Debug\SMPR.LicenseForm.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\obj\Debug\SMPR.pbTests.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\obj\Debug\SMPR.ModulesListForm.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\obj\Debug\SMPR.Properties.Resources.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\obj\Debug\SMPR.About.en-US.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\obj\Debug\SMPR.About.ru-RU.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\obj\Debug\SMPR.About.zh.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\obj\Debug\SMPR.AboutBlock.en-US.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\obj\Debug\SMPR.AboutBlock.ru-RU.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\obj\Debug\SMPR.pbTests.en-US.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\obj\Debug\SMPR.pbTests.ru-RU.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\obj\Debug\SMPR.pbTests.zh.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\obj\Debug\SMPR.ModulesListForm.en-US.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\obj\Debug\SMPR.ModulesListForm.ru-RU.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\obj\Debug\SMPR.ModulesListForm.zh.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\obj\Debug\SMPR.Properties.Resources.en-US.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\obj\Debug\SMPR.Properties.Resources.ru-RU.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\obj\Debug\SMPR.Properties.Resources.zh.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\obj\Debug\SMPR.csproj.GenerateResource.Cache
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\obj\Debug\en-US\SMPR.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\obj\Debug\ru-RU\SMPR.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\obj\Debug\zh\SMPR.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\obj\Debug\SMPR.exe
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\SMPR\obj\Debug\SMPR.pdb
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\bin\Debug\SMPR.exe.config
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\obj\Debug\SMPR.exe
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\obj\Debug\SMPR.pdb
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\bin\Debug\SMPR.exe
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\bin\Debug\SMPR.pdb
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\bin\Debug\en-US\SMPR.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\bin\Debug\ru-RU\SMPR.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\bin\Debug\zh\SMPR.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\bin\Debug\Common.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\bin\Debug\ModuleCollectiveBenefitFunctions.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\bin\Debug\ModuleConflictsAndCompromises.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\bin\Debug\ModuleCooperativeProblemSolving.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\bin\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\bin\Debug\ModuleDecisionsUnderRiskAndUncertainityMethods.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\bin\Debug\ModuleExpertProcessingMethods.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\bin\Debug\ModuleMulticriterionProblemMethods.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\bin\Debug\ModuleTests.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\bin\Debug\ModuleVotingMethods.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\bin\Debug\Common.pdb
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\bin\Debug\ModuleCollectiveBenefitFunctions.pdb
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\bin\Debug\ModuleConflictsAndCompromises.pdb
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\bin\Debug\ModuleCooperativeProblemSolving.pdb
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\bin\Debug\ModuleDecisionsUnderFuzzyConditionsMethods.pdb
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\bin\Debug\ModuleDecisionsUnderRiskAndUncertainityMethods.pdb
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\bin\Debug\ModuleExpertProcessingMethods.pdb
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\bin\Debug\ModuleMulticriterionProblemMethods.pdb
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\bin\Debug\ModuleTests.pdb
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\bin\Debug\ModuleVotingMethods.pdb
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\bin\Debug\en-US\Common.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\bin\Debug\ru-RU\Common.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\bin\Debug\en-US\ModuleCollectiveBenefitFunctions.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\bin\Debug\ru-RU\ModuleCollectiveBenefitFunctions.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\bin\Debug\zh\ModuleCollectiveBenefitFunctions.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\bin\Debug\en-US\ModuleConflictsAndCompromises.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\bin\Debug\ru-RU\ModuleConflictsAndCompromises.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\bin\Debug\zh\ModuleConflictsAndCompromises.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\bin\Debug\en-US\ModuleCooperativeProblemSolving.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\bin\Debug\ru-RU\ModuleCooperativeProblemSolving.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\bin\Debug\zh\ModuleCooperativeProblemSolving.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\bin\Debug\en-US\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\bin\Debug\ru-RU\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\bin\Debug\zh\ModuleDecisionsUnderFuzzyConditionsMethods.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\bin\Debug\en-US\ModuleDecisionsUnderRiskAndUncertainityMethods.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\bin\Debug\ru-RU\ModuleDecisionsUnderRiskAndUncertainityMethods.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\bin\Debug\uk-UA\ModuleDecisionsUnderRiskAndUncertainityMethods.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\bin\Debug\zh\ModuleDecisionsUnderRiskAndUncertainityMethods.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\bin\Debug\en-US\ModuleExpertProcessingMethods.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\bin\Debug\ru-RU\ModuleExpertProcessingMethods.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\bin\Debug\zh\ModuleExpertProcessingMethods.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\bin\Debug\en-US\ModuleMulticriterionProblemMethods.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\bin\Debug\ru-RU\ModuleMulticriterionProblemMethods.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\bin\Debug\uk-UA\ModuleMulticriterionProblemMethods.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\bin\Debug\zh\ModuleMulticriterionProblemMethods.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\bin\Debug\en-US\ModuleTests.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\bin\Debug\ru-RU\ModuleTests.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\bin\Debug\zh\ModuleTests.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\bin\Debug\en-US\ModuleVotingMethods.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\bin\Debug\ru-RU\ModuleVotingMethods.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\bin\Debug\zh\ModuleVotingMethods.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\obj\Debug\SMPR.csprojResolveAssemblyReference.cache
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\obj\Debug\SMPR.About.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\obj\Debug\SMPR.AboutBlock.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\obj\Debug\SMPR.LicenseForm.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\obj\Debug\SMPR.pbTests.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\obj\Debug\SMPR.ModulesListForm.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\obj\Debug\SMPR.Properties.Resources.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\obj\Debug\SMPR.About.en-US.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\obj\Debug\SMPR.About.ru-RU.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\obj\Debug\SMPR.About.zh.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\obj\Debug\SMPR.AboutBlock.en-US.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\obj\Debug\SMPR.AboutBlock.ru-RU.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\obj\Debug\SMPR.pbTests.en-US.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\obj\Debug\SMPR.pbTests.ru-RU.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\obj\Debug\SMPR.pbTests.zh.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\obj\Debug\SMPR.ModulesListForm.en-US.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\obj\Debug\SMPR.ModulesListForm.ru-RU.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\obj\Debug\SMPR.ModulesListForm.zh.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\obj\Debug\SMPR.Properties.Resources.en-US.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\obj\Debug\SMPR.Properties.Resources.ru-RU.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\obj\Debug\SMPR.Properties.Resources.zh.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\obj\Debug\SMPR.csproj.GenerateResource.Cache
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\obj\Debug\en-US\SMPR.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\obj\Debug\ru-RU\SMPR.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\SMPR\obj\Debug\zh\SMPR.resources.dll

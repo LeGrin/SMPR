@@ -1,0 +1,249 @@
+Y:\Documents\SMPR\ModuleCollectiveBenefitFunctions\bin\Debug\ModuleCollectiveBenefitFunctions.dll
+Y:\Documents\SMPR\ModuleCollectiveBenefitFunctions\bin\Debug\ModuleCollectiveBenefitFunctions.pdb
+Y:\Documents\SMPR\ModuleCollectiveBenefitFunctions\bin\Debug\en-US\ModuleCollectiveBenefitFunctions.resources.dll
+Y:\Documents\SMPR\ModuleCollectiveBenefitFunctions\bin\Debug\ru-RU\ModuleCollectiveBenefitFunctions.resources.dll
+Y:\Documents\SMPR\ModuleCollectiveBenefitFunctions\bin\Debug\Common.dll
+Y:\Documents\SMPR\ModuleCollectiveBenefitFunctions\bin\Debug\Common.pdb
+Y:\Documents\SMPR\ModuleCollectiveBenefitFunctions\bin\Debug\en-US\Common.resources.dll
+Y:\Documents\SMPR\ModuleCollectiveBenefitFunctions\bin\Debug\ru-RU\Common.resources.dll
+Y:\Documents\SMPR\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.frmModule.resources
+Y:\Documents\SMPR\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.AboutPhotos.resources
+Y:\Documents\SMPR\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.Properties.Resources.resources
+Y:\Documents\SMPR\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.frmModule.en-US.resources
+Y:\Documents\SMPR\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.frmModule.ru-RU.resources
+Y:\Documents\SMPR\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.Properties.Resources.en-US.resources
+Y:\Documents\SMPR\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.Properties.Resources.ru-RU.resources
+Y:\Documents\SMPR\ModuleCollectiveBenefitFunctions\obj\Debug\ModuleCollectiveBenefitFunctions.csproj.GenerateResource.Cache
+Y:\Documents\SMPR\ModuleCollectiveBenefitFunctions\obj\Debug\en-US\ModuleCollectiveBenefitFunctions.resources.dll
+Y:\Documents\SMPR\ModuleCollectiveBenefitFunctions\obj\Debug\ru-RU\ModuleCollectiveBenefitFunctions.resources.dll
+Y:\Documents\SMPR\ModuleCollectiveBenefitFunctions\obj\Debug\ModuleCollectiveBenefitFunctions.dll
+Y:\Documents\SMPR\ModuleCollectiveBenefitFunctions\obj\Debug\ModuleCollectiveBenefitFunctions.pdb
+Y:\Documents\SMPR\ModuleCollectiveBenefitFunctions\obj\Debug\ModuleCollectiveBenefitFunctions.csprojResolveAssemblyReference.cache
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleCollectiveBenefitFunctions\bin\Debug\ModuleCollectiveBenefitFunctions.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleCollectiveBenefitFunctions\bin\Debug\ModuleCollectiveBenefitFunctions.pdb
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleCollectiveBenefitFunctions\bin\Debug\en-US\ModuleCollectiveBenefitFunctions.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleCollectiveBenefitFunctions\bin\Debug\ru-RU\ModuleCollectiveBenefitFunctions.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleCollectiveBenefitFunctions\bin\Debug\Common.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleCollectiveBenefitFunctions\bin\Debug\Common.pdb
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleCollectiveBenefitFunctions\bin\Debug\en-US\Common.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleCollectiveBenefitFunctions\bin\Debug\ru-RU\Common.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleCollectiveBenefitFunctions\obj\Debug\ModuleCollectiveBenefitFunctions.csprojResolveAssemblyReference.cache
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.frmModule.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.AboutPhotos.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.Properties.Resources.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.frmModule.en-US.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.frmModule.ru-RU.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.Properties.Resources.en-US.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.Properties.Resources.ru-RU.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleCollectiveBenefitFunctions\obj\Debug\ModuleCollectiveBenefitFunctions.csproj.GenerateResource.Cache
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleCollectiveBenefitFunctions\obj\Debug\en-US\ModuleCollectiveBenefitFunctions.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleCollectiveBenefitFunctions\obj\Debug\ru-RU\ModuleCollectiveBenefitFunctions.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleCollectiveBenefitFunctions\obj\Debug\ModuleCollectiveBenefitFunctions.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleCollectiveBenefitFunctions\obj\Debug\ModuleCollectiveBenefitFunctions.pdb
+D:\Скачана\КОД\C#\SMPR\ModuleCollectiveBenefitFunctions\bin\Debug\ModuleCollectiveBenefitFunctions.dll
+D:\Скачана\КОД\C#\SMPR\ModuleCollectiveBenefitFunctions\bin\Debug\ModuleCollectiveBenefitFunctions.pdb
+D:\Скачана\КОД\C#\SMPR\ModuleCollectiveBenefitFunctions\bin\Debug\en-US\ModuleCollectiveBenefitFunctions.resources.dll
+D:\Скачана\КОД\C#\SMPR\ModuleCollectiveBenefitFunctions\bin\Debug\ru-RU\ModuleCollectiveBenefitFunctions.resources.dll
+D:\Скачана\КОД\C#\SMPR\ModuleCollectiveBenefitFunctions\bin\Debug\Common.dll
+D:\Скачана\КОД\C#\SMPR\ModuleCollectiveBenefitFunctions\bin\Debug\Common.pdb
+D:\Скачана\КОД\C#\SMPR\ModuleCollectiveBenefitFunctions\bin\Debug\en-US\Common.resources.dll
+D:\Скачана\КОД\C#\SMPR\ModuleCollectiveBenefitFunctions\bin\Debug\ru-RU\Common.resources.dll
+D:\Скачана\КОД\C#\SMPR\ModuleCollectiveBenefitFunctions\obj\Debug\ModuleCollectiveBenefitFunctions.csprojResolveAssemblyReference.cache
+D:\Скачана\КОД\C#\SMPR\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.frmModule.resources
+D:\Скачана\КОД\C#\SMPR\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.AboutPhotos.resources
+D:\Скачана\КОД\C#\SMPR\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.Properties.Resources.resources
+D:\Скачана\КОД\C#\SMPR\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.frmModule.en-US.resources
+D:\Скачана\КОД\C#\SMPR\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.frmModule.ru-RU.resources
+D:\Скачана\КОД\C#\SMPR\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.Properties.Resources.en-US.resources
+D:\Скачана\КОД\C#\SMPR\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.Properties.Resources.ru-RU.resources
+D:\Скачана\КОД\C#\SMPR\ModuleCollectiveBenefitFunctions\obj\Debug\ModuleCollectiveBenefitFunctions.csproj.GenerateResource.Cache
+D:\Скачана\КОД\C#\SMPR\ModuleCollectiveBenefitFunctions\obj\Debug\en-US\ModuleCollectiveBenefitFunctions.resources.dll
+D:\Скачана\КОД\C#\SMPR\ModuleCollectiveBenefitFunctions\obj\Debug\ru-RU\ModuleCollectiveBenefitFunctions.resources.dll
+D:\Скачана\КОД\C#\SMPR\ModuleCollectiveBenefitFunctions\obj\Debug\ModuleCollectiveBenefitFunctions.dll
+D:\Скачана\КОД\C#\SMPR\ModuleCollectiveBenefitFunctions\obj\Debug\ModuleCollectiveBenefitFunctions.pdb
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleCollectiveBenefitFunctions\bin\Debug\ModuleCollectiveBenefitFunctions.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleCollectiveBenefitFunctions\bin\Debug\ModuleCollectiveBenefitFunctions.pdb
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleCollectiveBenefitFunctions\bin\Debug\en-US\ModuleCollectiveBenefitFunctions.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleCollectiveBenefitFunctions\bin\Debug\ru-RU\ModuleCollectiveBenefitFunctions.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleCollectiveBenefitFunctions\bin\Debug\Common.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleCollectiveBenefitFunctions\bin\Debug\Common.pdb
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleCollectiveBenefitFunctions\bin\Debug\en-US\Common.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleCollectiveBenefitFunctions\bin\Debug\ru-RU\Common.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleCollectiveBenefitFunctions\obj\Debug\ModuleCollectiveBenefitFunctions.csprojResolveAssemblyReference.cache
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.frmModule.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.AboutPhotos.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.Properties.Resources.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.frmModule.en-US.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.frmModule.ru-RU.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.Properties.Resources.en-US.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.Properties.Resources.ru-RU.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleCollectiveBenefitFunctions\obj\Debug\ModuleCollectiveBenefitFunctions.csproj.GenerateResource.Cache
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleCollectiveBenefitFunctions\obj\Debug\en-US\ModuleCollectiveBenefitFunctions.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleCollectiveBenefitFunctions\obj\Debug\ru-RU\ModuleCollectiveBenefitFunctions.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleCollectiveBenefitFunctions\obj\Debug\ModuleCollectiveBenefitFunctions.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleCollectiveBenefitFunctions\obj\Debug\ModuleCollectiveBenefitFunctions.pdb
+C:\Andrew\Programming\TPR\SMPR3\ModuleCollectiveBenefitFunctions\bin\Debug\ModuleCollectiveBenefitFunctions.dll
+C:\Andrew\Programming\TPR\SMPR3\ModuleCollectiveBenefitFunctions\bin\Debug\ModuleCollectiveBenefitFunctions.pdb
+C:\Andrew\Programming\TPR\SMPR3\ModuleCollectiveBenefitFunctions\bin\Debug\en-US\ModuleCollectiveBenefitFunctions.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\ModuleCollectiveBenefitFunctions\bin\Debug\ru-RU\ModuleCollectiveBenefitFunctions.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\ModuleCollectiveBenefitFunctions\bin\Debug\Common.dll
+C:\Andrew\Programming\TPR\SMPR3\ModuleCollectiveBenefitFunctions\bin\Debug\Common.pdb
+C:\Andrew\Programming\TPR\SMPR3\ModuleCollectiveBenefitFunctions\bin\Debug\en-US\Common.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\ModuleCollectiveBenefitFunctions\bin\Debug\ru-RU\Common.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\ModuleCollectiveBenefitFunctions\obj\Debug\ModuleCollectiveBenefitFunctions.csprojResolveAssemblyReference.cache
+C:\Andrew\Programming\TPR\SMPR3\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.frmModule.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.AboutPhotos.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.Properties.Resources.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.frmModule.en-US.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.frmModule.ru-RU.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.Properties.Resources.en-US.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.Properties.Resources.ru-RU.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleCollectiveBenefitFunctions\obj\Debug\ModuleCollectiveBenefitFunctions.csproj.GenerateResource.Cache
+C:\Andrew\Programming\TPR\SMPR3\ModuleCollectiveBenefitFunctions\obj\Debug\en-US\ModuleCollectiveBenefitFunctions.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\ModuleCollectiveBenefitFunctions\obj\Debug\ru-RU\ModuleCollectiveBenefitFunctions.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\ModuleCollectiveBenefitFunctions\obj\Debug\ModuleCollectiveBenefitFunctions.dll
+C:\Andrew\Programming\TPR\SMPR3\ModuleCollectiveBenefitFunctions\obj\Debug\ModuleCollectiveBenefitFunctions.pdb
+D:\TPR\SMPR3.0\ModuleCollectiveBenefitFunctions\bin\Debug\ModuleCollectiveBenefitFunctions.dll
+D:\TPR\SMPR3.0\ModuleCollectiveBenefitFunctions\bin\Debug\ModuleCollectiveBenefitFunctions.pdb
+D:\TPR\SMPR3.0\ModuleCollectiveBenefitFunctions\bin\Debug\en-US\ModuleCollectiveBenefitFunctions.resources.dll
+D:\TPR\SMPR3.0\ModuleCollectiveBenefitFunctions\bin\Debug\ru-RU\ModuleCollectiveBenefitFunctions.resources.dll
+D:\TPR\SMPR3.0\ModuleCollectiveBenefitFunctions\bin\Debug\Common.dll
+D:\TPR\SMPR3.0\ModuleCollectiveBenefitFunctions\bin\Debug\Common.pdb
+D:\TPR\SMPR3.0\ModuleCollectiveBenefitFunctions\bin\Debug\en-US\Common.resources.dll
+D:\TPR\SMPR3.0\ModuleCollectiveBenefitFunctions\bin\Debug\ru-RU\Common.resources.dll
+D:\TPR\SMPR3.0\ModuleCollectiveBenefitFunctions\obj\Debug\ModuleCollectiveBenefitFunctions.csprojResolveAssemblyReference.cache
+D:\TPR\SMPR3.0\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.frmModule.resources
+D:\TPR\SMPR3.0\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.AboutPhotos.resources
+D:\TPR\SMPR3.0\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.Properties.Resources.resources
+D:\TPR\SMPR3.0\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.frmModule.en-US.resources
+D:\TPR\SMPR3.0\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.frmModule.ru-RU.resources
+D:\TPR\SMPR3.0\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.Properties.Resources.en-US.resources
+D:\TPR\SMPR3.0\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.Properties.Resources.ru-RU.resources
+D:\TPR\SMPR3.0\ModuleCollectiveBenefitFunctions\obj\Debug\ModuleCollectiveBenefitFunctions.csproj.GenerateResource.Cache
+D:\TPR\SMPR3.0\ModuleCollectiveBenefitFunctions\obj\Debug\en-US\ModuleCollectiveBenefitFunctions.resources.dll
+D:\TPR\SMPR3.0\ModuleCollectiveBenefitFunctions\obj\Debug\ru-RU\ModuleCollectiveBenefitFunctions.resources.dll
+D:\TPR\SMPR3.0\ModuleCollectiveBenefitFunctions\obj\Debug\ModuleCollectiveBenefitFunctions.dll
+D:\TPR\SMPR3.0\ModuleCollectiveBenefitFunctions\obj\Debug\ModuleCollectiveBenefitFunctions.pdb
+D:\TPR\SMPR3.0\ModuleCollectiveBenefitFunctions\bin\Debug\zh\ModuleCollectiveBenefitFunctions.resources.dll
+D:\TPR\SMPR3.0\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.Properties.Resources.zh.resources
+D:\TPR\SMPR3.0\ModuleCollectiveBenefitFunctions\obj\Debug\zh\ModuleCollectiveBenefitFunctions.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleCollectiveBenefitFunctions\bin\Debug\ModuleCollectiveBenefitFunctions.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleCollectiveBenefitFunctions\bin\Debug\ModuleCollectiveBenefitFunctions.pdb
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleCollectiveBenefitFunctions\bin\Debug\en-US\ModuleCollectiveBenefitFunctions.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleCollectiveBenefitFunctions\bin\Debug\ru-RU\ModuleCollectiveBenefitFunctions.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleCollectiveBenefitFunctions\bin\Debug\zh\ModuleCollectiveBenefitFunctions.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleCollectiveBenefitFunctions\bin\Debug\Common.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleCollectiveBenefitFunctions\bin\Debug\Common.pdb
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleCollectiveBenefitFunctions\bin\Debug\en-US\Common.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleCollectiveBenefitFunctions\bin\Debug\ru-RU\Common.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleCollectiveBenefitFunctions\obj\Debug\ModuleCollectiveBenefitFunctions.csprojResolveAssemblyReference.cache
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.frmModule.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.AboutPhotos.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.Properties.Resources.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.frmModule.en-US.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.frmModule.ru-RU.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.Properties.Resources.en-US.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.Properties.Resources.ru-RU.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.Properties.Resources.zh.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleCollectiveBenefitFunctions\obj\Debug\ModuleCollectiveBenefitFunctions.csproj.GenerateResource.Cache
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleCollectiveBenefitFunctions\obj\Debug\en-US\ModuleCollectiveBenefitFunctions.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleCollectiveBenefitFunctions\obj\Debug\ru-RU\ModuleCollectiveBenefitFunctions.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleCollectiveBenefitFunctions\obj\Debug\zh\ModuleCollectiveBenefitFunctions.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleCollectiveBenefitFunctions\obj\Debug\ModuleCollectiveBenefitFunctions.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleCollectiveBenefitFunctions\obj\Debug\ModuleCollectiveBenefitFunctions.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleCollectiveBenefitFunctions\bin\Debug\ModuleCollectiveBenefitFunctions.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleCollectiveBenefitFunctions\bin\Debug\ModuleCollectiveBenefitFunctions.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleCollectiveBenefitFunctions\bin\Debug\en-US\ModuleCollectiveBenefitFunctions.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleCollectiveBenefitFunctions\bin\Debug\ru-RU\ModuleCollectiveBenefitFunctions.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleCollectiveBenefitFunctions\bin\Debug\zh\ModuleCollectiveBenefitFunctions.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleCollectiveBenefitFunctions\bin\Debug\Common.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleCollectiveBenefitFunctions\bin\Debug\Common.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleCollectiveBenefitFunctions\bin\Debug\en-US\Common.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleCollectiveBenefitFunctions\bin\Debug\ru-RU\Common.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleCollectiveBenefitFunctions\obj\Debug\ModuleCollectiveBenefitFunctions.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.frmModule.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.AboutPhotos.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.frmModule.en-US.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.frmModule.ru-RU.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.Properties.Resources.en-US.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.Properties.Resources.ru-RU.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.Properties.Resources.zh.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleCollectiveBenefitFunctions\obj\Debug\ModuleCollectiveBenefitFunctions.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleCollectiveBenefitFunctions\obj\Debug\en-US\ModuleCollectiveBenefitFunctions.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleCollectiveBenefitFunctions\obj\Debug\ru-RU\ModuleCollectiveBenefitFunctions.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleCollectiveBenefitFunctions\obj\Debug\zh\ModuleCollectiveBenefitFunctions.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleCollectiveBenefitFunctions\obj\Debug\ModuleCollectiveBenefitFunctions.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleCollectiveBenefitFunctions\obj\Debug\ModuleCollectiveBenefitFunctions.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleCollectiveBenefitFunctions\bin\Debug\ModuleCollectiveBenefitFunctions.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleCollectiveBenefitFunctions\bin\Debug\ModuleCollectiveBenefitFunctions.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleCollectiveBenefitFunctions\bin\Debug\en-US\ModuleCollectiveBenefitFunctions.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleCollectiveBenefitFunctions\bin\Debug\ru-RU\ModuleCollectiveBenefitFunctions.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleCollectiveBenefitFunctions\bin\Debug\zh\ModuleCollectiveBenefitFunctions.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleCollectiveBenefitFunctions\bin\Debug\Common.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleCollectiveBenefitFunctions\bin\Debug\Common.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleCollectiveBenefitFunctions\bin\Debug\en-US\Common.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleCollectiveBenefitFunctions\bin\Debug\ru-RU\Common.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleCollectiveBenefitFunctions\obj\Debug\ModuleCollectiveBenefitFunctions.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.frmModule.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.AboutPhotos.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.frmModule.en-US.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.frmModule.ru-RU.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.Properties.Resources.en-US.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.Properties.Resources.ru-RU.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.Properties.Resources.zh.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleCollectiveBenefitFunctions\obj\Debug\ModuleCollectiveBenefitFunctions.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleCollectiveBenefitFunctions\obj\Debug\en-US\ModuleCollectiveBenefitFunctions.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleCollectiveBenefitFunctions\obj\Debug\ru-RU\ModuleCollectiveBenefitFunctions.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleCollectiveBenefitFunctions\obj\Debug\zh\ModuleCollectiveBenefitFunctions.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleCollectiveBenefitFunctions\obj\Debug\ModuleCollectiveBenefitFunctions.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleCollectiveBenefitFunctions\obj\Debug\ModuleCollectiveBenefitFunctions.pdb
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleCollectiveBenefitFunctions\bin\Debug\ModuleCollectiveBenefitFunctions.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleCollectiveBenefitFunctions\bin\Debug\ModuleCollectiveBenefitFunctions.pdb
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleCollectiveBenefitFunctions\bin\Debug\en-US\ModuleCollectiveBenefitFunctions.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleCollectiveBenefitFunctions\bin\Debug\ru-RU\ModuleCollectiveBenefitFunctions.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleCollectiveBenefitFunctions\bin\Debug\zh\ModuleCollectiveBenefitFunctions.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleCollectiveBenefitFunctions\bin\Debug\Common.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleCollectiveBenefitFunctions\bin\Debug\Common.pdb
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleCollectiveBenefitFunctions\bin\Debug\en-US\Common.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleCollectiveBenefitFunctions\bin\Debug\ru-RU\Common.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleCollectiveBenefitFunctions\obj\Debug\ModuleCollectiveBenefitFunctions.csprojResolveAssemblyReference.cache
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.frmModule.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.AboutPhotos.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.Properties.Resources.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.frmModule.en-US.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.frmModule.ru-RU.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.Properties.Resources.en-US.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.Properties.Resources.ru-RU.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.Properties.Resources.zh.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleCollectiveBenefitFunctions\obj\Debug\ModuleCollectiveBenefitFunctions.csproj.GenerateResource.Cache
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleCollectiveBenefitFunctions\obj\Debug\en-US\ModuleCollectiveBenefitFunctions.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleCollectiveBenefitFunctions\obj\Debug\ru-RU\ModuleCollectiveBenefitFunctions.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleCollectiveBenefitFunctions\obj\Debug\zh\ModuleCollectiveBenefitFunctions.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleCollectiveBenefitFunctions\obj\Debug\ModuleCollectiveBenefitFunctions.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleCollectiveBenefitFunctions\obj\Debug\ModuleCollectiveBenefitFunctions.pdb
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleCollectiveBenefitFunctions\bin\Debug\ModuleCollectiveBenefitFunctions.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleCollectiveBenefitFunctions\bin\Debug\ModuleCollectiveBenefitFunctions.pdb
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleCollectiveBenefitFunctions\bin\Debug\en-US\ModuleCollectiveBenefitFunctions.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleCollectiveBenefitFunctions\bin\Debug\ru-RU\ModuleCollectiveBenefitFunctions.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleCollectiveBenefitFunctions\bin\Debug\zh\ModuleCollectiveBenefitFunctions.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleCollectiveBenefitFunctions\bin\Debug\Common.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleCollectiveBenefitFunctions\bin\Debug\Common.pdb
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleCollectiveBenefitFunctions\bin\Debug\en-US\Common.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleCollectiveBenefitFunctions\bin\Debug\ru-RU\Common.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleCollectiveBenefitFunctions\obj\Debug\ModuleCollectiveBenefitFunctions.csprojResolveAssemblyReference.cache
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.frmModule.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.AboutPhotos.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.Properties.Resources.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.frmModule.en-US.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.frmModule.ru-RU.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.Properties.Resources.en-US.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.Properties.Resources.ru-RU.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.Properties.Resources.zh.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleCollectiveBenefitFunctions\obj\Debug\ModuleCollectiveBenefitFunctions.csproj.GenerateResource.Cache
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleCollectiveBenefitFunctions\obj\Debug\en-US\ModuleCollectiveBenefitFunctions.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleCollectiveBenefitFunctions\obj\Debug\ru-RU\ModuleCollectiveBenefitFunctions.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleCollectiveBenefitFunctions\obj\Debug\zh\ModuleCollectiveBenefitFunctions.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleCollectiveBenefitFunctions\obj\Debug\ModuleCollectiveBenefitFunctions.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleCollectiveBenefitFunctions\obj\Debug\ModuleCollectiveBenefitFunctions.pdb

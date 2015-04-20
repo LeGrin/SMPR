@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Microsoft Sans Serif" Size="8.25" />
+  <Class Name="Modules.MulticriterionProblemMethods.Methods.Method_1">
+    <Position X="1" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Methods\Method_1.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQACAAAAAAAAAACAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modules.MulticriterionProblemMethods.Methods.Method_2">
+    <Position X="3" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Methods\Method_2.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQACAAAAAAAAAACAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modules.MulticriterionProblemMethods.Methods.Method_3">
+    <Position X="4.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Methods\Method_3.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQACAAAAAAAAAACAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modules.MulticriterionProblemMethods.Methods.Method_4">
+    <Position X="6.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Methods\Method_4.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQACAAAAAAAAAACAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modules.MulticriterionProblemMethods.Methods.Method_5">
+    <Position X="10.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Methods\Method_5.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQACAAAAAAAAAACAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modules.MulticriterionProblemMethods.Methods.Method_6">
+    <Position X="8.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Methods\Method_6.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQACAAAAAAAAAACAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Modules.MulticriterionProblemMethods.Method">
+    <Position X="4.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Method.cs</FileName>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAACAAgAAAAAAACAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+</ClassDiagram>

@@ -1,0 +1,373 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="AddTableHS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\AddTableHS.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BreakpointHS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BreakpointHS.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CommentHS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CommentHS.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DeleteHS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\DeleteHS.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="graphhs" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\graphhs.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NewDocumentHS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NewDocumentHS.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="openHS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\openHS.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="OpenSelectedItemHS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\OpenSelectedItemHS.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="OrganizerHS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\OrganizerHS.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RadialChartHS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\RadialChartHS.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="SaveAsWebPageHS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\SaveAsWebPageHS.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="saveHS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\saveHS.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TableHS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TableHS.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MethodAlternativeVoices" xml:space="preserve">
+    <value>Метод альтернативних голосів</value>
+  </data>
+  <data name="MethodAbsoluteMajority" xml:space="preserve">
+    <value>Метод абсолютної більшості</value>
+  </data>
+  <data name="MethodBord" xml:space="preserve">
+    <value>Метод Борда</value>
+  </data>
+  <data name="MethodCondorse" xml:space="preserve">
+    <value>Метод Кондорсе</value>
+  </data>
+  <data name="MethodConsecutiveException" xml:space="preserve">
+    <value>Метод послідовного виключення</value>
+  </data>
+  <data name="MethodCopland" xml:space="preserve">
+    <value>Метод Копленда</value>
+  </data>
+  <data name="MethodRelativeMajority" xml:space="preserve">
+    <value>Метод відносної більшості</value>
+  </data>
+  <data name="MethodSimpson" xml:space="preserve">
+    <value>Метод Сімпсона</value>
+  </data>
+  <data name="bufferLoadPointsException" xml:space="preserve">
+    <value>Вибраний елемент буфера не є вектором очок. Завантаження неможливе</value>
+  </data>
+  <data name="bufferLoadProfileException" xml:space="preserve">
+    <value>Вибраний елемент буфера не є профілем. Завантаження неможливе</value>
+  </data>
+  <data name="candidateCaption" xml:space="preserve">
+    <value>Кандидат #</value>
+  </data>
+  <data name="frmAddCandidateCaption" xml:space="preserve">
+    <value>Додавання кандидата</value>
+  </data>
+  <data name="frmAddCandidateException" xml:space="preserve">
+    <value>Кандидат з таким ім'ям вже зареєстрований</value>
+  </data>
+  <data name="frmChangeCandidateCaption" xml:space="preserve">
+    <value>Перейменування кандидатів</value>
+  </data>
+  <data name="frmDeleteCandidateCaption" xml:space="preserve">
+    <value>Видалення кандидатів</value>
+  </data>
+  <data name="frmDeleteCandidateQuestion" xml:space="preserve">
+    <value>Ви впевнені, що хочете видалити обраних кандидатів?</value>
+  </data>
+  <data name="frmDeleteCandidateStatusDelete" xml:space="preserve">
+    <value>Видалити</value>
+  </data>
+  <data name="frmModuleCaption" xml:space="preserve">
+    <value>Методи голосування</value>
+  </data>
+  <data name="methodCondorseException" xml:space="preserve">
+    <value>Даний профіль не має переможця за Кондорсе</value>
+  </data>
+  <data name="methodConsecutiveExceptionException" xml:space="preserve">
+    <value>У даному профілі не можна однозначно визначити переможця при порівнянні 2х кандидатів</value>
+  </data>
+  <data name="methodCopplandException" xml:space="preserve">
+    <value>Даний профіль не має переможця за Коплендом</value>
+  </data>
+  <data name="methodException" xml:space="preserve">
+    <value>Під час виконання методу "{0}" сталася помилка: "{1}"</value>
+  </data>
+  <data name="methodSimpsonException" xml:space="preserve">
+    <value>Даний профіль не має переможця за Сімпсоном</value>
+  </data>
+  <data name="pointsCaption" xml:space="preserve">
+    <value>Очки</value>
+  </data>
+  <data name="profileOrder1Exception" xml:space="preserve">
+    <value>Неправильно заданий номер кандидата</value>
+  </data>
+  <data name="profileOrder2Exception" xml:space="preserve">
+    <value>Один кандидат не може двічі зустрічатися у порівнянні</value>
+  </data>
+  <data name="profilePointsException" xml:space="preserve">
+    <value>Не введені всі очки до профілю або очки задані не в строго спадному порядку</value>
+  </data>
+  <data name="profileProfileFullException" xml:space="preserve">
+    <value>Ви повинні ввести всі дані до профілю</value>
+  </data>
+  <data name="profileProfileUniqueException" xml:space="preserve">
+    <value>Один кандидат не може мати 2-х позицій в рейтингу однієї групи виборців</value>
+  </data>
+  <data name="profileVotersCorrectException" xml:space="preserve">
+    <value>Кількість виборців у групі повинна бути додатньою</value>
+  </data>
+  <data name="profileVotersFullException" xml:space="preserve">
+    <value>Ви повинні ввести кількість виборців до кожної з груп виборців</value>
+  </data>
+  <data name="profileVotersGroupCaption" xml:space="preserve">
+    <value>Група виборців #</value>
+  </data>
+  <data name="Icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\breakpoinths.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ModuleHelp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\modulehelp.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="MethodHelp_Bord" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\methodhelp_bord.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="order" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\order.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="MethodHelp_Condorse" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MathodHelp_Conderse.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="MethodHelp_AlternativeVoices" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MethodHelp_AlternativeVoices.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="MethodHelp_ConsecutiveException" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MethodHelp_ConsecutiveException.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;koi8-r</value>
+  </data>
+  <data name="MethodHelp_Copland" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MethodHelp_Copland.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="MethodHelp_RelativeMajority" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MethodHelp_RelativeMajority.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="MethodHelp_Simpson" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\MethodHelp_Simpson.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="Help" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Help.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="Simpson_method_en_US" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Simpson method.en-US.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="Допомога" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Допомога.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="Метод_Симпсона_ru_RU" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Метод Симпсона.ru-RU.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="Метод_Сімпсона_uk_UA" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Метод Сімпосона.uk-UA.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="Помощь" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Помощь.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Info" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Info.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="perm" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\perm.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="question" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\question.png;System.Drawing.Bitmap, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Alternative_voices_method_en_US" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Alternative voices method.en-US.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="Bord_method_en_US" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Bord method.en-US.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="Condorse_method_en_US" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Condorse method.en-US.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="Consecutive_exception_method_en_US" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Consecutive exception method.en-US.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="Copland_method_en_US" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Copland method.en-US.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="Relative_majority_method_en_US" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Relative majority method.en-US.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="Метод_альтернативних_голосів_uk_UA" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Метод альтернативних голосів.uk-UA.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="Метод_альтернативных_голосов_ru_RU" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Метод альтернативных голосов.ru-RU.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="Метод_Борда_ru_RU" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Метод Борда.ru-RU.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="Метод_Борда_uk_UA" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Метод Борда.uk-UA.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="Метод_відносної_більшості_uk_UA" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Метод відносної більшості.uk-UA.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="Метод_Кондорсе_ru_RU" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Метод Кондорсе.ru-RU.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="Метод_Кондорсе_uk_UA" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Метод Кондорсе.uk-UA.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="Метод_Копленда_ru_RU" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Метод Копленда.ru-RU.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="Метод_Копленда_uk_UA" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Метод Копленда.uk-UA.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="Метод_относительного_большинства_ru_RU" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Метод относительного большинства.ru-RU.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="Метод_последовательного_исключения_ru_RU" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Метод последовательного исключения.ru-RU.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="Метод_послідовного_виключення_uk_UA" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Метод послідовного виключення.uk-UA.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="Метод_Сімпсона_uk_UA1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Метод Сімпсона.uk-UA.rtf;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="typeDataGridCellError" xml:space="preserve">
+    <value>Помилка при вводі данних в таблицю. Можна вводити тільки числа.</value>
+  </data>
+</root>

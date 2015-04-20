@@ -1,0 +1,25 @@
+В даному документі містяться пояснення деяких моментів проекту.
+
+-== 1. Деякі моменти з роботи з типом "Modules.MulticriterionProblemMethods.DataTypes.Matrix".
+       using Matrix = Modules.MulticriterionProblemMethods.DataTypes.Matrix;
+       Нехай маємо Matrix matr = new Matrix();
+        - Отритмати кількість альтернатив/критеріїв, що містяться в матриці, можна, прописавши matr.AlternativesCount або matrix.CriteriumsCount відповідно.
+        - Отримати Альтернативу/Критерій за деяким індексом "i" можна , прописавши matrix.GetAlternativeByIndex( i ) або matrix.GetCriteriumByIndex( i ) відповідно;
+        
+-== 2. Матриця та її використання в класі "Modules.MulticriterionProblemMethods.Method".
+	   При реалізації методу "Do()" в одному з підкласів класу "Modules.MulticriterionProblemMethods.Method", доступ до введених користувачем даних (а саме до матриці), можна 
+	   отримати, прописавши this.Matrix .
+	   
+-== 3. Виклик форм для ведення діалогу з користувачем для вирішення деякої задачі.
+       Якщо алгоритм деякого методу є діалоговою процедурою з користувачем, то не потрібно створювати свою діалогову форму, та викликати її з коду, написавши щось типу "frm myDialogForm = new myDialogForm(); frm.ShowDialog()."
+       Потрібно зробити ось що:
+       1.Створити в папці "\View\Controls\MethodCallback" свій контрол (Control), нехай він наз. myCallbackControl.
+       2.Наслідувати myCallbackControl від "Modules.MulticriterionProblemMethods.View.Controls.MethodCallback.ctrlMethodCallbackBase".
+       3.Перевизначити(override)  властивість Value (має повертати значення, введене користувачем),
+         бажано перевизначити метод Init(Dictionary<string, object> parameters) (можливо в подальшому даний метод буде інтенсивно використовуватись),
+         перевизначити(якщо потрібно) метод IsValid(), в якому повинна йти перевірка на коректність введених користувачем даних.
+       4.На даний контрол добавити все, що потрібно для введення користувачем даних(кнопочки, гріди, скроллбари).
+       5.! Не потрібно туди кидати кнопки "Ок" та "Закрити", вони вже є на формі, яка буде містити даний контрол.
+       6.Викликати метод DoCallback(), передавши як вхідний параметр вже зініціалізований myCallbackControl. Метод поверне значення, введене користувачем.
+       Приклад: в Method_1
+       

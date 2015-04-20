@@ -1,0 +1,258 @@
+Y:\Documents\SMPR\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.AboutPhotos.resources
+Y:\Documents\SMPR\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.frmModule.resources
+Y:\Documents\SMPR\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.Properties.Resources.resources
+Y:\Documents\SMPR\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.TaskSelector.resources
+Y:\Documents\SMPR\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.frmModule.en-US.resources
+Y:\Documents\SMPR\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.frmModule.ru-RU.resources
+Y:\Documents\SMPR\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.Properties.Resources.en-US.resources
+Y:\Documents\SMPR\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.Properties.Resources.ru-RU.resources
+Y:\Documents\SMPR\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.TaskSelector.en-US.resources
+Y:\Documents\SMPR\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.TaskSelector.ru-RU.resources
+Y:\Documents\SMPR\ModuleConflictsAndCompromisesMethods\obj\Debug\ModuleConflictsAndCompromises.csproj.GenerateResource.Cache
+Y:\Documents\SMPR\ModuleConflictsAndCompromisesMethods\bin\Debug\ModuleConflictsAndCompromises.dll
+Y:\Documents\SMPR\ModuleConflictsAndCompromisesMethods\bin\Debug\ModuleConflictsAndCompromises.pdb
+Y:\Documents\SMPR\ModuleConflictsAndCompromisesMethods\bin\Debug\en-US\ModuleConflictsAndCompromises.resources.dll
+Y:\Documents\SMPR\ModuleConflictsAndCompromisesMethods\bin\Debug\ru-RU\ModuleConflictsAndCompromises.resources.dll
+Y:\Documents\SMPR\ModuleConflictsAndCompromisesMethods\bin\Debug\Common.dll
+Y:\Documents\SMPR\ModuleConflictsAndCompromisesMethods\bin\Debug\Common.pdb
+Y:\Documents\SMPR\ModuleConflictsAndCompromisesMethods\bin\Debug\en-US\Common.resources.dll
+Y:\Documents\SMPR\ModuleConflictsAndCompromisesMethods\bin\Debug\ru-RU\Common.resources.dll
+Y:\Documents\SMPR\ModuleConflictsAndCompromisesMethods\obj\Debug\en-US\ModuleConflictsAndCompromises.resources.dll
+Y:\Documents\SMPR\ModuleConflictsAndCompromisesMethods\obj\Debug\ru-RU\ModuleConflictsAndCompromises.resources.dll
+Y:\Documents\SMPR\ModuleConflictsAndCompromisesMethods\obj\Debug\ModuleConflictsAndCompromises.dll
+Y:\Documents\SMPR\ModuleConflictsAndCompromisesMethods\obj\Debug\ModuleConflictsAndCompromises.pdb
+Y:\Documents\SMPR\ModuleConflictsAndCompromisesMethods\obj\Debug\ModuleConflictsAndCompromises.csprojResolveAssemblyReference.cache
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleConflictsAndCompromisesMethods\bin\Debug\ModuleConflictsAndCompromises.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleConflictsAndCompromisesMethods\bin\Debug\ModuleConflictsAndCompromises.pdb
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleConflictsAndCompromisesMethods\bin\Debug\en-US\ModuleConflictsAndCompromises.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleConflictsAndCompromisesMethods\bin\Debug\ru-RU\ModuleConflictsAndCompromises.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleConflictsAndCompromisesMethods\bin\Debug\Common.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleConflictsAndCompromisesMethods\bin\Debug\Common.pdb
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleConflictsAndCompromisesMethods\bin\Debug\en-US\Common.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleConflictsAndCompromisesMethods\bin\Debug\ru-RU\Common.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\ModuleConflictsAndCompromises.csprojResolveAssemblyReference.cache
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.AboutPhotos.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.frmModule.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.Properties.Resources.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.TaskSelector.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.frmModule.en-US.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.frmModule.ru-RU.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.Properties.Resources.en-US.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.Properties.Resources.ru-RU.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.TaskSelector.en-US.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.TaskSelector.ru-RU.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\ModuleConflictsAndCompromises.csproj.GenerateResource.Cache
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\en-US\ModuleConflictsAndCompromises.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\ru-RU\ModuleConflictsAndCompromises.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\ModuleConflictsAndCompromises.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\ModuleConflictsAndCompromises.pdb
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleConflictsAndCompromisesMethods\bin\Debug\ModuleConflictsAndCompromises.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleConflictsAndCompromisesMethods\bin\Debug\ModuleConflictsAndCompromises.pdb
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleConflictsAndCompromisesMethods\bin\Debug\en-US\ModuleConflictsAndCompromises.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleConflictsAndCompromisesMethods\bin\Debug\ru-RU\ModuleConflictsAndCompromises.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleConflictsAndCompromisesMethods\bin\Debug\Common.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleConflictsAndCompromisesMethods\bin\Debug\Common.pdb
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleConflictsAndCompromisesMethods\bin\Debug\en-US\Common.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleConflictsAndCompromisesMethods\bin\Debug\ru-RU\Common.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleConflictsAndCompromisesMethods\obj\Debug\ModuleConflictsAndCompromises.csprojResolveAssemblyReference.cache
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.AboutPhotos.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.frmModule.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.Properties.Resources.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.TaskSelector.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.frmModule.en-US.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.frmModule.ru-RU.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.Properties.Resources.en-US.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.Properties.Resources.ru-RU.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.TaskSelector.en-US.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.TaskSelector.ru-RU.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleConflictsAndCompromisesMethods\obj\Debug\ModuleConflictsAndCompromises.csproj.GenerateResource.Cache
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleConflictsAndCompromisesMethods\obj\Debug\en-US\ModuleConflictsAndCompromises.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleConflictsAndCompromisesMethods\obj\Debug\ru-RU\ModuleConflictsAndCompromises.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleConflictsAndCompromisesMethods\obj\Debug\ModuleConflictsAndCompromises.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleConflictsAndCompromisesMethods\obj\Debug\ModuleConflictsAndCompromises.pdb
+C:\Andrew\Programming\TPR\SMPR3\ModuleConflictsAndCompromisesMethods\bin\Debug\ModuleConflictsAndCompromises.dll
+C:\Andrew\Programming\TPR\SMPR3\ModuleConflictsAndCompromisesMethods\bin\Debug\ModuleConflictsAndCompromises.pdb
+C:\Andrew\Programming\TPR\SMPR3\ModuleConflictsAndCompromisesMethods\bin\Debug\en-US\ModuleConflictsAndCompromises.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\ModuleConflictsAndCompromisesMethods\bin\Debug\ru-RU\ModuleConflictsAndCompromises.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\ModuleConflictsAndCompromisesMethods\bin\Debug\Common.dll
+C:\Andrew\Programming\TPR\SMPR3\ModuleConflictsAndCompromisesMethods\bin\Debug\Common.pdb
+C:\Andrew\Programming\TPR\SMPR3\ModuleConflictsAndCompromisesMethods\bin\Debug\en-US\Common.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\ModuleConflictsAndCompromisesMethods\bin\Debug\ru-RU\Common.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\ModuleConflictsAndCompromisesMethods\obj\Debug\ModuleConflictsAndCompromises.csprojResolveAssemblyReference.cache
+C:\Andrew\Programming\TPR\SMPR3\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.AboutPhotos.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.frmModule.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.Properties.Resources.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.TaskSelector.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.frmModule.en-US.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.frmModule.ru-RU.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.Properties.Resources.en-US.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.Properties.Resources.ru-RU.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.TaskSelector.en-US.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.TaskSelector.ru-RU.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleConflictsAndCompromisesMethods\obj\Debug\ModuleConflictsAndCompromises.csproj.GenerateResource.Cache
+C:\Andrew\Programming\TPR\SMPR3\ModuleConflictsAndCompromisesMethods\obj\Debug\en-US\ModuleConflictsAndCompromises.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\ModuleConflictsAndCompromisesMethods\obj\Debug\ru-RU\ModuleConflictsAndCompromises.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\ModuleConflictsAndCompromisesMethods\obj\Debug\ModuleConflictsAndCompromises.dll
+C:\Andrew\Programming\TPR\SMPR3\ModuleConflictsAndCompromisesMethods\obj\Debug\ModuleConflictsAndCompromises.pdb
+D:\TPR\SMPR3.0\ModuleConflictsAndCompromisesMethods\bin\Debug\ModuleConflictsAndCompromises.dll
+D:\TPR\SMPR3.0\ModuleConflictsAndCompromisesMethods\bin\Debug\ModuleConflictsAndCompromises.pdb
+D:\TPR\SMPR3.0\ModuleConflictsAndCompromisesMethods\bin\Debug\en-US\ModuleConflictsAndCompromises.resources.dll
+D:\TPR\SMPR3.0\ModuleConflictsAndCompromisesMethods\bin\Debug\ru-RU\ModuleConflictsAndCompromises.resources.dll
+D:\TPR\SMPR3.0\ModuleConflictsAndCompromisesMethods\bin\Debug\Common.dll
+D:\TPR\SMPR3.0\ModuleConflictsAndCompromisesMethods\bin\Debug\Common.pdb
+D:\TPR\SMPR3.0\ModuleConflictsAndCompromisesMethods\bin\Debug\en-US\Common.resources.dll
+D:\TPR\SMPR3.0\ModuleConflictsAndCompromisesMethods\bin\Debug\ru-RU\Common.resources.dll
+D:\TPR\SMPR3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\ModuleConflictsAndCompromises.csprojResolveAssemblyReference.cache
+D:\TPR\SMPR3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.AboutPhotos.resources
+D:\TPR\SMPR3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.frmModule.resources
+D:\TPR\SMPR3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.Properties.Resources.resources
+D:\TPR\SMPR3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.TaskSelector.resources
+D:\TPR\SMPR3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.frmModule.en-US.resources
+D:\TPR\SMPR3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.frmModule.ru-RU.resources
+D:\TPR\SMPR3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.Properties.Resources.en-US.resources
+D:\TPR\SMPR3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.Properties.Resources.ru-RU.resources
+D:\TPR\SMPR3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.TaskSelector.en-US.resources
+D:\TPR\SMPR3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.TaskSelector.ru-RU.resources
+D:\TPR\SMPR3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\ModuleConflictsAndCompromises.csproj.GenerateResource.Cache
+D:\TPR\SMPR3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\en-US\ModuleConflictsAndCompromises.resources.dll
+D:\TPR\SMPR3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\ru-RU\ModuleConflictsAndCompromises.resources.dll
+D:\TPR\SMPR3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\ModuleConflictsAndCompromises.dll
+D:\TPR\SMPR3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\ModuleConflictsAndCompromises.pdb
+D:\TPR\SMPR3.0\ModuleConflictsAndCompromisesMethods\bin\Debug\zh\ModuleConflictsAndCompromises.resources.dll
+D:\TPR\SMPR3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.Properties.Resources.zh.resources
+D:\TPR\SMPR3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\zh\ModuleConflictsAndCompromises.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleConflictsAndCompromisesMethods\bin\Debug\ModuleConflictsAndCompromises.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleConflictsAndCompromisesMethods\bin\Debug\ModuleConflictsAndCompromises.pdb
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleConflictsAndCompromisesMethods\bin\Debug\en-US\ModuleConflictsAndCompromises.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleConflictsAndCompromisesMethods\bin\Debug\ru-RU\ModuleConflictsAndCompromises.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleConflictsAndCompromisesMethods\bin\Debug\zh\ModuleConflictsAndCompromises.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleConflictsAndCompromisesMethods\bin\Debug\Common.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleConflictsAndCompromisesMethods\bin\Debug\Common.pdb
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleConflictsAndCompromisesMethods\bin\Debug\en-US\Common.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleConflictsAndCompromisesMethods\bin\Debug\ru-RU\Common.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\ModuleConflictsAndCompromises.csprojResolveAssemblyReference.cache
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.AboutPhotos.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.frmModule.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.Properties.Resources.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.TaskSelector.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.frmModule.en-US.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.frmModule.ru-RU.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.Properties.Resources.en-US.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.Properties.Resources.ru-RU.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.Properties.Resources.zh.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.TaskSelector.en-US.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.TaskSelector.ru-RU.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\ModuleConflictsAndCompromises.csproj.GenerateResource.Cache
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\en-US\ModuleConflictsAndCompromises.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\ru-RU\ModuleConflictsAndCompromises.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\zh\ModuleConflictsAndCompromises.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\ModuleConflictsAndCompromises.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\ModuleConflictsAndCompromises.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleConflictsAndCompromisesMethods\bin\Debug\ModuleConflictsAndCompromises.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleConflictsAndCompromisesMethods\bin\Debug\ModuleConflictsAndCompromises.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleConflictsAndCompromisesMethods\bin\Debug\en-US\ModuleConflictsAndCompromises.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleConflictsAndCompromisesMethods\bin\Debug\ru-RU\ModuleConflictsAndCompromises.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleConflictsAndCompromisesMethods\bin\Debug\zh\ModuleConflictsAndCompromises.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleConflictsAndCompromisesMethods\bin\Debug\Common.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleConflictsAndCompromisesMethods\bin\Debug\Common.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleConflictsAndCompromisesMethods\bin\Debug\en-US\Common.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleConflictsAndCompromisesMethods\bin\Debug\ru-RU\Common.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleConflictsAndCompromisesMethods\obj\Debug\ModuleConflictsAndCompromises.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.AboutPhotos.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.frmModule.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.TaskSelector.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.frmModule.en-US.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.frmModule.ru-RU.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.Properties.Resources.en-US.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.Properties.Resources.ru-RU.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.Properties.Resources.zh.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.TaskSelector.en-US.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.TaskSelector.ru-RU.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleConflictsAndCompromisesMethods\obj\Debug\ModuleConflictsAndCompromises.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleConflictsAndCompromisesMethods\obj\Debug\en-US\ModuleConflictsAndCompromises.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleConflictsAndCompromisesMethods\obj\Debug\ru-RU\ModuleConflictsAndCompromises.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleConflictsAndCompromisesMethods\obj\Debug\zh\ModuleConflictsAndCompromises.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleConflictsAndCompromisesMethods\obj\Debug\ModuleConflictsAndCompromises.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleConflictsAndCompromisesMethods\obj\Debug\ModuleConflictsAndCompromises.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleConflictsAndCompromisesMethods\bin\Debug\ModuleConflictsAndCompromises.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleConflictsAndCompromisesMethods\bin\Debug\ModuleConflictsAndCompromises.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleConflictsAndCompromisesMethods\bin\Debug\en-US\ModuleConflictsAndCompromises.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleConflictsAndCompromisesMethods\bin\Debug\ru-RU\ModuleConflictsAndCompromises.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleConflictsAndCompromisesMethods\bin\Debug\zh\ModuleConflictsAndCompromises.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleConflictsAndCompromisesMethods\bin\Debug\Common.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleConflictsAndCompromisesMethods\bin\Debug\Common.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleConflictsAndCompromisesMethods\bin\Debug\en-US\Common.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleConflictsAndCompromisesMethods\bin\Debug\ru-RU\Common.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleConflictsAndCompromisesMethods\obj\Debug\ModuleConflictsAndCompromises.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.AboutPhotos.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.frmModule.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.TaskSelector.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.frmModule.en-US.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.frmModule.ru-RU.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.Properties.Resources.en-US.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.Properties.Resources.ru-RU.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.Properties.Resources.zh.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.TaskSelector.en-US.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.TaskSelector.ru-RU.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleConflictsAndCompromisesMethods\obj\Debug\ModuleConflictsAndCompromises.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleConflictsAndCompromisesMethods\obj\Debug\en-US\ModuleConflictsAndCompromises.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleConflictsAndCompromisesMethods\obj\Debug\ru-RU\ModuleConflictsAndCompromises.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleConflictsAndCompromisesMethods\obj\Debug\zh\ModuleConflictsAndCompromises.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleConflictsAndCompromisesMethods\obj\Debug\ModuleConflictsAndCompromises.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleConflictsAndCompromisesMethods\obj\Debug\ModuleConflictsAndCompromises.pdb
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleConflictsAndCompromisesMethods\bin\Debug\ModuleConflictsAndCompromises.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleConflictsAndCompromisesMethods\bin\Debug\ModuleConflictsAndCompromises.pdb
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleConflictsAndCompromisesMethods\bin\Debug\en-US\ModuleConflictsAndCompromises.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleConflictsAndCompromisesMethods\bin\Debug\ru-RU\ModuleConflictsAndCompromises.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleConflictsAndCompromisesMethods\bin\Debug\zh\ModuleConflictsAndCompromises.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleConflictsAndCompromisesMethods\bin\Debug\Common.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleConflictsAndCompromisesMethods\bin\Debug\Common.pdb
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleConflictsAndCompromisesMethods\bin\Debug\en-US\Common.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleConflictsAndCompromisesMethods\bin\Debug\ru-RU\Common.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\ModuleConflictsAndCompromises.csprojResolveAssemblyReference.cache
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.AboutPhotos.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.frmModule.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.Properties.Resources.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.TaskSelector.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.frmModule.en-US.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.frmModule.ru-RU.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.Properties.Resources.en-US.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.Properties.Resources.ru-RU.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.Properties.Resources.zh.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.TaskSelector.en-US.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.TaskSelector.ru-RU.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\ModuleConflictsAndCompromises.csproj.GenerateResource.Cache
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\en-US\ModuleConflictsAndCompromises.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\ru-RU\ModuleConflictsAndCompromises.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\zh\ModuleConflictsAndCompromises.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\ModuleConflictsAndCompromises.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleConflictsAndCompromisesMethods\obj\Debug\ModuleConflictsAndCompromises.pdb
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleConflictsAndCompromisesMethods\bin\Debug\ModuleConflictsAndCompromises.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleConflictsAndCompromisesMethods\bin\Debug\ModuleConflictsAndCompromises.pdb
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleConflictsAndCompromisesMethods\bin\Debug\en-US\ModuleConflictsAndCompromises.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleConflictsAndCompromisesMethods\bin\Debug\ru-RU\ModuleConflictsAndCompromises.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleConflictsAndCompromisesMethods\bin\Debug\zh\ModuleConflictsAndCompromises.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleConflictsAndCompromisesMethods\bin\Debug\Common.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleConflictsAndCompromisesMethods\bin\Debug\Common.pdb
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleConflictsAndCompromisesMethods\bin\Debug\en-US\Common.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleConflictsAndCompromisesMethods\bin\Debug\ru-RU\Common.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleConflictsAndCompromisesMethods\obj\Debug\ModuleConflictsAndCompromises.csprojResolveAssemblyReference.cache
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.AboutPhotos.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.frmModule.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.Properties.Resources.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.TaskSelector.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.frmModule.en-US.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.frmModule.ru-RU.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.Properties.Resources.en-US.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.Properties.Resources.ru-RU.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.Properties.Resources.zh.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.TaskSelector.en-US.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.TaskSelector.ru-RU.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleConflictsAndCompromisesMethods\obj\Debug\ModuleConflictsAndCompromises.csproj.GenerateResource.Cache
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleConflictsAndCompromisesMethods\obj\Debug\en-US\ModuleConflictsAndCompromises.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleConflictsAndCompromisesMethods\obj\Debug\ru-RU\ModuleConflictsAndCompromises.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleConflictsAndCompromisesMethods\obj\Debug\zh\ModuleConflictsAndCompromises.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleConflictsAndCompromisesMethods\obj\Debug\ModuleConflictsAndCompromises.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleConflictsAndCompromisesMethods\obj\Debug\ModuleConflictsAndCompromises.pdb

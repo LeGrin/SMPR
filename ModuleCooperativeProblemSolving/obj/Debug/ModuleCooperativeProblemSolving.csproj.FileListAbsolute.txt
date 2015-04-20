@@ -1,0 +1,249 @@
+Y:\Documents\SMPR\ModuleCooperativeProblemSolving\bin\Debug\ModuleCooperativeProblemSolving.dll
+Y:\Documents\SMPR\ModuleCooperativeProblemSolving\bin\Debug\ModuleCooperativeProblemSolving.pdb
+Y:\Documents\SMPR\ModuleCooperativeProblemSolving\bin\Debug\en-US\ModuleCooperativeProblemSolving.resources.dll
+Y:\Documents\SMPR\ModuleCooperativeProblemSolving\bin\Debug\ru-RU\ModuleCooperativeProblemSolving.resources.dll
+Y:\Documents\SMPR\ModuleCooperativeProblemSolving\bin\Debug\Common.dll
+Y:\Documents\SMPR\ModuleCooperativeProblemSolving\bin\Debug\Common.pdb
+Y:\Documents\SMPR\ModuleCooperativeProblemSolving\bin\Debug\en-US\Common.resources.dll
+Y:\Documents\SMPR\ModuleCooperativeProblemSolving\bin\Debug\ru-RU\Common.resources.dll
+Y:\Documents\SMPR\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.AboutPhotos.resources
+Y:\Documents\SMPR\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.frmModule.resources
+Y:\Documents\SMPR\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.Properties.Resources.resources
+Y:\Documents\SMPR\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.frmModule.en-US.resources
+Y:\Documents\SMPR\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.frmModule.ru-RU.resources
+Y:\Documents\SMPR\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.Properties.Resources.en-US.resources
+Y:\Documents\SMPR\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.Properties.Resources.ru-RU.resources
+Y:\Documents\SMPR\ModuleCooperativeProblemSolving\obj\Debug\ModuleCooperativeProblemSolving.csproj.GenerateResource.Cache
+Y:\Documents\SMPR\ModuleCooperativeProblemSolving\obj\Debug\en-US\ModuleCooperativeProblemSolving.resources.dll
+Y:\Documents\SMPR\ModuleCooperativeProblemSolving\obj\Debug\ru-RU\ModuleCooperativeProblemSolving.resources.dll
+Y:\Documents\SMPR\ModuleCooperativeProblemSolving\obj\Debug\ModuleCooperativeProblemSolving.dll
+Y:\Documents\SMPR\ModuleCooperativeProblemSolving\obj\Debug\ModuleCooperativeProblemSolving.pdb
+Y:\Documents\SMPR\ModuleCooperativeProblemSolving\obj\Debug\ModuleCooperativeProblemSolving.csprojResolveAssemblyReference.cache
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleCooperativeProblemSolving\bin\Debug\ModuleCooperativeProblemSolving.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleCooperativeProblemSolving\bin\Debug\ModuleCooperativeProblemSolving.pdb
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleCooperativeProblemSolving\bin\Debug\en-US\ModuleCooperativeProblemSolving.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleCooperativeProblemSolving\bin\Debug\ru-RU\ModuleCooperativeProblemSolving.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleCooperativeProblemSolving\bin\Debug\Common.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleCooperativeProblemSolving\bin\Debug\Common.pdb
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleCooperativeProblemSolving\bin\Debug\en-US\Common.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleCooperativeProblemSolving\bin\Debug\ru-RU\Common.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleCooperativeProblemSolving\obj\Debug\ModuleCooperativeProblemSolving.csprojResolveAssemblyReference.cache
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.AboutPhotos.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.frmModule.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.Properties.Resources.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.frmModule.en-US.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.frmModule.ru-RU.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.Properties.Resources.en-US.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.Properties.Resources.ru-RU.resources
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleCooperativeProblemSolving\obj\Debug\ModuleCooperativeProblemSolving.csproj.GenerateResource.Cache
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleCooperativeProblemSolving\obj\Debug\en-US\ModuleCooperativeProblemSolving.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleCooperativeProblemSolving\obj\Debug\ru-RU\ModuleCooperativeProblemSolving.resources.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleCooperativeProblemSolving\obj\Debug\ModuleCooperativeProblemSolving.dll
+C:\Andrew\Programming\TPR\SMPR_3.0\ModuleCooperativeProblemSolving\obj\Debug\ModuleCooperativeProblemSolving.pdb
+D:\Скачана\КОД\C#\SMPR\ModuleCooperativeProblemSolving\bin\Debug\ModuleCooperativeProblemSolving.dll
+D:\Скачана\КОД\C#\SMPR\ModuleCooperativeProblemSolving\bin\Debug\ModuleCooperativeProblemSolving.pdb
+D:\Скачана\КОД\C#\SMPR\ModuleCooperativeProblemSolving\bin\Debug\en-US\ModuleCooperativeProblemSolving.resources.dll
+D:\Скачана\КОД\C#\SMPR\ModuleCooperativeProblemSolving\bin\Debug\ru-RU\ModuleCooperativeProblemSolving.resources.dll
+D:\Скачана\КОД\C#\SMPR\ModuleCooperativeProblemSolving\bin\Debug\Common.dll
+D:\Скачана\КОД\C#\SMPR\ModuleCooperativeProblemSolving\bin\Debug\Common.pdb
+D:\Скачана\КОД\C#\SMPR\ModuleCooperativeProblemSolving\bin\Debug\en-US\Common.resources.dll
+D:\Скачана\КОД\C#\SMPR\ModuleCooperativeProblemSolving\bin\Debug\ru-RU\Common.resources.dll
+D:\Скачана\КОД\C#\SMPR\ModuleCooperativeProblemSolving\obj\Debug\ModuleCooperativeProblemSolving.csprojResolveAssemblyReference.cache
+D:\Скачана\КОД\C#\SMPR\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.AboutPhotos.resources
+D:\Скачана\КОД\C#\SMPR\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.frmModule.resources
+D:\Скачана\КОД\C#\SMPR\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.Properties.Resources.resources
+D:\Скачана\КОД\C#\SMPR\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.frmModule.en-US.resources
+D:\Скачана\КОД\C#\SMPR\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.frmModule.ru-RU.resources
+D:\Скачана\КОД\C#\SMPR\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.Properties.Resources.en-US.resources
+D:\Скачана\КОД\C#\SMPR\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.Properties.Resources.ru-RU.resources
+D:\Скачана\КОД\C#\SMPR\ModuleCooperativeProblemSolving\obj\Debug\ModuleCooperativeProblemSolving.csproj.GenerateResource.Cache
+D:\Скачана\КОД\C#\SMPR\ModuleCooperativeProblemSolving\obj\Debug\en-US\ModuleCooperativeProblemSolving.resources.dll
+D:\Скачана\КОД\C#\SMPR\ModuleCooperativeProblemSolving\obj\Debug\ru-RU\ModuleCooperativeProblemSolving.resources.dll
+D:\Скачана\КОД\C#\SMPR\ModuleCooperativeProblemSolving\obj\Debug\ModuleCooperativeProblemSolving.dll
+D:\Скачана\КОД\C#\SMPR\ModuleCooperativeProblemSolving\obj\Debug\ModuleCooperativeProblemSolving.pdb
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleCooperativeProblemSolving\bin\Debug\ModuleCooperativeProblemSolving.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleCooperativeProblemSolving\bin\Debug\ModuleCooperativeProblemSolving.pdb
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleCooperativeProblemSolving\bin\Debug\en-US\ModuleCooperativeProblemSolving.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleCooperativeProblemSolving\bin\Debug\ru-RU\ModuleCooperativeProblemSolving.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleCooperativeProblemSolving\bin\Debug\Common.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleCooperativeProblemSolving\bin\Debug\Common.pdb
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleCooperativeProblemSolving\bin\Debug\en-US\Common.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleCooperativeProblemSolving\bin\Debug\ru-RU\Common.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleCooperativeProblemSolving\obj\Debug\ModuleCooperativeProblemSolving.csprojResolveAssemblyReference.cache
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.AboutPhotos.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.frmModule.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.Properties.Resources.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.frmModule.en-US.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.frmModule.ru-RU.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.Properties.Resources.en-US.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.Properties.Resources.ru-RU.resources
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleCooperativeProblemSolving\obj\Debug\ModuleCooperativeProblemSolving.csproj.GenerateResource.Cache
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleCooperativeProblemSolving\obj\Debug\en-US\ModuleCooperativeProblemSolving.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleCooperativeProblemSolving\obj\Debug\ru-RU\ModuleCooperativeProblemSolving.resources.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleCooperativeProblemSolving\obj\Debug\ModuleCooperativeProblemSolving.dll
+C:\Users\Vlad\Documents\Visual Studio 2013\Projects\Project4\ModuleCooperativeProblemSolving\obj\Debug\ModuleCooperativeProblemSolving.pdb
+C:\Andrew\Programming\TPR\SMPR3\ModuleCooperativeProblemSolving\bin\Debug\ModuleCooperativeProblemSolving.dll
+C:\Andrew\Programming\TPR\SMPR3\ModuleCooperativeProblemSolving\bin\Debug\ModuleCooperativeProblemSolving.pdb
+C:\Andrew\Programming\TPR\SMPR3\ModuleCooperativeProblemSolving\bin\Debug\en-US\ModuleCooperativeProblemSolving.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\ModuleCooperativeProblemSolving\bin\Debug\ru-RU\ModuleCooperativeProblemSolving.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\ModuleCooperativeProblemSolving\bin\Debug\Common.dll
+C:\Andrew\Programming\TPR\SMPR3\ModuleCooperativeProblemSolving\bin\Debug\Common.pdb
+C:\Andrew\Programming\TPR\SMPR3\ModuleCooperativeProblemSolving\bin\Debug\en-US\Common.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\ModuleCooperativeProblemSolving\bin\Debug\ru-RU\Common.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\ModuleCooperativeProblemSolving\obj\Debug\ModuleCooperativeProblemSolving.csprojResolveAssemblyReference.cache
+C:\Andrew\Programming\TPR\SMPR3\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.AboutPhotos.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.frmModule.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.Properties.Resources.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.frmModule.en-US.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.frmModule.ru-RU.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.Properties.Resources.en-US.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.Properties.Resources.ru-RU.resources
+C:\Andrew\Programming\TPR\SMPR3\ModuleCooperativeProblemSolving\obj\Debug\ModuleCooperativeProblemSolving.csproj.GenerateResource.Cache
+C:\Andrew\Programming\TPR\SMPR3\ModuleCooperativeProblemSolving\obj\Debug\en-US\ModuleCooperativeProblemSolving.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\ModuleCooperativeProblemSolving\obj\Debug\ru-RU\ModuleCooperativeProblemSolving.resources.dll
+C:\Andrew\Programming\TPR\SMPR3\ModuleCooperativeProblemSolving\obj\Debug\ModuleCooperativeProblemSolving.dll
+C:\Andrew\Programming\TPR\SMPR3\ModuleCooperativeProblemSolving\obj\Debug\ModuleCooperativeProblemSolving.pdb
+D:\TPR\SMPR3.0\ModuleCooperativeProblemSolving\bin\Debug\ModuleCooperativeProblemSolving.dll
+D:\TPR\SMPR3.0\ModuleCooperativeProblemSolving\bin\Debug\ModuleCooperativeProblemSolving.pdb
+D:\TPR\SMPR3.0\ModuleCooperativeProblemSolving\bin\Debug\en-US\ModuleCooperativeProblemSolving.resources.dll
+D:\TPR\SMPR3.0\ModuleCooperativeProblemSolving\bin\Debug\ru-RU\ModuleCooperativeProblemSolving.resources.dll
+D:\TPR\SMPR3.0\ModuleCooperativeProblemSolving\bin\Debug\Common.dll
+D:\TPR\SMPR3.0\ModuleCooperativeProblemSolving\bin\Debug\Common.pdb
+D:\TPR\SMPR3.0\ModuleCooperativeProblemSolving\bin\Debug\en-US\Common.resources.dll
+D:\TPR\SMPR3.0\ModuleCooperativeProblemSolving\bin\Debug\ru-RU\Common.resources.dll
+D:\TPR\SMPR3.0\ModuleCooperativeProblemSolving\obj\Debug\ModuleCooperativeProblemSolving.csprojResolveAssemblyReference.cache
+D:\TPR\SMPR3.0\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.AboutPhotos.resources
+D:\TPR\SMPR3.0\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.frmModule.resources
+D:\TPR\SMPR3.0\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.Properties.Resources.resources
+D:\TPR\SMPR3.0\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.frmModule.en-US.resources
+D:\TPR\SMPR3.0\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.frmModule.ru-RU.resources
+D:\TPR\SMPR3.0\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.Properties.Resources.en-US.resources
+D:\TPR\SMPR3.0\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.Properties.Resources.ru-RU.resources
+D:\TPR\SMPR3.0\ModuleCooperativeProblemSolving\obj\Debug\ModuleCooperativeProblemSolving.csproj.GenerateResource.Cache
+D:\TPR\SMPR3.0\ModuleCooperativeProblemSolving\obj\Debug\en-US\ModuleCooperativeProblemSolving.resources.dll
+D:\TPR\SMPR3.0\ModuleCooperativeProblemSolving\obj\Debug\ru-RU\ModuleCooperativeProblemSolving.resources.dll
+D:\TPR\SMPR3.0\ModuleCooperativeProblemSolving\obj\Debug\ModuleCooperativeProblemSolving.dll
+D:\TPR\SMPR3.0\ModuleCooperativeProblemSolving\obj\Debug\ModuleCooperativeProblemSolving.pdb
+D:\TPR\SMPR3.0\ModuleCooperativeProblemSolving\bin\Debug\zh\ModuleCooperativeProblemSolving.resources.dll
+D:\TPR\SMPR3.0\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.Properties.Resources.zh.resources
+D:\TPR\SMPR3.0\ModuleCooperativeProblemSolving\obj\Debug\zh\ModuleCooperativeProblemSolving.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleCooperativeProblemSolving\bin\Debug\ModuleCooperativeProblemSolving.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleCooperativeProblemSolving\bin\Debug\ModuleCooperativeProblemSolving.pdb
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleCooperativeProblemSolving\bin\Debug\en-US\ModuleCooperativeProblemSolving.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleCooperativeProblemSolving\bin\Debug\ru-RU\ModuleCooperativeProblemSolving.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleCooperativeProblemSolving\bin\Debug\zh\ModuleCooperativeProblemSolving.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleCooperativeProblemSolving\bin\Debug\Common.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleCooperativeProblemSolving\bin\Debug\Common.pdb
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleCooperativeProblemSolving\bin\Debug\en-US\Common.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleCooperativeProblemSolving\bin\Debug\ru-RU\Common.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleCooperativeProblemSolving\obj\Debug\ModuleCooperativeProblemSolving.csprojResolveAssemblyReference.cache
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.AboutPhotos.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.frmModule.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.Properties.Resources.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.frmModule.en-US.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.frmModule.ru-RU.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.Properties.Resources.en-US.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.Properties.Resources.ru-RU.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.Properties.Resources.zh.resources
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleCooperativeProblemSolving\obj\Debug\ModuleCooperativeProblemSolving.csproj.GenerateResource.Cache
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleCooperativeProblemSolving\obj\Debug\en-US\ModuleCooperativeProblemSolving.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleCooperativeProblemSolving\obj\Debug\ru-RU\ModuleCooperativeProblemSolving.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleCooperativeProblemSolving\obj\Debug\zh\ModuleCooperativeProblemSolving.resources.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleCooperativeProblemSolving\obj\Debug\ModuleCooperativeProblemSolving.dll
+D:\TPR\SMPR_3.0\SMPR_3.0\ModuleCooperativeProblemSolving\obj\Debug\ModuleCooperativeProblemSolving.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleCooperativeProblemSolving\bin\Debug\ModuleCooperativeProblemSolving.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleCooperativeProblemSolving\bin\Debug\ModuleCooperativeProblemSolving.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleCooperativeProblemSolving\bin\Debug\en-US\ModuleCooperativeProblemSolving.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleCooperativeProblemSolving\bin\Debug\ru-RU\ModuleCooperativeProblemSolving.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleCooperativeProblemSolving\bin\Debug\zh\ModuleCooperativeProblemSolving.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleCooperativeProblemSolving\bin\Debug\Common.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleCooperativeProblemSolving\bin\Debug\Common.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleCooperativeProblemSolving\bin\Debug\en-US\Common.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleCooperativeProblemSolving\bin\Debug\ru-RU\Common.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleCooperativeProblemSolving\obj\Debug\ModuleCooperativeProblemSolving.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.AboutPhotos.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.frmModule.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.frmModule.en-US.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.frmModule.ru-RU.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.Properties.Resources.en-US.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.Properties.Resources.ru-RU.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.Properties.Resources.zh.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleCooperativeProblemSolving\obj\Debug\ModuleCooperativeProblemSolving.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleCooperativeProblemSolving\obj\Debug\en-US\ModuleCooperativeProblemSolving.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleCooperativeProblemSolving\obj\Debug\ru-RU\ModuleCooperativeProblemSolving.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleCooperativeProblemSolving\obj\Debug\zh\ModuleCooperativeProblemSolving.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleCooperativeProblemSolving\obj\Debug\ModuleCooperativeProblemSolving.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project3\ModuleCooperativeProblemSolving\obj\Debug\ModuleCooperativeProblemSolving.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleCooperativeProblemSolving\bin\Debug\ModuleCooperativeProblemSolving.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleCooperativeProblemSolving\bin\Debug\ModuleCooperativeProblemSolving.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleCooperativeProblemSolving\bin\Debug\en-US\ModuleCooperativeProblemSolving.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleCooperativeProblemSolving\bin\Debug\ru-RU\ModuleCooperativeProblemSolving.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleCooperativeProblemSolving\bin\Debug\zh\ModuleCooperativeProblemSolving.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleCooperativeProblemSolving\bin\Debug\Common.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleCooperativeProblemSolving\bin\Debug\Common.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleCooperativeProblemSolving\bin\Debug\en-US\Common.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleCooperativeProblemSolving\bin\Debug\ru-RU\Common.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleCooperativeProblemSolving\obj\Debug\ModuleCooperativeProblemSolving.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.AboutPhotos.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.frmModule.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.frmModule.en-US.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.frmModule.ru-RU.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.Properties.Resources.en-US.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.Properties.Resources.ru-RU.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.Properties.Resources.zh.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleCooperativeProblemSolving\obj\Debug\ModuleCooperativeProblemSolving.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleCooperativeProblemSolving\obj\Debug\en-US\ModuleCooperativeProblemSolving.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleCooperativeProblemSolving\obj\Debug\ru-RU\ModuleCooperativeProblemSolving.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleCooperativeProblemSolving\obj\Debug\zh\ModuleCooperativeProblemSolving.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleCooperativeProblemSolving\obj\Debug\ModuleCooperativeProblemSolving.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Project4\ModuleCooperativeProblemSolving\obj\Debug\ModuleCooperativeProblemSolving.pdb
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleCooperativeProblemSolving\bin\Debug\ModuleCooperativeProblemSolving.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleCooperativeProblemSolving\bin\Debug\ModuleCooperativeProblemSolving.pdb
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleCooperativeProblemSolving\bin\Debug\en-US\ModuleCooperativeProblemSolving.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleCooperativeProblemSolving\bin\Debug\ru-RU\ModuleCooperativeProblemSolving.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleCooperativeProblemSolving\bin\Debug\zh\ModuleCooperativeProblemSolving.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleCooperativeProblemSolving\bin\Debug\Common.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleCooperativeProblemSolving\bin\Debug\Common.pdb
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleCooperativeProblemSolving\bin\Debug\en-US\Common.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleCooperativeProblemSolving\bin\Debug\ru-RU\Common.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleCooperativeProblemSolving\obj\Debug\ModuleCooperativeProblemSolving.csprojResolveAssemblyReference.cache
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.AboutPhotos.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.frmModule.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.Properties.Resources.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.frmModule.en-US.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.frmModule.ru-RU.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.Properties.Resources.en-US.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.Properties.Resources.ru-RU.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.Properties.Resources.zh.resources
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleCooperativeProblemSolving\obj\Debug\ModuleCooperativeProblemSolving.csproj.GenerateResource.Cache
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleCooperativeProblemSolving\obj\Debug\en-US\ModuleCooperativeProblemSolving.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleCooperativeProblemSolving\obj\Debug\ru-RU\ModuleCooperativeProblemSolving.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleCooperativeProblemSolving\obj\Debug\zh\ModuleCooperativeProblemSolving.resources.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleCooperativeProblemSolving\obj\Debug\ModuleCooperativeProblemSolving.dll
+C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleCooperativeProblemSolving\obj\Debug\ModuleCooperativeProblemSolving.pdb
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleCooperativeProblemSolving\bin\Debug\ModuleCooperativeProblemSolving.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleCooperativeProblemSolving\bin\Debug\ModuleCooperativeProblemSolving.pdb
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleCooperativeProblemSolving\bin\Debug\en-US\ModuleCooperativeProblemSolving.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleCooperativeProblemSolving\bin\Debug\ru-RU\ModuleCooperativeProblemSolving.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleCooperativeProblemSolving\bin\Debug\zh\ModuleCooperativeProblemSolving.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleCooperativeProblemSolving\bin\Debug\Common.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleCooperativeProblemSolving\bin\Debug\Common.pdb
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleCooperativeProblemSolving\bin\Debug\en-US\Common.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleCooperativeProblemSolving\bin\Debug\ru-RU\Common.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleCooperativeProblemSolving\obj\Debug\ModuleCooperativeProblemSolving.csprojResolveAssemblyReference.cache
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.AboutPhotos.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.frmModule.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.Properties.Resources.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.frmModule.en-US.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.frmModule.ru-RU.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.Properties.Resources.en-US.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.Properties.Resources.ru-RU.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.Properties.Resources.zh.resources
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleCooperativeProblemSolving\obj\Debug\ModuleCooperativeProblemSolving.csproj.GenerateResource.Cache
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleCooperativeProblemSolving\obj\Debug\en-US\ModuleCooperativeProblemSolving.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleCooperativeProblemSolving\obj\Debug\ru-RU\ModuleCooperativeProblemSolving.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleCooperativeProblemSolving\obj\Debug\zh\ModuleCooperativeProblemSolving.resources.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleCooperativeProblemSolving\obj\Debug\ModuleCooperativeProblemSolving.dll
+\\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleCooperativeProblemSolving\obj\Debug\ModuleCooperativeProblemSolving.pdb
