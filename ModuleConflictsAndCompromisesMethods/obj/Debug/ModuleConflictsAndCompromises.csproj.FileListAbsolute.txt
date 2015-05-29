@@ -256,3 +256,30 @@ C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleCon
 \\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleConflictsAndCompromisesMethods\obj\Debug\zh\ModuleConflictsAndCompromises.resources.dll
 \\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleConflictsAndCompromisesMethods\obj\Debug\ModuleConflictsAndCompromises.dll
 \\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleConflictsAndCompromisesMethods\obj\Debug\ModuleConflictsAndCompromises.pdb
+\\psf\Home\Documents\Test\ModuleConflictsAndCompromisesMethods\obj\Debug\ModuleConflictsAndCompromises.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Test\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.AboutPhotos.resources
+\\psf\Home\Documents\Test\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.frmModule.resources
+\\psf\Home\Documents\Test\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.Properties.Resources.resources
+\\psf\Home\Documents\Test\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.TaskSelector.resources
+\\psf\Home\Documents\Test\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.frmModule.en-US.resources
+\\psf\Home\Documents\Test\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.frmModule.ru-RU.resources
+\\psf\Home\Documents\Test\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.Properties.Resources.en-US.resources
+\\psf\Home\Documents\Test\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.Properties.Resources.ru-RU.resources
+\\psf\Home\Documents\Test\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.Properties.Resources.zh.resources
+\\psf\Home\Documents\Test\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.TaskSelector.en-US.resources
+\\psf\Home\Documents\Test\ModuleConflictsAndCompromisesMethods\obj\Debug\Modules.ConflictsAndCompromises.TaskSelector.ru-RU.resources
+\\psf\Home\Documents\Test\ModuleConflictsAndCompromisesMethods\obj\Debug\ModuleConflictsAndCompromises.csproj.GenerateResource.Cache
+\\psf\Home\Documents\Test\ModuleConflictsAndCompromisesMethods\bin\Debug\ModuleConflictsAndCompromises.dll
+\\psf\Home\Documents\Test\ModuleConflictsAndCompromisesMethods\bin\Debug\ModuleConflictsAndCompromises.pdb
+\\psf\Home\Documents\Test\ModuleConflictsAndCompromisesMethods\bin\Debug\en-US\ModuleConflictsAndCompromises.resources.dll
+\\psf\Home\Documents\Test\ModuleConflictsAndCompromisesMethods\bin\Debug\ru-RU\ModuleConflictsAndCompromises.resources.dll
+\\psf\Home\Documents\Test\ModuleConflictsAndCompromisesMethods\bin\Debug\zh\ModuleConflictsAndCompromises.resources.dll
+\\psf\Home\Documents\Test\ModuleConflictsAndCompromisesMethods\bin\Debug\Common.dll
+\\psf\Home\Documents\Test\ModuleConflictsAndCompromisesMethods\bin\Debug\Common.pdb
+\\psf\Home\Documents\Test\ModuleConflictsAndCompromisesMethods\bin\Debug\en-US\Common.resources.dll
+\\psf\Home\Documents\Test\ModuleConflictsAndCompromisesMethods\bin\Debug\ru-RU\Common.resources.dll
+\\psf\Home\Documents\Test\ModuleConflictsAndCompromisesMethods\obj\Debug\en-US\ModuleConflictsAndCompromises.resources.dll
+\\psf\Home\Documents\Test\ModuleConflictsAndCompromisesMethods\obj\Debug\ru-RU\ModuleConflictsAndCompromises.resources.dll
+\\psf\Home\Documents\Test\ModuleConflictsAndCompromisesMethods\obj\Debug\zh\ModuleConflictsAndCompromises.resources.dll
+\\psf\Home\Documents\Test\ModuleConflictsAndCompromisesMethods\obj\Debug\ModuleConflictsAndCompromises.dll
+\\psf\Home\Documents\Test\ModuleConflictsAndCompromisesMethods\obj\Debug\ModuleConflictsAndCompromises.pdb

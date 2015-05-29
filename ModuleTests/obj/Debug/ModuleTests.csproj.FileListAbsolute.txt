@@ -216,3 +216,26 @@ C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleTes
 \\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleTests\obj\Debug\zh\ModuleTests.resources.dll
 \\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleTests\obj\Debug\ModuleTests.dll
 \\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleTests\obj\Debug\ModuleTests.pdb
+\\psf\Home\Documents\Test\ModuleTests\obj\Debug\ModuleTests.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Test\ModuleTests\obj\Debug\Modules.Tests.AboutPhotos.resources
+\\psf\Home\Documents\Test\ModuleTests\obj\Debug\Modules.Tests.frmSelectTest.resources
+\\psf\Home\Documents\Test\ModuleTests\obj\Debug\Modules.Tests.frmTest.resources
+\\psf\Home\Documents\Test\ModuleTests\obj\Debug\Modules.Tests.Properties.Resources.resources
+\\psf\Home\Documents\Test\ModuleTests\obj\Debug\Modules.Tests.Properties.Resources.en-US.resources
+\\psf\Home\Documents\Test\ModuleTests\obj\Debug\Modules.Tests.Properties.Resources.ru-RU.resources
+\\psf\Home\Documents\Test\ModuleTests\obj\Debug\Modules.Tests.Properties.Resources.zh.resources
+\\psf\Home\Documents\Test\ModuleTests\obj\Debug\ModuleTests.csproj.GenerateResource.Cache
+\\psf\Home\Documents\Test\ModuleTests\bin\Debug\ModuleTests.dll
+\\psf\Home\Documents\Test\ModuleTests\bin\Debug\ModuleTests.pdb
+\\psf\Home\Documents\Test\ModuleTests\bin\Debug\en-US\ModuleTests.resources.dll
+\\psf\Home\Documents\Test\ModuleTests\bin\Debug\ru-RU\ModuleTests.resources.dll
+\\psf\Home\Documents\Test\ModuleTests\bin\Debug\zh\ModuleTests.resources.dll
+\\psf\Home\Documents\Test\ModuleTests\bin\Debug\Common.dll
+\\psf\Home\Documents\Test\ModuleTests\bin\Debug\Common.pdb
+\\psf\Home\Documents\Test\ModuleTests\bin\Debug\en-US\Common.resources.dll
+\\psf\Home\Documents\Test\ModuleTests\bin\Debug\ru-RU\Common.resources.dll
+\\psf\Home\Documents\Test\ModuleTests\obj\Debug\en-US\ModuleTests.resources.dll
+\\psf\Home\Documents\Test\ModuleTests\obj\Debug\ru-RU\ModuleTests.resources.dll
+\\psf\Home\Documents\Test\ModuleTests\obj\Debug\zh\ModuleTests.resources.dll
+\\psf\Home\Documents\Test\ModuleTests\obj\Debug\ModuleTests.dll
+\\psf\Home\Documents\Test\ModuleTests\obj\Debug\ModuleTests.pdb

@@ -58,3 +58,11 @@ C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\KeyGenera
 C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\KeyGenerator\obj\x86\Debug\KeyGenerator.csproj.GenerateResource.Cache
 C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\KeyGenerator\obj\x86\Debug\KeyGenerator.exe
 C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\KeyGenerator\obj\x86\Debug\KeyGenerator.pdb
+\\psf\Home\Documents\Test\KeyGenerator\obj\x86\Debug\KeyGenerator.MainForm.resources
+\\psf\Home\Documents\Test\KeyGenerator\obj\x86\Debug\KeyGenerator.Properties.Resources.resources
+\\psf\Home\Documents\Test\KeyGenerator\obj\x86\Debug\KeyGenerator.csproj.GenerateResource.Cache
+\\psf\Home\Documents\Test\KeyGenerator\bin\Debug\KeyGenerator.exe.config
+\\psf\Home\Documents\Test\KeyGenerator\bin\Debug\KeyGenerator.exe
+\\psf\Home\Documents\Test\KeyGenerator\bin\Debug\KeyGenerator.pdb
+\\psf\Home\Documents\Test\KeyGenerator\obj\x86\Debug\KeyGenerator.exe
+\\psf\Home\Documents\Test\KeyGenerator\obj\x86\Debug\KeyGenerator.pdb

@@ -296,3 +296,34 @@ C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleDec
 \\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleDecisionsUnderRiskAndUncertainityMethods\obj\Debug\zh\ModuleDecisionsUnderRiskAndUncertainityMethods.resources.dll
 \\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleDecisionsUnderRiskAndUncertainityMethods\obj\Debug\ModuleDecisionsUnderRiskAndUncertainityMethods.dll
 \\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleDecisionsUnderRiskAndUncertainityMethods\obj\Debug\ModuleDecisionsUnderRiskAndUncertainityMethods.pdb
+\\psf\Home\Documents\Test\ModuleDecisionsUnderRiskAndUncertainityMethods\obj\Debug\ModuleDecisionsUnderRiskAndUncertainityMethods.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Test\ModuleDecisionsUnderRiskAndUncertainityMethods\obj\Debug\Modules.DecisionsUnderRiskAndUncertainityMethods.AboutPhoto.resources
+\\psf\Home\Documents\Test\ModuleDecisionsUnderRiskAndUncertainityMethods\obj\Debug\Modules.DecisionsUnderRiskAndUncertainityMethods.frmModule.resources
+\\psf\Home\Documents\Test\ModuleDecisionsUnderRiskAndUncertainityMethods\obj\Debug\Modules.DecisionsUnderRiskAndUncertainityMethods.Properties.Resources.resources
+\\psf\Home\Documents\Test\ModuleDecisionsUnderRiskAndUncertainityMethods\obj\Debug\Modules.DecisionsUnderRiskAndUncertainityMethods.TestDialog.resources
+\\psf\Home\Documents\Test\ModuleDecisionsUnderRiskAndUncertainityMethods\obj\Debug\Modules.DecisionsUnderRiskAndUncertainityMethods.frmModule.en-US.resources
+\\psf\Home\Documents\Test\ModuleDecisionsUnderRiskAndUncertainityMethods\obj\Debug\Modules.DecisionsUnderRiskAndUncertainityMethods.frmModule.ru-RU.resources
+\\psf\Home\Documents\Test\ModuleDecisionsUnderRiskAndUncertainityMethods\obj\Debug\Modules.DecisionsUnderRiskAndUncertainityMethods.frmModule.uk-UA.resources
+\\psf\Home\Documents\Test\ModuleDecisionsUnderRiskAndUncertainityMethods\obj\Debug\Modules.DecisionsUnderRiskAndUncertainityMethods.Properties.Resources.en-US.resources
+\\psf\Home\Documents\Test\ModuleDecisionsUnderRiskAndUncertainityMethods\obj\Debug\Modules.DecisionsUnderRiskAndUncertainityMethods.Properties.Resources.ru-RU.resources
+\\psf\Home\Documents\Test\ModuleDecisionsUnderRiskAndUncertainityMethods\obj\Debug\Modules.DecisionsUnderRiskAndUncertainityMethods.Properties.Resources.zh.resources
+\\psf\Home\Documents\Test\ModuleDecisionsUnderRiskAndUncertainityMethods\obj\Debug\Modules.DecisionsUnderRiskAndUncertainityMethods.TestDialog.en-US.resources
+\\psf\Home\Documents\Test\ModuleDecisionsUnderRiskAndUncertainityMethods\obj\Debug\Modules.DecisionsUnderRiskAndUncertainityMethods.TestDialog.ru-RU.resources
+\\psf\Home\Documents\Test\ModuleDecisionsUnderRiskAndUncertainityMethods\obj\Debug\Modules.DecisionsUnderRiskAndUncertainityMethods.TestDialog.uk-UA.resources
+\\psf\Home\Documents\Test\ModuleDecisionsUnderRiskAndUncertainityMethods\obj\Debug\ModuleDecisionsUnderRiskAndUncertainityMethods.csproj.GenerateResource.Cache
+\\psf\Home\Documents\Test\ModuleDecisionsUnderRiskAndUncertainityMethods\bin\Debug\ModuleDecisionsUnderRiskAndUncertainityMethods.dll
+\\psf\Home\Documents\Test\ModuleDecisionsUnderRiskAndUncertainityMethods\bin\Debug\ModuleDecisionsUnderRiskAndUncertainityMethods.pdb
+\\psf\Home\Documents\Test\ModuleDecisionsUnderRiskAndUncertainityMethods\bin\Debug\en-US\ModuleDecisionsUnderRiskAndUncertainityMethods.resources.dll
+\\psf\Home\Documents\Test\ModuleDecisionsUnderRiskAndUncertainityMethods\bin\Debug\ru-RU\ModuleDecisionsUnderRiskAndUncertainityMethods.resources.dll
+\\psf\Home\Documents\Test\ModuleDecisionsUnderRiskAndUncertainityMethods\bin\Debug\uk-UA\ModuleDecisionsUnderRiskAndUncertainityMethods.resources.dll
+\\psf\Home\Documents\Test\ModuleDecisionsUnderRiskAndUncertainityMethods\bin\Debug\zh\ModuleDecisionsUnderRiskAndUncertainityMethods.resources.dll
+\\psf\Home\Documents\Test\ModuleDecisionsUnderRiskAndUncertainityMethods\bin\Debug\Common.dll
+\\psf\Home\Documents\Test\ModuleDecisionsUnderRiskAndUncertainityMethods\bin\Debug\Common.pdb
+\\psf\Home\Documents\Test\ModuleDecisionsUnderRiskAndUncertainityMethods\bin\Debug\en-US\Common.resources.dll
+\\psf\Home\Documents\Test\ModuleDecisionsUnderRiskAndUncertainityMethods\bin\Debug\ru-RU\Common.resources.dll
+\\psf\Home\Documents\Test\ModuleDecisionsUnderRiskAndUncertainityMethods\obj\Debug\en-US\ModuleDecisionsUnderRiskAndUncertainityMethods.resources.dll
+\\psf\Home\Documents\Test\ModuleDecisionsUnderRiskAndUncertainityMethods\obj\Debug\ru-RU\ModuleDecisionsUnderRiskAndUncertainityMethods.resources.dll
+\\psf\Home\Documents\Test\ModuleDecisionsUnderRiskAndUncertainityMethods\obj\Debug\uk-UA\ModuleDecisionsUnderRiskAndUncertainityMethods.resources.dll
+\\psf\Home\Documents\Test\ModuleDecisionsUnderRiskAndUncertainityMethods\obj\Debug\zh\ModuleDecisionsUnderRiskAndUncertainityMethods.resources.dll
+\\psf\Home\Documents\Test\ModuleDecisionsUnderRiskAndUncertainityMethods\obj\Debug\ModuleDecisionsUnderRiskAndUncertainityMethods.dll
+\\psf\Home\Documents\Test\ModuleDecisionsUnderRiskAndUncertainityMethods\obj\Debug\ModuleDecisionsUnderRiskAndUncertainityMethods.pdb

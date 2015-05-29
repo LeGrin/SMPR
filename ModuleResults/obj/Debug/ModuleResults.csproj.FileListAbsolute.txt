@@ -203,3 +203,23 @@ C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleRes
 \\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleResults\obj\Debug\zh\ModuleTemplate.resources.dll
 \\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleResults\obj\Debug\ModuleTemplate.dll
 \\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleResults\obj\Debug\ModuleTemplate.pdb
+\\psf\Home\Documents\Test\ModuleResults\obj\Debug\ModuleResults.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Test\ModuleResults\obj\Debug\Modules.Results.frmModule.resources
+\\psf\Home\Documents\Test\ModuleResults\obj\Debug\Modules.$safeprojectname$.AboutPhotos.resources
+\\psf\Home\Documents\Test\ModuleResults\obj\Debug\Modules.$safeprojectname$.Properties.Resources.resources
+\\psf\Home\Documents\Test\ModuleResults\obj\Debug\Modules.Results.frmModule.en-US.resources
+\\psf\Home\Documents\Test\ModuleResults\obj\Debug\Modules.Results.frmModule.ru-RU.resources
+\\psf\Home\Documents\Test\ModuleResults\obj\Debug\Modules.$safeprojectname$.Properties.Resources.ru-RU.resources
+\\psf\Home\Documents\Test\ModuleResults\obj\Debug\Modules.$safeprojectname$.Properties.Resources.en-US.resources
+\\psf\Home\Documents\Test\ModuleResults\obj\Debug\Modules.$safeprojectname$.Properties.Resources.zh.resources
+\\psf\Home\Documents\Test\ModuleResults\obj\Debug\ModuleResults.csproj.GenerateResource.Cache
+\\psf\Home\Documents\Test\SMPR\bin\Debug\ModuleTemplate.dll
+\\psf\Home\Documents\Test\SMPR\bin\Debug\ModuleTemplate.pdb
+\\psf\Home\Documents\Test\SMPR\bin\Debug\en-US\ModuleTemplate.resources.dll
+\\psf\Home\Documents\Test\SMPR\bin\Debug\ru-RU\ModuleTemplate.resources.dll
+\\psf\Home\Documents\Test\SMPR\bin\Debug\zh\ModuleTemplate.resources.dll
+\\psf\Home\Documents\Test\ModuleResults\obj\Debug\en-US\ModuleTemplate.resources.dll
+\\psf\Home\Documents\Test\ModuleResults\obj\Debug\ru-RU\ModuleTemplate.resources.dll
+\\psf\Home\Documents\Test\ModuleResults\obj\Debug\zh\ModuleTemplate.resources.dll
+\\psf\Home\Documents\Test\ModuleResults\obj\Debug\ModuleTemplate.dll
+\\psf\Home\Documents\Test\ModuleResults\obj\Debug\ModuleTemplate.pdb

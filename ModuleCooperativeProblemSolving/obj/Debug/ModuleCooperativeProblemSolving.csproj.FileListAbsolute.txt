@@ -247,3 +247,27 @@ C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleCoo
 \\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleCooperativeProblemSolving\obj\Debug\zh\ModuleCooperativeProblemSolving.resources.dll
 \\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleCooperativeProblemSolving\obj\Debug\ModuleCooperativeProblemSolving.dll
 \\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleCooperativeProblemSolving\obj\Debug\ModuleCooperativeProblemSolving.pdb
+\\psf\Home\Documents\Test\ModuleCooperativeProblemSolving\obj\Debug\ModuleCooperativeProblemSolving.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Test\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.AboutPhotos.resources
+\\psf\Home\Documents\Test\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.frmModule.resources
+\\psf\Home\Documents\Test\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.Properties.Resources.resources
+\\psf\Home\Documents\Test\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.frmModule.en-US.resources
+\\psf\Home\Documents\Test\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.frmModule.ru-RU.resources
+\\psf\Home\Documents\Test\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.Properties.Resources.en-US.resources
+\\psf\Home\Documents\Test\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.Properties.Resources.ru-RU.resources
+\\psf\Home\Documents\Test\ModuleCooperativeProblemSolving\obj\Debug\Modules.ModuleCooperativeProblemSolving.Properties.Resources.zh.resources
+\\psf\Home\Documents\Test\ModuleCooperativeProblemSolving\obj\Debug\ModuleCooperativeProblemSolving.csproj.GenerateResource.Cache
+\\psf\Home\Documents\Test\ModuleCooperativeProblemSolving\bin\Debug\ModuleCooperativeProblemSolving.dll
+\\psf\Home\Documents\Test\ModuleCooperativeProblemSolving\bin\Debug\ModuleCooperativeProblemSolving.pdb
+\\psf\Home\Documents\Test\ModuleCooperativeProblemSolving\bin\Debug\en-US\ModuleCooperativeProblemSolving.resources.dll
+\\psf\Home\Documents\Test\ModuleCooperativeProblemSolving\bin\Debug\ru-RU\ModuleCooperativeProblemSolving.resources.dll
+\\psf\Home\Documents\Test\ModuleCooperativeProblemSolving\bin\Debug\zh\ModuleCooperativeProblemSolving.resources.dll
+\\psf\Home\Documents\Test\ModuleCooperativeProblemSolving\bin\Debug\Common.dll
+\\psf\Home\Documents\Test\ModuleCooperativeProblemSolving\bin\Debug\Common.pdb
+\\psf\Home\Documents\Test\ModuleCooperativeProblemSolving\bin\Debug\en-US\Common.resources.dll
+\\psf\Home\Documents\Test\ModuleCooperativeProblemSolving\bin\Debug\ru-RU\Common.resources.dll
+\\psf\Home\Documents\Test\ModuleCooperativeProblemSolving\obj\Debug\en-US\ModuleCooperativeProblemSolving.resources.dll
+\\psf\Home\Documents\Test\ModuleCooperativeProblemSolving\obj\Debug\ru-RU\ModuleCooperativeProblemSolving.resources.dll
+\\psf\Home\Documents\Test\ModuleCooperativeProblemSolving\obj\Debug\zh\ModuleCooperativeProblemSolving.resources.dll
+\\psf\Home\Documents\Test\ModuleCooperativeProblemSolving\obj\Debug\ModuleCooperativeProblemSolving.dll
+\\psf\Home\Documents\Test\ModuleCooperativeProblemSolving\obj\Debug\ModuleCooperativeProblemSolving.pdb

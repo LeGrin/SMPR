@@ -429,3 +429,44 @@ C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleVot
 \\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleVotingMethods\obj\Debug\zh\ModuleVotingMethods.resources.dll
 \\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleVotingMethods\obj\Debug\ModuleVotingMethods.dll
 \\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleVotingMethods\obj\Debug\ModuleVotingMethods.pdb
+\\psf\Home\Documents\Test\ModuleVotingMethods\obj\Debug\ModuleVotingMethods.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Test\ModuleVotingMethods\obj\Debug\Modules.VotingMethods.frmAddCandidate.resources
+\\psf\Home\Documents\Test\ModuleVotingMethods\obj\Debug\Modules.VotingMethods.frmChangeCandidate.resources
+\\psf\Home\Documents\Test\ModuleVotingMethods\obj\Debug\Modules.VotingMethods.frmDeleteCandidate.resources
+\\psf\Home\Documents\Test\ModuleVotingMethods\obj\Debug\Modules.VotingMethods.frmInfo.resources
+\\psf\Home\Documents\Test\ModuleVotingMethods\obj\Debug\Modules.VotingMethods.frmModule.resources
+\\psf\Home\Documents\Test\ModuleVotingMethods\obj\Debug\Modules.VotingMethods.AboutPhotos.resources
+\\psf\Home\Documents\Test\ModuleVotingMethods\obj\Debug\Modules.VotingMethods.Properties.Resources.resources
+\\psf\Home\Documents\Test\ModuleVotingMethods\obj\Debug\Modules.VotingMethods.frmAddCandidate.en-US.resources
+\\psf\Home\Documents\Test\ModuleVotingMethods\obj\Debug\Modules.VotingMethods.frmAddCandidate.ru-RU.resources
+\\psf\Home\Documents\Test\ModuleVotingMethods\obj\Debug\Modules.VotingMethods.frmChangeCandidate.en-US.resources
+\\psf\Home\Documents\Test\ModuleVotingMethods\obj\Debug\Modules.VotingMethods.frmChangeCandidate.ru-RU.resources
+\\psf\Home\Documents\Test\ModuleVotingMethods\obj\Debug\Modules.VotingMethods.frmDeleteCandidate.en-US.resources
+\\psf\Home\Documents\Test\ModuleVotingMethods\obj\Debug\Modules.VotingMethods.frmDeleteCandidate.ru-RU.resources
+\\psf\Home\Documents\Test\ModuleVotingMethods\obj\Debug\Modules.VotingMethods.frmInfo.en-US.resources
+\\psf\Home\Documents\Test\ModuleVotingMethods\obj\Debug\Modules.VotingMethods.frmInfo.ru-RU.resources
+\\psf\Home\Documents\Test\ModuleVotingMethods\obj\Debug\Modules.VotingMethods.frmModule.en-US.resources
+\\psf\Home\Documents\Test\ModuleVotingMethods\obj\Debug\Modules.VotingMethods.frmModule.ru-RU.resources
+\\psf\Home\Documents\Test\ModuleVotingMethods\obj\Debug\Modules.VotingMethods.Properties.Resources.ru-RU.resources
+\\psf\Home\Documents\Test\ModuleVotingMethods\obj\Debug\Modules.VotingMethods.Properties.Resources.en-US.resources
+\\psf\Home\Documents\Test\ModuleVotingMethods\obj\Debug\Modules.VotingMethods.Properties.Resources.zh.resources
+\\psf\Home\Documents\Test\ModuleVotingMethods\obj\Debug\ModuleVotingMethods.csproj.GenerateResource.Cache
+\\psf\Home\Documents\Test\ModuleVotingMethods\bin\Debug\ModuleVotingMethods.dll
+\\psf\Home\Documents\Test\ModuleVotingMethods\bin\Debug\ModuleVotingMethods.pdb
+\\psf\Home\Documents\Test\ModuleVotingMethods\bin\Debug\en-US\ModuleVotingMethods.resources.dll
+\\psf\Home\Documents\Test\ModuleVotingMethods\bin\Debug\ru-RU\ModuleVotingMethods.resources.dll
+\\psf\Home\Documents\Test\ModuleVotingMethods\bin\Debug\zh\ModuleVotingMethods.resources.dll
+\\psf\Home\Documents\Test\ModuleVotingMethods\bin\Debug\Common.dll
+\\psf\Home\Documents\Test\ModuleVotingMethods\bin\Debug\ModuleTests.dll
+\\psf\Home\Documents\Test\ModuleVotingMethods\bin\Debug\Common.pdb
+\\psf\Home\Documents\Test\ModuleVotingMethods\bin\Debug\ModuleTests.pdb
+\\psf\Home\Documents\Test\ModuleVotingMethods\bin\Debug\en-US\Common.resources.dll
+\\psf\Home\Documents\Test\ModuleVotingMethods\bin\Debug\ru-RU\Common.resources.dll
+\\psf\Home\Documents\Test\ModuleVotingMethods\bin\Debug\en-US\ModuleTests.resources.dll
+\\psf\Home\Documents\Test\ModuleVotingMethods\bin\Debug\ru-RU\ModuleTests.resources.dll
+\\psf\Home\Documents\Test\ModuleVotingMethods\bin\Debug\zh\ModuleTests.resources.dll
+\\psf\Home\Documents\Test\ModuleVotingMethods\obj\Debug\en-US\ModuleVotingMethods.resources.dll
+\\psf\Home\Documents\Test\ModuleVotingMethods\obj\Debug\ru-RU\ModuleVotingMethods.resources.dll
+\\psf\Home\Documents\Test\ModuleVotingMethods\obj\Debug\zh\ModuleVotingMethods.resources.dll
+\\psf\Home\Documents\Test\ModuleVotingMethods\obj\Debug\ModuleVotingMethods.dll
+\\psf\Home\Documents\Test\ModuleVotingMethods\obj\Debug\ModuleVotingMethods.pdb

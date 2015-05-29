@@ -247,3 +247,27 @@ C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleCol
 \\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleCollectiveBenefitFunctions\obj\Debug\zh\ModuleCollectiveBenefitFunctions.resources.dll
 \\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleCollectiveBenefitFunctions\obj\Debug\ModuleCollectiveBenefitFunctions.dll
 \\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleCollectiveBenefitFunctions\obj\Debug\ModuleCollectiveBenefitFunctions.pdb
+\\psf\Home\Documents\Test\ModuleCollectiveBenefitFunctions\obj\Debug\ModuleCollectiveBenefitFunctions.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Test\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.frmModule.resources
+\\psf\Home\Documents\Test\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.AboutPhotos.resources
+\\psf\Home\Documents\Test\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.Properties.Resources.resources
+\\psf\Home\Documents\Test\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.frmModule.en-US.resources
+\\psf\Home\Documents\Test\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.frmModule.ru-RU.resources
+\\psf\Home\Documents\Test\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.Properties.Resources.en-US.resources
+\\psf\Home\Documents\Test\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.Properties.Resources.ru-RU.resources
+\\psf\Home\Documents\Test\ModuleCollectiveBenefitFunctions\obj\Debug\Modules.CollectiveBenefitFunctions.Properties.Resources.zh.resources
+\\psf\Home\Documents\Test\ModuleCollectiveBenefitFunctions\obj\Debug\ModuleCollectiveBenefitFunctions.csproj.GenerateResource.Cache
+\\psf\Home\Documents\Test\ModuleCollectiveBenefitFunctions\bin\Debug\ModuleCollectiveBenefitFunctions.dll
+\\psf\Home\Documents\Test\ModuleCollectiveBenefitFunctions\bin\Debug\ModuleCollectiveBenefitFunctions.pdb
+\\psf\Home\Documents\Test\ModuleCollectiveBenefitFunctions\bin\Debug\en-US\ModuleCollectiveBenefitFunctions.resources.dll
+\\psf\Home\Documents\Test\ModuleCollectiveBenefitFunctions\bin\Debug\ru-RU\ModuleCollectiveBenefitFunctions.resources.dll
+\\psf\Home\Documents\Test\ModuleCollectiveBenefitFunctions\bin\Debug\zh\ModuleCollectiveBenefitFunctions.resources.dll
+\\psf\Home\Documents\Test\ModuleCollectiveBenefitFunctions\bin\Debug\Common.dll
+\\psf\Home\Documents\Test\ModuleCollectiveBenefitFunctions\bin\Debug\Common.pdb
+\\psf\Home\Documents\Test\ModuleCollectiveBenefitFunctions\bin\Debug\en-US\Common.resources.dll
+\\psf\Home\Documents\Test\ModuleCollectiveBenefitFunctions\bin\Debug\ru-RU\Common.resources.dll
+\\psf\Home\Documents\Test\ModuleCollectiveBenefitFunctions\obj\Debug\en-US\ModuleCollectiveBenefitFunctions.resources.dll
+\\psf\Home\Documents\Test\ModuleCollectiveBenefitFunctions\obj\Debug\ru-RU\ModuleCollectiveBenefitFunctions.resources.dll
+\\psf\Home\Documents\Test\ModuleCollectiveBenefitFunctions\obj\Debug\zh\ModuleCollectiveBenefitFunctions.resources.dll
+\\psf\Home\Documents\Test\ModuleCollectiveBenefitFunctions\obj\Debug\ModuleCollectiveBenefitFunctions.dll
+\\psf\Home\Documents\Test\ModuleCollectiveBenefitFunctions\obj\Debug\ModuleCollectiveBenefitFunctions.pdb

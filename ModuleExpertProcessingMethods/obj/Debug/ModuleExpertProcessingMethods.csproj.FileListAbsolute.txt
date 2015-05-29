@@ -296,3 +296,34 @@ C:\Users\LeGrin\Documents\Visual Studio 2013\Projects\SMPR3.0\SMPR_3.0\ModuleExp
 \\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleExpertProcessingMethods\obj\Debug\zh\ModuleExpertProcessingMethods.resources.dll
 \\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleExpertProcessingMethods\obj\Debug\ModuleExpertProcessingMethods.dll
 \\psf\home\Documents\Visual Studio 2013\Projects\Project1\ModuleExpertProcessingMethods\obj\Debug\ModuleExpertProcessingMethods.pdb
+\\psf\Home\Documents\Test\ModuleExpertProcessingMethods\obj\Debug\ModuleExpertProcessingMethods.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Test\ModuleExpertProcessingMethods\obj\Debug\Modules.ExpertProcessingMethods.AboutPhotos.resources
+\\psf\Home\Documents\Test\ModuleExpertProcessingMethods\obj\Debug\Modules.ExpertProcessingMethods.frmModule.resources
+\\psf\Home\Documents\Test\ModuleExpertProcessingMethods\obj\Debug\Modules.ExpertProcessingMethods.ManyRankForm.resources
+\\psf\Home\Documents\Test\ModuleExpertProcessingMethods\obj\Debug\Modules.ExpertProcessingMethods.Properties.Resources.resources
+\\psf\Home\Documents\Test\ModuleExpertProcessingMethods\obj\Debug\Rankviewtest.RankForm.resources
+\\psf\Home\Documents\Test\ModuleExpertProcessingMethods\obj\Debug\Modules.ExpertProcessingMethods.RankView.resources
+\\psf\Home\Documents\Test\ModuleExpertProcessingMethods\obj\Debug\Modules.ExpertProcessingMethods.frmModule.en-US.resources
+\\psf\Home\Documents\Test\ModuleExpertProcessingMethods\obj\Debug\Modules.ExpertProcessingMethods.frmModule.ru-RU.resources
+\\psf\Home\Documents\Test\ModuleExpertProcessingMethods\obj\Debug\Modules.ExpertProcessingMethods.ManyRankForm.en-US.resources
+\\psf\Home\Documents\Test\ModuleExpertProcessingMethods\obj\Debug\Modules.ExpertProcessingMethods.ManyRankForm.ru-RU.resources
+\\psf\Home\Documents\Test\ModuleExpertProcessingMethods\obj\Debug\Modules.ExpertProcessingMethods.Properties.Resources.en-US.resources
+\\psf\Home\Documents\Test\ModuleExpertProcessingMethods\obj\Debug\Modules.ExpertProcessingMethods.Properties.Resources.ru-RU.resources
+\\psf\Home\Documents\Test\ModuleExpertProcessingMethods\obj\Debug\Modules.ExpertProcessingMethods.Properties.Resources.zh.resources
+\\psf\Home\Documents\Test\ModuleExpertProcessingMethods\obj\Debug\Rankviewtest.RankForm.en-US.resources
+\\psf\Home\Documents\Test\ModuleExpertProcessingMethods\obj\Debug\Rankviewtest.RankForm.ru-RU.resources
+\\psf\Home\Documents\Test\ModuleExpertProcessingMethods\obj\Debug\ModuleExpertProcessingMethods.csproj.GenerateResource.Cache
+\\psf\Home\Documents\Test\ModuleExpertProcessingMethods\bin\Debug\ModuleExpertProcessingMethods.dll
+\\psf\Home\Documents\Test\ModuleExpertProcessingMethods\bin\Debug\ModuleExpertProcessingMethods.pdb
+\\psf\Home\Documents\Test\ModuleExpertProcessingMethods\bin\Debug\en-US\ModuleExpertProcessingMethods.resources.dll
+\\psf\Home\Documents\Test\ModuleExpertProcessingMethods\bin\Debug\ru-RU\ModuleExpertProcessingMethods.resources.dll
+\\psf\Home\Documents\Test\ModuleExpertProcessingMethods\bin\Debug\zh\ModuleExpertProcessingMethods.resources.dll
+\\psf\Home\Documents\Test\ModuleExpertProcessingMethods\bin\Debug\Common.dll
+\\psf\Home\Documents\Test\ModuleExpertProcessingMethods\bin\Debug\Common.pdb
+\\psf\Home\Documents\Test\ModuleExpertProcessingMethods\bin\Debug\en-US\Common.resources.dll
+\\psf\Home\Documents\Test\ModuleExpertProcessingMethods\bin\Debug\ru-RU\Common.resources.dll
+\\psf\Home\Documents\Test\ModuleExpertProcessingMethods\obj\Debug\en-US\ModuleExpertProcessingMethods.resources.dll
+\\psf\Home\Documents\Test\ModuleExpertProcessingMethods\obj\Debug\ru-RU\ModuleExpertProcessingMethods.resources.dll
+\\psf\Home\Documents\Test\ModuleExpertProcessingMethods\obj\Debug\zh\ModuleExpertProcessingMethods.resources.dll
+\\psf\Home\Documents\Test\ModuleExpertProcessingMethods\obj\Debug\ModuleExpertProcessingMethods.dll
+\\psf\Home\Documents\Test\ModuleExpertProcessingMethods\obj\Debug\ModuleExpertProcessingMethods.pdb
