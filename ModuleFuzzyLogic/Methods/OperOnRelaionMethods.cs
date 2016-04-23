@@ -11,7 +11,7 @@ namespace Modules.ModuleFuzzyLogic.Methods
 {
     class OperOnRelaionMethods : Method
     {
-        public override string Name { get { return ""; } }// Properties.Resources.OperationsOnRelationships; } }
+        public override string Name { get { return Properties.Resources.OperationOnRelation; }  }// Properties.Resources.OperationsOnRelationships; } }
 
         public List<double> intersection(List<double> list1, List<double> list2)
         {

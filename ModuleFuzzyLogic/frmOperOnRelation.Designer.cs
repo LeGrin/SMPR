@@ -537,9 +537,9 @@
             // 
             // buttonM1_Load
             // 
-            this.buttonM1_Load.Location = new System.Drawing.Point(205, 423);
+            this.buttonM1_Load.Location = new System.Drawing.Point(190, 423);
             this.buttonM1_Load.Name = "buttonM1_Load";
-            this.buttonM1_Load.Size = new System.Drawing.Size(75, 23);
+            this.buttonM1_Load.Size = new System.Drawing.Size(90, 23);
             this.buttonM1_Load.TabIndex = 23;
             this.buttonM1_Load.Text = "button1";
             this.buttonM1_Load.UseVisualStyleBackColor = true;
@@ -557,9 +557,9 @@
             // 
             // buttonM2_Load
             // 
-            this.buttonM2_Load.Location = new System.Drawing.Point(407, 423);
+            this.buttonM2_Load.Location = new System.Drawing.Point(390, 423);
             this.buttonM2_Load.Name = "buttonM2_Load";
-            this.buttonM2_Load.Size = new System.Drawing.Size(75, 23);
+            this.buttonM2_Load.Size = new System.Drawing.Size(92, 23);
             this.buttonM2_Load.TabIndex = 25;
             this.buttonM2_Load.Text = "button3";
             this.buttonM2_Load.UseVisualStyleBackColor = true;
@@ -577,9 +577,9 @@
             // 
             // buttonMRes_Load
             // 
-            this.buttonMRes_Load.Location = new System.Drawing.Point(605, 423);
+            this.buttonMRes_Load.Location = new System.Drawing.Point(590, 423);
             this.buttonMRes_Load.Name = "buttonMRes_Load";
-            this.buttonMRes_Load.Size = new System.Drawing.Size(75, 23);
+            this.buttonMRes_Load.Size = new System.Drawing.Size(90, 23);
             this.buttonMRes_Load.TabIndex = 27;
             this.buttonMRes_Load.Text = "button5";
             this.buttonMRes_Load.UseVisualStyleBackColor = true;

@@ -7,7 +7,7 @@
     <ProjectGuid>{B0432B3B-E30D-45D8-9646-AD059B7CF206}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ModuleFuzzyLogic</RootNamespace>
+    <RootNamespace>Modules.ModuleFuzzyLogic</RootNamespace>
     <AssemblyName>ModuleFuzzyLogic</AssemblyName>
     <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

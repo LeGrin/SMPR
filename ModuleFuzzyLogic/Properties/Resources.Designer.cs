@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ModuleFuzzyLogic.Properties {
+namespace Modules.ModuleFuzzyLogic.Properties {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace ModuleFuzzyLogic.Properties {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("ModuleFuzzyLogic.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Modules.ModuleFuzzyLogic.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
@@ -61,22 +61,22 @@ namespace ModuleFuzzyLogic.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Операції над відношеннями.
-        /// </summary>
-        internal static string OperationOnRelation {
-            get {
-                return ResourceManager.GetString("OperationOnRelation", resourceCulture);
-            }
-        }
-        
-        /// <summary>
         ///   Looks up a localized string similar to {\rtf1\adeflang1025\ansi\ansicpg1251\uc1\adeff0\deff0\stshfdbch0\stshfloch31506\stshfhich31506\stshfbi31506\deflang1058\deflangfe1058\themelang1058\themelangfe0\themelangcs0{\fonttbl{\f0\fbidi \froman\fcharset204\fprq2{\*\panose 02020603050405020304}Times New Roman;}
         ///{\f34\fbidi \froman\fcharset204\fprq2{\*\panose 02040503050406030204}Cambria Math;}{\f38\fbidi \fswiss\fcharset204\fprq2{\*\panose 020b0604030504040204}Tahoma;}
         ///{\flomajor\f31500\fbidi \froman\fcharset204\fprq2{\*\panose 02020603050405020304} [rest of string was truncated]&quot;;.
         /// </summary>
-        internal static string OperationsOnRelationships {
+        internal static string ModuleHelp {
             get {
-                return ResourceManager.GetString("OperationsOnRelationships", resourceCulture);
+                return ResourceManager.GetString("ModuleHelp", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Операції над нечіткими відношеннями.
+        /// </summary>
+        internal static string OperationOnRelation {
+            get {
+                return ResourceManager.GetString("OperationOnRelation", resourceCulture);
             }
         }
     }
