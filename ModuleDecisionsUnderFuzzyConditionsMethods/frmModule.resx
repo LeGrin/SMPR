@@ -717,164 +717,74 @@
   <metadata name="msMain.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
-  <data name="обєданняToolStripMenuItem.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
-    <value>Ctrl+U</value>
+  <data name="secondToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>67, 22</value>
   </data>
-  <data name="обєданняToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>209, 22</value>
+  <data name="thirdToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>67, 22</value>
   </data>
-  <data name="обєданняToolStripMenuItem.Text" xml:space="preserve">
-    <value>Об'єдання</value>
+  <data name="fourthToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>67, 22</value>
   </data>
-  <data name="перетинToolStripMenuItem.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
-    <value>Ctrl+I</value>
+  <data name="sixToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>67, 22</value>
   </data>
-  <data name="перетинToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>209, 22</value>
+  <data name="sevenToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>67, 22</value>
   </data>
-  <data name="перетинToolStripMenuItem.Text" xml:space="preserve">
-    <value>Перетин</value>
+  <data name="eightToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>67, 22</value>
   </data>
-  <data name="різницяToolStripMenuItem.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
-    <value>Ctrl+D</value>
+  <data name="fifthToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>67, 22</value>
   </data>
-  <data name="різницяToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>209, 22</value>
-  </data>
-  <data name="різницяToolStripMenuItem.Text" xml:space="preserve">
-    <value>Різниця</value>
-  </data>
-  <data name="різницяToolStripMenuItem.ToolTipText" xml:space="preserve">
-    <value>Від першої виділеної другу</value>
-  </data>
-  <data name="максиміннаяToolStripMenuItem.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
-    <value>Ctrl+Q</value>
-  </data>
-  <data name="максиміннаяToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>254, 22</value>
-  </data>
-  <data name="максиміннаяToolStripMenuItem.Text" xml:space="preserve">
-    <value>Максимінна</value>
-  </data>
-  <data name="мінімакснаяToolStripMenuItem.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
-    <value>Ctrl+W</value>
-  </data>
-  <data name="мінімакснаяToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>254, 22</value>
-  </data>
-  <data name="мінімакснаяToolStripMenuItem.Text" xml:space="preserve">
-    <value>Мінімаксна</value>
-  </data>
-  <data name="максимультипликативнаToolStripMenuItem.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
-    <value>Ctrl+E</value>
-  </data>
-  <data name="максимультипликативнаToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>254, 22</value>
-  </data>
-  <data name="максимультипликативнаToolStripMenuItem.Text" xml:space="preserve">
-    <value>Максимультипликативна</value>
-  </data>
-  <data name="композиціяToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>209, 22</value>
-  </data>
-  <data name="композиціяToolStripMenuItem.Text" xml:space="preserve">
-    <value>Композиція</value>
-  </data>
-  <data name="декартівДобутокToolStripMenuItem.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
-    <value>Ctrl+X</value>
-  </data>
-  <data name="декартівДобутокToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>209, 22</value>
-  </data>
-  <data name="декартівДобутокToolStripMenuItem.Text" xml:space="preserve">
-    <value>Декартів добуток</value>
+  <data name="nineToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>67, 22</value>
   </data>
   <data name="toolStripSeparator1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>206, 6</value>
+    <value>64, 6</value>
   </data>
-  <data name="дискретнаToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>141, 22</value>
+  <data name="twelveToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>67, 22</value>
   </data>
-  <data name="дискретнаToolStripMenuItem.Text" xml:space="preserve">
-    <value>Дискретна</value>
+  <data name="thirteenToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>67, 22</value>
   </data>
-  <data name="неперервнаToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>141, 22</value>
+  <data name="elevenToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>67, 22</value>
   </data>
-  <data name="неперервнаToolStripMenuItem.Text" xml:space="preserve">
-    <value>Неперервна</value>
+  <data name="fifteenToolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>67, 22</value>
   </data>
-  <data name="одновимірнаToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>148, 22</value>
+  <data name="fourtheenToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>67, 22</value>
   </data>
-  <data name="одновимірнаToolStripMenuItem.Text" xml:space="preserve">
-    <value>Одновимірна</value>
+  <data name="tenToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>67, 22</value>
   </data>
-  <data name="дискретнаToolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>132, 22</value>
+  <data name="seventeenToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>67, 22</value>
   </data>
-  <data name="дискретнаToolStripMenuItem1.Text" xml:space="preserve">
-    <value>Дискретна</value>
+  <data name="eighteenToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>67, 22</value>
   </data>
-  <data name="двовимірнаToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>148, 22</value>
+  <data name="nineteenToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>67, 22</value>
   </data>
-  <data name="двовимірнаToolStripMenuItem.Text" xml:space="preserve">
-    <value>Двовимірна</value>
+  <data name="sixteenToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>67, 22</value>
   </data>
-  <data name="додтиToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>209, 22</value>
-  </data>
-  <data name="додтиToolStripMenuItem.Text" xml:space="preserve">
-    <value>Додати</value>
-  </data>
-  <data name="нормальнийРосподілToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>221, 22</value>
-  </data>
-  <data name="нормальнийРосподілToolStripMenuItem.Text" xml:space="preserve">
-    <value>Нормальний росподіл</value>
-  </data>
-  <data name="трикутнаМножинаToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>221, 22</value>
-  </data>
-  <data name="трикутнаМножинаToolStripMenuItem.Text" xml:space="preserve">
-    <value>Трикутна множина</value>
-  </data>
-  <data name="трапецеіToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>221, 22</value>
-  </data>
-  <data name="трапецеіToolStripMenuItem.Text" xml:space="preserve">
-    <value>Трапецїєподібна множина</value>
-  </data>
-  <data name="стандартніФункціїToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>209, 22</value>
-  </data>
-  <data name="стандартніФункціїToolStripMenuItem.Text" xml:space="preserve">
-    <value>Стандартні множини</value>
-  </data>
-  <data name="копіюватиToolStripMenuItem.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
-    <value>Ctrl+Shift+C</value>
-  </data>
-  <data name="копіюватиToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>209, 22</value>
-  </data>
-  <data name="копіюватиToolStripMenuItem.Text" xml:space="preserve">
-    <value>Копіювати</value>
+  <data name="twentyToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>67, 22</value>
   </data>
   <data name="toolStripSeparator4.Size" type="System.Drawing.Size, System.Drawing">
-    <value>206, 6</value>
+    <value>64, 6</value>
   </data>
-  <data name="видалитиToolStripMenuItem.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
-    <value>Ctrl+R</value>
-  </data>
-  <data name="видалитиToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>209, 22</value>
-  </data>
-  <data name="видалитиToolStripMenuItem.Text" xml:space="preserve">
-    <value>Видалити</value>
+  <data name="twentyoneToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>67, 22</value>
   </data>
   <data name="toolStripSeparator2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>206, 6</value>
+    <value>64, 6</value>
   </data>
   <data name="tsmiCont.Size" type="System.Drawing.Size, System.Drawing">
     <value>141, 22</value>
@@ -882,53 +792,26 @@
   <data name="tsmiCont.Text" xml:space="preserve">
     <value>Неперервну</value>
   </data>
-  <data name="перетворитиToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>209, 22</value>
+  <data name="twentytwoToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>67, 22</value>
   </data>
-  <data name="перетворитиToolStripMenuItem.Text" xml:space="preserve">
-    <value>Перетворити</value>
+  <data name="firstToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>12, 20</value>
   </data>
-  <data name="множинаToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>73, 20</value>
+  <data name="twentyfourToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>67, 22</value>
   </data>
-  <data name="множинаToolStripMenuItem.Text" xml:space="preserve">
-    <value>Множина</value>
+  <data name="twentyfiveToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>67, 22</value>
   </data>
-  <data name="зберегтиToolStripMenuItem.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
-    <value>Ctrl+S</value>
+  <data name="twentythreeToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>12, 20</value>
   </data>
-  <data name="зберегтиToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>188, 22</value>
+  <data name="twentysevenToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>67, 22</value>
   </data>
-  <data name="зберегтиToolStripMenuItem.Text" xml:space="preserve">
-    <value>Зберегти</value>
-  </data>
-  <data name="завантажитиToolStripMenuItem.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
-    <value>Ctrl+O</value>
-  </data>
-  <data name="завантажитиToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>188, 22</value>
-  </data>
-  <data name="завантажитиToolStripMenuItem.Text" xml:space="preserve">
-    <value>Завантажити</value>
-  </data>
-  <data name="буферToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>54, 20</value>
-  </data>
-  <data name="буферToolStripMenuItem.Text" xml:space="preserve">
-    <value>Буфер</value>
-  </data>
-  <data name="відображенняToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>152, 22</value>
-  </data>
-  <data name="відображенняToolStripMenuItem.Text" xml:space="preserve">
-    <value>Відображення</value>
-  </data>
-  <data name="налаштуванняToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>48, 20</value>
-  </data>
-  <data name="налаштуванняToolStripMenuItem.Text" xml:space="preserve">
-    <value>Опції</value>
+  <data name="twentysixToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>12, 20</value>
   </data>
   <data name="sinxToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
     <value>158, 22</value>
@@ -948,11 +831,8 @@
   <data name="x310ToolStripMenuItem.Text" xml:space="preserve">
     <value>x^3/1000</value>
   </data>
-  <data name="функційНалежностіМюToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>215, 22</value>
-  </data>
-  <data name="функційНалежностіМюToolStripMenuItem.Text" xml:space="preserve">
-    <value>Функцій належності мю</value>
+  <data name="twentynineToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>67, 22</value>
   </data>
   <data name="aBCToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
     <value>157, 22</value>
@@ -972,17 +852,11 @@
   <data name="aBCToolStripMenuItem1.Text" xml:space="preserve">
     <value>(A\B)*C </value>
   </data>
-  <data name="операціїНадМножинамиToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>215, 22</value>
+  <data name="thirtyToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>67, 22</value>
   </data>
-  <data name="операціїНадМножинамиToolStripMenuItem.Text" xml:space="preserve">
-    <value>Операції над множинами</value>
-  </data>
-  <data name="прикладиToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>74, 20</value>
-  </data>
-  <data name="прикладиToolStripMenuItem.Text" xml:space="preserve">
-    <value>Приклади</value>
+  <data name="twentyeightToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>12, 20</value>
   </data>
   <data name="msMain.Location" type="System.Drawing.Point, System.Drawing">
     <value>0, 0</value>
@@ -13560,58 +13434,58 @@
   <data name="&gt;&gt;tbDotDel.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;множинаToolStripMenuItem.Name" xml:space="preserve">
-    <value>множинаToolStripMenuItem</value>
+  <data name="&gt;&gt;firstToolStripMenuItem.Name" xml:space="preserve">
+    <value>firstToolStripMenuItem</value>
   </data>
-  <data name="&gt;&gt;множинаToolStripMenuItem.Type" xml:space="preserve">
+  <data name="&gt;&gt;firstToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;обєданняToolStripMenuItem.Name" xml:space="preserve">
-    <value>обєданняToolStripMenuItem</value>
+  <data name="&gt;&gt;secondToolStripMenuItem.Name" xml:space="preserve">
+    <value>secondToolStripMenuItem</value>
   </data>
-  <data name="&gt;&gt;обєданняToolStripMenuItem.Type" xml:space="preserve">
+  <data name="&gt;&gt;secondToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;перетинToolStripMenuItem.Name" xml:space="preserve">
-    <value>перетинToolStripMenuItem</value>
+  <data name="&gt;&gt;thirdToolStripMenuItem.Name" xml:space="preserve">
+    <value>thirdToolStripMenuItem</value>
   </data>
-  <data name="&gt;&gt;перетинToolStripMenuItem.Type" xml:space="preserve">
+  <data name="&gt;&gt;thirdToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;різницяToolStripMenuItem.Name" xml:space="preserve">
-    <value>різницяToolStripMenuItem</value>
+  <data name="&gt;&gt;fourthToolStripMenuItem.Name" xml:space="preserve">
+    <value>fourthToolStripMenuItem</value>
   </data>
-  <data name="&gt;&gt;різницяToolStripMenuItem.Type" xml:space="preserve">
+  <data name="&gt;&gt;fourthToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;композиціяToolStripMenuItem.Name" xml:space="preserve">
-    <value>композиціяToolStripMenuItem</value>
+  <data name="&gt;&gt;fifthToolStripMenuItem.Name" xml:space="preserve">
+    <value>fifthToolStripMenuItem</value>
   </data>
-  <data name="&gt;&gt;композиціяToolStripMenuItem.Type" xml:space="preserve">
+  <data name="&gt;&gt;fifthToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;максиміннаяToolStripMenuItem.Name" xml:space="preserve">
-    <value>максиміннаяToolStripMenuItem</value>
+  <data name="&gt;&gt;sixToolStripMenuItem.Name" xml:space="preserve">
+    <value>sixToolStripMenuItem</value>
   </data>
-  <data name="&gt;&gt;максиміннаяToolStripMenuItem.Type" xml:space="preserve">
+  <data name="&gt;&gt;sixToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;мінімакснаяToolStripMenuItem.Name" xml:space="preserve">
-    <value>мінімакснаяToolStripMenuItem</value>
+  <data name="&gt;&gt;sevenToolStripMenuItem.Name" xml:space="preserve">
+    <value>sevenToolStripMenuItem</value>
   </data>
-  <data name="&gt;&gt;мінімакснаяToolStripMenuItem.Type" xml:space="preserve">
+  <data name="&gt;&gt;sevenToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;максимультипликативнаToolStripMenuItem.Name" xml:space="preserve">
-    <value>максимультипликативнаToolStripMenuItem</value>
+  <data name="&gt;&gt;eightToolStripMenuItem.Name" xml:space="preserve">
+    <value>eightToolStripMenuItem</value>
   </data>
-  <data name="&gt;&gt;максимультипликативнаToolStripMenuItem.Type" xml:space="preserve">
+  <data name="&gt;&gt;eightToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;декартівДобутокToolStripMenuItem.Name" xml:space="preserve">
-    <value>декартівДобутокToolStripMenuItem</value>
+  <data name="&gt;&gt;nineToolStripMenuItem.Name" xml:space="preserve">
+    <value>nineToolStripMenuItem</value>
   </data>
-  <data name="&gt;&gt;декартівДобутокToolStripMenuItem.Type" xml:space="preserve">
+  <data name="&gt;&gt;nineToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;toolStripSeparator1.Name" xml:space="preserve">
@@ -13620,70 +13494,70 @@
   <data name="&gt;&gt;toolStripSeparator1.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripSeparator, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;додтиToolStripMenuItem.Name" xml:space="preserve">
-    <value>додтиToolStripMenuItem</value>
+  <data name="&gt;&gt;tenToolStripMenuItem.Name" xml:space="preserve">
+    <value>tenToolStripMenuItem</value>
   </data>
-  <data name="&gt;&gt;додтиToolStripMenuItem.Type" xml:space="preserve">
+  <data name="&gt;&gt;tenToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;одновимірнаToolStripMenuItem.Name" xml:space="preserve">
-    <value>одновимірнаToolStripMenuItem</value>
+  <data name="&gt;&gt;elevenToolStripMenuItem.Name" xml:space="preserve">
+    <value>elevenToolStripMenuItem</value>
   </data>
-  <data name="&gt;&gt;одновимірнаToolStripMenuItem.Type" xml:space="preserve">
+  <data name="&gt;&gt;elevenToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;дискретнаToolStripMenuItem.Name" xml:space="preserve">
-    <value>дискретнаToolStripMenuItem</value>
+  <data name="&gt;&gt;twelveToolStripMenuItem.Name" xml:space="preserve">
+    <value>twelveToolStripMenuItem</value>
   </data>
-  <data name="&gt;&gt;дискретнаToolStripMenuItem.Type" xml:space="preserve">
+  <data name="&gt;&gt;twelveToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;неперервнаToolStripMenuItem.Name" xml:space="preserve">
-    <value>неперервнаToolStripMenuItem</value>
+  <data name="&gt;&gt;thirteenToolStripMenuItem.Name" xml:space="preserve">
+    <value>thirteenToolStripMenuItem</value>
   </data>
-  <data name="&gt;&gt;неперервнаToolStripMenuItem.Type" xml:space="preserve">
+  <data name="&gt;&gt;thirteenToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;двовимірнаToolStripMenuItem.Name" xml:space="preserve">
-    <value>двовимірнаToolStripMenuItem</value>
+  <data name="&gt;&gt;fourtheenToolStripMenuItem.Name" xml:space="preserve">
+    <value>fourtheenToolStripMenuItem</value>
   </data>
-  <data name="&gt;&gt;двовимірнаToolStripMenuItem.Type" xml:space="preserve">
+  <data name="&gt;&gt;fourtheenToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;дискретнаToolStripMenuItem1.Name" xml:space="preserve">
-    <value>дискретнаToolStripMenuItem1</value>
+  <data name="&gt;&gt;fifteenToolStripMenuItem1.Name" xml:space="preserve">
+    <value>fifteenToolStripMenuItem1</value>
   </data>
-  <data name="&gt;&gt;дискретнаToolStripMenuItem1.Type" xml:space="preserve">
+  <data name="&gt;&gt;fifteenToolStripMenuItem1.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;стандартніФункціїToolStripMenuItem.Name" xml:space="preserve">
-    <value>стандартніФункціїToolStripMenuItem</value>
+  <data name="&gt;&gt;sixteenToolStripMenuItem.Name" xml:space="preserve">
+    <value>sixteenToolStripMenuItem</value>
   </data>
-  <data name="&gt;&gt;стандартніФункціїToolStripMenuItem.Type" xml:space="preserve">
+  <data name="&gt;&gt;sixteenToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;нормальнийРосподілToolStripMenuItem.Name" xml:space="preserve">
-    <value>нормальнийРосподілToolStripMenuItem</value>
+  <data name="&gt;&gt;seventeenToolStripMenuItem.Name" xml:space="preserve">
+    <value>seventeenToolStripMenuItem</value>
   </data>
-  <data name="&gt;&gt;нормальнийРосподілToolStripMenuItem.Type" xml:space="preserve">
+  <data name="&gt;&gt;seventeenToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;трикутнаМножинаToolStripMenuItem.Name" xml:space="preserve">
-    <value>трикутнаМножинаToolStripMenuItem</value>
+  <data name="&gt;&gt;eighteenToolStripMenuItem.Name" xml:space="preserve">
+    <value>eighteenToolStripMenuItem</value>
   </data>
-  <data name="&gt;&gt;трикутнаМножинаToolStripMenuItem.Type" xml:space="preserve">
+  <data name="&gt;&gt;eighteenToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;трапецеіToolStripMenuItem.Name" xml:space="preserve">
-    <value>трапецеіToolStripMenuItem</value>
+  <data name="&gt;&gt;nineteenToolStripMenuItem.Name" xml:space="preserve">
+    <value>nineteenToolStripMenuItem</value>
   </data>
-  <data name="&gt;&gt;трапецеіToolStripMenuItem.Type" xml:space="preserve">
+  <data name="&gt;&gt;nineteenToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;копіюватиToolStripMenuItem.Name" xml:space="preserve">
-    <value>копіюватиToolStripMenuItem</value>
+  <data name="&gt;&gt;twentyToolStripMenuItem.Name" xml:space="preserve">
+    <value>twentyToolStripMenuItem</value>
   </data>
-  <data name="&gt;&gt;копіюватиToolStripMenuItem.Type" xml:space="preserve">
+  <data name="&gt;&gt;twentyToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;toolStripSeparator4.Name" xml:space="preserve">
@@ -13692,10 +13566,10 @@
   <data name="&gt;&gt;toolStripSeparator4.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripSeparator, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;видалитиToolStripMenuItem.Name" xml:space="preserve">
-    <value>видалитиToolStripMenuItem</value>
+  <data name="&gt;&gt;twentyoneToolStripMenuItem.Name" xml:space="preserve">
+    <value>twentyoneToolStripMenuItem</value>
   </data>
-  <data name="&gt;&gt;видалитиToolStripMenuItem.Type" xml:space="preserve">
+  <data name="&gt;&gt;twentyoneToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;toolStripSeparator2.Name" xml:space="preserve">
@@ -13704,10 +13578,10 @@
   <data name="&gt;&gt;toolStripSeparator2.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripSeparator, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;перетворитиToolStripMenuItem.Name" xml:space="preserve">
-    <value>перетворитиToolStripMenuItem</value>
+  <data name="&gt;&gt;twentytwoToolStripMenuItem.Name" xml:space="preserve">
+    <value>twentytwoToolStripMenuItem</value>
   </data>
-  <data name="&gt;&gt;перетворитиToolStripMenuItem.Type" xml:space="preserve">
+  <data name="&gt;&gt;twentytwoToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;tsmiCont.Name" xml:space="preserve">
@@ -13716,46 +13590,46 @@
   <data name="&gt;&gt;tsmiCont.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;буферToolStripMenuItem.Name" xml:space="preserve">
-    <value>буферToolStripMenuItem</value>
+  <data name="&gt;&gt;twentythreeToolStripMenuItem.Name" xml:space="preserve">
+    <value>twentythreeToolStripMenuItem</value>
   </data>
-  <data name="&gt;&gt;буферToolStripMenuItem.Type" xml:space="preserve">
+  <data name="&gt;&gt;twentythreeToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;зберегтиToolStripMenuItem.Name" xml:space="preserve">
-    <value>зберегтиToolStripMenuItem</value>
+  <data name="&gt;&gt;twentyfourToolStripMenuItem.Name" xml:space="preserve">
+    <value>twentyfourToolStripMenuItem</value>
   </data>
-  <data name="&gt;&gt;зберегтиToolStripMenuItem.Type" xml:space="preserve">
+  <data name="&gt;&gt;twentyfourToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;завантажитиToolStripMenuItem.Name" xml:space="preserve">
-    <value>завантажитиToolStripMenuItem</value>
+  <data name="&gt;&gt;twentyfiveToolStripMenuItem.Name" xml:space="preserve">
+    <value>twentyfiveToolStripMenuItem</value>
   </data>
-  <data name="&gt;&gt;завантажитиToolStripMenuItem.Type" xml:space="preserve">
+  <data name="&gt;&gt;twentyfiveToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;налаштуванняToolStripMenuItem.Name" xml:space="preserve">
-    <value>налаштуванняToolStripMenuItem</value>
+  <data name="&gt;&gt;twentysixToolStripMenuItem.Name" xml:space="preserve">
+    <value>twentysixToolStripMenuItem</value>
   </data>
-  <data name="&gt;&gt;налаштуванняToolStripMenuItem.Type" xml:space="preserve">
+  <data name="&gt;&gt;twentysixToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;відображенняToolStripMenuItem.Name" xml:space="preserve">
-    <value>відображенняToolStripMenuItem</value>
+  <data name="&gt;&gt;twentysevenToolStripMenuItem.Name" xml:space="preserve">
+    <value>twentysevenToolStripMenuItem</value>
   </data>
-  <data name="&gt;&gt;відображенняToolStripMenuItem.Type" xml:space="preserve">
+  <data name="&gt;&gt;twentysevenToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;прикладиToolStripMenuItem.Name" xml:space="preserve">
-    <value>прикладиToolStripMenuItem</value>
+  <data name="&gt;&gt;twentyeightToolStripMenuItem.Name" xml:space="preserve">
+    <value>twentyeightToolStripMenuItem</value>
   </data>
-  <data name="&gt;&gt;прикладиToolStripMenuItem.Type" xml:space="preserve">
+  <data name="&gt;&gt;twentyeightToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;функційНалежностіМюToolStripMenuItem.Name" xml:space="preserve">
-    <value>функційНалежностіМюToolStripMenuItem</value>
+  <data name="&gt;&gt;twentynineToolStripMenuItem.Name" xml:space="preserve">
+    <value>twentynineToolStripMenuItem</value>
   </data>
-  <data name="&gt;&gt;функційНалежностіМюToolStripMenuItem.Type" xml:space="preserve">
+  <data name="&gt;&gt;twentynineToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;sinxToolStripMenuItem.Name" xml:space="preserve">
@@ -13776,10 +13650,10 @@
   <data name="&gt;&gt;x310ToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;операціїНадМножинамиToolStripMenuItem.Name" xml:space="preserve">
-    <value>операціїНадМножинамиToolStripMenuItem</value>
+  <data name="&gt;&gt;thirtyToolStripMenuItem.Name" xml:space="preserve">
+    <value>thirtyToolStripMenuItem</value>
   </data>
-  <data name="&gt;&gt;операціїНадМножинамиToolStripMenuItem.Type" xml:space="preserve">
+  <data name="&gt;&gt;thirtyToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;aBCToolStripMenuItem.Name" xml:space="preserve">

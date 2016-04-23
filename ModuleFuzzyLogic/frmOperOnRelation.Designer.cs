@@ -44,6 +44,9 @@
             this.dataGV_Matrix1 = new System.Windows.Forms.DataGridView();
             this.dataGV_Matrix2 = new System.Windows.Forms.DataGridView();
             this.dataGV_MatrixRes = new System.Windows.Forms.DataGridView();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label5 = new System.Windows.Forms.Label();
+            this.label6 = new System.Windows.Forms.Label();
             this.tableLayoutPanelN = new System.Windows.Forms.TableLayoutPanel();
             this.label4 = new System.Windows.Forms.Label();
             this.numUD_Sz1 = new System.Windows.Forms.NumericUpDown();
@@ -51,9 +54,6 @@
             this.numUD_Sz3 = new System.Windows.Forms.NumericUpDown();
             this.numUD_Sz4 = new System.Windows.Forms.NumericUpDown();
             this.numUD_Sz5 = new System.Windows.Forms.NumericUpDown();
-            this.label3 = new System.Windows.Forms.Label();
-            this.label5 = new System.Windows.Forms.Label();
-            this.label6 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
             this.checkBoxComp = new System.Windows.Forms.CheckBox();
             this.tableLayoutPanelComp = new System.Windows.Forms.TableLayoutPanel();
@@ -68,6 +68,8 @@
             this.buttonM2_Save = new System.Windows.Forms.Button();
             this.buttonMRes_Load = new System.Windows.Forms.Button();
             this.buttonMRes_Save = new System.Windows.Forms.Button();
+            this.buttonGener_M1 = new System.Windows.Forms.Button();
+            this.buttonGener_M2 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.numUD_Size)).BeginInit();
             this.tableLayoutPanel1.SuspendLayout();
             this.tableLayoutPanelMethods.SuspendLayout();
@@ -281,6 +283,33 @@
             this.dataGV_MatrixRes.TabIndex = 2;
             this.dataGV_MatrixRes.CellValidating += new System.Windows.Forms.DataGridViewCellValidatingEventHandler(this.dataGV_MatrixRes_CellValidating);
             // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(3, 0);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(60, 13);
+            this.label3.TabIndex = 3;
+            this.label3.Text = "Матриця 1";
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(203, 0);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(60, 13);
+            this.label5.TabIndex = 4;
+            this.label5.Text = "Матриця 2";
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(403, 0);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(59, 13);
+            this.label6.TabIndex = 5;
+            this.label6.Text = "Результат";
+            // 
             // tableLayoutPanelN
             // 
             this.tableLayoutPanelN.ColumnCount = 1;
@@ -428,33 +457,6 @@
             0});
             this.numUD_Sz5.ValueChanged += new System.EventHandler(this.numUD_Sz5_ValueChanged);
             // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(3, 0);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(60, 13);
-            this.label3.TabIndex = 3;
-            this.label3.Text = "Матриця 1";
-            // 
-            // label5
-            // 
-            this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(203, 0);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(60, 13);
-            this.label5.TabIndex = 4;
-            this.label5.Text = "Матриця 2";
-            // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(403, 0);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(59, 13);
-            this.label6.TabIndex = 5;
-            this.label6.Text = "Результат";
-            // 
             // label7
             // 
             this.label7.AutoSize = true;
@@ -541,6 +543,7 @@
             this.buttonM1_Load.TabIndex = 23;
             this.buttonM1_Load.Text = "button1";
             this.buttonM1_Load.UseVisualStyleBackColor = true;
+            this.buttonM1_Load.Click += new System.EventHandler(this.buttonM1_Load_Click);
             // 
             // buttonM1_Save
             // 
@@ -550,6 +553,7 @@
             this.buttonM1_Save.TabIndex = 24;
             this.buttonM1_Save.Text = "button2";
             this.buttonM1_Save.UseVisualStyleBackColor = true;
+            this.buttonM1_Save.Click += new System.EventHandler(this.buttonM1_Save_Click);
             // 
             // buttonM2_Load
             // 
@@ -559,6 +563,7 @@
             this.buttonM2_Load.TabIndex = 25;
             this.buttonM2_Load.Text = "button3";
             this.buttonM2_Load.UseVisualStyleBackColor = true;
+            this.buttonM2_Load.Click += new System.EventHandler(this.buttonM2_Load_Click);
             // 
             // buttonM2_Save
             // 
@@ -568,6 +573,7 @@
             this.buttonM2_Save.TabIndex = 26;
             this.buttonM2_Save.Text = "button4";
             this.buttonM2_Save.UseVisualStyleBackColor = true;
+            this.buttonM2_Save.Click += new System.EventHandler(this.buttonM2_Save_Click);
             // 
             // buttonMRes_Load
             // 
@@ -577,6 +583,7 @@
             this.buttonMRes_Load.TabIndex = 27;
             this.buttonMRes_Load.Text = "button5";
             this.buttonMRes_Load.UseVisualStyleBackColor = true;
+            this.buttonMRes_Load.Click += new System.EventHandler(this.buttonMRes_Load_Click);
             // 
             // buttonMRes_Save
             // 
@@ -586,12 +593,35 @@
             this.buttonMRes_Save.TabIndex = 28;
             this.buttonMRes_Save.Text = "button6";
             this.buttonMRes_Save.UseVisualStyleBackColor = true;
+            this.buttonMRes_Save.Click += new System.EventHandler(this.buttonMRes_Save_Click);
+            // 
+            // buttonGener_M1
+            // 
+            this.buttonGener_M1.Location = new System.Drawing.Point(244, 54);
+            this.buttonGener_M1.Name = "buttonGener_M1";
+            this.buttonGener_M1.Size = new System.Drawing.Size(80, 23);
+            this.buttonGener_M1.TabIndex = 29;
+            this.buttonGener_M1.Text = "Згенерувати";
+            this.buttonGener_M1.UseVisualStyleBackColor = true;
+            this.buttonGener_M1.Click += new System.EventHandler(this.buttonGener_M1_Click);
+            // 
+            // buttonGener_M2
+            // 
+            this.buttonGener_M2.Location = new System.Drawing.Point(453, 53);
+            this.buttonGener_M2.Name = "buttonGener_M2";
+            this.buttonGener_M2.Size = new System.Drawing.Size(80, 23);
+            this.buttonGener_M2.TabIndex = 30;
+            this.buttonGener_M2.Text = "Згенерувати";
+            this.buttonGener_M2.UseVisualStyleBackColor = true;
+            this.buttonGener_M2.Click += new System.EventHandler(this.buttonGener_M2_Click);
             // 
             // frmOperOnRelation
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(989, 545);
+            this.Controls.Add(this.buttonGener_M2);
+            this.Controls.Add(this.buttonGener_M1);
             this.Controls.Add(this.buttonMRes_Save);
             this.Controls.Add(this.buttonMRes_Load);
             this.Controls.Add(this.buttonM2_Save);
@@ -676,5 +706,7 @@
         private System.Windows.Forms.Button buttonM2_Save;
         private System.Windows.Forms.Button buttonMRes_Load;
         private System.Windows.Forms.Button buttonMRes_Save;
+        private System.Windows.Forms.Button buttonGener_M1;
+        private System.Windows.Forms.Button buttonGener_M2;
     }
 }
