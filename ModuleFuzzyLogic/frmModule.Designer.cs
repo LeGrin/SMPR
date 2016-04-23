@@ -48,7 +48,6 @@
             // 
             // binRelationsPropButton
             // 
-<<<<<<< HEAD
             this.binRelationsPropButton.Location = new System.Drawing.Point(137, 12);
             this.binRelationsPropButton.Name = "binRelationsPropButton";
             this.binRelationsPropButton.Size = new System.Drawing.Size(119, 51);
@@ -56,15 +55,7 @@
             this.binRelationsPropButton.Text = "Властивості бін. відн.";
             this.binRelationsPropButton.UseVisualStyleBackColor = true;
             this.binRelationsPropButton.Click += new System.EventHandler(this.binRelationsPropButton_Click);
-=======
-            this.button2.Location = new System.Drawing.Point(103, 10);
-            this.button2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(89, 41);
-            this.button2.TabIndex = 0;
-            this.button2.Text = "Rita";
-            this.button2.UseVisualStyleBackColor = true;
->>>>>>> All logic and design without buffer and theory
+
             // 
             // button3
             // 
