@@ -100,15 +100,14 @@ namespace Modules.ModuleFuzzyLogic
 
         private void loadMatrixFromBuffer(BufferData buff)
         {
-            if (buff is Matrix<double>)
-            {
-                Matrix<double> t = (Matrix<double>)buff;
-                foreach (DataGridViewRow row in matrix.Rows)
-                    foreach (DataGridViewCell cell in row.Cells)
-                    {
-                        cell.Value = t.Value[cell.ColumnIndex, cell.RowIndex];
-                    }
-            }
+            Matrix<double> t = (Matrix<double>)buff;
+            matrix.RowCount = t.RowCount;
+            matrix.ColumnCount = t.ColumnCount;
+            foreach (DataGridViewRow row in matrix.Rows)
+                foreach (DataGridViewCell cell in row.Cells)
+                {
+                    cell.Value = t.Value[cell.ColumnIndex, cell.RowIndex];
+                }
         }
 
         private void loadButton_Click(object sender, EventArgs e)
@@ -126,10 +125,10 @@ namespace Modules.ModuleFuzzyLogic
             if (obj is Matrix<double>)
             {
                 Matrix<double> m = (Matrix<double>)obj;
-                if (m.Value.GetLength(0) > 10)
+                if (m.Value.GetLength(0) > 10 || m.Value.GetLength(0) != m.Value.GetLength(1))
+                {
                     return false;
-                else if (m.Value.GetLength(1) > 10)
-                    return false;
+                }
                 else
                 {
                     for (int i = 0; i < m.Value.GetLength(0); i++)
