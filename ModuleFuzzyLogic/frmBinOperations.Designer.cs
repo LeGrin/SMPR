@@ -47,6 +47,10 @@
             this.label6 = new System.Windows.Forms.Label();
             this.sizeA = new System.Windows.Forms.TextBox();
             this.sizeB = new System.Windows.Forms.TextBox();
+            this.button2 = new System.Windows.Forms.Button();
+            this.button3 = new System.Windows.Forms.Button();
+            this.button4 = new System.Windows.Forms.Button();
+            this.button5 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgvA)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dgvB)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dgvRes)).BeginInit();
@@ -232,12 +236,44 @@
             this.sizeB.Name = "sizeB";
             this.sizeB.Size = new System.Drawing.Size(51, 20);
             this.sizeB.TabIndex = 22;
+         
+            // 
+            // button3
+            // 
+            this.button3.Location = new System.Drawing.Point(796, 271);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(101, 26);
+            this.button3.TabIndex = 24;
+            this.button3.Text = "бувфер в В";
+            this.button3.UseVisualStyleBackColor = true;
+            // 
+            // button4
+            // 
+            this.button4.Location = new System.Drawing.Point(689, 303);
+            this.button4.Name = "button4";
+            this.button4.Size = new System.Drawing.Size(101, 26);
+            this.button4.TabIndex = 25;
+            this.button4.Text = "А в бувфер";
+            this.button4.UseVisualStyleBackColor = true;
+            // 
+            // button5
+            // 
+            this.button5.Location = new System.Drawing.Point(796, 303);
+            this.button5.Name = "button5";
+            this.button5.Size = new System.Drawing.Size(101, 26);
+            this.button5.TabIndex = 26;
+            this.button5.Text = "В в бувфер";
+            this.button5.UseVisualStyleBackColor = true;
             // 
             // frmBinOperations
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(959, 553);
+            this.Controls.Add(this.button5);
+            this.Controls.Add(this.button4);
+            this.Controls.Add(this.button3);
+            this.Controls.Add(this.button2);
             this.Controls.Add(this.sizeB);
             this.Controls.Add(this.sizeA);
             this.Controls.Add(this.label6);
@@ -288,5 +324,9 @@
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.TextBox sizeA;
         private System.Windows.Forms.TextBox sizeB;
+        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.Button button4;
+        private System.Windows.Forms.Button button5;
     }
 }
