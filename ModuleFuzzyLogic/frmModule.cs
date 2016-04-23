@@ -22,5 +22,10 @@ namespace Modules.ModuleFuzzyLogic
             BinRelationsPropForm binRealtionsPropForm = new BinRelationsPropForm();
             binRealtionsPropForm.Show();
         }
+        private void buttonOperOnRelation_Click(object sender, EventArgs e)
+        {
+            frmOperOnRelation opOnRel = new frmOperOnRelation();
+            opOnRel.Show();
+        }
     }
 }

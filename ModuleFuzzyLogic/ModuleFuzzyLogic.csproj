@@ -54,8 +54,15 @@
     <Compile Include="frmModule.Designer.cs">
       <DependentUpon>frmModule.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmOperOnRelation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOperOnRelation.Designer.cs">
+      <DependentUpon>frmOperOnRelation.cs</DependentUpon>
+    </Compile>
     <Compile Include="Method.cs" />
     <Compile Include="Methods\BinRelationsProp.cs" />
+    <Compile Include="Methods\OperOnRelaionMethods.cs" />
     <Compile Include="Module.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -65,6 +72,10 @@
       <Project>{1e272a87-5c29-47e9-8864-bc5d1919a0f0}</Project>
       <Name>Common</Name>
     </ProjectReference>
+    <ProjectReference Include="..\ModuleConflictsAndCompromisesMethods\ModuleConflictsAndCompromises.csproj">
+      <Project>{752B7B72-3E2B-4389-8959-B75D9AB4CF70}</Project>
+      <Name>ModuleConflictsAndCompromises</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="BinRelationsPropForm.resx">
@@ -72,6 +83,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmModule.resx">
       <DependentUpon>frmModule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOperOnRelation.resx">
+      <DependentUpon>frmOperOnRelation.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
