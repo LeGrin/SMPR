@@ -15,6 +15,12 @@ namespace Modules.ModuleFuzzyLogic
         {
             InitializeComponent();
             this.Show();
+
+        }
+       
+        private void button3_Click(object sender, EventArgs e)
+        {
+            new frmBinOperations().Show();  
         }
 
         private void binRelationsPropButton_Click(object sender, EventArgs e)
