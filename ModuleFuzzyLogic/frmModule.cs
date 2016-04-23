@@ -6,6 +6,7 @@ using System.Drawing;
 using System.Text;
 using System.Windows.Forms;
 using Common.DataTypes;
+using ModuleFuzzyLogic;
 
 namespace Modules.ModuleFuzzyLogic
 {
@@ -15,6 +16,12 @@ namespace Modules.ModuleFuzzyLogic
         {
             InitializeComponent();
             this.Show();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            fuzzyPreferenceRelations form = new fuzzyPreferenceRelations();
+            form.Show();
         }
     }
 }
