@@ -10,7 +10,7 @@ namespace Modules.ModuleFuzzyLogic.Methods
 {
     static class BinRelationsProp
     {
-        private static double[,] ToDouble(this DataGridView gridView)
+        public static double[,] ToDouble(this DataGridView gridView)
         {
             int matrixSize = gridView.RowCount;
             double[,] result = new double[matrixSize, matrixSize];

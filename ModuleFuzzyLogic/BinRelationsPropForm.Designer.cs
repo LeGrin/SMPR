@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
             this.matrix = new System.Windows.Forms.DataGridView();
             this.Column1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.addDim = new System.Windows.Forms.Button();
@@ -36,6 +36,8 @@
             this.analyzeMatrixButton = new System.Windows.Forms.Button();
             this.resultList = new System.Windows.Forms.ListView();
             this.transitiveClosureButton = new System.Windows.Forms.Button();
+            this.loadButton = new System.Windows.Forms.Button();
+            this.saveButton = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.matrix)).BeginInit();
             this.SuspendLayout();
             // 
@@ -50,15 +52,15 @@
             this.matrix.ColumnHeadersVisible = false;
             this.matrix.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.Column1});
-            dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
-            dataGridViewCellStyle1.BackColor = System.Drawing.SystemColors.Window;
-            dataGridViewCellStyle1.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            dataGridViewCellStyle1.ForeColor = System.Drawing.SystemColors.ControlText;
-            dataGridViewCellStyle1.Padding = new System.Windows.Forms.Padding(5);
-            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.matrix.DefaultCellStyle = dataGridViewCellStyle1;
+            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle2.BackColor = System.Drawing.SystemColors.Window;
+            dataGridViewCellStyle2.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            dataGridViewCellStyle2.ForeColor = System.Drawing.SystemColors.ControlText;
+            dataGridViewCellStyle2.Padding = new System.Windows.Forms.Padding(5);
+            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.matrix.DefaultCellStyle = dataGridViewCellStyle2;
             this.matrix.Dock = System.Windows.Forms.DockStyle.Left;
             this.matrix.Location = new System.Drawing.Point(0, 0);
             this.matrix.Margin = new System.Windows.Forms.Padding(5, 3, 5, 3);
@@ -115,7 +117,7 @@
             this.resultList.GridLines = true;
             this.resultList.Location = new System.Drawing.Point(548, 167);
             this.resultList.Name = "resultList";
-            this.resultList.Size = new System.Drawing.Size(331, 351);
+            this.resultList.Size = new System.Drawing.Size(331, 304);
             this.resultList.TabIndex = 4;
             this.resultList.UseCompatibleStateImageBehavior = false;
             this.resultList.View = System.Windows.Forms.View.List;
@@ -131,11 +133,33 @@
             this.transitiveClosureButton.UseVisualStyleBackColor = true;
             this.transitiveClosureButton.Click += new System.EventHandler(this.transitiveClosureButton_Click);
             // 
+            // loadButton
+            // 
+            this.loadButton.Location = new System.Drawing.Point(548, 495);
+            this.loadButton.Name = "loadButton";
+            this.loadButton.Size = new System.Drawing.Size(128, 23);
+            this.loadButton.TabIndex = 6;
+            this.loadButton.Text = "button1";
+            this.loadButton.UseVisualStyleBackColor = true;
+            this.loadButton.Click += new System.EventHandler(this.loadButton_Click);
+            // 
+            // saveButton
+            // 
+            this.saveButton.Location = new System.Drawing.Point(741, 495);
+            this.saveButton.Name = "saveButton";
+            this.saveButton.Size = new System.Drawing.Size(138, 23);
+            this.saveButton.TabIndex = 7;
+            this.saveButton.Text = "button1";
+            this.saveButton.UseVisualStyleBackColor = true;
+            this.saveButton.Click += new System.EventHandler(this.saveButton_Click);
+            // 
             // BinRelationsPropForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(891, 530);
+            this.Controls.Add(this.saveButton);
+            this.Controls.Add(this.loadButton);
             this.Controls.Add(this.transitiveClosureButton);
             this.Controls.Add(this.resultList);
             this.Controls.Add(this.analyzeMatrixButton);
@@ -158,5 +182,7 @@
         private System.Windows.Forms.Button analyzeMatrixButton;
         private System.Windows.Forms.ListView resultList;
         private System.Windows.Forms.Button transitiveClosureButton;
+        private System.Windows.Forms.Button loadButton;
+        private System.Windows.Forms.Button saveButton;
     }
 }

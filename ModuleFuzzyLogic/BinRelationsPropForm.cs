@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using Modules.ModuleFuzzyLogic.Methods;
 using System.Collections.Specialized;
+using Common.DataTypes;
 
 namespace Modules.ModuleFuzzyLogic
 {
@@ -89,6 +90,57 @@ namespace Modules.ModuleFuzzyLogic
         private void transitiveClosureButton_Click(object sender, EventArgs e)
         {
             matrix.TransitiveClosure();
+        }
+
+        private void saveButton_Click(object sender, EventArgs e)
+        {
+            Matrix<double> m = new Matrix<double>(matrix.ToDouble());
+            Common.DataBuffer.Instance.SaveDialog(m);
+        }
+
+        private void loadMatrixFromBuffer(BufferData buff)
+        {
+            if (buff is Matrix<double>)
+            {
+                Matrix<double> t = (Matrix<double>)buff;
+                foreach (DataGridViewRow row in matrix.Rows)
+                    foreach (DataGridViewCell cell in row.Cells)
+                    {
+                        cell.Value = t.Value[cell.ColumnIndex, cell.RowIndex];
+                    }
+            }
+        }
+
+        private void loadButton_Click(object sender, EventArgs e)
+        {
+            BufferData t = Common.DataBuffer.Instance.LoadDialog(ValidationCallbackDelegate);
+            if (t == null)
+                MessageBox.Show("Ви неправильно обрали матрицю");
+            else
+                loadMatrixFromBuffer(t);
+            
+        }
+
+        public bool ValidationCallbackDelegate(BufferData obj)
+        {
+            if (obj is Matrix<double>)
+            {
+                Matrix<double> m = (Matrix<double>)obj;
+                if (m.Value.GetLength(0) > 10)
+                    return false;
+                else if (m.Value.GetLength(1) > 10)
+                    return false;
+                else
+                {
+                    for (int i = 0; i < m.Value.GetLength(0); i++)
+                        for (int j = 0; j < m.Value.GetLength(1); j++)
+                            if (m[i, j] > 1 || m[i, j] < 0)
+                                return false;
+                }
+                return true;
+            }
+            else
+                return false;
         }
 
 
