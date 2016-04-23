@@ -16,5 +16,11 @@ namespace Modules.ModuleFuzzyLogic
             InitializeComponent();
             this.Show();
         }
+
+        private void binRelationsPropButton_Click(object sender, EventArgs e)
+        {
+            BinRelationsPropForm binRealtionsPropForm = new BinRelationsPropForm();
+            binRealtionsPropForm.Show();
+        }
     }
 }

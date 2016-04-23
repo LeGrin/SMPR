@@ -42,6 +42,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BinRelationsPropForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BinRelationsPropForm.Designer.cs">
+      <DependentUpon>BinRelationsPropForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmModule.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -49,12 +55,11 @@
       <DependentUpon>frmModule.cs</DependentUpon>
     </Compile>
     <Compile Include="Method.cs" />
+    <Compile Include="Methods\BinRelationsProp.cs" />
     <Compile Include="Module.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Methods\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <ProjectReference Include="..\Common\Common.csproj">
       <Project>{1e272a87-5c29-47e9-8864-bc5d1919a0f0}</Project>
@@ -62,6 +67,9 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="BinRelationsPropForm.resx">
+      <DependentUpon>BinRelationsPropForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmModule.resx">
       <DependentUpon>frmModule.cs</DependentUpon>
     </EmbeddedResource>

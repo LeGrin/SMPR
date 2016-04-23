@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
+            this.binRelationsPropButton = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
             this.button5 = new System.Windows.Forms.Button();
             this.button6 = new System.Windows.Forms.Button();
@@ -45,14 +45,15 @@
             this.button1.Text = "Andrii";
             this.button1.UseVisualStyleBackColor = true;
             // 
-            // button2
+            // binRelationsPropButton
             // 
-            this.button2.Location = new System.Drawing.Point(137, 12);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(119, 51);
-            this.button2.TabIndex = 0;
-            this.button2.Text = "Rita";
-            this.button2.UseVisualStyleBackColor = true;
+            this.binRelationsPropButton.Location = new System.Drawing.Point(137, 12);
+            this.binRelationsPropButton.Name = "binRelationsPropButton";
+            this.binRelationsPropButton.Size = new System.Drawing.Size(119, 51);
+            this.binRelationsPropButton.TabIndex = 0;
+            this.binRelationsPropButton.Text = "Властивості бін. відн.";
+            this.binRelationsPropButton.UseVisualStyleBackColor = true;
+            this.binRelationsPropButton.Click += new System.EventHandler(this.binRelationsPropButton_Click);
             // 
             // button3
             // 
@@ -99,7 +100,7 @@
             this.Controls.Add(this.button6);
             this.Controls.Add(this.button5);
             this.Controls.Add(this.button3);
-            this.Controls.Add(this.button2);
+            this.Controls.Add(this.binRelationsPropButton);
             this.Controls.Add(this.button1);
             this.Name = "frmModule";
             this.Text = "frmModule";
@@ -110,7 +111,7 @@
         #endregion
 
         private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button binRelationsPropButton;
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Button button5;
         private System.Windows.Forms.Button button6;
