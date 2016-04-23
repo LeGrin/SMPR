@@ -58,7 +58,7 @@
             this.operationsBox.FlatStyle = System.Windows.Forms.FlatStyle.System;
             this.operationsBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.operationsBox.ImeMode = System.Windows.Forms.ImeMode.NoControl;
-            this.operationsBox.Location = new System.Drawing.Point(14, 228);
+            this.operationsBox.Location = new System.Drawing.Point(14, 370);
             this.operationsBox.Name = "operationsBox";
             this.operationsBox.Size = new System.Drawing.Size(261, 28);
             this.operationsBox.TabIndex = 3;
@@ -68,9 +68,9 @@
             // btnGetResult
             // 
             this.btnGetResult.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.btnGetResult.Location = new System.Drawing.Point(297, 212);
+            this.btnGetResult.Location = new System.Drawing.Point(12, 414);
             this.btnGetResult.Name = "btnGetResult";
-            this.btnGetResult.Size = new System.Drawing.Size(61, 56);
+            this.btnGetResult.Size = new System.Drawing.Size(263, 39);
             this.btnGetResult.TabIndex = 4;
             this.btnGetResult.Text = "=";
             this.btnGetResult.UseVisualStyleBackColor = true;
@@ -100,7 +100,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label1.Location = new System.Drawing.Point(9, 288);
+            this.label1.Location = new System.Drawing.Point(238, 8);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(148, 26);
             this.label1.TabIndex = 8;
@@ -126,7 +126,7 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label2.Location = new System.Drawing.Point(396, 121);
+            this.label2.Location = new System.Drawing.Point(470, 8);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(118, 26);
             this.label2.TabIndex = 11;
@@ -167,23 +167,23 @@
             this.dgvA.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvA.Location = new System.Drawing.Point(12, 37);
             this.dgvA.Name = "dgvA";
-            this.dgvA.Size = new System.Drawing.Size(178, 150);
+            this.dgvA.Size = new System.Drawing.Size(178, 313);
             this.dgvA.TabIndex = 15;
             // 
             // dgvB
             // 
             this.dgvB.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvB.Location = new System.Drawing.Point(14, 317);
+            this.dgvB.Location = new System.Drawing.Point(243, 37);
             this.dgvB.Name = "dgvB";
-            this.dgvB.Size = new System.Drawing.Size(178, 150);
+            this.dgvB.Size = new System.Drawing.Size(178, 313);
             this.dgvB.TabIndex = 16;
             // 
             // dgvRes
             // 
             this.dgvRes.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvRes.Location = new System.Drawing.Point(376, 164);
+            this.dgvRes.Location = new System.Drawing.Point(475, 37);
             this.dgvRes.Name = "dgvRes";
-            this.dgvRes.Size = new System.Drawing.Size(178, 150);
+            this.dgvRes.Size = new System.Drawing.Size(178, 313);
             this.dgvRes.TabIndex = 17;
             // 
             // button1

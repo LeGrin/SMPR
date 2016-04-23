@@ -18,12 +18,12 @@ namespace Modules.ModuleFuzzyLogic
         public frmBinOperations()
         {
             InitializeComponent();
-            setA = new FuzzySets.FuzzySet1D(); 
+            setA = new FuzzySets.FuzzySet1D();
             setB = new FuzzySets.FuzzySet1D();
             setRes = new FuzzySets.FuzzySet1D();
 
             refresh();
-            
+
             operationsBox.Items.Add("  /  ");
             operationsBox.Items.Add("  |  ");
             operationsBox.Items.Add("  &  ");
@@ -34,7 +34,7 @@ namespace Modules.ModuleFuzzyLogic
             operationsBox.Items.Add(" Граничное пересечение ");
             operationsBox.Items.Add(" Граничное объединение ");
             operationsBox.SelectedIndex = 0;
-            
+
         }
 
         private void frmBinOperations_Load(object sender, EventArgs e)
@@ -51,22 +51,36 @@ namespace Modules.ModuleFuzzyLogic
         }
 
 
-       
+
         private void AddToA_Click(object sender, EventArgs e)
         {
-            double val = Double.Parse(txtElem.Text);
-            double prob = Double.Parse(txtProb.Text);
-            setA.AddDot(val, prob);
-            sizeA.Text = setA.Dots.Count.ToString();
+            try
+            {
+                double val = Double.Parse(txtElem.Text);
+                double prob = Double.Parse(txtProb.Text);
+                setA.AddDot(val, prob);
+                sizeA.Text = setA.Dots.Count.ToString();
+            }
+            catch (Exception ee)
+            {
+                MessageBox.Show("Некоректний ввід");
+            }
             refresh();
         }
 
         private void btnAddToB_Click(object sender, EventArgs e)
         {
-            double val = Double.Parse(txtElem.Text);
-            double prob = Double.Parse(txtProb.Text);
-            setB.AddDot(val, prob);
-            sizeB.Text = setA.Dots.Count.ToString();
+            try
+            {
+                double val = Double.Parse(txtElem.Text);
+                double prob = Double.Parse(txtProb.Text);
+                setB.AddDot(val, prob);
+                sizeB.Text = setA.Dots.Count.ToString();
+            }
+            catch (Exception ee)
+            {
+                MessageBox.Show("Некоректний ввід");
+            }
             refresh();
         }
 
@@ -109,20 +123,21 @@ namespace Modules.ModuleFuzzyLogic
             if (m > 1000) m = 1000;
 
             Random random = new Random();
-            
+
             for (int i = 0; i < n; i++)
             {
-                double x = random.NextDouble();
+                double x = random.Next(0, 10);
                 double y = random.NextDouble();
-                setA.AddDot(x * 10, y);
+                setA.AddDot(x, y);
             }
 
             for (int i = 0; i < m; i++)
             {
-                setB.AddDot(random.NextDouble() * 10, random.NextDouble());
+                setB.AddDot(random.Next(0, 10), random.NextDouble());
             }
             MessageBox.Show(n.ToString() + " " + m.ToString());
             refresh();
         }
+
     }
 }
