@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+using Common.DataTypes;
 namespace Modules.ModuleFuzzyLogic
 {
     public partial class frmBinOperations : Form
@@ -139,5 +139,44 @@ namespace Modules.ModuleFuzzyLogic
             refresh();
         }
 
+        private void button6_Click(object sender, EventArgs e)
+        {
+            BufferData t = Common.DataBuffer.Instance.LoadDialog(FuzzySets.FuzzySet1D.ValidationCallback);
+            if (t != null) 
+            {
+                setA = new FuzzySets.FuzzySet1D(((Matrix<double>)t).Value);
+            }
+            refresh();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Common.DataTypes.Matrix<double> m = new Common.DataTypes.Matrix<double>(setA.toMassiv());
+            Common.DataBuffer.Instance.SaveDialog(m);
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            Common.DataTypes.Matrix<double> m = new Common.DataTypes.Matrix<double>(setB.toMassiv());
+            Common.DataBuffer.Instance.SaveDialog(m);
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            BufferData t = Common.DataBuffer.Instance.LoadDialog(FuzzySets.FuzzySet1D.ValidationCallback);
+            if (t == null)
+                MessageBox.Show("ERROR");
+            else
+            {
+                setB = new FuzzySets.FuzzySet1D(((Matrix<double>)t).Value);
+            }
+            refresh();
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            Common.DataTypes.Matrix<double> m = new Common.DataTypes.Matrix<double>(setRes.toMassiv());
+            Common.DataBuffer.Instance.SaveDialog(m);
+        }
     }
 }

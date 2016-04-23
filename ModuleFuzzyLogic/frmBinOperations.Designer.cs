@@ -47,10 +47,11 @@
             this.label6 = new System.Windows.Forms.Label();
             this.sizeA = new System.Windows.Forms.TextBox();
             this.sizeB = new System.Windows.Forms.TextBox();
-            this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
             this.button4 = new System.Windows.Forms.Button();
             this.button5 = new System.Windows.Forms.Button();
+            this.button6 = new System.Windows.Forms.Button();
+            this.button7 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgvA)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dgvB)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dgvRes)).BeginInit();
@@ -62,7 +63,7 @@
             this.operationsBox.FlatStyle = System.Windows.Forms.FlatStyle.System;
             this.operationsBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.operationsBox.ImeMode = System.Windows.Forms.ImeMode.NoControl;
-            this.operationsBox.Location = new System.Drawing.Point(14, 370);
+            this.operationsBox.Location = new System.Drawing.Point(91, 417);
             this.operationsBox.Name = "operationsBox";
             this.operationsBox.Size = new System.Drawing.Size(261, 28);
             this.operationsBox.TabIndex = 3;
@@ -72,9 +73,9 @@
             // btnGetResult
             // 
             this.btnGetResult.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.btnGetResult.Location = new System.Drawing.Point(12, 414);
+            this.btnGetResult.Location = new System.Drawing.Point(475, 385);
             this.btnGetResult.Name = "btnGetResult";
-            this.btnGetResult.Size = new System.Drawing.Size(263, 39);
+            this.btnGetResult.Size = new System.Drawing.Size(178, 60);
             this.btnGetResult.TabIndex = 4;
             this.btnGetResult.Text = "=";
             this.btnGetResult.UseVisualStyleBackColor = true;
@@ -236,44 +237,67 @@
             this.sizeB.Name = "sizeB";
             this.sizeB.Size = new System.Drawing.Size(51, 20);
             this.sizeB.TabIndex = 22;
-         
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(796, 271);
+            this.button3.Location = new System.Drawing.Point(243, 385);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(101, 26);
+            this.button3.Size = new System.Drawing.Size(178, 26);
             this.button3.TabIndex = 24;
-            this.button3.Text = "бувфер в В";
+            this.button3.Text = "Загрузить";
             this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // button4
             // 
-            this.button4.Location = new System.Drawing.Point(689, 303);
+            this.button4.Location = new System.Drawing.Point(14, 353);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(101, 26);
+            this.button4.Size = new System.Drawing.Size(178, 26);
             this.button4.TabIndex = 25;
-            this.button4.Text = "А в бувфер";
+            this.button4.Text = "Сохранить";
             this.button4.UseVisualStyleBackColor = true;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // button5
             // 
-            this.button5.Location = new System.Drawing.Point(796, 303);
+            this.button5.Location = new System.Drawing.Point(243, 353);
             this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(101, 26);
+            this.button5.Size = new System.Drawing.Size(178, 26);
             this.button5.TabIndex = 26;
-            this.button5.Text = "В в бувфер";
+            this.button5.Text = "Сохранить";
             this.button5.UseVisualStyleBackColor = true;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
+            // 
+            // button6
+            // 
+            this.button6.Location = new System.Drawing.Point(14, 385);
+            this.button6.Name = "button6";
+            this.button6.Size = new System.Drawing.Size(178, 26);
+            this.button6.TabIndex = 28;
+            this.button6.Text = "Загрузить";
+            this.button6.UseVisualStyleBackColor = true;
+            this.button6.Click += new System.EventHandler(this.button6_Click);
+            // 
+            // button7
+            // 
+            this.button7.Location = new System.Drawing.Point(475, 353);
+            this.button7.Name = "button7";
+            this.button7.Size = new System.Drawing.Size(178, 26);
+            this.button7.TabIndex = 29;
+            this.button7.Text = "Сохранить";
+            this.button7.UseVisualStyleBackColor = true;
+            this.button7.Click += new System.EventHandler(this.button7_Click);
             // 
             // frmBinOperations
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(959, 553);
+            this.Controls.Add(this.button7);
+            this.Controls.Add(this.button6);
             this.Controls.Add(this.button5);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.button3);
-            this.Controls.Add(this.button2);
             this.Controls.Add(this.sizeB);
             this.Controls.Add(this.sizeA);
             this.Controls.Add(this.label6);
@@ -324,9 +348,10 @@
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.TextBox sizeA;
         private System.Windows.Forms.TextBox sizeB;
-        private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Button button4;
         private System.Windows.Forms.Button button5;
+        private System.Windows.Forms.Button button6;
+        private System.Windows.Forms.Button button7;
     }
 }
