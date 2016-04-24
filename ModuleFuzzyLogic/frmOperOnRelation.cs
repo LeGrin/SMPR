@@ -39,6 +39,7 @@ namespace Modules.ModuleFuzzyLogic
             radioButton6.Text = "Доповнення до матриці 2"; //addition
             checkBoxComp.Text = "Композиція";
             tableLayoutPanelComp.Enabled = false;
+            buttonGetComp.Enabled = false;
 
             buttonM1_Load.Text = buttonM2_Load.Text = buttonMRes_Load.Text = "Завантажити";
             buttonM1_Save.Text = buttonM2_Save.Text = buttonMRes_Save.Text = "Зберегти";
@@ -241,6 +242,7 @@ namespace Modules.ModuleFuzzyLogic
                 tableLayoutPanelMethods.Enabled = false;
                 numUD_Size.Value = 2;
                 numUD_Size.Enabled = false;
+                buttonGetComp.Enabled = true;
             }
             else
             {
@@ -248,6 +250,7 @@ namespace Modules.ModuleFuzzyLogic
                 tableLayoutPanelN.Enabled = true;
                 tableLayoutPanelMethods.Enabled = true;
                 numUD_Size.Enabled = true;
+                buttonGetComp.Enabled = false;
             }
         }
         private void numUD_Comp11_ValueChanged(object sender, EventArgs e)
