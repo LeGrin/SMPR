@@ -256,7 +256,9 @@ namespace ModuleFuzzyLogic
                 dataGridViewDegreeOfPermissibility.Columns[dataGridViewDegreeOfPermissibility.Columns.Count - 1].Width = 35;
             }
 
-            while (dataGridViewDegreeOfPermissibility.RowCount < 1)
+
+            
+            while (n>0 && dataGridViewDegreeOfPermissibility.RowCount < 1)
             {
                 dataGridViewDegreeOfPermissibility.Rows.Add();
             }
@@ -304,7 +306,7 @@ namespace ModuleFuzzyLogic
                 
             }
 
-            while (dataGridViewNonDominatedSet.RowCount < 1)
+            while (n>0 && dataGridViewNonDominatedSet.RowCount < 1)
             {
                 dataGridViewNonDominatedSet.Rows.Add();
             }
