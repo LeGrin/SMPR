@@ -159,8 +159,10 @@ namespace Modules.ModuleFuzzyLogic.Methods
             double[,] valuesPow = values;
             double[,] valuesPowNext = composition(values, values);
             double[,] result = values;
-            while(!equals(valuesPow, valuesPowNext))
+            int count = 0;
+            while(!equals(valuesPow, valuesPowNext) || count > 10)
             {
+                count++;
                 result = union(result, valuesPowNext);
                 valuesPow = valuesPowNext;
                 valuesPowNext = composition(valuesPowNext, values);
