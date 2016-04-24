@@ -55,7 +55,6 @@
             this.binRelationsPropButton.Text = "Властивості бін. відн.";
             this.binRelationsPropButton.UseVisualStyleBackColor = true;
             this.binRelationsPropButton.Click += new System.EventHandler(this.binRelationsPropButton_Click);
-
             // 
             // button3
             // 
@@ -66,6 +65,7 @@
             this.button3.TabIndex = 0;
             this.button3.Text = "Dmytro";
             this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // buttonOperOnRelation
             // 
@@ -77,6 +77,7 @@
             this.buttonOperOnRelation.Text = "Операції над нечіткими відношенннями";
             this.buttonOperOnRelation.UseVisualStyleBackColor = true;
             this.buttonOperOnRelation.Click += new System.EventHandler(this.buttonOperOnRelation_Click);
+
             // 
             // button6
             // 

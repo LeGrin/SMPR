@@ -48,6 +48,12 @@
     <Compile Include="BinRelationsPropForm.Designer.cs">
       <DependentUpon>BinRelationsPropForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmBinOperations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBinOperations.Designer.cs">
+      <DependentUpon>frmBinOperations.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmModule.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -60,6 +66,8 @@
     <Compile Include="frmOperOnRelation.Designer.cs">
       <DependentUpon>frmOperOnRelation.cs</DependentUpon>
     </Compile>
+    <Compile Include="FuzzySet\FuzzySet.cs" />
+    <Compile Include="FuzzySet\FuzzySet1D.cs" />
     <Compile Include="Method.cs" />
     <Compile Include="Methods\BinRelationsProp.cs" />
     <Compile Include="Methods\OperOnRelaionMethods.cs" />
@@ -80,6 +88,9 @@
   <ItemGroup>
     <EmbeddedResource Include="BinRelationsPropForm.resx">
       <DependentUpon>BinRelationsPropForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBinOperations.resx">
+      <DependentUpon>frmBinOperations.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmModule.resx">
       <DependentUpon>frmModule.cs</DependentUpon>
