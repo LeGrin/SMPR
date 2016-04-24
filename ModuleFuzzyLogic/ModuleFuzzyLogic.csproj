@@ -68,8 +68,6 @@
     </Compile>
     <Compile Include="FuzzySet\FuzzySet.cs" />
     <Compile Include="FuzzySet\FuzzySet1D.cs" />
-    <Compile Include="FuzzySet\FuzzySet1DStandartSets.cs" />
-    <Compile Include="FuzzySet\FuzzySet2D.cs" />
     <Compile Include="Method.cs" />
     <Compile Include="Methods\BinRelationsProp.cs" />
     <Compile Include="Methods\OperOnRelaionMethods.cs" />

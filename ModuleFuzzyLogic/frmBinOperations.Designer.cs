@@ -52,6 +52,8 @@
             this.button5 = new System.Windows.Forms.Button();
             this.button6 = new System.Windows.Forms.Button();
             this.button7 = new System.Windows.Forms.Button();
+            this.lLamda = new System.Windows.Forms.Label();
+            this.txtLamda = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.dgvA)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dgvB)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dgvRes)).BeginInit();
@@ -67,6 +69,7 @@
             this.operationsBox.Name = "operationsBox";
             this.operationsBox.Size = new System.Drawing.Size(261, 28);
             this.operationsBox.TabIndex = 3;
+            this.operationsBox.SelectedIndexChanged += new System.EventHandler(this.operationsBox_SelectedIndexChanged);
             this.operationsBox.DropDownClosed += new System.EventHandler(this.operationsBox_DropDownClosed);
             this.operationsBox.DragDrop += new System.Windows.Forms.DragEventHandler(this.operationsBox_DragDrop);
             // 
@@ -288,11 +291,30 @@
             this.button7.UseVisualStyleBackColor = true;
             this.button7.Click += new System.EventHandler(this.button7_Click);
             // 
+            // lLamda
+            // 
+            this.lLamda.AutoSize = true;
+            this.lLamda.Location = new System.Drawing.Point(91, 452);
+            this.lLamda.Name = "lLamda";
+            this.lLamda.Size = new System.Drawing.Size(41, 13);
+            this.lLamda.TabIndex = 30;
+            this.lLamda.Text = "Лямда";
+            // 
+            // txtLamda
+            // 
+            this.txtLamda.Enabled = false;
+            this.txtLamda.Location = new System.Drawing.Point(133, 452);
+            this.txtLamda.Name = "txtLamda";
+            this.txtLamda.Size = new System.Drawing.Size(219, 20);
+            this.txtLamda.TabIndex = 31;
+            // 
             // frmBinOperations
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(959, 553);
+            this.Controls.Add(this.txtLamda);
+            this.Controls.Add(this.lLamda);
             this.Controls.Add(this.button7);
             this.Controls.Add(this.button6);
             this.Controls.Add(this.button5);
@@ -353,5 +375,7 @@
         private System.Windows.Forms.Button button5;
         private System.Windows.Forms.Button button6;
         private System.Windows.Forms.Button button7;
+        private System.Windows.Forms.Label lLamda;
+        private System.Windows.Forms.TextBox txtLamda;
     }
 }

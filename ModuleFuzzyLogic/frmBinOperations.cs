@@ -33,6 +33,7 @@ namespace Modules.ModuleFuzzyLogic
             operationsBox.Items.Add(" Дизъюнктивная сумма ");
             operationsBox.Items.Add(" Граничное пересечение ");
             operationsBox.Items.Add(" Граничное объединение ");
+            operationsBox.Items.Add(" Лямда сума ");
             operationsBox.SelectedIndex = 0;
 
         }
@@ -87,6 +88,7 @@ namespace Modules.ModuleFuzzyLogic
         private void btnGetResult_Click(object sender, EventArgs e)
         {
             int ch = operationsBox.SelectedIndex;
+
             if (ch == 0) setRes = setA / setB;
             if (ch == 1) setRes = setA | setB;
             if (ch == 2) setRes = setA & setB;
@@ -97,6 +99,22 @@ namespace Modules.ModuleFuzzyLogic
             if (ch == 7) setRes = FuzzySets.FuzzySet1D.gIntersect(setA, setB);
             if (ch == 8) setRes = FuzzySets.FuzzySet1D.gUnion(setA, setB);
 
+
+            if (ch == 9)
+            {
+                try
+                {
+                    double lamda = double.Parse(txtLamda.Text);
+                    lamda = Math.Max(0, lamda);
+                    lamda = Math.Min(lamda, 1);
+                    txtLamda.Text = lamda.ToString();
+                    setRes = FuzzySets.FuzzySet1D.alphaSum(setA, setB, lamda);
+                }
+                catch (Exception exx)
+                {
+                    MessageBox.Show("Помилка виникла при обчисленні лямда суми");
+                }
+            }
 
             refresh();
         }
@@ -133,7 +151,7 @@ namespace Modules.ModuleFuzzyLogic
                 if (setA.AddDot(x, y) && setA.Dots.Count == i + 1) i++;
             }
 
-            for (int i = 0; i < m; )
+            for (int i = 0; i < m;)
             {
                 double x = random.Next(0, 10);
                 x = double.Parse(String.Format("{0:0.00}", x));
@@ -147,7 +165,7 @@ namespace Modules.ModuleFuzzyLogic
         private void button6_Click(object sender, EventArgs e)
         {
             BufferData t = Common.DataBuffer.Instance.LoadDialog(FuzzySets.FuzzySet1D.ValidationCallback);
-            if (t != null) 
+            if (t != null)
             {
                 setA = new FuzzySets.FuzzySet1D(((Matrix<double>)t).Value);
             }
@@ -182,6 +200,12 @@ namespace Modules.ModuleFuzzyLogic
         {
             Common.DataTypes.Matrix<double> m = new Common.DataTypes.Matrix<double>(setRes.toMassiv());
             Common.DataBuffer.Instance.SaveDialog(m);
+        }
+
+        private void operationsBox_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            //lLamda.Visible = operationsBox.SelectedIndex == 9;
+            txtLamda.Enabled = operationsBox.SelectedIndex == 9;
         }
     }
 }
