@@ -52,6 +52,7 @@
             this.label3 = new System.Windows.Forms.Label();
             this.buttonSave = new System.Windows.Forms.Button();
             this.buttonLoad = new System.Windows.Forms.Button();
+            this.label7 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpAndDownElementsCount)).BeginInit();
             this.tabPageStrictPreferences.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewStrictPreferences)).BeginInit();
@@ -72,9 +73,9 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(12, 9);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(136, 13);
+            this.label1.Size = new System.Drawing.Size(152, 13);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Fuzzy Preference Relations";
+            this.label1.Text = "Нечіткі відношення переваги";
             // 
             // numericUpAndDownElementsCount
             // 
@@ -89,9 +90,9 @@
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(12, 30);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(104, 13);
+            this.label2.Size = new System.Drawing.Size(110, 13);
             this.label2.TabIndex = 3;
-            this.label2.Text = "Number of elements:";
+            this.label2.Text = "Кількість елементів:";
             // 
             // button1
             // 
@@ -99,7 +100,7 @@
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(120, 23);
             this.button1.TabIndex = 5;
-            this.button1.Text = "Generate";
+            this.button1.Text = "Згенерувати";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -111,7 +112,7 @@
             this.tabPageStrictPreferences.Padding = new System.Windows.Forms.Padding(3);
             this.tabPageStrictPreferences.Size = new System.Drawing.Size(472, 309);
             this.tabPageStrictPreferences.TabIndex = 1;
-            this.tabPageStrictPreferences.Text = "Strict Preferences";
+            this.tabPageStrictPreferences.Text = "Строга перевага";
             this.tabPageStrictPreferences.UseVisualStyleBackColor = true;
             // 
             // dataGridViewStrictPreferences
@@ -136,7 +137,7 @@
             this.tabPageLaxPreferences.Padding = new System.Windows.Forms.Padding(3);
             this.tabPageLaxPreferences.Size = new System.Drawing.Size(472, 309);
             this.tabPageLaxPreferences.TabIndex = 0;
-            this.tabPageLaxPreferences.Text = "Lax Preferences";
+            this.tabPageLaxPreferences.Text = "Нестрога перевага";
             this.tabPageLaxPreferences.UseVisualStyleBackColor = true;
             // 
             // dataGridViewLaxPreferences
@@ -175,7 +176,7 @@
             this.tabPageIndifference.Name = "tabPageIndifference";
             this.tabPageIndifference.Size = new System.Drawing.Size(472, 309);
             this.tabPageIndifference.TabIndex = 2;
-            this.tabPageIndifference.Text = "Indifference";
+            this.tabPageIndifference.Text = "Байдужість";
             this.tabPageIndifference.UseVisualStyleBackColor = true;
             // 
             // dataGridViewIndifference
@@ -199,7 +200,7 @@
             this.tabPageQuasiEquivalence.Name = "tabPageQuasiEquivalence";
             this.tabPageQuasiEquivalence.Size = new System.Drawing.Size(472, 309);
             this.tabPageQuasiEquivalence.TabIndex = 3;
-            this.tabPageQuasiEquivalence.Text = "Quasi Equivalence";
+            this.tabPageQuasiEquivalence.Text = "Квазіеквівалентність";
             this.tabPageQuasiEquivalence.UseVisualStyleBackColor = true;
             // 
             // dataGridViewQuasiEquivalence
@@ -218,6 +219,7 @@
             // 
             // tabPageNonDominated
             // 
+            this.tabPageNonDominated.Controls.Add(this.label7);
             this.tabPageNonDominated.Controls.Add(this.textBoxDegreeOfNonDomination);
             this.tabPageNonDominated.Controls.Add(this.textBoxBestAlternative);
             this.tabPageNonDominated.Controls.Add(this.label6);
@@ -230,12 +232,12 @@
             this.tabPageNonDominated.Name = "tabPageNonDominated";
             this.tabPageNonDominated.Size = new System.Drawing.Size(472, 309);
             this.tabPageNonDominated.TabIndex = 4;
-            this.tabPageNonDominated.Text = "Non-dominated set";
+            this.tabPageNonDominated.Text = "Недомінуємі";
             this.tabPageNonDominated.UseVisualStyleBackColor = true;
             // 
             // textBoxDegreeOfNonDomination
             // 
-            this.textBoxDegreeOfNonDomination.Location = new System.Drawing.Point(153, 188);
+            this.textBoxDegreeOfNonDomination.Location = new System.Drawing.Point(153, 209);
             this.textBoxDegreeOfNonDomination.Name = "textBoxDegreeOfNonDomination";
             this.textBoxDegreeOfNonDomination.ReadOnly = true;
             this.textBoxDegreeOfNonDomination.Size = new System.Drawing.Size(100, 20);
@@ -243,7 +245,7 @@
             // 
             // textBoxBestAlternative
             // 
-            this.textBoxBestAlternative.Location = new System.Drawing.Point(153, 164);
+            this.textBoxBestAlternative.Location = new System.Drawing.Point(153, 185);
             this.textBoxBestAlternative.Name = "textBoxBestAlternative";
             this.textBoxBestAlternative.ReadOnly = true;
             this.textBoxBestAlternative.Size = new System.Drawing.Size(100, 20);
@@ -252,27 +254,27 @@
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(17, 190);
+            this.label6.Location = new System.Drawing.Point(17, 211);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(132, 13);
+            this.label6.Size = new System.Drawing.Size(133, 13);
             this.label6.TabIndex = 5;
-            this.label6.Text = "Degree of non-domination:";
+            this.label6.Text = "Ступінь недомінованості:";
             // 
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(17, 168);
+            this.label5.Location = new System.Drawing.Point(17, 189);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(96, 13);
+            this.label5.Size = new System.Drawing.Size(139, 13);
             this.label5.TabIndex = 4;
-            this.label5.Text = "Best alternative is: ";
+            this.label5.Text = "Найкраща альтернатива: ";
             // 
             // dataGridViewNonDominatedSet
             // 
             this.dataGridViewNonDominatedSet.AllowUserToAddRows = false;
             this.dataGridViewNonDominatedSet.AllowUserToDeleteRows = false;
             this.dataGridViewNonDominatedSet.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridViewNonDominatedSet.Location = new System.Drawing.Point(17, 95);
+            this.dataGridViewNonDominatedSet.Location = new System.Drawing.Point(17, 116);
             this.dataGridViewNonDominatedSet.Name = "dataGridViewNonDominatedSet";
             this.dataGridViewNonDominatedSet.RowHeadersVisible = false;
             this.dataGridViewNonDominatedSet.Size = new System.Drawing.Size(432, 50);
@@ -281,18 +283,18 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(17, 81);
+            this.label4.Location = new System.Drawing.Point(17, 102);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(99, 13);
+            this.label4.Size = new System.Drawing.Size(200, 13);
             this.label4.TabIndex = 2;
-            this.label4.Text = "Non-dominated set:";
+            this.label4.Text = "Ступінь недомінованості альтернатив:";
             // 
             // dataGridViewDegreeOfPermissibility
             // 
             this.dataGridViewDegreeOfPermissibility.AllowUserToAddRows = false;
             this.dataGridViewDegreeOfPermissibility.AllowUserToDeleteRows = false;
             this.dataGridViewDegreeOfPermissibility.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridViewDegreeOfPermissibility.Location = new System.Drawing.Point(17, 29);
+            this.dataGridViewDegreeOfPermissibility.Location = new System.Drawing.Point(17, 50);
             this.dataGridViewDegreeOfPermissibility.Name = "dataGridViewDegreeOfPermissibility";
             this.dataGridViewDegreeOfPermissibility.RowHeadersVisible = false;
             this.dataGridViewDegreeOfPermissibility.Size = new System.Drawing.Size(432, 50);
@@ -303,11 +305,11 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(14, 12);
+            this.label3.Location = new System.Drawing.Point(14, 33);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(137, 13);
+            this.label3.Size = new System.Drawing.Size(117, 13);
             this.label3.TabIndex = 0;
-            this.label3.Text = "The degree of permissibility:";
+            this.label3.Text = "Ступінь допустимості:";
             // 
             // buttonSave
             // 
@@ -315,7 +317,7 @@
             this.buttonSave.Name = "buttonSave";
             this.buttonSave.Size = new System.Drawing.Size(120, 23);
             this.buttonSave.TabIndex = 7;
-            this.buttonSave.Text = "Save to buffer";
+            this.buttonSave.Text = "Зберегти в буфер";
             this.buttonSave.UseVisualStyleBackColor = true;
             this.buttonSave.Click += new System.EventHandler(this.buttonSave_Click);
             // 
@@ -325,9 +327,18 @@
             this.buttonLoad.Name = "buttonLoad";
             this.buttonLoad.Size = new System.Drawing.Size(120, 23);
             this.buttonLoad.TabIndex = 8;
-            this.buttonLoad.Text = "Load from buffer";
+            this.buttonLoad.Text = "Загрузути з буферу";
             this.buttonLoad.UseVisualStyleBackColor = true;
             this.buttonLoad.Click += new System.EventHandler(this.buttonLoad_Click);
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Location = new System.Drawing.Point(150, 12);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(143, 13);
+            this.label7.TabIndex = 8;
+            this.label7.Text = "Недомінуємі альтернативи";
             // 
             // fuzzyPreferenceRelations
             // 
@@ -388,5 +399,6 @@
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Button buttonSave;
         private System.Windows.Forms.Button buttonLoad;
+        private System.Windows.Forms.Label label7;
     }
 }
