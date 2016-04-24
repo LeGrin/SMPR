@@ -177,7 +177,7 @@ namespace Modules.ModuleFuzzyLogic
             {
                 // may be alert of error
                 e.Cancel = true;
-                MessageBox.Show("Wrong input! Number must be less than 1 and bigger than 0!");
+                MessageBox.Show("Неправильний ввід! Необхідно ввести число від 0 до 1!");
             }
         }
 
@@ -386,7 +386,7 @@ namespace Modules.ModuleFuzzyLogic
 
         private void buttonM1_Load_Click(object sender, EventArgs e)
         {
-            Vector<double> t = (Vector<double>)Common.DataBuffer.Instance.LoadDialog(ValidationCallbackDelegateP);
+            Vector<double> t = (Vector<double>)Common.DataBuffer.Instance.LoadDialog(ValidationCallbackDelegateP1);
             if (t == null)
                 MessageBox.Show("Ви неправильно обрали вектор");
             else
@@ -395,7 +395,7 @@ namespace Modules.ModuleFuzzyLogic
         }
         private void buttonM2_Load_Click(object sender, EventArgs e)
         {
-            Vector<double> t = (Vector<double>)Common.DataBuffer.Instance.LoadDialog(ValidationCallbackDelegateP);
+            Vector<double> t = (Vector<double>)Common.DataBuffer.Instance.LoadDialog(ValidationCallbackDelegateP2);
             if (t == null)
                 MessageBox.Show("Ви неправильно обрали вектор");
             else
@@ -404,7 +404,7 @@ namespace Modules.ModuleFuzzyLogic
         }
         private void buttonMRes_Load_Click(object sender, EventArgs e)
         {
-            Vector<double> t = (Vector<double>)Common.DataBuffer.Instance.LoadDialog(ValidationCallbackDelegateP);
+            Vector<double> t = (Vector<double>)Common.DataBuffer.Instance.LoadDialog(ValidationCallbackDelegatePRes);
             if (t == null)
                 MessageBox.Show("Ви неправильно обрали вектор");
             else
@@ -419,15 +419,69 @@ namespace Modules.ModuleFuzzyLogic
                 item.Cells[1].Value = buff.Value[i++];
             }
         }
-        public bool ValidationCallbackDelegateP(BufferData obj)
+        public bool ValidationCallbackDelegateP1(BufferData obj)
         {
             if (obj is Vector<double>)
             {
                 Vector<double> vect = (Vector<double>)obj;
                 int m = 1;
-                foreach (int k in sizeMatrix)
-                    m *= k;
- 
+                if (checkBoxComp.Checked == false)
+                {
+                    foreach (int k in sizeMatrix)
+                        m *= k;
+                }
+                else
+                {
+                    foreach (int k in sizeMatrixComp1)
+                        m *= k;
+                }
+                if (vect.Value.Length != m)
+                    return false;
+                else
+                    return true;
+            }
+            else
+                return false;
+        }
+        public bool ValidationCallbackDelegateP2(BufferData obj)
+        {
+            if (obj is Vector<double>)
+            {
+                Vector<double> vect = (Vector<double>)obj;
+                int m = 1;
+                if (checkBoxComp.Checked == false)
+                {
+                    foreach (int k in sizeMatrix)
+                        m *= k;
+                }
+                else
+                {
+                    foreach (int k in sizeMatrixComp2)
+                        m *= k;
+                }
+                if (vect.Value.Length != m)
+                    return false;
+                else
+                    return true;
+            }
+            else
+                return false;
+        }
+        public bool ValidationCallbackDelegatePRes(BufferData obj)
+        {
+            if (obj is Vector<double>)
+            {
+                Vector<double> vect = (Vector<double>)obj;
+                int m = 1;
+                if (checkBoxComp.Checked == false)
+                {
+                    foreach (int k in sizeMatrix)
+                        m *= k;
+                }
+                else
+                {
+                    m = sizeMatrixComp1[0] * sizeMatrixComp2[1];
+                }
                 if (vect.Value.Length != m)
                     return false;
                 else

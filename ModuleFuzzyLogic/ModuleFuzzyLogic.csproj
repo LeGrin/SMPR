@@ -80,7 +80,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resourses\OperationsOnRelationships.rtf" />
+    <None Include="Resourses\MethodHelp_OperOnRelaionMethods.rtf" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Common\Common.csproj">

@@ -65,9 +65,18 @@ namespace Modules.ModuleFuzzyLogic.Properties {
         ///{\f34\fbidi \froman\fcharset204\fprq2{\*\panose 02040503050406030204}Cambria Math;}{\f38\fbidi \fswiss\fcharset204\fprq2{\*\panose 020b0604030504040204}Tahoma;}
         ///{\flomajor\f31500\fbidi \froman\fcharset204\fprq2{\*\panose 02020603050405020304} [rest of string was truncated]&quot;;.
         /// </summary>
-        internal static string ModuleHelp {
+        internal static string MethodHelp_OperOnRelaionMethods {
             get {
-                return ResourceManager.GetString("ModuleHelp", resourceCulture);
+                return ResourceManager.GetString("MethodHelp_OperOnRelaionMethods", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Операції над нечіткими відношеннями.
+        /// </summary>
+        internal static string MethodOperationsOnRelationships {
+            get {
+                return ResourceManager.GetString("MethodOperationsOnRelationships", resourceCulture);
             }
         }
         
