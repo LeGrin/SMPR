@@ -39,7 +39,7 @@
             // button1
             // 
             this.button1.Location = new System.Drawing.Point(9, 10);
-            this.button1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button1.Margin = new System.Windows.Forms.Padding(2);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(89, 41);
             this.button1.TabIndex = 0;
@@ -59,7 +59,7 @@
             // button3
             // 
             this.button3.Location = new System.Drawing.Point(196, 10);
-            this.button3.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button3.Margin = new System.Windows.Forms.Padding(2);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(89, 41);
             this.button3.TabIndex = 0;
@@ -70,7 +70,7 @@
             // buttonOperOnRelation
             // 
             this.buttonOperOnRelation.Location = new System.Drawing.Point(9, 68);
-            this.buttonOperOnRelation.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.buttonOperOnRelation.Margin = new System.Windows.Forms.Padding(2);
             this.buttonOperOnRelation.Name = "buttonOperOnRelation";
             this.buttonOperOnRelation.Size = new System.Drawing.Size(124, 41);
             this.buttonOperOnRelation.TabIndex = 0;
@@ -82,7 +82,7 @@
             // button6
             // 
             this.button6.Location = new System.Drawing.Point(152, 68);
-            this.button6.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button6.Margin = new System.Windows.Forms.Padding(2);
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(134, 41);
             this.button6.TabIndex = 0;
@@ -92,7 +92,7 @@
             // button7
             // 
             this.button7.Location = new System.Drawing.Point(-184, 128);
-            this.button7.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button7.Margin = new System.Windows.Forms.Padding(2);
             this.button7.Name = "button7";
             this.button7.Size = new System.Drawing.Size(89, 41);
             this.button7.TabIndex = 0;
@@ -110,7 +110,7 @@
             this.Controls.Add(this.button3);
             this.Controls.Add(this.binRelationsPropButton);
             this.Controls.Add(this.button1);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "frmModule";
             this.Text = "frmModule";
             this.ResumeLayout(false);

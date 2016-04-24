@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using Modules.ModuleFuzzyLogic.Methods;
+using Common.DataTypes;
 
 namespace Modules.ModuleFuzzyLogic
 {
@@ -176,7 +177,7 @@ namespace Modules.ModuleFuzzyLogic
             {
                 // may be alert of error
                 e.Cancel = true;
-                MessageBox.Show("Wrong input! Number must be less than 1 and bigger than 0!");
+                MessageBox.Show("Неправильний ввід! Необхідно ввести число від 0 до 1!");
             }
         }
 
@@ -324,6 +325,170 @@ namespace Modules.ModuleFuzzyLogic
             {
                 dataGV_MatrixRes[1, i].Value = res[i].ToString();
             }
+        }
+
+        private void buttonGener_M1_Click(object sender, EventArgs e)
+        {
+            Random rnm = new Random();
+            foreach (DataGridViewRow item in dataGV_Matrix1.Rows)
+            {
+                item.Cells[1].Value = 0.01 * rnm.Next(0, 100);
+            }
+        }
+
+        private void buttonGener_M2_Click(object sender, EventArgs e)
+        {
+            Random rnm = new Random();
+            foreach (DataGridViewRow item in dataGV_Matrix2.Rows)
+            {
+                item.Cells[1].Value = 0.01 * rnm.Next(0, 100);
+            }
+        }
+
+        private void buttonM1_Save_Click(object sender, EventArgs e)
+        {
+            double[] prob = new double[dataGV_Matrix1.RowCount];
+            int i = 0;
+            foreach (DataGridViewRow item in dataGV_Matrix1.Rows)
+            {
+                if (item.Cells[1].Value == null)
+                    prob[i++] = 0;
+                else
+                    prob[i++] = Convert.ToDouble(item.Cells[1].Value.ToString());
+            }
+            Vector<double> vect = new Vector<double>(prob);
+            Common.DataBuffer.Instance.SaveDialog(vect);
+        }
+
+        private void buttonM2_Save_Click(object sender, EventArgs e)
+        {
+            double[] prob = new double[dataGV_Matrix1.RowCount];
+            int i = 0;
+            foreach (DataGridViewRow item in dataGV_Matrix2.Rows)
+            {
+                prob[i++] = Double.Parse(item.Cells[1].Value.ToString());
+            }
+            Vector<double> vect = new Vector<double>(prob);
+            Common.DataBuffer.Instance.SaveDialog(vect);
+        }
+
+        private void buttonMRes_Save_Click(object sender, EventArgs e)
+        {
+            double[] prob = new double[dataGV_Matrix1.RowCount];
+            int i = 0;
+            foreach (DataGridViewRow item in dataGV_MatrixRes.Rows)
+            {
+                prob[i++] = Double.Parse(item.Cells[1].Value.ToString());
+            }
+            Vector<double> vect = new Vector<double>(prob);
+            Common.DataBuffer.Instance.SaveDialog(vect);
+        }
+
+        private void buttonM1_Load_Click(object sender, EventArgs e)
+        {
+            Vector<double> t = (Vector<double>)Common.DataBuffer.Instance.LoadDialog(ValidationCallbackDelegateP1);
+            if (t == null)
+                MessageBox.Show("Ви неправильно обрали вектор");
+            else
+                InputVect(t, dataGV_Matrix1);
+
+        }
+        private void buttonM2_Load_Click(object sender, EventArgs e)
+        {
+            Vector<double> t = (Vector<double>)Common.DataBuffer.Instance.LoadDialog(ValidationCallbackDelegateP2);
+            if (t == null)
+                MessageBox.Show("Ви неправильно обрали вектор");
+            else
+                InputVect(t, dataGV_Matrix2);
+
+        }
+        private void buttonMRes_Load_Click(object sender, EventArgs e)
+        {
+            Vector<double> t = (Vector<double>)Common.DataBuffer.Instance.LoadDialog(ValidationCallbackDelegatePRes);
+            if (t == null)
+                MessageBox.Show("Ви неправильно обрали вектор");
+            else
+                InputVect(t, dataGV_MatrixRes);
+
+        }
+        private void InputVect(Vector<double> buff, DataGridView matrix)
+        {
+            int i = 0;
+            foreach (DataGridViewRow item in matrix.Rows)
+            {
+                item.Cells[1].Value = buff.Value[i++];
+            }
+        }
+        public bool ValidationCallbackDelegateP1(BufferData obj)
+        {
+            if (obj is Vector<double>)
+            {
+                Vector<double> vect = (Vector<double>)obj;
+                int m = 1;
+                if (checkBoxComp.Checked == false)
+                {
+                    foreach (int k in sizeMatrix)
+                        m *= k;
+                }
+                else
+                {
+                    foreach (int k in sizeMatrixComp1)
+                        m *= k;
+                }
+                if (vect.Value.Length != m)
+                    return false;
+                else
+                    return true;
+            }
+            else
+                return false;
+        }
+        public bool ValidationCallbackDelegateP2(BufferData obj)
+        {
+            if (obj is Vector<double>)
+            {
+                Vector<double> vect = (Vector<double>)obj;
+                int m = 1;
+                if (checkBoxComp.Checked == false)
+                {
+                    foreach (int k in sizeMatrix)
+                        m *= k;
+                }
+                else
+                {
+                    foreach (int k in sizeMatrixComp2)
+                        m *= k;
+                }
+                if (vect.Value.Length != m)
+                    return false;
+                else
+                    return true;
+            }
+            else
+                return false;
+        }
+        public bool ValidationCallbackDelegatePRes(BufferData obj)
+        {
+            if (obj is Vector<double>)
+            {
+                Vector<double> vect = (Vector<double>)obj;
+                int m = 1;
+                if (checkBoxComp.Checked == false)
+                {
+                    foreach (int k in sizeMatrix)
+                        m *= k;
+                }
+                else
+                {
+                    m = sizeMatrixComp1[0] * sizeMatrixComp2[1];
+                }
+                if (vect.Value.Length != m)
+                    return false;
+                else
+                    return true;
+            }
+            else
+                return false;
         }
     }
 }

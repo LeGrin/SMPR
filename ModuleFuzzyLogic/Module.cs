@@ -17,6 +17,15 @@ namespace Modules.ModuleFuzzyLogic
             form = new frmModule();
         }
 
+        public Module(Method meth)
+        {
+            if(meth.Name == "Операції над нечіткими відношеннями")
+            {
+                frmOperOnRelation fOOR = new frmOperOnRelation();
+                fOOR.Show();
+            }
+        }
+
         public override void Show(Form MdiParent)
         {
             
