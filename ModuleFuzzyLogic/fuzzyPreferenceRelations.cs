@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Common.DataTypes;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -395,5 +396,76 @@ namespace ModuleFuzzyLogic
             }
             renderNonDominatedSet();
         }
+
+        private void dataGridViewLaxPreferences_CellValidating(object sender, DataGridViewCellValidatingEventArgs e)
+        {
+            if (e.ColumnIndex == 0) return;
+            string userInput = e.FormattedValue.ToString();
+            double userValue;
+            bool isNumeric = double.TryParse(userInput, out userValue);
+            if ((!isNumeric || userValue < 0 || userValue > 1) && userInput != "")
+            {
+                // may be alert of error
+                e.Cancel = true;
+                MessageBox.Show("Неправильний ввід! Необхідно ввести число від 0 до 1!");
+            }
+        }
+
+        private void buttonSave_Click(object sender, EventArgs e)
+        {
+            Matrix<double> m = new Matrix<double>();
+            refreshLaxPreferencesMatrix();
+            m.Value = laxPreferencesMatrix;
+            Common.DataBuffer.Instance.SaveDialog(m);
+        }
+
+        private void buttonLoad_Click(object sender, EventArgs e)
+        {
+            BufferData t = Common.DataBuffer.Instance.LoadDialog(ValidationCallbackDelegate);
+            if (t == null)
+                MessageBox.Show("Ви неправильно обрали матрицю");
+            else
+                loadMatrixFromBuffer(t);
+        }
+
+        private void loadMatrixFromBuffer(BufferData buff)
+        {
+            Matrix<double> t = (Matrix<double>)buff;
+            int n = t.RowCount;
+            elementsCount = n;
+            changeMatrixSize(n);
+
+            for (int i = 0; i < n; ++i)
+            {
+                for (int j = 0; j < n; ++j)
+                {
+                    dataGridViewLaxPreferences[i + 1, j].Value = t[i,j];
+                }
+            }
+        }
+
+        public bool ValidationCallbackDelegate(BufferData obj)
+        {
+            if (obj is Matrix<double>)
+            {
+                Matrix<double> m = (Matrix<double>)obj;
+                if (m.Value.GetLength(0) > 10 || m.Value.GetLength(0) != m.Value.GetLength(1))
+                {
+                    return false;
+                }
+                else
+                {
+                    for (int i = 0; i < m.Value.GetLength(0); i++)
+                        for (int j = 0; j < m.Value.GetLength(1); j++)
+                            if (m[i, j] > 1 || m[i, j] < 0)
+                                return false;
+                }
+                return true;
+            }
+            else
+                return false;
+        }
+
+
     }
 }
