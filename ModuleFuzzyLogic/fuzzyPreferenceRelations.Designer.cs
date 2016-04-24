@@ -34,15 +34,35 @@
             this.button1 = new System.Windows.Forms.Button();
             this.tabPageStrictPreferences = new System.Windows.Forms.TabPage();
             this.tabPageLaxPreferences = new System.Windows.Forms.TabPage();
-            this.dataGridViewMu = new System.Windows.Forms.DataGridView();
+            this.dataGridViewLaxPreferences = new System.Windows.Forms.DataGridView();
             this.tabControl1 = new System.Windows.Forms.TabControl();
-            this.tabPageAttitudeOfIndifference = new System.Windows.Forms.TabPage();
+            this.tabPageIndifference = new System.Windows.Forms.TabPage();
             this.tabPageQuasiEquivalence = new System.Windows.Forms.TabPage();
             this.tabPageNonDominated = new System.Windows.Forms.TabPage();
+            this.dataGridViewStrictPreferences = new System.Windows.Forms.DataGridView();
+            this.dataGridViewIndifference = new System.Windows.Forms.DataGridView();
+            this.dataGridViewQuasiEquivalence = new System.Windows.Forms.DataGridView();
+            this.label3 = new System.Windows.Forms.Label();
+            this.dataGridViewDegreeOfPermissibility = new System.Windows.Forms.DataGridView();
+            this.label4 = new System.Windows.Forms.Label();
+            this.dataGridViewNonDominatedSet = new System.Windows.Forms.DataGridView();
+            this.label5 = new System.Windows.Forms.Label();
+            this.label6 = new System.Windows.Forms.Label();
+            this.textBoxBestAlternative = new System.Windows.Forms.TextBox();
+            this.textBoxDegreeOfNonDomination = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpAndDownElementsCount)).BeginInit();
+            this.tabPageStrictPreferences.SuspendLayout();
             this.tabPageLaxPreferences.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridViewMu)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridViewLaxPreferences)).BeginInit();
             this.tabControl1.SuspendLayout();
+            this.tabPageIndifference.SuspendLayout();
+            this.tabPageQuasiEquivalence.SuspendLayout();
+            this.tabPageNonDominated.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridViewStrictPreferences)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridViewIndifference)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridViewQuasiEquivalence)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridViewDegreeOfPermissibility)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridViewNonDominatedSet)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
@@ -83,17 +103,18 @@
             // 
             // tabPageStrictPreferences
             // 
+            this.tabPageStrictPreferences.Controls.Add(this.dataGridViewStrictPreferences);
             this.tabPageStrictPreferences.Location = new System.Drawing.Point(4, 22);
             this.tabPageStrictPreferences.Name = "tabPageStrictPreferences";
             this.tabPageStrictPreferences.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPageStrictPreferences.Size = new System.Drawing.Size(403, 309);
+            this.tabPageStrictPreferences.Size = new System.Drawing.Size(472, 309);
             this.tabPageStrictPreferences.TabIndex = 1;
             this.tabPageStrictPreferences.Text = "Strict Preferences";
             this.tabPageStrictPreferences.UseVisualStyleBackColor = true;
             // 
             // tabPageLaxPreferences
             // 
-            this.tabPageLaxPreferences.Controls.Add(this.dataGridViewMu);
+            this.tabPageLaxPreferences.Controls.Add(this.dataGridViewLaxPreferences);
             this.tabPageLaxPreferences.Location = new System.Drawing.Point(4, 22);
             this.tabPageLaxPreferences.Name = "tabPageLaxPreferences";
             this.tabPageLaxPreferences.Padding = new System.Windows.Forms.Padding(3);
@@ -102,25 +123,25 @@
             this.tabPageLaxPreferences.Text = "Lax Preferences";
             this.tabPageLaxPreferences.UseVisualStyleBackColor = true;
             // 
-            // dataGridViewMu
+            // dataGridViewLaxPreferences
             // 
-            this.dataGridViewMu.AllowUserToAddRows = false;
-            this.dataGridViewMu.AllowUserToDeleteRows = false;
-            this.dataGridViewMu.AllowUserToResizeColumns = false;
-            this.dataGridViewMu.AllowUserToResizeRows = false;
-            this.dataGridViewMu.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridViewMu.Location = new System.Drawing.Point(6, 9);
-            this.dataGridViewMu.Name = "dataGridViewMu";
-            this.dataGridViewMu.RowHeadersVisible = false;
-            this.dataGridViewMu.Size = new System.Drawing.Size(460, 297);
-            this.dataGridViewMu.TabIndex = 4;
-            this.dataGridViewMu.CellValueChanged += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridViewMu_CellValueChanged);
+            this.dataGridViewLaxPreferences.AllowUserToAddRows = false;
+            this.dataGridViewLaxPreferences.AllowUserToDeleteRows = false;
+            this.dataGridViewLaxPreferences.AllowUserToResizeColumns = false;
+            this.dataGridViewLaxPreferences.AllowUserToResizeRows = false;
+            this.dataGridViewLaxPreferences.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridViewLaxPreferences.Location = new System.Drawing.Point(6, 9);
+            this.dataGridViewLaxPreferences.Name = "dataGridViewLaxPreferences";
+            this.dataGridViewLaxPreferences.RowHeadersVisible = false;
+            this.dataGridViewLaxPreferences.Size = new System.Drawing.Size(460, 297);
+            this.dataGridViewLaxPreferences.TabIndex = 4;
+            this.dataGridViewLaxPreferences.CellValueChanged += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridViewMu_CellValueChanged);
             // 
             // tabControl1
             // 
             this.tabControl1.Controls.Add(this.tabPageLaxPreferences);
             this.tabControl1.Controls.Add(this.tabPageStrictPreferences);
-            this.tabControl1.Controls.Add(this.tabPageAttitudeOfIndifference);
+            this.tabControl1.Controls.Add(this.tabPageIndifference);
             this.tabControl1.Controls.Add(this.tabPageQuasiEquivalence);
             this.tabControl1.Controls.Add(this.tabPageNonDominated);
             this.tabControl1.Location = new System.Drawing.Point(154, 12);
@@ -128,33 +149,162 @@
             this.tabControl1.SelectedIndex = 0;
             this.tabControl1.Size = new System.Drawing.Size(480, 335);
             this.tabControl1.TabIndex = 6;
+            this.tabControl1.SelectedIndexChanged += new System.EventHandler(this.tabControl1_SelectedIndexChanged);
             // 
-            // tabPageAttitudeOfIndifference
+            // tabPageIndifference
             // 
-            this.tabPageAttitudeOfIndifference.Location = new System.Drawing.Point(4, 22);
-            this.tabPageAttitudeOfIndifference.Name = "tabPageAttitudeOfIndifference";
-            this.tabPageAttitudeOfIndifference.Size = new System.Drawing.Size(403, 309);
-            this.tabPageAttitudeOfIndifference.TabIndex = 2;
-            this.tabPageAttitudeOfIndifference.Text = "Attitude of indifference";
-            this.tabPageAttitudeOfIndifference.UseVisualStyleBackColor = true;
+            this.tabPageIndifference.Controls.Add(this.dataGridViewIndifference);
+            this.tabPageIndifference.Location = new System.Drawing.Point(4, 22);
+            this.tabPageIndifference.Name = "tabPageIndifference";
+            this.tabPageIndifference.Size = new System.Drawing.Size(472, 309);
+            this.tabPageIndifference.TabIndex = 2;
+            this.tabPageIndifference.Text = "Indifference";
+            this.tabPageIndifference.UseVisualStyleBackColor = true;
             // 
             // tabPageQuasiEquivalence
             // 
+            this.tabPageQuasiEquivalence.Controls.Add(this.dataGridViewQuasiEquivalence);
             this.tabPageQuasiEquivalence.Location = new System.Drawing.Point(4, 22);
             this.tabPageQuasiEquivalence.Name = "tabPageQuasiEquivalence";
-            this.tabPageQuasiEquivalence.Size = new System.Drawing.Size(403, 309);
+            this.tabPageQuasiEquivalence.Size = new System.Drawing.Size(472, 309);
             this.tabPageQuasiEquivalence.TabIndex = 3;
             this.tabPageQuasiEquivalence.Text = "Quasi Equivalence";
             this.tabPageQuasiEquivalence.UseVisualStyleBackColor = true;
             // 
             // tabPageNonDominated
             // 
+            this.tabPageNonDominated.Controls.Add(this.textBoxDegreeOfNonDomination);
+            this.tabPageNonDominated.Controls.Add(this.textBoxBestAlternative);
+            this.tabPageNonDominated.Controls.Add(this.label6);
+            this.tabPageNonDominated.Controls.Add(this.label5);
+            this.tabPageNonDominated.Controls.Add(this.dataGridViewNonDominatedSet);
+            this.tabPageNonDominated.Controls.Add(this.label4);
+            this.tabPageNonDominated.Controls.Add(this.dataGridViewDegreeOfPermissibility);
+            this.tabPageNonDominated.Controls.Add(this.label3);
             this.tabPageNonDominated.Location = new System.Drawing.Point(4, 22);
             this.tabPageNonDominated.Name = "tabPageNonDominated";
-            this.tabPageNonDominated.Size = new System.Drawing.Size(403, 309);
+            this.tabPageNonDominated.Size = new System.Drawing.Size(472, 309);
             this.tabPageNonDominated.TabIndex = 4;
-            this.tabPageNonDominated.Text = "tabPage1";
+            this.tabPageNonDominated.Text = "Non-dominated set";
             this.tabPageNonDominated.UseVisualStyleBackColor = true;
+            // 
+            // dataGridViewStrictPreferences
+            // 
+            this.dataGridViewStrictPreferences.AllowUserToAddRows = false;
+            this.dataGridViewStrictPreferences.AllowUserToDeleteRows = false;
+            this.dataGridViewStrictPreferences.AllowUserToResizeColumns = false;
+            this.dataGridViewStrictPreferences.AllowUserToResizeRows = false;
+            this.dataGridViewStrictPreferences.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridViewStrictPreferences.Enabled = false;
+            this.dataGridViewStrictPreferences.Location = new System.Drawing.Point(6, 6);
+            this.dataGridViewStrictPreferences.Name = "dataGridViewStrictPreferences";
+            this.dataGridViewStrictPreferences.RowHeadersVisible = false;
+            this.dataGridViewStrictPreferences.Size = new System.Drawing.Size(460, 297);
+            this.dataGridViewStrictPreferences.TabIndex = 5;
+            // 
+            // dataGridViewIndifference
+            // 
+            this.dataGridViewIndifference.AllowUserToAddRows = false;
+            this.dataGridViewIndifference.AllowUserToDeleteRows = false;
+            this.dataGridViewIndifference.AllowUserToResizeColumns = false;
+            this.dataGridViewIndifference.AllowUserToResizeRows = false;
+            this.dataGridViewIndifference.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridViewIndifference.Enabled = false;
+            this.dataGridViewIndifference.Location = new System.Drawing.Point(6, 6);
+            this.dataGridViewIndifference.Name = "dataGridViewIndifference";
+            this.dataGridViewIndifference.RowHeadersVisible = false;
+            this.dataGridViewIndifference.Size = new System.Drawing.Size(460, 297);
+            this.dataGridViewIndifference.TabIndex = 6;
+            // 
+            // dataGridViewQuasiEquivalence
+            // 
+            this.dataGridViewQuasiEquivalence.AllowUserToAddRows = false;
+            this.dataGridViewQuasiEquivalence.AllowUserToDeleteRows = false;
+            this.dataGridViewQuasiEquivalence.AllowUserToResizeColumns = false;
+            this.dataGridViewQuasiEquivalence.AllowUserToResizeRows = false;
+            this.dataGridViewQuasiEquivalence.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridViewQuasiEquivalence.Enabled = false;
+            this.dataGridViewQuasiEquivalence.Location = new System.Drawing.Point(6, 6);
+            this.dataGridViewQuasiEquivalence.Name = "dataGridViewQuasiEquivalence";
+            this.dataGridViewQuasiEquivalence.RowHeadersVisible = false;
+            this.dataGridViewQuasiEquivalence.Size = new System.Drawing.Size(460, 297);
+            this.dataGridViewQuasiEquivalence.TabIndex = 7;
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(14, 12);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(137, 13);
+            this.label3.TabIndex = 0;
+            this.label3.Text = "The degree of permissibility:";
+            // 
+            // dataGridViewDegreeOfPermissibility
+            // 
+            this.dataGridViewDegreeOfPermissibility.AllowUserToAddRows = false;
+            this.dataGridViewDegreeOfPermissibility.AllowUserToDeleteRows = false;
+            this.dataGridViewDegreeOfPermissibility.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridViewDegreeOfPermissibility.Location = new System.Drawing.Point(17, 29);
+            this.dataGridViewDegreeOfPermissibility.Name = "dataGridViewDegreeOfPermissibility";
+            this.dataGridViewDegreeOfPermissibility.RowHeadersVisible = false;
+            this.dataGridViewDegreeOfPermissibility.Size = new System.Drawing.Size(432, 50);
+            this.dataGridViewDegreeOfPermissibility.TabIndex = 1;
+            this.dataGridViewDegreeOfPermissibility.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridViewDegreeOfPermissibility_CellContentClick);
+            this.dataGridViewDegreeOfPermissibility.CellValueChanged += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridViewDegreeOfPermissibility_CellValueChanged);
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(17, 81);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(99, 13);
+            this.label4.TabIndex = 2;
+            this.label4.Text = "Non-dominated set:";
+            // 
+            // dataGridViewNonDominatedSet
+            // 
+            this.dataGridViewNonDominatedSet.AllowUserToAddRows = false;
+            this.dataGridViewNonDominatedSet.AllowUserToDeleteRows = false;
+            this.dataGridViewNonDominatedSet.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridViewNonDominatedSet.Location = new System.Drawing.Point(17, 95);
+            this.dataGridViewNonDominatedSet.Name = "dataGridViewNonDominatedSet";
+            this.dataGridViewNonDominatedSet.RowHeadersVisible = false;
+            this.dataGridViewNonDominatedSet.Size = new System.Drawing.Size(432, 50);
+            this.dataGridViewNonDominatedSet.TabIndex = 3;
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(17, 168);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(96, 13);
+            this.label5.TabIndex = 4;
+            this.label5.Text = "Best alternative is: ";
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(17, 190);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(132, 13);
+            this.label6.TabIndex = 5;
+            this.label6.Text = "Degree of non-domination:";
+            // 
+            // textBoxBestAlternative
+            // 
+            this.textBoxBestAlternative.Location = new System.Drawing.Point(153, 164);
+            this.textBoxBestAlternative.Name = "textBoxBestAlternative";
+            this.textBoxBestAlternative.ReadOnly = true;
+            this.textBoxBestAlternative.Size = new System.Drawing.Size(100, 20);
+            this.textBoxBestAlternative.TabIndex = 6;
+            // 
+            // textBoxDegreeOfNonDomination
+            // 
+            this.textBoxDegreeOfNonDomination.Location = new System.Drawing.Point(153, 188);
+            this.textBoxDegreeOfNonDomination.Name = "textBoxDegreeOfNonDomination";
+            this.textBoxDegreeOfNonDomination.ReadOnly = true;
+            this.textBoxDegreeOfNonDomination.Size = new System.Drawing.Size(100, 20);
+            this.textBoxDegreeOfNonDomination.TabIndex = 7;
             // 
             // fuzzyPreferenceRelations
             // 
@@ -169,9 +319,19 @@
             this.Name = "fuzzyPreferenceRelations";
             this.Text = "fuzzyPreferenceRelations";
             ((System.ComponentModel.ISupportInitialize)(this.numericUpAndDownElementsCount)).EndInit();
+            this.tabPageStrictPreferences.ResumeLayout(false);
             this.tabPageLaxPreferences.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridViewMu)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridViewLaxPreferences)).EndInit();
             this.tabControl1.ResumeLayout(false);
+            this.tabPageIndifference.ResumeLayout(false);
+            this.tabPageQuasiEquivalence.ResumeLayout(false);
+            this.tabPageNonDominated.ResumeLayout(false);
+            this.tabPageNonDominated.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridViewStrictPreferences)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridViewIndifference)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridViewQuasiEquivalence)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridViewDegreeOfPermissibility)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridViewNonDominatedSet)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -185,10 +345,21 @@
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.TabPage tabPageStrictPreferences;
         private System.Windows.Forms.TabPage tabPageLaxPreferences;
-        private System.Windows.Forms.DataGridView dataGridViewMu;
+        private System.Windows.Forms.DataGridView dataGridViewLaxPreferences;
         private System.Windows.Forms.TabControl tabControl1;
-        private System.Windows.Forms.TabPage tabPageAttitudeOfIndifference;
+        private System.Windows.Forms.TabPage tabPageIndifference;
         private System.Windows.Forms.TabPage tabPageQuasiEquivalence;
         private System.Windows.Forms.TabPage tabPageNonDominated;
+        private System.Windows.Forms.DataGridView dataGridViewStrictPreferences;
+        private System.Windows.Forms.DataGridView dataGridViewIndifference;
+        private System.Windows.Forms.DataGridView dataGridViewQuasiEquivalence;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.DataGridView dataGridViewDegreeOfPermissibility;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.DataGridView dataGridViewNonDominatedSet;
+        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.TextBox textBoxDegreeOfNonDomination;
+        private System.Windows.Forms.TextBox textBoxBestAlternative;
+        private System.Windows.Forms.Label label6;
     }
 }
