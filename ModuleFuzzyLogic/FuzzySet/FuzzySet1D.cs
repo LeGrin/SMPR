@@ -18,10 +18,10 @@ namespace FuzzySets
             }
             if ((obj as Common.DataTypes.Matrix<double>).Value.GetLength(1) != 2) return false;
             List<double> xs = new List<double>();
-            double[,] matr=(obj as Common.DataTypes.Matrix<double>).Value;
+            double[,] matr = (obj as Common.DataTypes.Matrix<double>).Value;
             for (int i = 0; i < matr.GetLength(0); i++)
             {
-                if (xs.Contains(matr[i,0])) return false;
+                if (xs.Contains(matr[i, 0])) return false;
                 xs.Add(matr[i, 0]);
                 if (matr[i, 1] > 1.0 || matr[i, 1] < 0.0) return false;
             }
@@ -56,7 +56,7 @@ namespace FuzzySets
             {
                 double[,] res = new double[dots.Count, 2];
                 int i = 0;
-                foreach (KeyValuePair<double,double> pair in dots)
+                foreach (KeyValuePair<double, double> pair in dots)
                 {
                     res[i, 0] = pair.Key;
                     res[i, 1] = pair.Value;
@@ -66,7 +66,7 @@ namespace FuzzySets
             }
 
         }
-       
+
 
         /// <summary>
         /// является ли это множество дискретным
@@ -117,7 +117,7 @@ namespace FuzzySets
                         }
                         double currY = (currX - lftX) / (rghX - lftX) * (rghY - lftY) + lftY;
 
-                        res.Add(currX, (rghX==lftX)?0.0:currY);
+                        res.Add(currX, (rghX == lftX) ? 0.0 : currY);
                     }
                     this.dots = res;
                     #endregion
@@ -154,14 +154,14 @@ namespace FuzzySets
                         pen,
                         new PointF((float)((acc - fromX) / (toX - fromX) * size.Width), 0),
                         new PointF((float)((acc - fromX) / (toX - fromX) * size.Width), size.Height));
-                    gr.DrawString(acc.ToString(), font, Brushes.Green, new PointF((float)((acc - fromX) / (toX - fromX) * size.Width), size.Height*0.95f));
+                    gr.DrawString(acc.ToString(), font, Brushes.Green, new PointF((float)((acc - fromX) / (toX - fromX) * size.Width), size.Height * 0.95f));
                 }
                 for (double acc = 0; acc <= 1.0; acc += FuzzySet.yGridStep)
                 {
                     gr.DrawLine(
                         pen,
-                        new PointF(0,(float)((acc - 0.0) / (1.0 - 0.0) * size.Height*0.8+size.Height*0.1)),
-                        new PointF(size.Width,(float)((acc - 0.0) / (1.0 - 0.0) * size.Height*0.8+size.Height*0.1)));
+                        new PointF(0, (float)((acc - 0.0) / (1.0 - 0.0) * size.Height * 0.8 + size.Height * 0.1)),
+                        new PointF(size.Width, (float)((acc - 0.0) / (1.0 - 0.0) * size.Height * 0.8 + size.Height * 0.1)));
                 }
 
             }
@@ -201,7 +201,7 @@ namespace FuzzySets
         /// <param name="dgw">котрол</param>
         public override void ToMatrix(DataGridView dgw)
         {
-         
+
             dgw.DataSource = null;
             dgw.Rows.Clear();
             dgw.Columns.Clear();
@@ -210,33 +210,18 @@ namespace FuzzySets
             dgw.ColumnHeadersVisible = true;
             dgw.RowHeadersVisible = false;
             dgw.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
-                dgw.ColumnCount = 2;
-                dgw.Columns[0].Name = "x";
-                dgw.Columns[0].AutoSizeMode = DataGridViewAutoSizeColumnMode.AllCells;
-                dgw.Columns[0].HeaderText = "X";
-            //{
-            //    DataGridViewColumn col = new DataGridViewColumn();
-            // //   col.ValueType = typeof(double);
-            // //   col.AutoSizeMode = DataGridViewAutoSizeColumnMode.AllCells;
-            //    col.Name = "x";
-            //    col.HeaderText = "Значение";
-
-            //    dgw.Columns.Add(col);
-            //}
+            dgw.ColumnCount = 2;
+            dgw.Columns[0].Name = "x";
+            dgw.Columns[0].AutoSizeMode = DataGridViewAutoSizeColumnMode.AllCells;
+            dgw.Columns[0].HeaderText = "X";
 
             dgw.Columns[1].ValueType = typeof(double);
             dgw.Columns[1].AutoSizeMode = DataGridViewAutoSizeColumnMode.AllCells;
             dgw.Columns[1].Name = "p(x)";
-            //{
-            //    DataGridViewColumn col = new DataGridViewColumn();
-            //    col.ValueType = typeof(double);
-            //    col.AutoSizeMode = DataGridViewAutoSizeColumnMode.AllCells;
-            //    col.Name = "мю(x)";
-            //    dgw.Columns.Add(col);
-            //}
+
             {
                 List<double> xs = new List<double>(dots.Count);
-                foreach (KeyValuePair<double,double> pair in dots)
+                foreach (KeyValuePair<double, double> pair in dots)
                     xs.Add(pair.Key);
                 xs.Sort();
                 for (int i = 0; i < dots.Count; i++)
@@ -255,14 +240,14 @@ namespace FuzzySets
                         row.Cells.Add(cell);
                     }
                     row.Cells[0].ValueType = typeof(double);
-                    row.Cells[0].Value = String.Format("{0:0.00}", xs[i]); 
+                    row.Cells[0].Value = String.Format("{0:0.00}", xs[i]);
                     row.Cells[1].ValueType = typeof(double);
-                    row.Cells[1].Value = String.Format("{0:0.00}", dots[xs[i]]); 
+                    row.Cells[1].Value = String.Format("{0:0.00}", dots[xs[i]]);
                     dgw.Rows.Add(row);
                 }
             }
         }
-     
+
         /// <summary>
         /// добавить новую точку
         /// </summary>
@@ -275,9 +260,8 @@ namespace FuzzySets
             if (x < fromX || x > toX) return false;
             if (dots.ContainsKey(x))
                 this.RemoveDot(x);
-          //  if (y == 0) return false;
             if (y >= 1.0) dots.Add(x, 1.0);
-            else  dots.Add(x, y);
+            else dots.Add(x, y);
             return true;
         }
         /// <summary>
@@ -311,100 +295,40 @@ namespace FuzzySets
         /// <returns></returns>
         public double Mu(double x)
         {
-            if (discrete)
-            {
-                foreach (KeyValuePair<double, double> pair in dots)
-                    if (pair.Key == x) return pair.Value;
-                return 0.0;
-            }
-            else
-            {
-                
-                if (this.dots.ContainsKey(x)) 
-                    return this.dots[x];
-                //IEnumerator<double> en = dots.Keys.GetEnumerator();
-                IEnumerator<double> en = this.SortedXEnumarator();
-                en.MoveNext();
-                if (x <= en.Current && x >= fromX) return 0.0;
-                double lst=en.Current;
-                double curr = en.Current;
-                while (x >= en.Current)
-                    if (en.MoveNext())
-                    {
-                        lst = curr;
-                        curr = en.Current;
-                    }
-                    else
-                        return 0.0;
-                if (Math.Abs(lst - curr) > (toX - fromX) / (maxDotCount-1)) 
-                    return 0.0;
-                return (dots[lst] + dots[curr]) / 2;
-            }
+            foreach (KeyValuePair<double, double> pair in dots)
+                if (pair.Key == x) return pair.Value;
+            return 0.0;
         }
 
         public static FuzzySet1D operator &(FuzzySet1D f1, FuzzySet1D f2)
         {
-         
-                FuzzySet1D res = new FuzzySet1D();
-                foreach (KeyValuePair<double, double> pair in f1.dots)
-                    res.AddDot(pair.Key, Math.Min(pair.Value, f2.Mu(pair.Key)));
-                foreach (KeyValuePair<double, double> pair in f2.dots)
-                    res.AddDot(pair.Key, Math.Min(pair.Value, f1.Mu(pair.Key)));
-                return res;
-         
+            FuzzySet1D res = new FuzzySet1D();
+            foreach (KeyValuePair<double, double> pair in f1.dots)
+                res.AddDot(pair.Key, Math.Min(pair.Value, f2.Mu(pair.Key)));
+            foreach (KeyValuePair<double, double> pair in f2.dots)
+                res.AddDot(pair.Key, Math.Min(pair.Value, f1.Mu(pair.Key)));
+            return res;
         }
 
         public static FuzzySet1D operator |(FuzzySet1D f1, FuzzySet1D f2)
         {
-            if ((!f1.discrete && f2.discrete) || (f1.discrete && !f2.discrete))
-            {
-                MessageBox.Show("Операцію об'єднання можна робити тільки над множинами одного типу");
-                return null;
-            }
-            if (f1.discrete && f2.discrete)
-            {
-                FuzzySet1D res = new FuzzySet1D();
-                foreach (KeyValuePair<double, double> pair in f1.dots)
-                    res.AddDot(pair.Key, Math.Max(pair.Value, f2.Mu(pair.Key)));
-                foreach (KeyValuePair<double, double> pair in f2.dots)
-                    res.AddDot(pair.Key, Math.Max(pair.Value, f1.Mu(pair.Key)));
-                return res;
-            }
-            else
-            {
-                FuzzySet1D res = new FuzzySet1D();
-                res.Discrete = false;
-                foreach (KeyValuePair<double, double> pair in f1.dots)
-                {
-                    double x = pair.Key;
-                    double y = Math.Max(pair.Value, f2.Mu(pair.Key));
-                    res.AddDot(pair.Key, Math.Max(pair.Value, f2.Mu(pair.Key)));
-                }
-                foreach (KeyValuePair<double, double> pair in f2.dots)
-                {
-                    double x = pair.Key;
-                    double y = Math.Max(pair.Value, f1.Mu(pair.Key));
-                    res.AddDot(pair.Key, Math.Max(Math.Max(pair.Value, f1.Mu(pair.Key)),res.Mu(pair.Key)));
-                }
-                return res;
-            }
+            FuzzySet1D res = new FuzzySet1D();
+            foreach (KeyValuePair<double, double> pair in f1.dots)
+                res.AddDot(pair.Key, Math.Max(pair.Value, f2.Mu(pair.Key)));
+            foreach (KeyValuePair<double, double> pair in f2.dots)
+                res.AddDot(pair.Key, Math.Max(pair.Value, f1.Mu(pair.Key)));
+            return res;
+
         }
 
         public static FuzzySet1D operator /(FuzzySet1D f1, FuzzySet1D f2)
         {
-            if ((!f1.discrete && f2.discrete) || (f1.discrete && !f2.discrete))
-            {
-                MessageBox.Show("Операцію різниці можна робити тільки над множинами одного типу");
-                return null;
-            }
             FuzzySet1D res = new FuzzySet1D();
             foreach (KeyValuePair<double, double> pair in f1.dots)
-                if (pair.Value - f2.Mu(pair.Key) > 0)
-                    res.AddDot(pair.Key, pair.Value - f2.Mu(pair.Key));
-            res.discrete = f1.discrete;
+                res.AddDot(pair.Key, Math.Max(pair.Value - f2.Mu(pair.Key), 0));
             return res;
         }
-    
+
 
 
         // дизьюнктивна сума
@@ -431,7 +355,7 @@ namespace FuzzySets
             foreach (KeyValuePair<double, double> pair in f1.dots)
             {
                 double x = pair.Key;
-                res.AddDot(pair.Key, Math.Max(f1.Mu(x) + f2.Mu(x) - 1 , 0));
+                res.AddDot(pair.Key, Math.Max(f1.Mu(x) + f2.Mu(x) - 1, 0));
             }
             foreach (KeyValuePair<double, double> pair in f2.dots)
             {
@@ -465,7 +389,7 @@ namespace FuzzySets
             foreach (KeyValuePair<double, double> pair in f1.dots)
             {
                 double x = pair.Key;
-                res.AddDot(pair.Key, alpha * f1.Mu(x) + (1-alpha) * f2.Mu(x));
+                res.AddDot(pair.Key, alpha * f1.Mu(x) + (1 - alpha) * f2.Mu(x));
             }
             foreach (KeyValuePair<double, double> pair in f2.dots)
             {
@@ -495,9 +419,9 @@ namespace FuzzySets
 
             return res;
         }
-        
+
         //алгебраїчне обєднання
-        public static FuzzySet1D operator + (FuzzySet1D f1, FuzzySet1D f2)
+        public static FuzzySet1D operator +(FuzzySet1D f1, FuzzySet1D f2)
         {
             FuzzySet1D res = new FuzzySet1D();
             foreach (KeyValuePair<double, double> pair in f1.dots)
@@ -514,7 +438,7 @@ namespace FuzzySets
         }
 
         // симетрична різниця
-        public static FuzzySet1D operator - (FuzzySet1D f1, FuzzySet1D f2)
+        public static FuzzySet1D operator -(FuzzySet1D f1, FuzzySet1D f2)
         {
             FuzzySet1D res = new FuzzySet1D();
             foreach (KeyValuePair<double, double> pair in f1.dots)
