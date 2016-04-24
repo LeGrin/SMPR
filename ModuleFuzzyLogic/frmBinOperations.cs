@@ -127,14 +127,19 @@ namespace Modules.ModuleFuzzyLogic
             for (int i = 0; i < n;)
             {
                 double x = random.Next(0, 10);
+                x = double.Parse(String.Format("{0:0.00}", x));
                 double y = random.NextDouble();
+                y = double.Parse(String.Format("{0:0.00}", y));
                 if (setA.AddDot(x, y) && setA.Dots.Count == i + 1) i++;
             }
 
             for (int i = 0; i < m; )
             {
-                if (setB.AddDot(random.Next(0, 10), random.NextDouble())
-                    && setB.Dots.Count == i + 1) i++;
+                double x = random.Next(0, 10);
+                x = double.Parse(String.Format("{0:0.00}", x));
+                double y = random.NextDouble();
+                y = double.Parse(String.Format("{0:0.00}", y));
+                if (setB.AddDot(x, y) && setB.Dots.Count == i + 1) i++;
             }
             refresh();
         }
