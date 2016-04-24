@@ -124,18 +124,18 @@ namespace Modules.ModuleFuzzyLogic
 
             Random random = new Random();
 
-            for (int i = 0; i < n; i++)
+            for (int i = 0; i < n;)
             {
                 double x = random.Next(0, 10);
                 double y = random.NextDouble();
-                setA.AddDot(x, y);
+                if (setA.AddDot(x, y) && setA.Dots.Count == i + 1) i++;
             }
 
-            for (int i = 0; i < m; i++)
+            for (int i = 0; i < m; )
             {
-                setB.AddDot(random.Next(0, 10), random.NextDouble());
+                if (setB.AddDot(random.Next(0, 10), random.NextDouble())
+                    && setB.Dots.Count == i + 1) i++;
             }
-            MessageBox.Show(n.ToString() + " " + m.ToString());
             refresh();
         }
 

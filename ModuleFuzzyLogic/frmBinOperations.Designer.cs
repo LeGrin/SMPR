@@ -114,7 +114,7 @@
             // txtElem
             // 
             this.txtElem.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.txtElem.Location = new System.Drawing.Point(796, 189);
+            this.txtElem.Location = new System.Drawing.Point(795, 189);
             this.txtElem.Name = "txtElem";
             this.txtElem.Size = new System.Drawing.Size(100, 20);
             this.txtElem.TabIndex = 9;
