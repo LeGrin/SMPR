@@ -60,6 +60,7 @@
     <Compile Include="frmModule.Designer.cs">
       <DependentUpon>frmModule.cs</DependentUpon>
     </Compile>
+
     <Compile Include="frmOperOnRelation.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -68,6 +69,14 @@
     </Compile>
     <Compile Include="FuzzySet\FuzzySet.cs" />
     <Compile Include="FuzzySet\FuzzySet1D.cs" />
+
+    <Compile Include="fuzzyPreferenceRelations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fuzzyPreferenceRelations.Designer.cs">
+      <DependentUpon>fuzzyPreferenceRelations.cs</DependentUpon>
+    </Compile>
+
     <Compile Include="Method.cs" />
     <Compile Include="Methods\BinRelationsProp.cs" />
     <Compile Include="Methods\OperOnRelaionMethods.cs" />
@@ -102,12 +111,17 @@
     <EmbeddedResource Include="frmModule.resx">
       <DependentUpon>frmModule.cs</DependentUpon>
     </EmbeddedResource>
+
     <EmbeddedResource Include="frmOperOnRelation.resx">
       <DependentUpon>frmOperOnRelation.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fuzzyPreferenceRelations.resx">
+      <DependentUpon>fuzzyPreferenceRelations.cs</DependentUpon>
+
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
