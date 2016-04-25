@@ -48,13 +48,18 @@
     <Compile Include="frmModule.Designer.cs">
       <DependentUpon>frmModule.cs</DependentUpon>
     </Compile>
+    <Compile Include="FuzzySetsImage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FuzzySetsImage.Designer.cs">
+      <DependentUpon>FuzzySetsImage.cs</DependentUpon>
+    </Compile>
     <Compile Include="Method.cs" />
+    <Compile Include="Methods\FuzzySetsImageMethod.cs" />
     <Compile Include="Module.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Methods\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <ProjectReference Include="..\Common\Common.csproj">
       <Project>{1e272a87-5c29-47e9-8864-bc5d1919a0f0}</Project>
@@ -64,6 +69,9 @@
   <ItemGroup>
     <EmbeddedResource Include="frmModule.resx">
       <DependentUpon>frmModule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FuzzySetsImage.resx">
+      <DependentUpon>FuzzySetsImage.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
