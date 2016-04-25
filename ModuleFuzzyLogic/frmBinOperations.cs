@@ -139,23 +139,23 @@ namespace Modules.ModuleFuzzyLogic
             if (m < 0) m = 0;
             if (n > 1000) n = 1000;
             if (m > 1000) m = 1000;
-
+            
             Random random = new Random();
 
             for (int i = 0; i < n;)
             {
-                double x = random.Next(0, 10);
+                double x = random.NextDouble() * random.Next(0, 10);
                 x = double.Parse(String.Format("{0:0.00}", x));
-                double y = random.NextDouble();
+                double y = random.NextDouble() * random.NextDouble();
                 y = double.Parse(String.Format("{0:0.00}", y));
                 if (setA.AddDot(x, y) && setA.Dots.Count == i + 1) i++;
             }
 
             for (int i = 0; i < m;)
             {
-                double x = random.Next(0, 10);
+                double x = random.NextDouble() * random.Next(0, 10);
                 x = double.Parse(String.Format("{0:0.00}", x));
-                double y = random.NextDouble();
+                double y = random.NextDouble() * random.NextDouble();
                 y = double.Parse(String.Format("{0:0.00}", y));
                 if (setB.AddDot(x, y) && setB.Dots.Count == i + 1) i++;
             }
