@@ -387,7 +387,6 @@ namespace ModuleFuzzyLogic
 
         private void dataGridViewLaxPreferences_CellValidating(object sender, DataGridViewCellValidatingEventArgs e)
         {
-            if (e.ColumnIndex == 0) return;
             string userInput = e.FormattedValue.ToString();
             double userValue;
             bool isNumeric = double.TryParse(userInput, out userValue);

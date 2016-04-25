@@ -99,6 +99,7 @@
     <None Include="Resourses\MethodHelp_FuzzyPreferencesRelations.rtf" />
     <None Include="Resourses\MethodHelp_binOper.rtf" />
     <None Include="Resourses\MethodHelp_BinOperationsPropMethod.rtf" />
+    <None Include="Resourses\MethodHelp_FuzzySetsImageMethod.rtf" />
     <None Include="Resourses\MethodHelp_OperOnRelaionMethods.rtf" />
   </ItemGroup>
   <ItemGroup />

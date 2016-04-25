@@ -9,10 +9,8 @@ namespace Modules.ModuleFuzzyLogic.Methods
 {
     public class FuzzySetsImageMethod : Method
     {
-        public override string Name
-        {
-            get { return "zdsfsadufas"; }
-        }
+        public override string Name { get { return Properties.Resources.FuzzySetsImage; } }// Properties.Resources.OperationsOnRelationships; } }
+
         public double functionClearImage(double x, int func, double koef)
         {
             double result = 0;
