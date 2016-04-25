@@ -216,6 +216,10 @@
       <Project>{98E07F4C-27D5-4228-ACB3-5E34E9FDEB54}</Project>
       <Name>ModuleExpertProcessingMethods</Name>
     </ProjectReference>
+    <ProjectReference Include="..\ModuleFuzzyLogic\ModuleFuzzyLogic.csproj">
+      <Project>{b0432b3b-e30d-45d8-9646-ad059b7cf206}</Project>
+      <Name>ModuleFuzzyLogic</Name>
+    </ProjectReference>
     <ProjectReference Include="..\ModuleMulticriterionProblemMethods\ModuleMulticriterionProblemMethods.csproj">
       <Project>{2E37A79C-3610-4E2D-ACD2-B7423F3C3DE4}</Project>
       <Name>ModuleMulticriterionProblemMethods</Name>
