@@ -85,7 +85,6 @@
     <Compile Include="FuzzySetsImage.Designer.cs">
       <DependentUpon>FuzzySetsImage.cs</DependentUpon>
     </Compile>
-    <Compile Include="Method.cs" />
     <Compile Include="Methods\FuzzySetsImageMethod.cs" />
     <Compile Include="Module.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

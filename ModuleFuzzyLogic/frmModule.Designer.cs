@@ -31,13 +31,8 @@
             this.button1 = new System.Windows.Forms.Button();
             this.binRelationsPropButton = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
-<<<<<<< HEAD
             this.buttonOperOnRelation = new System.Windows.Forms.Button();
-            this.button6 = new System.Windows.Forms.Button();
-=======
-            this.button5 = new System.Windows.Forms.Button();
             this.buttonImageSets = new System.Windows.Forms.Button();
->>>>>>> fa2df6a2fa6e58e719c94d338cb9aeb1d9ca0d3d
             this.button7 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
@@ -54,7 +49,6 @@
             // 
             // binRelationsPropButton
             // 
-<<<<<<< HEAD
             this.binRelationsPropButton.Location = new System.Drawing.Point(137, 12);
             this.binRelationsPropButton.Name = "binRelationsPropButton";
             this.binRelationsPropButton.Size = new System.Drawing.Size(119, 51);
@@ -62,15 +56,6 @@
             this.binRelationsPropButton.Text = "Властивості бін. відн.";
             this.binRelationsPropButton.UseVisualStyleBackColor = true;
             this.binRelationsPropButton.Click += new System.EventHandler(this.binRelationsPropButton_Click);
-=======
-            this.button2.Location = new System.Drawing.Point(103, 10);
-            this.button2.Margin = new System.Windows.Forms.Padding(2);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(89, 41);
-            this.button2.TabIndex = 0;
-            this.button2.Text = "Rita";
-            this.button2.UseVisualStyleBackColor = true;
->>>>>>> fa2df6a2fa6e58e719c94d338cb9aeb1d9ca0d3d
             // 
             // button3
             // 
@@ -85,7 +70,6 @@
             // 
             // buttonOperOnRelation
             // 
-<<<<<<< HEAD
             this.buttonOperOnRelation.Location = new System.Drawing.Point(9, 68);
             this.buttonOperOnRelation.Margin = new System.Windows.Forms.Padding(2);
             this.buttonOperOnRelation.Name = "buttonOperOnRelation";
@@ -95,27 +79,9 @@
             this.buttonOperOnRelation.UseVisualStyleBackColor = true;
             this.buttonOperOnRelation.Click += new System.EventHandler(this.buttonOperOnRelation_Click);
 
-=======
-            this.button5.Location = new System.Drawing.Point(9, 68);
-            this.button5.Margin = new System.Windows.Forms.Padding(2);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(124, 41);
-            this.button5.TabIndex = 0;
-            this.button5.Text = "Kate";
-            this.button5.UseVisualStyleBackColor = true;
->>>>>>> fa2df6a2fa6e58e719c94d338cb9aeb1d9ca0d3d
             // 
             // buttonImageSets
             // 
-<<<<<<< HEAD
-            this.button6.Location = new System.Drawing.Point(152, 68);
-            this.button6.Margin = new System.Windows.Forms.Padding(2);
-            this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(134, 41);
-            this.button6.TabIndex = 0;
-            this.button6.Text = "Sofiia";
-            this.button6.UseVisualStyleBackColor = true;
-=======
             this.buttonImageSets.Location = new System.Drawing.Point(152, 68);
             this.buttonImageSets.Margin = new System.Windows.Forms.Padding(2);
             this.buttonImageSets.Name = "buttonImageSets";
@@ -124,7 +90,6 @@
             this.buttonImageSets.Text = "Відображення нечітких множин";
             this.buttonImageSets.UseVisualStyleBackColor = true;
             this.buttonImageSets.Click += new System.EventHandler(this.buttonImageSets_Click);
->>>>>>> fa2df6a2fa6e58e719c94d338cb9aeb1d9ca0d3d
             // 
             // button7
             // 
@@ -142,13 +107,8 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(302, 129);
             this.Controls.Add(this.button7);
-<<<<<<< HEAD
-            this.Controls.Add(this.button6);
             this.Controls.Add(this.buttonOperOnRelation);
-=======
             this.Controls.Add(this.buttonImageSets);
-            this.Controls.Add(this.button5);
->>>>>>> fa2df6a2fa6e58e719c94d338cb9aeb1d9ca0d3d
             this.Controls.Add(this.button3);
             this.Controls.Add(this.binRelationsPropButton);
             this.Controls.Add(this.button1);
@@ -165,13 +125,10 @@
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button binRelationsPropButton;
         private System.Windows.Forms.Button button3;
-<<<<<<< HEAD
         private System.Windows.Forms.Button buttonOperOnRelation;
         private System.Windows.Forms.Button button6;
-=======
         private System.Windows.Forms.Button button5;
         private System.Windows.Forms.Button buttonImageSets;
->>>>>>> fa2df6a2fa6e58e719c94d338cb9aeb1d9ca0d3d
         private System.Windows.Forms.Button button7;
     }
 }
