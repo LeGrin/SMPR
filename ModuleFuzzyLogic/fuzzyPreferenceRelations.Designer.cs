@@ -42,6 +42,7 @@
             this.tabPageQuasiEquivalence = new System.Windows.Forms.TabPage();
             this.dataGridViewQuasiEquivalence = new System.Windows.Forms.DataGridView();
             this.tabPageNonDominated = new System.Windows.Forms.TabPage();
+            this.label7 = new System.Windows.Forms.Label();
             this.textBoxDegreeOfNonDomination = new System.Windows.Forms.TextBox();
             this.textBoxBestAlternative = new System.Windows.Forms.TextBox();
             this.label6 = new System.Windows.Forms.Label();
@@ -52,7 +53,6 @@
             this.label3 = new System.Windows.Forms.Label();
             this.buttonSave = new System.Windows.Forms.Button();
             this.buttonLoad = new System.Windows.Forms.Button();
-            this.label7 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpAndDownElementsCount)).BeginInit();
             this.tabPageStrictPreferences.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewStrictPreferences)).BeginInit();
@@ -235,6 +235,15 @@
             this.tabPageNonDominated.Text = "Недомінуємі";
             this.tabPageNonDominated.UseVisualStyleBackColor = true;
             // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Location = new System.Drawing.Point(150, 12);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(143, 13);
+            this.label7.TabIndex = 8;
+            this.label7.Text = "Недомінуємі альтернативи";
+            // 
             // textBoxDegreeOfNonDomination
             // 
             this.textBoxDegreeOfNonDomination.Location = new System.Drawing.Point(153, 209);
@@ -300,6 +309,7 @@
             this.dataGridViewDegreeOfPermissibility.Size = new System.Drawing.Size(432, 50);
             this.dataGridViewDegreeOfPermissibility.TabIndex = 1;
             this.dataGridViewDegreeOfPermissibility.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridViewDegreeOfPermissibility_CellContentClick);
+            this.dataGridViewDegreeOfPermissibility.CellValidating += new System.Windows.Forms.DataGridViewCellValidatingEventHandler(this.dataGridViewDegreeOfPermissibility_CellValidating);
             this.dataGridViewDegreeOfPermissibility.CellValueChanged += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridViewDegreeOfPermissibility_CellValueChanged);
             // 
             // label3
@@ -330,15 +340,6 @@
             this.buttonLoad.Text = "Загрузути з буферу";
             this.buttonLoad.UseVisualStyleBackColor = true;
             this.buttonLoad.Click += new System.EventHandler(this.buttonLoad_Click);
-            // 
-            // label7
-            // 
-            this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(150, 12);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(143, 13);
-            this.label7.TabIndex = 8;
-            this.label7.Text = "Недомінуємі альтернативи";
             // 
             // fuzzyPreferenceRelations
             // 

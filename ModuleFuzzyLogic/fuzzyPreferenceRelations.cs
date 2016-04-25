@@ -343,14 +343,7 @@ namespace ModuleFuzzyLogic
             if (blockValidating) return;
             string w = dataGridViewLaxPreferences[e.ColumnIndex, e.RowIndex].Value.ToString();
             double q;
-            if (!Double.TryParse(w, out q))
-            {
-                throw new Exception("BAD ARGIMENT");
-            }
-            if (q<0 || q>1)
-            {
-                throw new Exception("BAD ARGIMENT");
-            }
+            
             string str = dataGridViewLaxPreferences[e.ColumnIndex, e.RowIndex].Value.ToString();
             if (str.Length > 5)
             {
@@ -383,14 +376,7 @@ namespace ModuleFuzzyLogic
             if (blockValidating) return;
             string w = dataGridViewDegreeOfPermissibility[e.ColumnIndex, e.RowIndex].Value.ToString();
             double q;
-            if (!Double.TryParse(w, out q))
-            {
-                throw new Exception("BAD ARGIMENT");
-            }
-            if (q < 0 || q > 1)
-            {
-                throw new Exception("BAD ARGIMENT");
-            }
+            
             string str = dataGridViewDegreeOfPermissibility[e.ColumnIndex, e.RowIndex].Value.ToString();
             if (str.Length > 5)
             {
@@ -468,6 +454,18 @@ namespace ModuleFuzzyLogic
                 return false;
         }
 
-
+        private void dataGridViewDegreeOfPermissibility_CellValidating(object sender, DataGridViewCellValidatingEventArgs e)
+        {
+            if (e.ColumnIndex == 0) return;
+            string userInput = e.FormattedValue.ToString();
+            double userValue;
+            bool isNumeric = double.TryParse(userInput, out userValue);
+            if ((!isNumeric || userValue < 0 || userValue > 1) && userInput != "")
+            {
+                // may be alert of error
+                e.Cancel = true;
+                MessageBox.Show("Неправильний ввід! Необхідно ввести число від 0 до 1!");
+            }
+        }
     }
 }
