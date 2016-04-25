@@ -75,6 +75,7 @@
       <DependentUpon>fuzzyPreferenceRelations.cs</DependentUpon>
     </Compile>
     <Compile Include="Method.cs" />
+    <Compile Include="Methods\binOper.cs" />
     <Compile Include="Methods\BinOperationsPropMethod.cs" />
     <Compile Include="Methods\BinRelationsProp.cs" />
     <Compile Include="Methods\FuzzyPreferenceRelations.cs" />
@@ -89,6 +90,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resourses\MethodHelp_FuzzyPreferencesRelations.rtf" />
+    <None Include="Resourses\MethodHelp_binOper.rtf" />
     <None Include="Resourses\MethodHelp_BinOperationsPropMethod.rtf" />
     <None Include="Resourses\MethodHelp_OperOnRelaionMethods.rtf" />
   </ItemGroup>
