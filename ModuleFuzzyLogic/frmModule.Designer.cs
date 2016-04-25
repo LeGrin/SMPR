@@ -32,7 +32,7 @@
             this.binRelationsPropButton = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
             this.buttonOperOnRelation = new System.Windows.Forms.Button();
-            this.button6 = new System.Windows.Forms.Button();
+            this.buttonImageSets = new System.Windows.Forms.Button();
             this.button7 = new System.Windows.Forms.Button();
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
             this.tableLayoutPanel1.SuspendLayout();
@@ -85,16 +85,17 @@
             this.buttonOperOnRelation.UseVisualStyleBackColor = true;
             this.buttonOperOnRelation.Click += new System.EventHandler(this.buttonOperOnRelation_Click);
             // 
-            // button6
+            // buttonImageSets
             // 
-            this.button6.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button6.Location = new System.Drawing.Point(2, 82);
-            this.button6.Margin = new System.Windows.Forms.Padding(2);
-            this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(459, 36);
-            this.button6.TabIndex = 0;
-            this.button6.Text = "Sofiia";
-            this.button6.UseVisualStyleBackColor = true;
+            this.buttonImageSets.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.buttonImageSets.Location = new System.Drawing.Point(2, 82);
+            this.buttonImageSets.Margin = new System.Windows.Forms.Padding(2);
+            this.buttonImageSets.Name = "buttonImageSets";
+            this.buttonImageSets.Size = new System.Drawing.Size(459, 36);
+            this.buttonImageSets.TabIndex = 0;
+            this.buttonImageSets.Text = "Відображення нечітких множин";
+            this.buttonImageSets.UseVisualStyleBackColor = true;
+            this.buttonImageSets.Click += new System.EventHandler(this.buttonImageSets_Click);
             // 
             // button7
             // 
@@ -110,7 +111,7 @@
             // 
             this.tableLayoutPanel1.ColumnCount = 1;
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.tableLayoutPanel1.Controls.Add(this.button6, 0, 2);
+            this.tableLayoutPanel1.Controls.Add(this.buttonImageSets, 0, 2);
             this.tableLayoutPanel1.Controls.Add(this.button3, 0, 0);
             this.tableLayoutPanel1.Controls.Add(this.binRelationsPropButton, 0, 3);
             this.tableLayoutPanel1.Controls.Add(this.buttonOperOnRelation, 0, 1);
@@ -149,6 +150,8 @@
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Button buttonOperOnRelation;
         private System.Windows.Forms.Button button6;
+        private System.Windows.Forms.Button button5;
+        private System.Windows.Forms.Button buttonImageSets;
         private System.Windows.Forms.Button button7;
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel1;
     }
