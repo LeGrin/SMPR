@@ -40,5 +40,17 @@ namespace Modules.ModuleFuzzyLogic
             fuzzyPreferenceRelations form = new fuzzyPreferenceRelations();
             form.Show();
         }
+
+        private void buttonImageSets_Click(object sender, EventArgs e)
+        {
+            FuzzySetsImage form = new FuzzySetsImage();
+            form.Show();
+
+        }
+
+        private void frmModule_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
