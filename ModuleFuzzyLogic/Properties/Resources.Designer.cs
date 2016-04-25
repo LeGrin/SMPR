@@ -61,6 +61,25 @@ namespace Modules.ModuleFuzzyLogic.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Нечіткі відношення переваги.
+        /// </summary>
+        internal static string FuzzyPreferenceRelationss {
+            get {
+                return ResourceManager.GetString("FuzzyPreferenceRelationss", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to {\rtf1\ansi\deff3\adeflang1025
+        ///{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\froman\fprq2\fcharset2 Symbol;}{\f2\fswiss\fprq2\fcharset0 Arial;}{\f3\froman\fprq2\fcharset204 Liberation Serif{\*\falt Times New Roman};}{\f4\fswiss\fprq2\fcharset204 Liberation Sans{\*\falt Arial};}{\f5\fnil\fprq0\fcharset204 sans-serif{\*\falt Arial};}{\f6\fnil\fprq0\fcharset204 Linux Libertine{\*\falt Georgia};}{\f7\fnil\fprq0\fcharset204 Verdana{\*\falt Arial};}{\f8\froman\fprq2\fcharset128 Times New Roman;}{\f9 [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string MethodHelp_FuzzyPreferenceRelations {
+            get {
+                return ResourceManager.GetString("MethodHelp_FuzzyPreferenceRelations", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to {\rtf1\adeflang1025\ansi\ansicpg1251\uc1\adeff0\deff0\stshfdbch0\stshfloch31506\stshfhich31506\stshfbi31506\deflang1058\deflangfe1058\themelang1058\themelangfe0\themelangcs0{\fonttbl{\f0\fbidi \froman\fcharset204\fprq2{\*\panose 02020603050405020304}Times New Roman;}
         ///{\f34\fbidi \froman\fcharset204\fprq2{\*\panose 02040503050406030204}Cambria Math;}{\f38\fbidi \fswiss\fcharset204\fprq2{\*\panose 020b0604030504040204}Tahoma;}
         ///{\flomajor\f31500\fbidi \froman\fcharset204\fprq2{\*\panose 02020603050405020304} [rest of string was truncated]&quot;;.
