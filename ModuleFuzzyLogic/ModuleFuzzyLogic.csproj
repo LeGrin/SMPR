@@ -78,6 +78,7 @@
     </Compile>
 
     <Compile Include="Method.cs" />
+    <Compile Include="Methods\BinOperationsPropMethod.cs" />
     <Compile Include="Methods\BinRelationsProp.cs" />
     <Compile Include="Methods\OperOnRelaionMethods.cs" />
     <Compile Include="Module.cs" />
@@ -89,6 +90,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <None Include="Resourses\MethodHelp_BinOperationsPropMethod.rtf" />
     <None Include="Resourses\MethodHelp_OperOnRelaionMethods.rtf" />
   </ItemGroup>
   <ItemGroup>
