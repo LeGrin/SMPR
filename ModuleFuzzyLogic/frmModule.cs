@@ -41,22 +41,15 @@ namespace Modules.ModuleFuzzyLogic
             form.Show();
         }
 
-        private void buttonImageSets_Click(object sender, EventArgs e)
-        {
+        private void buttonImageSets_Click(object sender, EventArgs e) {
             FuzzySetsImage form = new FuzzySetsImage();
             form.Show();
-
         }
 
-        private void frmModule_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void buttonMamdaniAlgo_Click(object sender, EventArgs e)
-        {
+        private void buttonMamdaniAlgo_Click(object sender, EventArgs e) {
             frmMamdaniAlgorithm form = new frmMamdaniAlgorithm();
             form.Show();
+        }
         private void buttonLarsenAlgo_Click(object sender, EventArgs e) {
             LarsenAlgorithmForm larsen = new LarsenAlgorithmForm();
             larsen.Show();

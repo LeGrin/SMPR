@@ -474,7 +474,6 @@ namespace FuzzySets
                 this.dots.Add(pair.Key, pair.Value);
             this.discrete = set.discrete;
         }
-<<<<<<< HEAD
         public double getMu(double x)
         {
             SortedList<double, double> v = new SortedList<double, double>(dots);
@@ -530,6 +529,16 @@ namespace FuzzySets
                         isOpen = true;
                     }
                 }
+            }
+            return res;
+        }
+
+        // помножити функцію належності на множник, множник в [0,1]
+        public FuzzySet1D multiplyMuOn(double multiplier) {
+            if (multiplier > 1 || multiplier < 0) return null;
+            FuzzySet1D res = new FuzzySet1D();
+            foreach (var dot in dots) {
+                res.AddDot(dot.Key, dot.Value * multiplier);
             }
             return res;
         }

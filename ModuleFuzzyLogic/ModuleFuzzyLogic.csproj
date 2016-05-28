@@ -48,6 +48,7 @@
     <Compile Include="BinRelationsPropForm.Designer.cs">
       <DependentUpon>BinRelationsPropForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="CellValueValidator.cs" />
     <Compile Include="frmBinOperations.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -79,6 +80,12 @@
     </Compile>
     <Compile Include="fuzzyPreferenceRelations.Designer.cs">
       <DependentUpon>fuzzyPreferenceRelations.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InputBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InputBox.Designer.cs">
+      <DependentUpon>InputBox.cs</DependentUpon>
     </Compile>
     <Compile Include="LarsenAlgorithmForm.cs">
       <SubType>Form</SubType>
@@ -142,6 +149,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmOperOnRelation.resx">
       <DependentUpon>frmOperOnRelation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InputBox.resx">
+      <DependentUpon>InputBox.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="LarsenAlgorithmForm.resx">
       <DependentUpon>LarsenAlgorithmForm.cs</DependentUpon>
