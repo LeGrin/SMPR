@@ -183,6 +183,7 @@
             this.buttonLarsenAlgo.TabIndex = 4;
             this.buttonLarsenAlgo.Text = "Алгоритм Ларсена";
             this.buttonLarsenAlgo.UseVisualStyleBackColor = true;
+            this.buttonLarsenAlgo.Click += new System.EventHandler(this.buttonLarsenAlgo_Click);
             // 
             // buttonSimplifiedAlgo
             // 

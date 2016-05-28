@@ -474,6 +474,7 @@ namespace FuzzySets
                 this.dots.Add(pair.Key, pair.Value);
             this.discrete = set.discrete;
         }
+<<<<<<< HEAD
         public double getMu(double x)
         {
             SortedList<double, double> v = new SortedList<double, double>(dots);

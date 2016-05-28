@@ -80,12 +80,19 @@
     <Compile Include="fuzzyPreferenceRelations.Designer.cs">
       <DependentUpon>fuzzyPreferenceRelations.cs</DependentUpon>
     </Compile>
+    <Compile Include="LarsenAlgorithmForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LarsenAlgorithmForm.Designer.cs">
+      <DependentUpon>LarsenAlgorithmForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Method.cs" />
     <Compile Include="Methods\binOper.cs" />
     <Compile Include="Methods\BinOperationsPropMethod.cs" />
     <Compile Include="Methods\BinRelationsProp.cs" />
     <Compile Include="Methods\FuzzyPreferenceRelations.cs" />
     <Compile Include="Methods\MamdaniAlgorithm.cs" />
+    <Compile Include="Methods\LarsenAlgo.cs" />
     <Compile Include="Methods\OperOnRelaionMethods.cs" />
     <Compile Include="FuzzySetsImage.cs">
       <SubType>Form</SubType>
@@ -135,6 +142,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmOperOnRelation.resx">
       <DependentUpon>frmOperOnRelation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LarsenAlgorithmForm.resx">
+      <DependentUpon>LarsenAlgorithmForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

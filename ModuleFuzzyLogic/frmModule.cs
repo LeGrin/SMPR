@@ -57,6 +57,9 @@ namespace Modules.ModuleFuzzyLogic
         {
             frmMamdaniAlgorithm form = new frmMamdaniAlgorithm();
             form.Show();
+        private void buttonLarsenAlgo_Click(object sender, EventArgs e) {
+            LarsenAlgorithmForm larsen = new LarsenAlgorithmForm();
+            larsen.Show();
         }
     }
 }
