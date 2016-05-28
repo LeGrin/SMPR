@@ -474,5 +474,70 @@ namespace FuzzySets
                 this.dots.Add(pair.Key, pair.Value);
             this.discrete = set.discrete;
         }
+        public double getMu(double x)
+        {
+            SortedList<double, double> v = new SortedList<double, double>(dots);
+            int len = v.Count;
+
+            for (int i = 0; i + 1 < len; i++)
+            {
+                if (x >= v.Keys[i] && x <= v.Keys[i + 1])
+                {
+                    double x1 = v.Keys[i], x2 = v.Keys[i + 1];
+                    double y1 = v.Values[i], y2 = v.Values[i + 1];
+                    return (x2 * y1 - x1 * y2 + (y2 - y1) * x) / (x2 - x1);
+                }
+            }
+            return 0.0;
+        }
+        public FuzzySet1D sliceSet(double alpha)
+        {
+            FuzzySet1D res = new FuzzySet1D();
+            SortedList<double, double> v = new SortedList<double, double>(dots);
+            int len = v.Count;
+            bool isOpen = false;
+
+            for (int i = 0; i < len; i++)
+            {
+                if (isOpen)
+                {
+                    if (v.Values[i] < alpha)
+                    {
+                        double x1 = v.Keys[i], x2 = v.Keys[i + 1];
+                        double y1 = v.Values[i], y2 = v.Keys[i + 1];
+                        double x = alpha * ((x2 - x1) / (y2 - y1)) - (x2 * y1 - x1 * y2) / (y2 - y1);
+                        res.AddDot(x, alpha);
+                        res.AddDot(v.Keys[i], v.Values[i]);
+                        isOpen = false;
+                    }
+                }
+                else
+                {
+                    if (v.Values[i] <= alpha)
+                    {
+                        res.AddDot(v.Keys[i], v.Values[i]);
+                    }
+                    else
+                    {
+                        if (i > 0)
+                        {
+                            double x1 = v.Keys[i - 1], x2 = v.Keys[i];
+                            double y1 = v.Values[i - 1], y2 = v.Keys[i];
+                            double x = alpha * ((x2 - x1) / (y2 - y1)) - (x2 * y1 - x1 * y2) / (y2 - y1);
+                            res.AddDot(x, alpha);
+                        }
+                        isOpen = true;
+                    }
+                }
+            }
+            return res;
+        }
+
+        public FuzzySet1D unite(FuzzySet1D that)
+        {
+            FuzzySet1D res = new FuzzySet1D();
+
+            return res;
+        }
     }
 }

@@ -152,6 +152,7 @@
             this.buttonMamdaniAlgo.TabIndex = 1;
             this.buttonMamdaniAlgo.Text = "Алгоритм Мамдані";
             this.buttonMamdaniAlgo.UseVisualStyleBackColor = true;
+            this.buttonMamdaniAlgo.Click += new System.EventHandler(this.buttonMamdaniAlgo_Click);
             // 
             // buttonTsukamotoAlgo
             // 

@@ -52,5 +52,11 @@ namespace Modules.ModuleFuzzyLogic
         {
 
         }
+
+        private void buttonMamdaniAlgo_Click(object sender, EventArgs e)
+        {
+            frmMamdaniAlgorithm form = new frmMamdaniAlgorithm();
+            form.Show();
+        }
     }
 }

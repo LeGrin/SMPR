@@ -117,41 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="FuzzyPreferenceRelationss" xml:space="preserve">
-    <value>Нечіткі відношення переваги</value>
-  </data>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="MethodHelp_FuzzyPreferenceRelations" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resourses\methodhelp_fuzzypreferencesrelations.rtf;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
-  </data>
-  <data name="binOper" xml:space="preserve">
-    <value>Бінарні операції над нечіткими множинами</value>
-  </data>
-  <data name="BinOperationsPropMethod" xml:space="preserve">
-    <value>Властивості бінарних нечітких відношень</value>
-  </data>
-  <data name="MethodHelp_binOper" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resourses\methodhelp_binoper.rtf;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
-  </data>
-  <data name="MethodHelp_BinOperationsPropMethod" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resourses\methodhelp_binoperationspropmethod.rtf;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
-  </data>
-  <data name="MethodHelp_OperOnRelaionMethods" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resourses\methodhelp_operonrelaionmethods.rtf;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
-  </data>
-  <data name="MethodOperationsOnRelationships" xml:space="preserve">
-    <value>Операції над нечіткими відношеннями</value>
-  </data>
-  <data name="OperationOnRelation" xml:space="preserve">
-    <value>Операції над нечіткими відношеннями</value>
-  </data>
-  <data name="FuzzySetsImage" xml:space="preserve">
-    <value>Відображення нечітких множин</value>
-  </data>
-  <data name="MethodHelp_FuzzySetsImageMethod" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resourses\methodhelp_fuzzysetsimagemethod.rtf;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
-  </data>
-  <data name="MamdaniAlogrithm" xml:space="preserve">
-    <value>Алгоритм Мамдані</value>
-  </data>
 </root>

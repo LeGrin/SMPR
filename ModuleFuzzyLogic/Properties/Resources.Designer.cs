@@ -97,6 +97,15 @@ namespace Modules.ModuleFuzzyLogic.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Алгоритм Мамдані.
+        /// </summary>
+        internal static string MamdaniAlogrithm {
+            get {
+                return ResourceManager.GetString("MamdaniAlogrithm", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to {\rtf1\adeflang1025\ansi\ansicpg1251\uc1\adeff31507\deff0\stshfdbch31506\stshfloch31506\stshfhich31506\stshfbi31507\deflang1049\deflangfe1049\themelang1049\themelangfe0\themelangcs0{\fonttbl{\f0\fbidi \froman\fcharset204\fprq2{\*\panose 02020603050405020304}Times New Roman;}
         ///{\f34\fbidi \froman\fcharset204\fprq2{\*\panose 02040503050406030204}Cambria Math;}{\f37\fbidi \fswiss\fcharset204\fprq2{\*\panose 020f0502020204030204}Calibri;}{\f41\fbidi \froman\fcharset204\fprq2{\*\panose 02040503050406030204}Cambr [rest of string was truncated]&quot;;.
         /// </summary>
