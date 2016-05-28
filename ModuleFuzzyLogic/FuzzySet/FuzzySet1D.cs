@@ -474,5 +474,43 @@ namespace FuzzySets
                 this.dots.Add(pair.Key, pair.Value);
             this.discrete = set.discrete;
         }
+
+        /// <summary>
+        /// For each element in set make it's probability no more than prob
+        /// </summary>
+        /// <param name="set"> set to slice</param>
+        /// <param name="prob"> max probability value </param>
+        /// <returns>new sliced set</returns>
+        public static FuzzySet1D sliceSet(FuzzySet1D set, double prob) {
+            FuzzySet1D res = new FuzzySet1D();
+            foreach (KeyValuePair<double, double> dot in set.dots) {
+                res.AddDot(dot.Key, Math.Min(prob, dot.Value));
+            }
+            return res;
+        }
+        /// <summary>
+        /// Multiply each probability on prob
+        /// </summary>
+        /// <param name="set">set to modify</param>
+        /// <param name="prob">value to multiply</param>
+        /// <returns>new set with multiplied probabilities</returns>
+        public static FuzzySet1D multiplyProbOn(FuzzySet1D set, double prob) {
+            FuzzySet1D res = new FuzzySet1D();
+            foreach (KeyValuePair<double, double> dot in set.dots) {
+                res.AddDot(dot.Key, dot.Value*prob);
+            }
+            return res;
+        }
+        /// <summary>
+        /// Get maximum probability in this set
+        /// </summary>
+        /// <returns> max probability</returns>
+        public double getHeight() {
+            double maxProb = 0;
+            foreach (KeyValuePair<double, double> dot in dots) {
+                maxProb = Math.Max(maxProb, dot.Value);
+            }
+            return maxProb;
+        }
     }
 }

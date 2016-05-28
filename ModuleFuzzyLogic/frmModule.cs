@@ -52,5 +52,10 @@ namespace Modules.ModuleFuzzyLogic
         {
 
         }
+
+        private void buttonLarsenAlgo_Click(object sender, EventArgs e) {
+            LarsenAlgorithmForm larsen = new LarsenAlgorithmForm();
+            larsen.Show();
+        }
     }
 }
