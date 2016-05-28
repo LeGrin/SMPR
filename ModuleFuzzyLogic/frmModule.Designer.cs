@@ -163,6 +163,7 @@
             this.buttonTsukamotoAlgo.TabIndex = 2;
             this.buttonTsukamotoAlgo.Text = "Алгоритм Цукамото";
             this.buttonTsukamotoAlgo.UseVisualStyleBackColor = true;
+            this.buttonTsukamotoAlgo.Click += new System.EventHandler(this.buttonTsukamotoAlgo_Click);
             // 
             // buttonSugenoAlgo
             // 

@@ -122,12 +122,21 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+
     <Compile Include="SimplifiedAlgoForm.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="SimplifiedAlgoForm.Designer.cs">
       <DependentUpon>SimplifiedAlgoForm.cs</DependentUpon>
     </Compile>
+
+    <Compile Include="TsukamotoAlgoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TsukamotoAlgoForm.Designer.cs">
+      <DependentUpon>TsukamotoAlgoForm.cs</DependentUpon>
+    </Compile>
+
   </ItemGroup>
   <ItemGroup>
     <None Include="Resourses\MethodHelp_FuzzyPreferencesRelations.rtf" />
@@ -186,6 +195,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="SimplifiedAlgoForm.resx">
       <DependentUpon>SimplifiedAlgoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TsukamotoAlgoForm.resx">
+      <DependentUpon>TsukamotoAlgoForm.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

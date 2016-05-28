@@ -57,6 +57,11 @@ namespace Modules.ModuleFuzzyLogic
 
         private void buttonSimplifiedAlgo_Click(object sender, EventArgs e) {
             SimplifiedAlgoForm form = new SimplifiedAlgoForm();
+	    form.Show();
+	}
+        private void buttonTsukamotoAlgo_Click(object sender, EventArgs e)
+        {
+            TsukamotoAlgoForm form = new TsukamotoAlgoForm();
             form.Show();
         }
     }
