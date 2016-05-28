@@ -15,6 +15,7 @@ namespace Modules.ModuleFuzzyLogic
         public InputBox(string label, bool nullable = true) {
             InitializeComponent();
 
+            this.StartPosition = FormStartPosition.CenterScreen;
             DialogResult = System.Windows.Forms.DialogResult.Cancel;
             label1.Text = label;
             if (!nullable)
