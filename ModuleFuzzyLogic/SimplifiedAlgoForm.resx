@@ -117,34 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="CoreDevelopers" xml:space="preserve">
-    <value>Разработчики ядра</value>
-  </data>
-  <data name="Modules" xml:space="preserve">
-    <value>Модули</value>
-  </data>
-  <data name="ModuleTheory" xml:space="preserve">
-    <value>Теория модуля</value>
-  </data>
-  <data name="Usage" xml:space="preserve">
-    <value>Как пользоваться</value>
-  </data>
-  <data name="OpenModule" xml:space="preserve">
-    <value>Открыть модуль</value>
-  </data>
-  <data name="ActivationFail" xml:space="preserve">
-    <value>Неверный ключ. Введите его еще раз или свяжитесь с авторами программы.</value>
-  </data>
-  <data name="ActivationReset" xml:space="preserve">
-    <value>Информация о лицензии удалена. Вам нужно будет ввести её еще раз при перезапуске.</value>
-  </data>
-  <data name="ActivationSuccess" xml:space="preserve">
-    <value>Спасибо за активацию!</value>
-  </data>
-  <data name="Error" xml:space="preserve">
-    <value>Ошибка</value>
-  </data>
-  <data name="Message" xml:space="preserve">
-    <value>Сообщение</value>
-  </data>
 </root>
