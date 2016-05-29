@@ -54,5 +54,10 @@ namespace Modules.ModuleFuzzyLogic
             LarsenAlgorithmForm larsen = new LarsenAlgorithmForm();
             larsen.Show();
         }
+
+        private void buttonSimplifiedAlgo_Click(object sender, EventArgs e) {
+            SimplifiedAlgoForm form = new SimplifiedAlgoForm();
+            form.Show();
+        }
     }
 }

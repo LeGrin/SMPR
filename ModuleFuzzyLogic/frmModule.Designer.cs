@@ -194,6 +194,7 @@
             this.buttonSimplifiedAlgo.TabIndex = 5;
             this.buttonSimplifiedAlgo.Text = "Спрощений алгоритм";
             this.buttonSimplifiedAlgo.UseVisualStyleBackColor = true;
+            this.buttonSimplifiedAlgo.Click += new System.EventHandler(this.buttonSimplifiedAlgo_Click);
             // 
             // frmModule
             // 
