@@ -504,12 +504,16 @@ namespace FuzzySets
                 {
                     if (v.Values[i] < alpha)
                     {
-                        double x1 = v.Keys[i], x2 = v.Keys[i + 1];
-                        double y1 = v.Values[i], y2 = v.Keys[i + 1];
+                        double x1 = v.Keys[i - 1], x2 = v.Keys[i];
+                        double y1 = v.Values[i - 1], y2 = v.Values[i];
                         double x = alpha * ((x2 - x1) / (y2 - y1)) - (x2 * y1 - x1 * y2) / (y2 - y1);
                         res.AddDot(x, alpha);
                         res.AddDot(v.Keys[i], v.Values[i]);
                         isOpen = false;
+                    } else
+                    if (i + 1 == len)
+                    {
+                        res.AddDot(v.Keys[i], alpha);
                     }
                 }
                 else
@@ -523,9 +527,17 @@ namespace FuzzySets
                         if (i > 0)
                         {
                             double x1 = v.Keys[i - 1], x2 = v.Keys[i];
-                            double y1 = v.Values[i - 1], y2 = v.Keys[i];
+                            double y1 = v.Values[i - 1], y2 = v.Values[i];
                             double x = alpha * ((x2 - x1) / (y2 - y1)) - (x2 * y1 - x1 * y2) / (y2 - y1);
                             res.AddDot(x, alpha);
+                            if (i + 1 == len)
+                            {
+                                res.AddDot(v.Keys[i], alpha);
+                            }
+                        }
+                        else
+                        {
+                            res.AddDot(v.Keys[i], alpha);
                         }
                         isOpen = true;
                     }
@@ -626,6 +638,38 @@ namespace FuzzySets
 
                 }
 
+            }
+            return res;
+        }
+
+        public double integral(bool flag)
+        {
+            double res = 0.0;
+            SortedList<double, double> z = new SortedList<double, double>(this.Dots);
+            int N = z.Count;
+            for (int i = 0; i + 1 < N; i++)
+            {
+                double a = z.Keys[i], b = z.Keys[i + 1];
+                double middle = (a + b) / 2.0;
+                double len = b - a;
+                if (flag)
+                {
+                    //Simpson's rule
+                    //I = (b - a) * (f(a) + b(b) + 4 * f((a + b) / 2)) / 6
+
+                    double cur = this.getMu(a) + this.getMu(b) +
+                                 4.0 * middle * this.getMu(middle);
+
+                    res += cur * len / 6.0;
+                }
+                else
+                {
+                    //Rectangle method
+                    //I = (b - a) * f((a + b) / 2)
+
+                    double cur = len * middle;
+                    res += cur;
+                }
             }
             return res;
         }
