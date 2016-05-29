@@ -92,5 +92,49 @@ namespace Modules.ModuleFuzzyLogic
                 }
             }
          }
+
+        /// <summary>
+        /// Компаратор для DataGridView
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        public static void SortCompare(object sender,
+            DataGridViewSortCompareEventArgs e)
+        {
+            Predicate<string> isEmpty = (string str) => str.Equals(string.Empty);
+            e.Handled = true;
+            if (e.CellValue1 == null && e.CellValue2 == null) { e.SortResult = 0; return; }
+            if (e.CellValue1 == null) { e.SortResult =  1; return; }
+            if (e.CellValue2 == null) { e.SortResult = -1; return; }
+
+            string strVal1 = e.CellValue1.ToString();
+            string strVal2 = e.CellValue2.ToString();
+            if (isEmpty(strVal1) && isEmpty(strVal2)) { e.SortResult = 0; return; }
+            if (isEmpty(strVal1)) { e.SortResult =  1; return; }
+            if (isEmpty(strVal2)) { e.SortResult = -1; return; }
+
+            char[] separ = { '/' };
+            double v1 = Double.Parse(e.CellValue1.ToString().Split(separ)[0]);
+            double v2 = Double.Parse(e.CellValue2.ToString().Split(separ)[0]);
+            e.SortResult = v1.CompareTo(v2);
+        }
+
+        public static void FromFuzzySetToDataGridView(DataGridView dataGrid, int colNum, FuzzySets.FuzzySet1D set)
+        {
+            // clear columns values
+            foreach (DataGridViewRow row in dataGrid.Rows) {
+                row.Cells[colNum].Value = null;
+            }
+            // add rows if needed
+            if (dataGrid.Rows.Count < set.Dots.Count) {
+                dataGrid.Rows.Add(set.Dots.Count - dataGrid.Rows.Count);
+            }
+
+            int rowCnt = 0;
+            foreach (var dot in set.Dots) {
+                string val = String.Format("{0}/{1}", dot.Key, dot.Value);
+                dataGrid.Rows[rowCnt++].Cells[colNum].Value = val;
+            }
+        }
     }
 }

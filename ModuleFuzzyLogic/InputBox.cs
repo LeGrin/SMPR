@@ -42,5 +42,12 @@ namespace Modules.ModuleFuzzyLogic
             DialogResult = System.Windows.Forms.DialogResult.OK;
             this.Visible = false;
         }
+
+        private void textBox1_KeyPress(object sender, KeyPressEventArgs e) {
+            if (e.KeyChar == (char)Keys.Return) {
+                e.Handled = true;
+                btnOk_Click(this, new EventArgs());
+            }
+        }
     }
 }

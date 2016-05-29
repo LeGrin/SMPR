@@ -16,6 +16,10 @@ namespace Modules.ModuleFuzzyLogic
         public SimplifiedAlgoForm()
         {
             InitializeComponent();
+
+            dataGridView1.AutoResizeColumns(DataGridViewAutoSizeColumnsMode.AllCells);
+            dataGridView1.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
+            dataGridView1.SortCompare += CellValueValidator.SortCompare;
         }
 
         private void onCellValidation(object sender, DataGridViewCellValidatingEventArgs e)
@@ -89,9 +93,9 @@ namespace Modules.ModuleFuzzyLogic
             CellValueValidator.CreateRandomSets(dataGridView1, 4);
         }
 
-        private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e)
-        {
-
+        private void button3_Click(object sender, EventArgs e) {
+            dataGridView1.Rows.Clear();
         }
+
     }
 }

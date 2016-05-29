@@ -87,6 +87,12 @@
     <Compile Include="InputBox.Designer.cs">
       <DependentUpon>InputBox.cs</DependentUpon>
     </Compile>
+    <Compile Include="InputComboBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InputComboBox.Designer.cs">
+      <DependentUpon>InputComboBox.cs</DependentUpon>
+    </Compile>
     <Compile Include="LarsenAlgorithmForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -159,6 +165,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="InputBox.resx">
       <DependentUpon>InputBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InputComboBox.resx">
+      <DependentUpon>InputComboBox.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="LarsenAlgorithmForm.resx">
       <DependentUpon>LarsenAlgorithmForm.cs</DependentUpon>
