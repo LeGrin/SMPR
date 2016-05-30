@@ -14,7 +14,7 @@ namespace Modules.ModuleFuzzyLogic.Methods
             get { return "Алгоритм Ларсена"; }
         }
 
-        public void Defuzzificate(FuzzySet1D A1, FuzzySet1D A2, FuzzySet1D B1, FuzzySet1D B2, 
+        public double Defuzzificate(FuzzySet1D A1, FuzzySet1D A2, FuzzySet1D B1, FuzzySet1D B2, 
             FuzzySet1D C1, FuzzySet1D C2, double x0, double y0)
         {
 
@@ -22,8 +22,10 @@ namespace Modules.ModuleFuzzyLogic.Methods
             FuzzySet1D multC1 = C1.multiplyMuOn(alfa1);
             double alfa2 = Math.Min(A2.getMu(x0), B2.getMu(y0));
             FuzzySet1D multC2 = C2.multiplyMuOn(alfa2);
-            //FuzzySet1D res = multC1 & multC2;
-            // now defuzzificate dis madafacka
+            FuzzySet1D res = multC1.unite(multC2);
+
+            double z0 = res.integral(true) / res.integral(false);
+            return z0;
         }
     }
 }

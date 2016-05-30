@@ -61,7 +61,8 @@ namespace Modules.ModuleFuzzyLogic
 
             Methods.LarsenAlgo algo = new Methods.LarsenAlgo();
             
-            //algo.Defuzzificate();
+            double z0 = algo.Defuzzificate(A1, A2, B1, B2, C1, C2, x0, y0);
+            MessageBox.Show(String.Format("Z0 = {0:0.####}", z0));
         }
 
 

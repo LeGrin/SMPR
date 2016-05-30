@@ -47,6 +47,9 @@ namespace Modules.ModuleFuzzyLogic
             if (e.KeyChar == (char)Keys.Return) {
                 e.Handled = true;
                 btnOk_Click(this, new EventArgs());
+            } else if (e.KeyChar == (char)Keys.Escape) {
+                e.Handled = true;
+                btnCancel_Click(this, new EventArgs());
             }
         }
     }
