@@ -667,7 +667,7 @@ namespace FuzzySets
                     //Rectangle method
                     //I = (b - a) * f((a + b) / 2)
 
-                    double cur = len * middle;
+                    double cur = len * this.getMu(middle);
                     res += cur;
                 }
             }

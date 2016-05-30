@@ -16,6 +16,9 @@ namespace Modules.ModuleFuzzyLogic
         public frmMamdaniAlgorithm()
         {
             InitializeComponent();
+            dataGridView1.AutoResizeColumns(DataGridViewAutoSizeColumnsMode.AllCells);
+            dataGridView1.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
+            dataGridView1.SortCompare += CellValueValidator.SortCompare;
         }
 
         private void onCellValidation(object sender, DataGridViewCellValidatingEventArgs e)
@@ -36,7 +39,7 @@ namespace Modules.ModuleFuzzyLogic
             dataGridView1.Rows[e.RowIndex].ErrorText = String.Empty;
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void onCompute(object sender, EventArgs e)
         {
             FuzzySet1D A1 = CellValueValidator.DecipherSet(dataGridView1, 0);
             FuzzySet1D A2 = CellValueValidator.DecipherSet(dataGridView1, 1);
@@ -46,7 +49,7 @@ namespace Modules.ModuleFuzzyLogic
             FuzzySet1D C2 = CellValueValidator.DecipherSet(dataGridView1, 5);
             if (A1 == null || B1 == null || C1 == null
                 || A2 == null || B2 == null || C2 == null) return;
-            
+
             DialogResult dialRes;
             double x0, y0;
             InputBox prompt = new InputBox("Введіть значення X0");
@@ -64,6 +67,7 @@ namespace Modules.ModuleFuzzyLogic
             } while (!Double.TryParse(prompt.Value, out y0));
 
             Methods.MamdaniAlgorithm algo = new Methods.MamdaniAlgorithm();
+
             List<Tuple<FuzzySet1D, FuzzySet1D>> conditions = new List<Tuple<FuzzySet1D, FuzzySet1D>>();
             List<FuzzySet1D> conclusions = new List<FuzzySet1D>();
 
@@ -76,17 +80,65 @@ namespace Modules.ModuleFuzzyLogic
             double ans = algo.calcAnswer(conditions, conclusions, x0, y0);
 
             MessageBox.Show("z0 = " + ans.ToString());
-           
         }
 
-        private void label1_Click(object sender, EventArgs e)
-        {
 
-        }
-
-        private void button2_Click(object sender, EventArgs e)
+        private void onGenRandom(object sender, EventArgs e)
         {
             CellValueValidator.CreateRandomSets(dataGridView1, 6);
+        }
+
+        private void onClearRows(object sender, EventArgs e)
+        {
+            dataGridView1.Rows.Clear();
+        }
+
+        private void onSaveToBuffer(object sender, EventArgs e)
+        {
+            List<KeyValuePair<string, int>> vals = new List<KeyValuePair<string, int>> {
+                new KeyValuePair<string, int>("A1", 0),
+                new KeyValuePair<string, int>("A2", 1),
+                new KeyValuePair<string, int>("B1", 2),
+                new KeyValuePair<string, int>("B2", 3),
+                new KeyValuePair<string, int>("C1", 4),
+                new KeyValuePair<string, int>("C2", 5)
+            };
+
+            InputComboBox prompt = new InputComboBox("Виберіть множину");
+            prompt.SetItems<int>(vals);
+            if (prompt.ShowDialog() != System.Windows.Forms.DialogResult.OK) return;
+
+            int colNum = prompt.GetValue<int>();
+
+            FuzzySet1D set = CellValueValidator.DecipherSet(dataGridView1, colNum);
+            if (set == null) return;
+
+            Common.DataTypes.Matrix<double> m = new Common.DataTypes.Matrix<double>(set.toMassiv());
+            Common.DataBuffer.Instance.SaveDialog(m);
+        }
+
+        private void onLoadFromBuffer(object sender, EventArgs e)
+        {
+            List<KeyValuePair<string, int>> vals = new List<KeyValuePair<string, int>> {
+                new KeyValuePair<string, int>("A1", 0),
+                new KeyValuePair<string, int>("A2", 1),
+                new KeyValuePair<string, int>("B1", 2),
+                new KeyValuePair<string, int>("B2", 3),
+                new KeyValuePair<string, int>("C1", 4),
+                new KeyValuePair<string, int>("C2", 5)
+            };
+
+            InputComboBox prompt = new InputComboBox("Виберіть множину");
+            prompt.SetItems<int>(vals);
+            if (prompt.ShowDialog() != System.Windows.Forms.DialogResult.OK) return;
+
+            int colNum = prompt.GetValue<int>();
+
+            Common.DataTypes.BufferData t = Common.DataBuffer.Instance.LoadDialog(FuzzySets.FuzzySet1D.ValidationCallback);
+            if (t == null) return;
+
+            FuzzySets.FuzzySet1D setB = new FuzzySets.FuzzySet1D(((Common.DataTypes.Matrix<double>)t).Value);
+            CellValueValidator.FromFuzzySetToDataGridView(dataGridView1, colNum, setB);
         }
     }
 }
