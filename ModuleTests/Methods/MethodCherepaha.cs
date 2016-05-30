@@ -518,6 +518,481 @@ namespace Modules.Tests.Methods
                 new variant("точно да", 5));
 
             break;
+                case "en-US":
+            questions[0] = new Question(@"Bad peace is better than a good quarrel", false, 5, 
+                new variant("no", 1), 
+                new variant("maybe no", 2), 
+                new variant("middle", 3), 
+                new variant("maybe yes", 4), 
+                new variant("yes", 5));
+            questions[1] = new Question(@"If you can not make them think of another way,
+the way you want, make it do so,
+what you think", false, 5,
+              new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[2] = new Question(@"Gently spreads but hard to sleep", false, 5,
+                new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[3] = new Question(@"One hand washes the other", false, 5,
+                 new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[4] = new Question(@"One head it's good, but two better.", false, 5,
+                new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[5] = new Question(@"Of the two disputing the smarter,
+who was the first silent", false, 5,
+                new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[6] = new Question(@"Who is stronger is right.", false, 5,
+                 new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[7] = new Question(@"You will achieve nothing if you do not bribe", false, 5,
+                new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[8] = new Question(@"even a mangy sheep is good for a little wool", false, 5,
+                 new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[9] = new Question(@"It is true that the wise know,
+rather than what they say about all", false, 5,
+                 new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[10] = new Question(@"Who hit and run, the
+able to fight tomorrow", false, 5,
+                 new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[11] = new Question(@"The word victory is clearly written,
+only on the backs of enemies", false, 5,
+                 new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[12] = new Question(@"Kill your enemies with kindness", false, 5,
+                new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[13] = new Question(@"Honest operation does not cause strife", false, 5,
+                new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[14] = new Question(@"No one has the full answer,
+but everyone has something to add", false, 5,
+                new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[15] = new Question(@"Stay away from people who do not agree
+with you", false, 5,
+                new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[16] = new Question(@"Battle winner is the one who believes in victory", false, 5,
+                new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[17] = new Question(@"A kind word does not require costs, and costs
+expensive", false, 5,
+                new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[18] = new Question(@"Roll my log and I will roll yours", false, 5,
+                new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[19] = new Question(@"Only those who give up their
+a monopoly on the truth, could benefit
+of the truths that are owned by others", false, 5,
+                 new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[20] = new Question(@"Who argues, the penny is not worth", false, 5,
+                new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[21] = new Question(@"Might makes right", false, 5,
+                 new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[22] = new Question(@"Не who is demure and kind gets everybody's
+help, protection and favo(u)r", false, 5,
+                 new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[23] = new Question(@"Who gives - is making friends", false, 5,
+               new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[24] = new Question(@"Endure concern to light and to hold
+other tips", false, 5,
+                new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[25] = new Question(@"The best way to resolve conflicts -
+avoid them", false, 5,
+                 new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[26] = new Question(@"Think well before you take a
+decision, do not act rashly", false, 5,
+                 new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[27] = new Question(@"A mild reply can alleviate 
+anger or hostility", false, 5,
+                 new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[28] = new Question(@"Bird in the hand is better than a crane
+in the sky", false, 5,
+                new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[29] = new Question(@"Pure-hearted, honesty and trust
+move mountains", false, 5,
+                new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[30] = new Question(@"There is not anything that 
+would deserve argue", false, 5,
+                new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[31] = new Question(@"In this world there are only
+two types of people:winners and losers", false, 5,
+                new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[32] = new Question(@"If you throw a stone,
+Throw in response to a piece of cotton wool", false, 5,
+                new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[33] = new Question(@"Mutual concessions miraculously
+solve the case", false, 5,
+                 new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[34] = new Question(@"Dug and dug without ustanku -
+find the truth", false, 5,
+                 new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+           
+            break;
+                default:
+                      questions[0] = new Question(@"Bad peace is better than a good quarrel", false, 5, 
+                new variant("no", 1), 
+                new variant("maybe no", 2), 
+                new variant("middle", 3), 
+                new variant("maybe yes", 4), 
+                new variant("yes", 5));
+            questions[1] = new Question(@"If you can not make them think of another way,
+the way you want, make it do so,
+what you think", false, 5,
+              new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[2] = new Question(@"Gently spreads but hard to sleep", false, 5,
+                new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[3] = new Question(@"One hand washes the other", false, 5,
+                 new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[4] = new Question(@"One head it's good, but two better.", false, 5,
+                new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[5] = new Question(@"Of the two disputing the smarter,
+who was the first silent", false, 5,
+                new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[6] = new Question(@"Who is stronger is right.", false, 5,
+                 new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[7] = new Question(@"You will achieve nothing if you do not bribe", false, 5,
+                new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[8] = new Question(@"even a mangy sheep is good for a little wool", false, 5,
+                 new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[9] = new Question(@"It is true that the wise know,
+rather than what they say about all", false, 5,
+                 new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[10] = new Question(@"Who hit and run, the
+able to fight tomorrow", false, 5,
+                 new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[11] = new Question(@"The word victory is clearly written,
+only on the backs of enemies", false, 5,
+                 new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[12] = new Question(@"Kill your enemies with kindness", false, 5,
+                new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[13] = new Question(@"Honest operation does not cause strife", false, 5,
+                new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[14] = new Question(@"No one has the full answer,
+but everyone has something to add", false, 5,
+                new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[15] = new Question(@"Stay away from people who do not agree
+with you", false, 5,
+                new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[16] = new Question(@"Battle winner is the one who believes in victory", false, 5,
+                new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[17] = new Question(@"A kind word does not require costs, and costs
+expensive", false, 5,
+                new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[18] = new Question(@"Roll my log and I will roll yours", false, 5,
+                new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[19] = new Question(@"Only those who give up their
+a monopoly on the truth, could benefit
+of the truths that are owned by others", false, 5,
+                 new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[20] = new Question(@"Who argues, the penny is not worth", false, 5,
+                new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[21] = new Question(@"Might makes right", false, 5,
+                 new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[22] = new Question(@"Не who is demure and kind gets everybody's
+help, protection and favo(u)r", false, 5,
+                 new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[23] = new Question(@"Who gives - is making friends", false, 5,
+               new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[24] = new Question(@"Endure concern to light and to hold
+other tips", false, 5,
+                new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[25] = new Question(@"The best way to resolve conflicts -
+avoid them", false, 5,
+                 new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[26] = new Question(@"Think well before you take a
+decision, do not act rashly", false, 5,
+                 new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[27] = new Question(@"A mild reply can alleviate 
+anger or hostility", false, 5,
+                 new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[28] = new Question(@"Bird in the hand is better than a crane
+in the sky", false, 5,
+                new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[29] = new Question(@"Pure-hearted, honesty and trust
+move mountains", false, 5,
+                new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[30] = new Question(@"There is not anything that 
+would deserve argue", false, 5,
+                new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[31] = new Question(@"In this world there are only
+two types of people:winners and losers", false, 5,
+                new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[32] = new Question(@"If you throw a stone,
+Throw in response to a piece of cotton wool", false, 5,
+                new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[33] = new Question(@"Mutual concessions miraculously
+solve the case", false, 5,
+                 new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+            questions[34] = new Question(@"Dug and dug without ustanku -
+find the truth", false, 5,
+                 new variant("no", 1),
+                new variant("maybe no", 2),
+                new variant("middle", 3),
+                new variant("maybe yes", 4),
+                new variant("yes", 5));
+           
+            break;
+
+
+
 
             
         }
