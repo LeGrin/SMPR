@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMPR", "SMPR\SMPR.csproj", "{22F89B84-EBFA-4914-B5DE-0FA80CB62702}"
 	ProjectSection(ProjectDependencies) = postProject
@@ -43,6 +43,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyGenerator", "KeyGenerator\KeyGenerator.csproj", "{F540F8AA-7AAB-407A-B1DF-8D3490625FE3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModuleFuzzyLogic", "ModuleFuzzyLogic\ModuleFuzzyLogic.csproj", "{B0432B3B-E30D-45D8-9646-AD059B7CF206}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModuleNumericalAnalysis", "ModuleNumericalAnalysis\ModuleNumericalAnalysis.csproj", "{B02AFDD1-CF7C-4CCC-A431-53EC7E11A92A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -236,6 +238,22 @@ Global
 		{B0432B3B-E30D-45D8-9646-AD059B7CF206}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{B0432B3B-E30D-45D8-9646-AD059B7CF206}.Release|Win32.ActiveCfg = Release|Any CPU
 		{B0432B3B-E30D-45D8-9646-AD059B7CF206}.Release|x86.ActiveCfg = Release|Any CPU
+		{B02AFDD1-CF7C-4CCC-A431-53EC7E11A92A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B02AFDD1-CF7C-4CCC-A431-53EC7E11A92A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B02AFDD1-CF7C-4CCC-A431-53EC7E11A92A}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{B02AFDD1-CF7C-4CCC-A431-53EC7E11A92A}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{B02AFDD1-CF7C-4CCC-A431-53EC7E11A92A}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{B02AFDD1-CF7C-4CCC-A431-53EC7E11A92A}.Debug|Win32.Build.0 = Debug|Any CPU
+		{B02AFDD1-CF7C-4CCC-A431-53EC7E11A92A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B02AFDD1-CF7C-4CCC-A431-53EC7E11A92A}.Debug|x86.Build.0 = Debug|Any CPU
+		{B02AFDD1-CF7C-4CCC-A431-53EC7E11A92A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B02AFDD1-CF7C-4CCC-A431-53EC7E11A92A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B02AFDD1-CF7C-4CCC-A431-53EC7E11A92A}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{B02AFDD1-CF7C-4CCC-A431-53EC7E11A92A}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{B02AFDD1-CF7C-4CCC-A431-53EC7E11A92A}.Release|Win32.ActiveCfg = Release|Any CPU
+		{B02AFDD1-CF7C-4CCC-A431-53EC7E11A92A}.Release|Win32.Build.0 = Release|Any CPU
+		{B02AFDD1-CF7C-4CCC-A431-53EC7E11A92A}.Release|x86.ActiveCfg = Release|Any CPU
+		{B02AFDD1-CF7C-4CCC-A431-53EC7E11A92A}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

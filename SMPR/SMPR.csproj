@@ -224,6 +224,10 @@
       <Project>{2E37A79C-3610-4E2D-ACD2-B7423F3C3DE4}</Project>
       <Name>ModuleMulticriterionProblemMethods</Name>
     </ProjectReference>
+    <ProjectReference Include="..\ModuleNumericalAnalysis\ModuleNumericalAnalysis.csproj">
+      <Project>{b02afdd1-cf7c-4ccc-a431-53ec7e11a92a}</Project>
+      <Name>ModuleNumericalAnalysis</Name>
+    </ProjectReference>
     <ProjectReference Include="..\ModuleTests\ModuleTests.csproj">
       <Project>{6379845E-6265-415D-9C4A-E3B4BB86D2AE}</Project>
       <Name>ModuleTests</Name>

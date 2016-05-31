@@ -96,6 +96,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <None Include="packages.config" />
     <None Include="Resourses\MethodHelp_FuzzyPreferencesRelations.rtf" />
     <None Include="Resourses\MethodHelp_binOper.rtf" />
     <None Include="Resourses\MethodHelp_BinOperationsPropMethod.rtf" />
@@ -111,6 +112,10 @@
     <ProjectReference Include="..\ModuleConflictsAndCompromisesMethods\ModuleConflictsAndCompromises.csproj">
       <Project>{752B7B72-3E2B-4389-8959-B75D9AB4CF70}</Project>
       <Name>ModuleConflictsAndCompromises</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ModuleMulticriterionProblemMethods\ModuleMulticriterionProblemMethods.csproj">
+      <Project>{2E37A79C-3610-4E2D-ACD2-B7423F3C3DE4}</Project>
+      <Name>ModuleMulticriterionProblemMethods</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
