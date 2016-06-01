@@ -51,7 +51,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.button1.Location = new System.Drawing.Point(3, 3);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(196, 22);
+            this.button1.Size = new System.Drawing.Size(124, 22);
             this.button1.TabIndex = 2;
             this.button1.Text = "Обчислити";
             this.button1.UseVisualStyleBackColor = true;
@@ -112,7 +112,7 @@
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label1.Location = new System.Drawing.Point(3, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(1012, 26);
+            this.label1.Size = new System.Drawing.Size(653, 26);
             this.label1.TabIndex = 1;
             this.label1.Text = "Множини подаються у форматі ЧИСЛО/ЙМОВІРНІСТЬ";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -152,15 +152,15 @@
             this.tableLayoutPanel2.Name = "tableLayoutPanel2";
             this.tableLayoutPanel2.RowCount = 1;
             this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.tableLayoutPanel2.Size = new System.Drawing.Size(1012, 30);
+            this.tableLayoutPanel2.Size = new System.Drawing.Size(653, 30);
             this.tableLayoutPanel2.TabIndex = 5;
             // 
             // button2
             // 
             this.button2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button2.Location = new System.Drawing.Point(205, 3);
+            this.button2.Location = new System.Drawing.Point(133, 3);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(196, 24);
+            this.button2.Size = new System.Drawing.Size(124, 24);
             this.button2.TabIndex = 4;
             this.button2.Text = "Згенерувати випадкові";
             this.button2.UseVisualStyleBackColor = true;
@@ -169,9 +169,9 @@
             // button3
             // 
             this.button3.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button3.Location = new System.Drawing.Point(407, 3);
+            this.button3.Location = new System.Drawing.Point(263, 3);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(196, 24);
+            this.button3.Size = new System.Drawing.Size(124, 24);
             this.button3.TabIndex = 5;
             this.button3.Text = "Очистити";
             this.button3.UseVisualStyleBackColor = true;
@@ -180,9 +180,9 @@
             // button4
             // 
             this.button4.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button4.Location = new System.Drawing.Point(609, 3);
+            this.button4.Location = new System.Drawing.Point(393, 3);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(196, 24);
+            this.button4.Size = new System.Drawing.Size(124, 24);
             this.button4.TabIndex = 6;
             this.button4.Text = "Зберегти множину";
             this.button4.UseVisualStyleBackColor = true;
@@ -191,9 +191,9 @@
             // button5
             // 
             this.button5.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button5.Location = new System.Drawing.Point(811, 3);
+            this.button5.Location = new System.Drawing.Point(523, 3);
             this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(198, 24);
+            this.button5.Size = new System.Drawing.Size(127, 24);
             this.button5.TabIndex = 7;
             this.button5.Text = "Завантажити множину";
             this.button5.UseVisualStyleBackColor = true;

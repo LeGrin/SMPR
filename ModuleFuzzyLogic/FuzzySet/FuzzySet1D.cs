@@ -491,6 +491,23 @@ namespace FuzzySets
             }
             return 0.0;
         }
+        public double Inv(double y)
+        {
+            SortedList<double, double> v = new SortedList<double, double>(dots);
+            int len = v.Count;
+
+            for (int i = 0; i + 1 < len; i++)
+            {
+                if (y >= v.Values[i] && y <= v.Values[i + 1])
+                {
+                    double x1 = v.Keys[i], x2 = v.Keys[i + 1];
+                    double y1 = v.Values[i], y2 = v.Values[i + 1];
+
+                    return (y*(x2-x1) + x1*y2 -x2*y1)/(y2-y1);
+                }
+            }
+            return 0.0;
+        }
         public FuzzySet1D sliceSet(double alpha)
         {
             FuzzySet1D res = new FuzzySet1D();
