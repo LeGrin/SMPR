@@ -1,6 +1,7 @@
-using System;
+п»їusing System;
 using System.Collections.Generic;
 using System.Text;
+using System.Threading;
 
 namespace Modules.Tests.Methods
 {
@@ -9,30 +10,34 @@ namespace Modules.Tests.Methods
         Conclusion[] conclMass = new Conclusion[3];
         public MethodOptimist()
         {
-            conclMass[0] = new Conclusion(0, 13, @"Схоже, життя вас не раз випробувало,
-і ви вже не чекаєте від нього нічого доброго.
-Невдачі вважаєте неминучими,
-радощі - випадковими.
-Жалість до себе і недовіра до людей заважають
-вам радіти життю.
-Щоб підбадьоритися, навчіться цінувати ті маленькі радощі,
-які випадають кожному з нас. Не забувайте:
-життя ніколи не є настільки поганим,
-щоб його не можна було змінити нашим ставленням до нього.");
-            conclMass[1] = new Conclusion(14, 23, @"Ви розсудлива людина, що знає ціну собі і людям.
-Ви вмієте ставити перед собою реальну мету і добиватися її.
-Ясно бачите тіньові сторони життя, але не схильні їх смакувати.
-Для своїх друзів і близьких ви — надійна опора,
-тому що вмієте і втішити в горі,
-і остудити надмірне захоплення.");
-            conclMass[2] = new Conclusion(24, 30, @"Ваш оптимізм просто б'є через край.
-Неприємності для вас немов і не існують,
-і ви від них просто відмахуєетесь і поспішаєте
-назустріч новим радощам. Проте задумайтеся:
-чи не дуже легковажна ваша позиція?
-Не виключено, що недооцінка серйозних проблем одного
-разу примусить вас зіткнутися з несподіваними засмученнями.");
-            numberOfQuestions = 35;
+            
+                    conclMass[0] = new Conclusion(0, 13, @"РЎС…РѕР¶Рµ, Р¶РёС‚С‚СЏ РІР°СЃ РЅРµ СЂР°Р· РІРёРїСЂРѕР±СѓРІР°Р»Рѕ,
+С– РІРё РІР¶Рµ РЅРµ С‡РµРєР°С”С‚Рµ РІС–Рґ РЅСЊРѕРіРѕ РЅС–С‡РѕРіРѕ РґРѕР±СЂРѕРіРѕ.
+РќРµРІРґР°С‡С– РІРІР°Р¶Р°С”С‚Рµ РЅРµРјРёРЅСѓС‡РёРјРё, Р°
+СЂР°РґРѕС‰С– - РІРёРїР°РґРєРѕРІРёРјРё.
+Р–Р°Р»С–СЃС‚СЊ РґРѕ СЃРµР±Рµ С– РЅРµРґРѕРІС–СЂР° РґРѕ Р»СЋРґРµР№ Р·Р°РІР°Р¶Р°СЋС‚СЊ
+РІР°Рј СЂР°РґС–С‚Рё Р¶РёС‚С‚СЋ.
+Р©РѕР± РїС–РґР±Р°РґСЊРѕСЂРёС‚РёСЃСЏ, РЅР°РІС‡С–С‚СЊСЃСЏ С†С–РЅСѓРІР°С‚Рё С‚С– РјР°Р»РµРЅСЊРєС– СЂР°РґРѕС‰С–,
+СЏРєС– РІРёРїР°РґР°СЋС‚СЊ РєРѕР¶РЅРѕРјСѓ Р· РЅР°СЃ. РќРµ Р·Р°Р±СѓРІР°Р№С‚Рµ:
+Р¶РёС‚С‚СЏ РЅС–РєРѕР»Рё РЅРµ С” РЅР°СЃС‚С–Р»СЊРєРё РїРѕРіР°РЅРёРј,
+С‰РѕР± Р№РѕРіРѕ РЅРµ РјРѕР¶РЅР° Р±СѓР»Рѕ Р·РјС–РЅРёС‚Рё РЅР°С€РёРј СЃС‚Р°РІР»РµРЅРЅСЏРј РґРѕ РЅСЊРѕРіРѕ.");
+                    conclMass[1] = new Conclusion(14, 23, @"Р’Рё СЂРѕР·СЃСѓРґР»РёРІР° Р»СЋРґРёРЅР°, С‰Рѕ Р·РЅР°С” С†С–РЅСѓ СЃРѕР±С– С– Р»СЋРґСЏРј.
+Р’Рё РІРјС–С”С‚Рµ СЃС‚Р°РІРёС‚Рё РїРµСЂРµРґ СЃРѕР±РѕСЋ СЂРµР°Р»СЊРЅСѓ РјРµС‚Сѓ С– РґРѕР±РёРІР°С‚РёСЃСЏ С—С—.
+РЇСЃРЅРѕ Р±Р°С‡РёС‚Рµ С‚С–РЅСЊРѕРІС– СЃС‚РѕСЂРѕРЅРё Р¶РёС‚С‚СЏ, Р°Р»Рµ РЅРµ СЃС…РёР»СЊРЅС– С—С… СЃРјР°РєСѓРІР°С‚Рё.
+Р”Р»СЏ СЃРІРѕС—С… РґСЂСѓР·С–РІ С– Р±Р»РёР·СЊРєРёС… РІРё вЂ” РЅР°РґС–Р№РЅР° РѕРїРѕСЂР°,
+С‚РѕРјСѓ С‰Рѕ РІРјС–С”С‚Рµ С– РІС‚С–С€РёС‚Рё РІ РіРѕСЂС–,
+С– РѕСЃС‚СѓРґРёС‚Рё РЅР°РґРјС–СЂРЅРµ Р·Р°С…РѕРїР»РµРЅРЅСЏ.");
+                    conclMass[2] = new Conclusion(24, 30, @"Р’Р°С€ РѕРїС‚РёРјС–Р·Рј РїСЂРѕСЃС‚Рѕ Р±'С” С‡РµСЂРµР· РєСЂР°Р№.
+РќРµРїСЂРёС”РјРЅРѕСЃС‚С– РґР»СЏ РІР°СЃ РЅРµРјРѕРІ С– РЅРµ С–СЃРЅСѓСЋС‚СЊ,
+С– РІРё РІС–Рґ РЅРёС… РїСЂРѕСЃС‚Рѕ РІС–РґРјР°С…СѓС”РµС‚РµСЃСЊ С– РїРѕСЃРїС–С€Р°С”С‚Рµ
+РЅР°Р·СѓСЃС‚СЂС–С‡ РЅРѕРІРёРј СЂР°РґРѕС‰Р°Рј. РџСЂРѕС‚Рµ Р·Р°РґСѓРјР°Р№С‚РµСЃСЏ:
+С‡Рё РЅРµ РґСѓР¶Рµ Р»РµРіРєРѕРІР°Р¶РЅР° РІР°С€Р° РїРѕР·РёС†С–СЏ?
+РќРµ РІРёРєР»СЋС‡РµРЅРѕ, С‰Рѕ РЅРµРґРѕРѕС†С–РЅРєР° СЃРµСЂР№РѕР·РЅРёС… РїСЂРѕР±Р»РµРј РѕРґРЅРѕРіРѕ
+СЂР°Р·Сѓ РїСЂРёРјСѓСЃРёС‚СЊ РІР°СЃ Р·С–С‚РєРЅСѓС‚РёСЃСЏ Р· РЅРµСЃРїРѕРґС–РІР°РЅРёРјРё Р·Р°СЃРјСѓС‡РµРЅРЅСЏРјРё.");
+                    
+
+                    numberOfQuestions = 35;
+                
         }
         public override string Name
         {
@@ -44,7 +49,7 @@ namespace Modules.Tests.Methods
             return numberOfQuestions;
         }
         /// <summary>
-        /// рахується бал за поточние питання.
+        /// СЂР°С…СѓС”С‚СЊСЃСЏ Р±Р°Р» Р·Р° РїРѕС‚РѕС‡РЅРёРµ РїРёС‚Р°РЅРЅСЏ.
         /// </summary>
         /// <param name="answerForCurrentQuestion"></param>
         /// <returns>Num of radioButton.</returns>
@@ -59,112 +64,432 @@ namespace Modules.Tests.Methods
         /// </summary>
         override public void InitAttributesOfQuestions()
         {
-            questions[0] = new Question(@"Ви любите подорожувати?", false, 2, new variant("так", 1), new variant("ні", 0));
-            questions[1] = new Question(@"Хотілося б вам ще чомусь навчитися
-крім того, що ви вже умієте?", false, 2, new variant("так", 1), new variant("ні", 0));
-            questions[2] = new Question(@"Ви часто приймаєте снодійне,
-заспокійливе?", false, 2, new variant("так", 0), new variant("ні", 1));
-            questions[3] = new Question(@"Чи подобається вам ходити в гості
-і приймати гостей?", false, 2, new variant("так", 1), new variant("ні", 0));
-            questions[4] = new Question(@"Чи часто вам вдається передбачити
-неприємності, що насуваються?", false, 2, new variant("так", 0), new variant("ні", 1));
-            questions[5] = new Question(@"Чи не здається вам, що ваші товариші
-зуміли добитися в житті більшого ніж ви?", false, 2, new variant("так", 0), new variant("ні", 1));
-            questions[6] = new Question(@"Чи знаходиться у вашому житті місце
-якимсь спортивним заняттям?", false, 2, new variant("так", 1), new variant("ні", 0));
-            questions[7] = new Question(@"Чи вважаєте ви, що доля несправедлива до вас?", false, 2, new variant("так", 0), new variant("ні", 1));
-            questions[8] = new Question(@"Чи турбує вас можлива екологічна катастрофа?", false, 2, new variant("так", 0), new variant("ні", 1));
-            questions[9] = new Question(@"Чи згодні ви, що науковий прогрес створює
-більше проблем, ніж вирішує? ", false, 2, new variant("так", 0), new variant("ні", 1));
-            questions[10] = new Question(@"Чи вдало ви вибрали свою професію?", false, 2, new variant("так", 1), new variant("ні", 0));
-            questions[11] = new Question(@"Ви застрахували своє майно?", false, 2, new variant("так", 0), new variant("ні", 1));
-            questions[12] = new Question(@"Погодилися б ви на переїзд в інше місто,
-якби там вам запропонували цікаву роботу?", false, 2, new variant("так", 1), new variant("ні", 0));
-            questions[13] = new Question(@"Чи задоволені ви своєю зовнішністю?", false, 2, new variant("так", 1), new variant("ні", 0));
-            questions[14] = new Question(@"Чи часто вас турбують нездужання?", false, 2, new variant("так", 1), new variant("ні", 0));
-            questions[15] = new Question(@"Чи легко вам освоїтися в незнайомому оточенні, знайти своє місце в новому колективі?", false, 2, new variant("так", 1), new variant("ні", 0));
-            questions[16] = new Question(@"Чи вважають вас оточуючі енергійною,
-діяльною людиною?", false, 2, new variant("так", 1), new variant("ні", 0));
-            questions[17] = new Question(@"Чи вірите ви в безкорисливу дружбу?", false, 2, new variant("так", 1), new variant("ні", 0));
-            questions[18] = new Question(@"Чи існують для вас особисті добрі
-прикмети - фартові числа, вдалі дні тижня?", false, 2, new variant("так", 1), new variant("ні", 0));
-            questions[19] = new Question(@"Чи вірите ви в те,
-що кожен - сам коваль свого щастя?", false, 2, new variant("так", 1), new variant("ні", 0));            
-            
-            //from optimist2
+            switch (Thread.CurrentThread.CurrentUICulture.Name)
+            {
+                case "uk-UA":
+                    questions[0] = new Question(@"Р’Рё Р»СЋР±РёС‚Рµ РїРѕРґРѕСЂРѕР¶СѓРІР°С‚Рё?", false, 2, new variant("С‚Р°Рє", 1), new variant("РЅС–", 0));
+                    questions[1] = new Question(@"РҐРѕС‚С–Р»РѕСЃСЏ Р± РІР°Рј С‰Рµ С‡РѕРјСѓСЃСЊ РЅР°РІС‡РёС‚РёСЃСЏ
+РєСЂС–Рј С‚РѕРіРѕ, С‰Рѕ РІРё РІР¶Рµ СѓРјС–С”С‚Рµ?", false, 2, new variant("С‚Р°Рє", 1), new variant("РЅС–", 0));
+                    questions[2] = new Question(@"Р’Рё С‡Р°СЃС‚Рѕ РїСЂРёР№РјР°С”С‚Рµ СЃРЅРѕРґС–Р№РЅРµ,
+Р·Р°СЃРїРѕРєС–Р№Р»РёРІРµ?", false, 2, new variant("С‚Р°Рє", 0), new variant("РЅС–", 1));
+                    questions[3] = new Question(@"Р§Рё РїРѕРґРѕР±Р°С”С‚СЊСЃСЏ РІР°Рј С…РѕРґРёС‚Рё РІ РіРѕСЃС‚С–
+С– РїСЂРёР№РјР°С‚Рё РіРѕСЃС‚РµР№?", false, 2, new variant("С‚Р°Рє", 1), new variant("РЅС–", 0));
+                    questions[4] = new Question(@"Р§Рё С‡Р°СЃС‚Рѕ РІР°Рј РІРґР°С”С‚СЊСЃСЏ РїРµСЂРµРґР±Р°С‡РёС‚Рё
+РЅРµРїСЂРёС”РјРЅРѕСЃС‚С–, С‰Рѕ РЅР°СЃСѓРІР°СЋС‚СЊСЃСЏ?", false, 2, new variant("С‚Р°Рє", 0), new variant("РЅС–", 1));
+                    questions[5] = new Question(@"Р§Рё РЅРµ Р·РґР°С”С‚СЊСЃСЏ РІР°Рј, С‰Рѕ РІР°С€С– С‚РѕРІР°СЂРёС€С–
+Р·СѓРјС–Р»Рё РґРѕР±РёС‚РёСЃСЏ РІ Р¶РёС‚С‚С– Р±С–Р»СЊС€РѕРіРѕ РЅС–Р¶ РІРё?", false, 2, new variant("С‚Р°Рє", 0), new variant("РЅС–", 1));
+                    questions[6] = new Question(@"Р§Рё Р·РЅР°С…РѕРґРёС‚СЊСЃСЏ Сѓ РІР°С€РѕРјСѓ Р¶РёС‚С‚С– РјС–СЃС†Рµ
+СЏРєРёРјСЃСЊ СЃРїРѕСЂС‚РёРІРЅРёРј Р·Р°РЅСЏС‚С‚СЏРј?", false, 2, new variant("С‚Р°Рє", 1), new variant("РЅС–", 0));
+                    questions[7] = new Question(@"Р§Рё РІРІР°Р¶Р°С”С‚Рµ РІРё, С‰Рѕ РґРѕР»СЏ РЅРµСЃРїСЂР°РІРµРґР»РёРІР° РґРѕ РІР°СЃ?", false, 2, new variant("С‚Р°Рє", 0), new variant("РЅС–", 1));
+                    questions[8] = new Question(@"Р§Рё С‚СѓСЂР±СѓС” РІР°СЃ РјРѕР¶Р»РёРІР° РµРєРѕР»РѕРіС–С‡РЅР° РєР°С‚Р°СЃС‚СЂРѕС„Р°?", false, 2, new variant("С‚Р°Рє", 0), new variant("РЅС–", 1));
+                    questions[9] = new Question(@"Р§Рё Р·РіРѕРґРЅС– РІРё, С‰Рѕ РЅР°СѓРєРѕРІРёР№ РїСЂРѕРіСЂРµСЃ СЃС‚РІРѕСЂСЋС”
+Р±С–Р»СЊС€Рµ РїСЂРѕР±Р»РµРј, РЅС–Р¶ РІРёСЂС–С€СѓС”? ", false, 2, new variant("С‚Р°Рє", 0), new variant("РЅС–", 1));
+                    questions[10] = new Question(@"Р§Рё РІРґР°Р»Рѕ РІРё РІРёР±СЂР°Р»Рё СЃРІРѕСЋ РїСЂРѕС„РµСЃС–СЋ?", false, 2, new variant("С‚Р°Рє", 1), new variant("РЅС–", 0));
+                    questions[11] = new Question(@"Р’Рё Р·Р°СЃС‚СЂР°С…СѓРІР°Р»Рё СЃРІРѕС” РјР°Р№РЅРѕ?", false, 2, new variant("С‚Р°Рє", 0), new variant("РЅС–", 1));
+                    questions[12] = new Question(@"РџРѕРіРѕРґРёР»РёСЃСЏ Р± РІРё РЅР° РїРµСЂРµС—Р·Рґ РІ С–РЅС€Рµ РјС–СЃС‚Рѕ,
+СЏРєР±Рё С‚Р°Рј РІР°Рј Р·Р°РїСЂРѕРїРѕРЅСѓРІР°Р»Рё С†С–РєР°РІСѓ СЂРѕР±РѕС‚Сѓ?", false, 2, new variant("С‚Р°Рє", 1), new variant("РЅС–", 0));
+                    questions[13] = new Question(@"Р§Рё Р·Р°РґРѕРІРѕР»РµРЅС– РІРё СЃРІРѕС”СЋ Р·РѕРІРЅС–С€РЅС–СЃС‚СЋ?", false, 2, new variant("С‚Р°Рє", 1), new variant("РЅС–", 0));
+                    questions[14] = new Question(@"Р§Рё С‡Р°СЃС‚Рѕ РІР°СЃ С‚СѓСЂР±СѓСЋС‚СЊ РЅРµР·РґСѓР¶Р°РЅРЅСЏ?", false, 2, new variant("С‚Р°Рє", 1), new variant("РЅС–", 0));
+                    questions[15] = new Question(@"Р§Рё Р»РµРіРєРѕ РІР°Рј РѕСЃРІРѕС—С‚РёСЃСЏ РІ РЅРµР·РЅР°Р№РѕРјРѕРјСѓ РѕС‚РѕС‡РµРЅРЅС–, Р·РЅР°Р№С‚Рё СЃРІРѕС” РјС–СЃС†Рµ РІ РЅРѕРІРѕРјСѓ РєРѕР»РµРєС‚РёРІС–?", false, 2, new variant("С‚Р°Рє", 1), new variant("РЅС–", 0));
+                    questions[16] = new Question(@"Р§Рё РІРІР°Р¶Р°СЋС‚СЊ РІР°СЃ РѕС‚РѕС‡СѓСЋС‡С– РµРЅРµСЂРіС–Р№РЅРѕСЋ,
+РґС–СЏР»СЊРЅРѕСЋ Р»СЋРґРёРЅРѕСЋ?", false, 2, new variant("С‚Р°Рє", 1), new variant("РЅС–", 0));
+                    questions[17] = new Question(@"Р§Рё РІС–СЂРёС‚Рµ РІРё РІ Р±РµР·РєРѕСЂРёСЃР»РёРІСѓ РґСЂСѓР¶Р±Сѓ?", false, 2, new variant("С‚Р°Рє", 1), new variant("РЅС–", 0));
+                    questions[18] = new Question(@"Р§Рё С–СЃРЅСѓСЋС‚СЊ РґР»СЏ РІР°СЃ РѕСЃРѕР±РёСЃС‚С– РґРѕР±СЂС–
+РїСЂРёРєРјРµС‚Рё - С„Р°СЂС‚РѕРІС– С‡РёСЃР»Р°, РІРґР°Р»С– РґРЅС– С‚РёР¶РЅСЏ?", false, 2, new variant("С‚Р°Рє", 1), new variant("РЅС–", 0));
+                    questions[19] = new Question(@"Р§Рё РІС–СЂРёС‚Рµ РІРё РІ С‚Рµ,
+С‰Рѕ РєРѕР¶РµРЅ - СЃР°Рј РєРѕРІР°Р»СЊ СЃРІРѕРіРѕ С‰Р°СЃС‚СЏ?", false, 2, new variant("С‚Р°Рє", 1), new variant("РЅС–", 0));
 
-            questions[20] = new Question(@"Ви такий же щасливий, як і ваші знайомі?", false, 2,
-                                new variant("так", 0),
-                                new variant("ні", 1));
+                    //from optimist2
 
-            questions[21] = new Question(@"Чи доводилося вам коли-небудь
-прокидатися з відчуттям, що ви можете все?", false, 2,
-                                new variant("так", 0),
-                                new variant("ні", 1));
+                    questions[20] = new Question(@"Р’Рё С‚Р°РєРёР№ Р¶Рµ С‰Р°СЃР»РёРІРёР№, СЏРє С– РІР°С€С– Р·РЅР°Р№РѕРјС–?", false, 2,
+                                        new variant("С‚Р°Рє", 0),
+                                        new variant("РЅС–", 1));
 
-            questions[22] = new Question(@"Ви вважаєте, що щастить тільки іншим?", false, 2,
-                                new variant("так", 1),
-                                new variant("ні", 0));
+                    questions[21] = new Question(@"Р§Рё РґРѕРІРѕРґРёР»РѕСЃСЏ РІР°Рј РєРѕР»Рё-РЅРµР±СѓРґСЊ
+РїСЂРѕРєРёРґР°С‚РёСЃСЏ Р· РІС–РґС‡СѓС‚С‚СЏРј, С‰Рѕ РІРё РјРѕР¶РµС‚Рµ РІСЃРµ?", false, 2,
+                                        new variant("С‚Р°Рє", 0),
+                                        new variant("РЅС–", 1));
 
-            questions[23] = new Question(@"Чи вважаєте ви, що вашим батькам пощастило,
-коли вони знайшли один одного?", false, 2,
-                                new variant("так", 1),
-                                new variant("ні", 0));
+                    questions[22] = new Question(@"Р’Рё РІРІР°Р¶Р°С”С‚Рµ, С‰Рѕ С‰Р°СЃС‚РёС‚СЊ С‚С–Р»СЊРєРё С–РЅС€РёРј?", false, 2,
+                                        new variant("С‚Р°Рє", 1),
+                                        new variant("РЅС–", 0));
 
-            questions[24] = new Question(@"Чи траплялося вам відчувати себе
-нещасною людиною без особливої причини?", false, 2,
-                                new variant("так", 1),
-                                new variant("ні", 0));
+                    questions[23] = new Question(@"Р§Рё РІРІР°Р¶Р°С”С‚Рµ РІРё, С‰Рѕ РІР°С€РёРј Р±Р°С‚СЊРєР°Рј РїРѕС‰Р°СЃС‚РёР»Рѕ,
+РєРѕР»Рё РІРѕРЅРё Р·РЅР°Р№С€Р»Рё РѕРґРёРЅ РѕРґРЅРѕРіРѕ?", false, 2,
+                                        new variant("С‚Р°Рє", 1),
+                                        new variant("РЅС–", 0));
 
-            questions[25] = new Question(@"Вам знайомо відчуття безнадійності?", false, 2,
-                                new variant("так", 1),
-                                new variant("ні", 0));
+                    questions[24] = new Question(@"Р§Рё С‚СЂР°РїР»СЏР»РѕСЃСЏ РІР°Рј РІС–РґС‡СѓРІР°С‚Рё СЃРµР±Рµ
+РЅРµС‰Р°СЃРЅРѕСЋ Р»СЋРґРёРЅРѕСЋ Р±РµР· РѕСЃРѕР±Р»РёРІРѕС— РїСЂРёС‡РёРЅРё?", false, 2,
+                                        new variant("С‚Р°Рє", 1),
+                                        new variant("РЅС–", 0));
 
-            questions[26] = new Question(@"Чи не здається вам, що життя
-взагалі безцільне?", false, 2,
-                                new variant("так", 1),
-                                new variant("ні", 0));
+                    questions[25] = new Question(@"Р’Р°Рј Р·РЅР°Р№РѕРјРѕ РІС–РґС‡СѓС‚С‚СЏ Р±РµР·РЅР°РґС–Р№РЅРѕСЃС‚С–?", false, 2,
+                                        new variant("С‚Р°Рє", 1),
+                                        new variant("РЅС–", 0));
 
-            questions[27] = new Question(@"Чи думаєте ви, що світ гідний жалю?", false, 2,
-                                new variant("так", 1),
-                                new variant("ні", 0));
+                    questions[26] = new Question(@"Р§Рё РЅРµ Р·РґР°С”С‚СЊСЃСЏ РІР°Рј, С‰Рѕ Р¶РёС‚С‚СЏ
+РІР·Р°РіР°Р»С– Р±РµР·С†С–Р»СЊРЅРµ?", false, 2,
+                                        new variant("С‚Р°Рє", 1),
+                                        new variant("РЅС–", 0));
 
-            questions[28] = new Question(@"Чи сильно вас дратує шум?", false, 2,
-                                new variant("так", 1),
-                                new variant("ні", 0));
+                    questions[27] = new Question(@"Р§Рё РґСѓРјР°С”С‚Рµ РІРё, С‰Рѕ СЃРІС–С‚ РіС–РґРЅРёР№ Р¶Р°Р»СЋ?", false, 2,
+                                        new variant("С‚Р°Рє", 1),
+                                        new variant("РЅС–", 0));
 
-            questions[29] = new Question(@"Чи вважаєте ви, що доля
-несправедлива до вас? ", false, 2,
-                                new variant("так", 1),
-                                new variant("ні", 0));
+                    questions[28] = new Question(@"Р§Рё СЃРёР»СЊРЅРѕ РІР°СЃ РґСЂР°С‚СѓС” С€СѓРј?", false, 2,
+                                        new variant("С‚Р°Рє", 1),
+                                        new variant("РЅС–", 0));
 
-            questions[30] = new Question(@"Ви усміхаєтеся так само часто,
-як і люди, яких ви знаєте?", false, 2,
-                                new variant("так", 0),
-                                new variant("ні", 1));
+                    questions[29] = new Question(@"Р§Рё РІРІР°Р¶Р°С”С‚Рµ РІРё, С‰Рѕ РґРѕР»СЏ
+РЅРµСЃРїСЂР°РІРµРґР»РёРІР° РґРѕ РІР°СЃ? ", false, 2,
+                                        new variant("С‚Р°Рє", 1),
+                                        new variant("РЅС–", 0));
 
-            questions[31] = new Question(@"Ви вважаєте, вашому другу з
-вами дійсно пощастило?", false, 2,
-                                new variant("так", 0),
-                                new variant("ні", 1));
+                    questions[30] = new Question(@"Р’Рё СѓСЃРјС–С…Р°С”С‚РµСЃСЏ С‚Р°Рє СЃР°РјРѕ С‡Р°СЃС‚Рѕ,
+СЏРє С– Р»СЋРґРё, СЏРєРёС… РІРё Р·РЅР°С”С‚Рµ?", false, 2,
+                                        new variant("С‚Р°Рє", 0),
+                                        new variant("РЅС–", 1));
 
-            questions[32] = new Question(@"Чи можете ви перебувати в
-стані апатії тижнями?", false, 2,
-                                new variant("так", 1),
-                                new variant("ні", 0));
+                    questions[31] = new Question(@"Р’Рё РІРІР°Р¶Р°С”С‚Рµ, РІР°С€РѕРјСѓ РґСЂСѓРіСѓ Р·
+РІР°РјРё РґС–Р№СЃРЅРѕ РїРѕС‰Р°СЃС‚РёР»Рѕ?", false, 2,
+                                        new variant("С‚Р°Рє", 0),
+                                        new variant("РЅС–", 1));
 
-            questions[33] = new Question(@"Чи вважаєте ви, що ваше життя
-зіпсовано, головним чином, іншими людьми?", false, 2,
-                                new variant("так", 1),
-                                new variant("ні", 0));
+                    questions[32] = new Question(@"Р§Рё РјРѕР¶РµС‚Рµ РІРё РїРµСЂРµР±СѓРІР°С‚Рё РІ
+СЃС‚Р°РЅС– Р°РїР°С‚С–С— С‚РёР¶РЅСЏРјРё?", false, 2,
+                                        new variant("С‚Р°Рє", 1),
+                                        new variant("РЅС–", 0));
 
-            questions[34] = new Question(@"Чи сильно вас травмують невдачі?", false, 2,
-                                new variant("так", 1),
-                                new variant("ні", 0));
+                    questions[33] = new Question(@"Р§Рё РІРІР°Р¶Р°С”С‚Рµ РІРё, С‰Рѕ РІР°С€Рµ Р¶РёС‚С‚СЏ
+Р·С–РїСЃРѕРІР°РЅРѕ, РіРѕР»РѕРІРЅРёРј С‡РёРЅРѕРј, С–РЅС€РёРјРё Р»СЋРґСЊРјРё?", false, 2,
+                                        new variant("С‚Р°Рє", 1),
+                                        new variant("РЅС–", 0));
+
+                    questions[34] = new Question(@"Р§Рё СЃРёР»СЊРЅРѕ РІР°СЃ С‚СЂР°РІРјСѓСЋС‚СЊ РЅРµРІРґР°С‡С–?", false, 2,
+                                        new variant("С‚Р°Рє", 1),
+                                        new variant("РЅС–", 0));
+                    break;
+                case "ru-RU": questions[0] = new Question(@"Р›СЋР±РёС‚Рµ Р»Рё РІС‹ РїСѓС‚РµС€РµСЃС‚РІРѕРІР°С‚СЊ?", false, 2, new variant("РґР°", 1), new variant("РЅРµС‚", 0));
+                    questions[1] = new Question(@"РҐРѕС‚РµР»РѕСЃСЊ Р±С‹ РІР°Рј РµС‰Рµ С‡РµРјСѓ-С‚Рѕ РЅР°СѓС‡РёС‚СЊСЃСЏ
+РєСЂРѕРјРµ С‚РѕРіРѕ, С‡С‚Рѕ РІС‹ СѓР¶Рµ СѓРјРµРµС‚Рµ?", false, 2, new variant("РґР°", 1), new variant("РЅРµС‚", 0));
+                    questions[2] = new Question(@"Р’С‹ С‡Р°СЃС‚Рѕ РїСЂРёРЅРёРјР°РµС‚Рµ СЃРЅРѕС‚РІРѕСЂРЅРѕРµ,
+СѓСЃРїРѕРєРѕРёС‚РµР»СЊРЅРѕРµ?", false, 2, new variant("РґР°", 0), new variant("РЅРµС‚", 1));
+                    questions[3] = new Question(@"РќСЂР°РІРёС‚СЃСЏ Р»Рё РІР°Рј С…РѕРґРёС‚СЊ РІ РіРѕСЃС‚Рё
+Рё РїСЂРёРЅРёРјР°С‚СЊ РіРѕСЃС‚РµР№?", false, 2, new variant("РґР°", 1), new variant("РЅРµС‚", 0));
+                    questions[4] = new Question(@"Р§Р°СЃС‚Рѕ Р»Рё РІР°Рј СѓРґР°РµС‚СЃСЏ РїСЂРµРґСЃРєР°Р·Р°С‚СЊ
+РЅРµРїСЂРёСЏС‚РЅРѕСЃС‚Рё РЅР°РґРІРёРіР°СЋС‰РёС…СЃСЏ?", false, 2, new variant("РґР°", 0), new variant("РЅРµС‚", 1));
+                    questions[5] = new Question(@"РќРµ РєР°Р¶РµС‚СЃСЏ Р»Рё РІР°Рј, С‡С‚Рѕ РІР°С€Рё С‚РѕРІР°СЂРёС‰Рё
+СЃСѓРјРµР»Рё РґРѕР±РёС‚СЊСЃСЏ РІ Р¶РёР·РЅРё Р±РѕР»СЊС€РµРіРѕ С‡РµРј РІС‹?", false, 2, new variant("РґР°", 0), new variant("РЅРµС‚", 1));
+                    questions[6] = new Question(@"РќР°С…РѕРґРёС‚СЃСЏ РІ РІР°С€РµР№ Р¶РёР·РЅРё РјРµСЃС‚Рѕ
+РєР°РєРёРј Р»РёР±Рѕ СЃРїРѕСЂС‚РёРІРЅС‹Рј Р·Р°РЅСЏС‚РёСЏРј?", false, 2, new variant("РґР°", 1), new variant("РЅРµС‚", 0));
+                    questions[7] = new Question(@"РЎС‡РёС‚Р°РµС‚Рµ Р»Рё РІС‹, С‡С‚Рѕ СЃСѓРґСЊР±Р° РЅРµСЃРїСЂР°РІРµРґР»РёРІР° Рє РІР°Рј?", false, 2, new variant("РґР°", 0), new variant("РЅРµС‚", 1));
+                    questions[8] = new Question(@"Р‘РµСЃРїРѕРєРѕРёС‚ Р»Рё РІР°СЃ РІРѕР·РјРѕР¶РЅР° СЌРєРѕР»РѕРіРёС‡РµСЃРєР°СЏ РєР°С‚Р°СЃС‚СЂРѕС„Р°?", false, 2, new variant("РґР°", 0), new variant("РЅРµС‚", 1));
+                    questions[9] = new Question(@"РЎРѕРіР»Р°СЃРЅС‹ Р»Рё РІС‹, С‡С‚Рѕ РЅР°СѓС‡РЅС‹Р№ РїСЂРѕРіСЂРµСЃСЃ 
+СЃРѕР·РґР°РµС‚ Р±РѕР»СЊС€Рµ РїСЂРѕР±Р»РµРј, С‡РµРј СЂРµС€Р°РµС‚? ", false, 2, new variant("РґР°", 0), new variant("РЅРµС‚", 1));
+                    questions[10] = new Question(@"РЈРґР°С‡РЅРѕ РІС‹ РІС‹Р±СЂР°Р»Рё СЃРІРѕСЋ РїСЂРѕС„РµСЃСЃРёСЋ?", false, 2, new variant("РґР°", 1), new variant("РЅРµС‚", 0));
+                    questions[11] = new Question(@"Р’С‹ Р·Р°СЃС‚СЂР°С…РѕРІР°Р»Рё СЃРІРѕРµ РёРјСѓС‰РµСЃС‚РІРѕ?", false, 2, new variant("РґР°", 0), new variant("РЅРµС‚", 1));
+                    questions[12] = new Question(@"РЎРѕРіР»Р°СЃРёР»РёСЃСЊ Р±С‹ РІС‹ РЅР° РїРµСЂРµРµР·Рґ РІ РґСЂСѓРіРѕР№ РіРѕСЂРѕРґ,
+РµСЃР»Рё Р±С‹ С‚Р°Рј РІР°Рј РїСЂРµРґР»РѕР¶РёР»Рё РёРЅС‚РµСЂРµСЃРЅСѓСЋ СЂР°Р±РѕС‚Сѓ?", false, 2, new variant("РґР°", 1), new variant("РЅРµС‚", 0));
+                    questions[13] = new Question(@"Р”РѕРІРѕР»СЊРЅС‹ Р»Рё РІС‹ СЃРІРѕРµР№ РІРЅРµС€РЅРѕСЃС‚СЊСЋ?", false, 2, new variant("РґР°", 1), new variant("РЅРµС‚", 0));
+                    questions[14] = new Question(@"Р§Р°СЃС‚Рѕ Р»Рё РІР°СЃ Р±РµСЃРїРѕРєРѕСЏС‚ РЅРµРґРѕРјРѕРіР°РЅРёРµ?", false, 2, new variant("РґР°", 1), new variant("РЅРµС‚", 0));
+                    questions[15] = new Question(@"Р›РµРіРєРѕ Р»Рё РІР°Рј РѕСЃРІРѕРёС‚СЊСЃСЏ РІ РЅРµР·РЅР°РєРѕРјРѕРј РѕРєСЂСѓР¶РµРЅРёРё,
+РЅР°Р№С‚Рё СЃРІРѕРµ РјРµСЃС‚Рѕ РІ РЅРѕРІРѕРј РєРѕР»Р»РµРєС‚РёРІРµ?", false, 2, new variant("РґР°", 1), new variant("РЅРµС‚", 0));
+                    questions[16] = new Question(@"РЎС‡РёС‚Р°СЋС‚ РІР°СЃ РѕРєСЂСѓР¶Р°СЋС‰РёРµ СЌРЅРµСЂРіРёС‡РЅРѕР№,
+РґРµСЏС‚РµР»СЊРЅС‹Рј С‡РµР»РѕРІРµРєРѕРј?", false, 2, new variant("РґР°", 1), new variant("РЅРµС‚", 0));
+                    questions[17] = new Question(@"Р’РµСЂРёС‚Рµ Р»Рё РІС‹ РІ Р±РµСЃРєРѕСЂС‹СЃС‚РЅСѓСЋ РґСЂСѓР¶Р±Сѓ?", false, 2, new variant("РґР°", 1), new variant("РЅРµС‚", 0));
+                    questions[18] = new Question(@"РЎСѓС‰РµСЃС‚РІСѓСЋС‚ Р»Рё РґР»СЏ РІР°СЃ Р»РёС‡РЅС‹Рµ РґРѕР±СЂС‹Рµ
+РїСЂРёРјРµС‚С‹ - С„Р°СЂС‚РѕРІС‹Рµ С‡РёСЃР»Р°, СѓРґР°С‡РЅС‹Рµ РґРЅРё РЅРµРґРµР»Рё?", false, 2, new variant("РґР°", 1), new variant("РЅРµС‚", 0));
+                    questions[19] = new Question(@"Р’РµСЂРёС‚Рµ Р»Рё РІС‹ РІ С‚Рѕ,
+С‡С‚Рѕ РєР°Р¶РґС‹Р№ - СЃР°Рј РєСѓР·РЅРµС† СЃРІРѕРµРіРѕ СЃС‡Р°СЃС‚СЊСЏ?", false, 2, new variant("РґР°", 1), new variant("РЅРµС‚", 0));
+
+                    //from optimist2
+
+                    questions[20] = new Question(@"Р’С‹ С‚Р°РєРѕР№ Р¶Рµ СЃС‡Р°СЃС‚Р»РёРІС‹Р№, РєР°Рє Рё РІР°С€Рё Р·РЅР°РєРѕРјС‹Рµ?", false, 2,
+                                        new variant("РґР°", 0),
+                                        new variant("РЅРµС‚", 1));
+
+                    questions[21] = new Question(@"РџСЂРёС…РѕРґРёР»РѕСЃСЊ Р»Рё РІР°Рј РєРѕРіРґР°-РЅРёР±СѓРґСЊ
+РїСЂРѕСЃС‹РїР°С‚СЊСЃСЏ СЃ РѕС‰СѓС‰РµРЅРёРµРј, С‡С‚Рѕ РІС‹ РјРѕР¶РµС‚Рµ РІСЃРµ?", false, 2,
+                                        new variant("РґР°", 0),
+                                        new variant("РЅРµС‚", 1));
+
+                    questions[22] = new Question(@"Р’С‹ СЃС‡РёС‚Р°РµС‚Рµ, С‡С‚Рѕ РІРµР·РµС‚ С‚РѕР»СЊРєРѕ РґСЂСѓРіРёРј?", false, 2,
+                                        new variant("РґР°", 1),
+                                        new variant("РЅРµС‚", 0));
+
+                    questions[23] = new Question(@"РЎС‡РёС‚Р°РµС‚Рµ Р»Рё РІС‹, С‡С‚Рѕ РІР°С€РёРј СЂРѕРґРёС‚РµР»СЏРј РїРѕРІРµР·Р»Рѕ,
+РєРѕРіРґР° РѕРЅРё РЅР°С€Р»Рё РґСЂСѓРі РґСЂСѓРіР°?", false, 2,
+                                        new variant("РґР°", 1),
+                                        new variant("РЅРµС‚", 0));
+
+                    questions[24] = new Question(@"РЎР»СѓС‡Р°Р»РѕСЃСЊ Р»Рё РІР°Рј С‡СѓРІСЃС‚РІРѕРІР°С‚СЊ СЃРµР±СЏ
+РЅРµСЃС‡Р°СЃС‚РЅС‹Рј С‡РµР»РѕРІРµРєРѕРј Р±РµР· РѕСЃРѕР±РѕР№ РїСЂРёС‡РёРЅС‹?", false, 2,
+                                        new variant("РґР°", 1),
+                                        new variant("РЅРµС‚", 0));
+
+                    questions[25] = new Question(@"Р’Р°Рј Р·РЅР°РєРѕРјРѕ С‡СѓРІСЃС‚РІРѕ Р±РµР·РЅР°РґРµР¶РЅРѕСЃС‚Рё?", false, 2,
+                                        new variant("РґР°", 1),
+                                        new variant("РЅРµС‚", 0));
+
+                    questions[26] = new Question(@"РќРµ РєР°Р¶РµС‚СЃСЏ Р»Рё РІР°Рј, С‡С‚Рѕ Р¶РёР·РЅСЊ
+РІРѕРѕР±С‰Рµ Р±РµСЃС†РµР»СЊРЅР°?", false, 2,
+                                        new variant("РґР°", 1),
+                                        new variant("РЅРµС‚", 0));
+
+                    questions[27] = new Question(@"Р”СѓРјР°РµС‚Рµ Р»Рё РІС‹, С‡С‚Рѕ РјРёСЂ РґРѕСЃС‚РѕРёРЅ СЃРѕР¶Р°Р»РµРЅРёСЏ?", false, 2,
+                                        new variant("РґР°", 1),
+                                        new variant("РЅРµС‚", 0));
+
+                    questions[28] = new Question(@"РЎРёР»СЊРЅРѕ РІР°СЃ СЂР°Р·РґСЂР°Р¶Р°РµС‚ С€СѓРј?", false, 2,
+                                        new variant("РґР°", 1),
+                                        new variant("РЅРµС‚", 0));
+
+                    questions[29] = new Question(@"РЎС‡РёС‚Р°РµС‚Рµ Р»Рё РІС‹, С‡С‚Рѕ СЃСѓРґСЊР±Р°
+РЅРµСЃРїСЂР°РІРµРґР»РёРІР° Рє РІР°Рј? ", false, 2,
+                                        new variant("РґР°", 1),
+                                        new variant("РЅРµС‚", 0));
+
+                    questions[30] = new Question(@"Р’С‹ СѓР»С‹Р±Р°РµС‚РµСЃСЊ С‚Р°Рє Р¶Рµ С‡Р°СЃС‚Рѕ,
+РєР°Рє Рё Р»СЋРґРё, РєРѕС‚РѕСЂС‹С… РІС‹ Р·РЅР°РµС‚Рµ?", false, 2,
+                                        new variant("РґР°", 0),
+                                        new variant("РЅРµС‚", 1));
+
+                    questions[31] = new Question(@"Р’С‹ СЃС‡РёС‚Р°РµС‚Рµ, РІР°С€РµРјСѓ РґСЂСѓРіСѓ СЃ
+РІР°РјРё РґРµР№СЃС‚РІРёС‚РµР»СЊРЅРѕ РїРѕРІРµР·Р»Рѕ?", false, 2,
+                                        new variant("РґР°", 0),
+                                        new variant("РЅРµС‚", 1));
+
+                    questions[32] = new Question(@"РњРѕР¶РµС‚Рµ Р»Рё РІС‹ РЅР°С…РѕРґРёС‚СЊСЃСЏ РІ
+СЃРѕСЃС‚РѕСЏРЅРёРё Р°РїР°С‚РёРё РЅРµРґРµР»Рё?", false, 2,
+                                        new variant("РґР°", 1),
+                                        new variant("РЅРµС‚", 0));
+
+                    questions[33] = new Question(@"РЎС‡РёС‚Р°РµС‚Рµ Р»Рё РІС‹, С‡С‚Рѕ РІР°С€Р° Р¶РёР·РЅСЊ
+РёСЃРїРѕСЂС‡РµРЅ, РіР»Р°РІРЅС‹Рј РѕР±СЂР°Р·РѕРј, РґСЂСѓРіРёРјРё Р»СЋРґСЊРјРё?", false, 2,
+                                        new variant("РґР°", 1),
+                                        new variant("РЅРµС‚", 0));
+
+                    questions[34] = new Question(@"РЎРёР»СЊРЅРѕ РІР°СЃ С‚СЂР°РІРјРёСЂСѓСЋС‚ РЅРµСѓРґР°С‡Рё?", false, 2,
+                                        new variant("РґР°", 1),
+                                        new variant("РЅРµС‚", 0));
+                    break;
+                case "en-US":
+                    questions[0] = new Question(@"Do you like travelling?", false, 2, new variant("yes", 1), new variant("no", 0));
+                    questions[1] = new Question(@"Would you like to have something to learn
+besides, you already know how?", false, 2, new variant("yes", 1), new variant("no", 0));
+                    questions[2] = new Question(@"Do you often take a sleeping pill,
+sedative?", false, 2, new variant("yes", 0), new variant("no", 1));
+                    questions[3] = new Question(@"Do you like host and visit your friends?", false, 2, new variant("yes", 1), new variant("no", 0));
+                    questions[4] = new Question(@"Can you manage to predict
+trouble that is coming?", false, 2, new variant("yes", 0), new variant("no", 1));
+                    questions[5] = new Question(@"Don't you think that your friends achieved
+more in life than you?", false, 2, new variant("yes", 0), new variant("no", 1));
+                    questions[6] = new Question(@"Have you time for sports activities", false, 2, new variant("yes", 1), new variant("no", 0));
+                    questions[7] = new Question(@"Do you think that fate is unfair to you?", false, 2, new variant("yes", 0), new variant("no", 1));
+                    questions[8] = new Question(@"Are you concerned about possible 
+environmental disaster?", false, 2, new variant("yes", 0), new variant("no", 1));
+                    questions[9] = new Question(@"Do you agree that scientific progress creates
+more problems than it solves? ", false, 2, new variant("yes", 0), new variant("no", 1));
+                    questions[10] = new Question(@"Have you successfully chose your profession?", false, 2, new variant("yes", 1), new variant("no", 0));
+                    questions[11] = new Question(@"Have you insured your property?", false, 2, new variant("yes", 0), new variant("no", 1));
+                    questions[12] = new Question(@"Would you move to another city,
+ if you were offered an interesting job there?", false, 2, new variant("yes", 1), new variant("no", 0));
+                    questions[13] = new Question(@"Are you satisfied with your appearance?", false, 2, new variant("yes", 1), new variant("no", 0));
+                    questions[14] = new Question(@"Do you often feel sick?", false, 2, new variant("yes", 1), new variant("no", 0));
+                    questions[15] = new Question(@"Is it easy for you to get comfortable in 
+an unfamiliar environment, find their place in the new team?", false, 2, new variant("yes", 1), new variant("no", 0));
+                    questions[16] = new Question(@"Do you energetic,
+active person?", false, 2, new variant("yes", 1), new variant("no", 0));
+                    questions[17] = new Question(@"Do you believe in selfless friendship?", false, 2, new variant("yes", 1), new variant("no", 0));
+                    questions[18] = new Question(@"Have you your own good
+signs -  lucky days of the week?", false, 2, new variant("yes", 1), new variant("no", 0));
+                    questions[19] = new Question(@"Do you believe that
+everyone is a blacksmith of his own happiness?", false, 2, new variant("yes", 1), new variant("no", 0));
+
+                    //from optimist2
+
+                    questions[20] = new Question(@"You are the same happy, as people you know?", false, 2,
+                                        new variant("yes", 0),
+                                        new variant("no", 1));
+
+                    questions[21] = new Question(@"Have you ever
+wake up with the feeling that you can all to do?", false, 2,
+                                        new variant("yes", 0),
+                                        new variant("no", 1));
+
+                    questions[22] = new Question(@"Do you think that lucky all except you?", false, 2,
+                                        new variant("yes", 1),
+                                        new variant("no", 0));
+
+                    questions[23] = new Question(@"Do you feel that your parents were lucky
+when they found each other?", false, 2,
+                                        new variant("yes", 1),
+                                        new variant("no", 0));
+
+                    questions[24] = new Question(@"Do you ever feel
+unhappy person without particular reason?", false, 2,
+                                        new variant("yes", 1),
+                                        new variant("no", 0));
+
+                    questions[25] = new Question(@"Do you know the feeling of hopelessness?", false, 2,
+                                        new variant("yes", 1),
+                                        new variant("no", 0));
+
+                    questions[26] = new Question(@"Do not you think that life
+is priceless?", false, 2,
+                                        new variant("yes", 1),
+                                        new variant("no", 0));
+
+                    questions[27] = new Question(@"Do you think the world is worthy of pity?", false, 2,
+                                        new variant("yes", 1),
+                                        new variant("no", 0));
+
+                    questions[28] = new Question(@"Are you annoying noise?", false, 2,
+                                        new variant("yes", 1),
+                                        new variant("no", 0));
+
+                    questions[29] = new Question(@"Do you think that the fate
+unfair to you? ", false, 2,
+                                        new variant("yes", 1),
+                                        new variant("no", 0));
+
+                    questions[30] = new Question(@"Do you smile as often
+like people, you know?", false, 2,
+                                        new variant("yes", 0),
+                                        new variant("no", 1));
+
+                    questions[31] = new Question(@"Do you think that your friend is lucky
+with you?
+", false, 2,
+                                        new variant("yes", 0),
+                                        new variant("no", 1));
+
+                    questions[32] = new Question(@"Can you be in
+a state of apathy weeks?", false, 2,
+                                        new variant("yes", 1),
+                                        new variant("no", 0));
+
+                    questions[33] = new Question(@"Do you feel that your life
+spoiled, mainly, by other people?", false, 2,
+                                        new variant("yes", 1),
+                                        new variant("no", 0));
+
+                    questions[34] = new Question(@"Are you heavily injure failure?", false, 2,
+                                        new variant("yes", 1),
+                                        new variant("no", 0));
+                    break;
+                default:
+                    questions[0] = new Question(@"Do you like travelling?", false, 2, new variant("yes", 1), new variant("no", 0));
+                    questions[1] = new Question(@"Would you like to have 
+something to learn besides, you already know how?", false, 2, new variant("yes", 1), new variant("no", 0));
+                    questions[2] = new Question(@"Do you often take a sleeping pill,
+sedative?", false, 2, new variant("yes", 0), new variant("no", 1));
+                    questions[3] = new Question(@"Do you like host and visit your friends?", false, 2, new variant("yes", 1), new variant("no", 0));
+                    questions[4] = new Question(@"Can you manage to predict
+trouble that is coming?", false, 2, new variant("yes", 0), new variant("no", 1));
+                    questions[5] = new Question(@"Don't you think that your friends
+achieved more in life than you?", false, 2, new variant("yes", 0), new variant("no", 1));
+                    questions[6] = new Question(@"Have you time for sports activities", false, 2, new variant("yes", 1), new variant("no", 0));
+                    questions[7] = new Question(@"Do you think that fate is unfair to you?", false, 2, new variant("yes", 0), new variant("no", 1));
+                    questions[8] = new Question(@"Are you concerned about possible
+environmental disaster?", false, 2, new variant("yes", 0), new variant("no", 1));
+                    questions[9] = new Question(@"Do you agree that scientific progress
+creates more problems than it solves? ", false, 2, new variant("yes", 0), new variant("no", 1));
+                    questions[10] = new Question(@"Have you successfully chose your profession?", false, 2, new variant("yes", 1), new variant("no", 0));
+                    questions[11] = new Question(@"Have you insured your property?", false, 2, new variant("yes", 0), new variant("no", 1));
+                    questions[12] = new Question(@"Would you move to another city,
+ if you were offered an interesting job there?", false, 2, new variant("yes", 1), new variant("no", 0));
+                    questions[13] = new Question(@"Are you satisfied with your appearance?", false, 2, new variant("yes", 1), new variant("no", 0));
+                    questions[14] = new Question(@"Do you often feel sick?", false, 2, new variant("yes", 1), new variant("no", 0));
+                    questions[15] = new Question(@"Is it easy for you to get comfortable in an
+unfamiliar environment, find their place in the new team?", false, 2, new variant("yes", 1), new variant("no", 0));
+                    questions[16] = new Question(@"Do you energetic,
+active person?", false, 2, new variant("yes", 1), new variant("no", 0));
+                    questions[17] = new Question(@"Do you believe in selfless friendship?", false, 2, new variant("yes", 1), new variant("no", 0));
+                    questions[18] = new Question(@"Have you your own good
+signs -  lucky days of the week?", false, 2, new variant("yes", 1), new variant("no", 0));
+                    questions[19] = new Question(@"Do you believe that
+everyone is a blacksmith of his own happiness?", false, 2, new variant("yes", 1), new variant("no", 0));
+
+                    //from optimist2
+
+                    questions[20] = new Question(@"You are the same happy, as people you know?", false, 2,
+                                        new variant("yes", 0),
+                                        new variant("no", 1));
+
+                    questions[21] = new Question(@"Have you ever
+wake up with the feeling that you can all to do?", false, 2,
+                                        new variant("yes", 0),
+                                        new variant("no", 1));
+
+                    questions[22] = new Question(@"Do you think that lucky all except you?", false, 2,
+                                        new variant("yes", 1),
+                                        new variant("no", 0));
+
+                    questions[23] = new Question(@"Do you feel that your parents were lucky
+when they found each other?", false, 2,
+                                        new variant("yes", 1),
+                                        new variant("no", 0));
+
+                    questions[24] = new Question(@"Do you ever feel
+unhappy person without particular reason?", false, 2,
+                                        new variant("yes", 1),
+                                        new variant("no", 0));
+
+                    questions[25] = new Question(@"Do you know the feeling of hopelessness?", false, 2,
+                                        new variant("yes", 1),
+                                        new variant("no", 0));
+
+                    questions[26] = new Question(@"Do not you think that life
+is priceless?", false, 2,
+                                        new variant("yes", 1),
+                                        new variant("no", 0));
+
+                    questions[27] = new Question(@"Do you think the world is worthy of pity?", false, 2,
+                                        new variant("yes", 1),
+                                        new variant("no", 0));
+
+                    questions[28] = new Question(@"Are you annoying noise?", false, 2,
+                                        new variant("yes", 1),
+                                        new variant("no", 0));
+
+                    questions[29] = new Question(@"Do you think that the fate
+unfair to you? ", false, 2,
+                                        new variant("yes", 1),
+                                        new variant("no", 0));
+
+                    questions[30] = new Question(@"Do you smile as often
+like people, you know?", false, 2,
+                                        new variant("yes", 0),
+                                        new variant("no", 1));
+
+                    questions[31] = new Question(@"Do you think that your friend is lucky with you?
+", false, 2,
+                                        new variant("yes", 0),
+                                        new variant("no", 1));
+
+                    questions[32] = new Question(@"Can you be in
+a state of apathy weeks?", false, 2,
+                                        new variant("yes", 1),
+                                        new variant("no", 0));
+
+                    questions[33] = new Question(@"Do you feel that your life
+spoiled, mainly, by other people?", false, 2,
+                                        new variant("yes", 1),
+                                        new variant("no", 0));
+
+                    questions[34] = new Question(@"Are you heavily injure failure?", false, 2,
+                                        new variant("yes", 1),
+                                        new variant("no", 0));
+                    break;
+
+
+            }
 
         }
         /// <summary>
-        /// нормування (с)Ертонг
+        /// РЅРѕСЂРјСѓРІР°РЅРЅСЏ (СЃ)Р•СЂС‚РѕРЅРі
         /// </summary>
         override public void CountFinalResult()
         {
