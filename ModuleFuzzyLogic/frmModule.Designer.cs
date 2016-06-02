@@ -174,6 +174,7 @@
             this.buttonSugenoAlgo.TabIndex = 3;
             this.buttonSugenoAlgo.Text = "Алгоритм Сугено і Такажі";
             this.buttonSugenoAlgo.UseVisualStyleBackColor = true;
+            this.buttonSugenoAlgo.Click += new System.EventHandler(this.buttonSugenoAlgo_Click);
             // 
             // buttonLarsenAlgo
             // 

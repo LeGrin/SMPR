@@ -64,5 +64,11 @@ namespace Modules.ModuleFuzzyLogic
             TsukamotoAlgoForm form = new TsukamotoAlgoForm();
             form.Show();
         }
+
+        private void buttonSugenoAlgo_Click(object sender, EventArgs e)
+        {
+            frmSugenoAndTakagiAlgo form = new frmSugenoAndTakagiAlgo();
+            form.Show();
+        }
     }
 }

@@ -7,30 +7,29 @@ using FuzzySets;
 
 namespace Modules.ModuleFuzzyLogic.Methods
 {
-    public class SimplifiedAlgo : Method
+    public class SugenoAndTakagiAlgo : Method
     {
         public override string Name
         {
-            get { return "Спрощений алгоритм"; }
+            get { return "Алгоритм Сугено і Такажі"; }
         }
 
-        public void Defuzzificate(FuzzySet1D A1, FuzzySet1D A2, FuzzySet1D B1, FuzzySet1D B2,
-            double c1, double c2, double x0, double y0)
-        {
-
+       public void GetAnswer(FuzzySet1D A1, FuzzySet1D A2, FuzzySet1D B1, FuzzySet1D B2,
+            FuzzySet1D C1, FuzzySet1D C2, double x0, double y0, double a1, double a2, double b1, double b2)
+        {   
             double alfa1 = Math.Min(A1.getMu(x0), B1.getMu(y0));
             double alfa2 = Math.Min(A2.getMu(x0), B2.getMu(y0));
-            
             if (alfa1 == 0 && alfa2 == 0)
             {
                 System.Windows.Forms.MessageBox.Show("Обидва числа alfa1 і alfa2 рівні нулю. Будь ласка, введіть інші значення для x0 та y0");
                 return;
+
             }
+            double z1 = a1 * x0 + b1 * y0;
+            double z2 = a2 * x0 + b1 * y0;
 
-            double resultZ = (alfa1 * c1 + alfa2 * c2) / (alfa1 + alfa2);
-
-            System.Windows.Forms.MessageBox.Show("Result Z is " + resultZ);
-            
-        }
+            double z0 = (alfa1*z1 + alfa2*z2)/(alfa1 + alfa2);
+            System.Windows.Forms.MessageBox.Show("Результат z0 = " + z0);
+      }
     }
 }

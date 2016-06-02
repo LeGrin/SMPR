@@ -73,6 +73,12 @@
     <Compile Include="frmOperOnRelation.Designer.cs">
       <DependentUpon>frmOperOnRelation.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmSugenoAndTakagiAlgo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSugenoAndTakagiAlgo.Designer.cs">
+      <DependentUpon>frmSugenoAndTakagiAlgo.cs</DependentUpon>
+    </Compile>
     <Compile Include="FuzzySet\FuzzySet.cs" />
     <Compile Include="FuzzySet\FuzzySet1D.cs" />
     <Compile Include="fuzzyPreferenceRelations.cs">
@@ -115,6 +121,7 @@
     </Compile>
     <Compile Include="Methods\FuzzySetsImageMethod.cs" />
     <Compile Include="Methods\SimplifiedAlgo.cs" />
+    <Compile Include="Methods\SugenoAndTakagiAlgo.cs" />
     <Compile Include="Methods\TsucamotoAlgo.cs" />
     <Compile Include="Module.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -169,6 +176,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmOperOnRelation.resx">
       <DependentUpon>frmOperOnRelation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSugenoAndTakagiAlgo.resx">
+      <DependentUpon>frmSugenoAndTakagiAlgo.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="InputBox.resx">
       <DependentUpon>InputBox.cs</DependentUpon>
