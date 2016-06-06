@@ -262,7 +262,13 @@
     <EmbeddedResource Include="SimplifiedAlgoForm.ru.resx">
       <DependentUpon>SimplifiedAlgoForm.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="TsukamotoAlgoForm.en.resx">
+      <DependentUpon>TsukamotoAlgoForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="TsukamotoAlgoForm.resx">
+      <DependentUpon>TsukamotoAlgoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TsukamotoAlgoForm.ru.resx">
       <DependentUpon>TsukamotoAlgoForm.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>

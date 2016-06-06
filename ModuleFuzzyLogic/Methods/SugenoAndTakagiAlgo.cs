@@ -21,7 +21,7 @@ namespace Modules.ModuleFuzzyLogic.Methods
             double alfa2 = Math.Min(A2.getMu(x0), B2.getMu(y0));
             if (alfa1 == 0 && alfa2 == 0)
             {
-                System.Windows.Forms.MessageBox.Show("Обидва числа alfa1 і alfa2 рівні нулю. Будь ласка, введіть інші значення для x0 та y0");
+                System.Windows.Forms.MessageBox.Show(Resourses.LocalStrings.alfa1_alfa2_zero);
                 return;
 
             }
@@ -29,7 +29,7 @@ namespace Modules.ModuleFuzzyLogic.Methods
             double z2 = a2 * x0 + b1 * y0;
 
             double z0 = (alfa1*z1 + alfa2*z2)/(alfa1 + alfa2);
-            System.Windows.Forms.MessageBox.Show("Результат z0 = " + z0);
+            System.Windows.Forms.MessageBox.Show(String.Format("{0} z0 = {1}", Resourses.LocalStrings.Result, z0));
       }
     }
 }

@@ -117,6 +117,18 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="alfa1_alfa2_zero" xml:space="preserve">
+    <value>Обидва числа alfa1 і alfa2 рівні нулю. Будь ласка, введіть інші значення для x0 та y0</value>
+  </data>
+  <data name="c1c2_notmonotonous" xml:space="preserve">
+    <value>C1 і C2 не монотонні</value>
+  </data>
+  <data name="c1_notmonotonous" xml:space="preserve">
+    <value>C1 не монотонна</value>
+  </data>
+  <data name="c2_notmonotonous" xml:space="preserve">
+    <value>C2 не монотонна</value>
+  </data>
   <data name="ChooseSet" xml:space="preserve">
     <value>Виберіть множину</value>
   </data>
@@ -143,5 +155,8 @@
   </data>
   <data name="Get_b2" xml:space="preserve">
     <value>Введіть значення b2</value>
+  </data>
+  <data name="Result" xml:space="preserve">
+    <value>Результат</value>
   </data>
 </root>

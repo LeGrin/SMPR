@@ -61,6 +61,42 @@ namespace Modules.ModuleFuzzyLogic.Resourses {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Both numbers alpha 1 and alpha2 are zero. Please enter other values ​​for x0 and y0.
+        /// </summary>
+        internal static string alfa1_alfa2_zero {
+            get {
+                return ResourceManager.GetString("alfa1_alfa2_zero", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to C1 isn&apos;t monotonous.
+        /// </summary>
+        internal static string c1_notmonotonous {
+            get {
+                return ResourceManager.GetString("c1_notmonotonous", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to C1 і C2 aren&apos;t monotonous.
+        /// </summary>
+        internal static string c1c2_notmonotonous {
+            get {
+                return ResourceManager.GetString("c1c2_notmonotonous", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to C2 isn&apos;t monotonous.
+        /// </summary>
+        internal static string c2_notmonotonous {
+            get {
+                return ResourceManager.GetString("c2_notmonotonous", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Choose set.
         /// </summary>
         internal static string ChooseSet {
@@ -138,6 +174,15 @@ namespace Modules.ModuleFuzzyLogic.Resourses {
         internal static string GetY0 {
             get {
                 return ResourceManager.GetString("GetY0", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Result.
+        /// </summary>
+        internal static string Result {
+            get {
+                return ResourceManager.GetString("Result", resourceCulture);
             }
         }
     }

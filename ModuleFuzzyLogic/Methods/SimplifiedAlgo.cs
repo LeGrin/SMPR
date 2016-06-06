@@ -23,13 +23,13 @@ namespace Modules.ModuleFuzzyLogic.Methods
             
             if (alfa1 == 0 && alfa2 == 0)
             {
-                System.Windows.Forms.MessageBox.Show("Обидва числа alfa1 і alfa2 рівні нулю. Будь ласка, введіть інші значення для x0 та y0");
+                System.Windows.Forms.MessageBox.Show(Resourses.LocalStrings.alfa1_alfa2_zero);
                 return;
             }
 
             double resultZ = (alfa1 * c1 + alfa2 * c2) / (alfa1 + alfa2);
 
-            System.Windows.Forms.MessageBox.Show("Result Z is " + resultZ);
+            System.Windows.Forms.MessageBox.Show(String.Format("{0} Z is {1}", Resourses.LocalStrings.Result, resultZ));
             
         }
     }

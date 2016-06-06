@@ -117,6 +117,18 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="alfa1_alfa2_zero" xml:space="preserve">
+    <value>Both numbers alpha 1 and alpha2 are zero. Please enter other values ​​for x0 and y0</value>
+  </data>
+  <data name="c1c2_notmonotonous" xml:space="preserve">
+    <value>C1 і C2 aren't monotonous</value>
+  </data>
+  <data name="c1_notmonotonous" xml:space="preserve">
+    <value>C1 isn't monotonous</value>
+  </data>
+  <data name="c2_notmonotonous" xml:space="preserve">
+    <value>C2 isn't monotonous</value>
+  </data>
   <data name="ChooseSet" xml:space="preserve">
     <value>Choose set</value>
   </data>
@@ -143,5 +155,8 @@
   </data>
   <data name="Get_b2" xml:space="preserve">
     <value>Please enter value of a2</value>
+  </data>
+  <data name="Result" xml:space="preserve">
+    <value>Result</value>
   </data>
 </root>

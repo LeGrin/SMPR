@@ -117,46 +117,40 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="alfa1_alfa2_zero" xml:space="preserve">
-    <value>Оба числа alfa1 и alfa2 равны нулю. Пожалуйста, введите другие значения для x0 и y0</value>
+  <data name="button1.Text" xml:space="preserve">
+    <value>Посчитать</value>
   </data>
-  <data name="c1c2_notmonotonous" xml:space="preserve">
-    <value>C1 і C2 не монотонные</value>
+  <data name="button2.Text" xml:space="preserve">
+    <value>Сгенерировать случайные</value>
   </data>
-  <data name="c1_notmonotonous" xml:space="preserve">
-    <value>C1 не монотонные</value>
+  <data name="button3.Text" xml:space="preserve">
+    <value>Очистить</value>
   </data>
-  <data name="c2_notmonotonous" xml:space="preserve">
-    <value>C2 не монотонные</value>
+  <data name="button4.Text" xml:space="preserve">
+    <value>Сохранить множество</value>
   </data>
-  <data name="ChooseSet" xml:space="preserve">
-    <value>Виберите множество</value>
+  <data name="button5.Text" xml:space="preserve">
+    <value>Загрузить множество</value>
   </data>
-  <data name="GetC1" xml:space="preserve">
-    <value>Введите значение C1</value>
+  <data name="label1.Text" xml:space="preserve">
+    <value>Множества задаются в формате ЧИСЛО/ВЕРОЯТНОСТЬ</value>
   </data>
-  <data name="GetC2" xml:space="preserve">
-    <value>Введите значение C2</value>
+  <data name="dataGridViewTextBoxColumn1.HeaderText" xml:space="preserve">
+    <value>Множество A1</value>
   </data>
-  <data name="GetX0" xml:space="preserve">
-    <value>Введите значение Х0</value>
+  <data name="dataGridViewTextBoxColumn2.HeaderText" xml:space="preserve">
+    <value>Множество A2</value>
   </data>
-  <data name="GetY0" xml:space="preserve">
-    <value>Введите значение Х0</value>
+  <data name="dataGridViewTextBoxColumn3.HeaderText" xml:space="preserve">
+    <value>Множество B1</value>
   </data>
-  <data name="Get_a1" xml:space="preserve">
-    <value>Введите значение a1</value>
+  <data name="dataGridViewTextBoxColumn4.HeaderText" xml:space="preserve">
+    <value>Множество B2</value>
   </data>
-  <data name="Get_a2" xml:space="preserve">
-    <value>Введите значение a2</value>
+  <data name="dataGridViewTextBoxColumn5.HeaderText" xml:space="preserve">
+    <value>Множество C1</value>
   </data>
-  <data name="Get_b1" xml:space="preserve">
-    <value>Введите значение b1</value>
-  </data>
-  <data name="Get_b2" xml:space="preserve">
-    <value>Введите значение b2</value>
-  </data>
-  <data name="Result" xml:space="preserve">
-    <value>Результат</value>
+  <data name="dataGridViewTextBoxColumn6.HeaderText" xml:space="preserve">
+    <value>Множество C2</value>
   </data>
 </root>
