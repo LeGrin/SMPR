@@ -130,6 +130,21 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <Compile Include="Resourses\LocalStrings.uk.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LocalStrings.uk.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Resourses\LocalStrings.ru.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LocalStrings.ru.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Resourses\LocalStrings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LocalStrings.resx</DependentUpon>
+    </Compile>
     <Compile Include="SimplifiedAlgoForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -199,9 +214,15 @@
     <EmbeddedResource Include="InputComboBox.resx">
       <DependentUpon>InputComboBox.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="LarsenAlgorithmForm.en.resx">
+      <DependentUpon>LarsenAlgorithmForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="LarsenAlgorithmForm.resx">
       <DependentUpon>LarsenAlgorithmForm.cs</DependentUpon>
       <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LarsenAlgorithmForm.ru.resx">
+      <DependentUpon>LarsenAlgorithmForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -213,6 +234,18 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FuzzySetsImage.resx">
       <DependentUpon>FuzzySetsImage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resourses\LocalStrings.uk.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>LocalStrings.uk.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resourses\LocalStrings.ru.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>LocalStrings.ru.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resourses\LocalStrings.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>LocalStrings.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="SimplifiedAlgoForm.resx">
       <DependentUpon>SimplifiedAlgoForm.cs</DependentUpon>
