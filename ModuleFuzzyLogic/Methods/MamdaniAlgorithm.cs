@@ -9,7 +9,7 @@ namespace Modules.ModuleFuzzyLogic.Methods
 {
     class MamdaniAlgorithm : Method
     {
-        public override string Name { get { return Properties.Resources.MamdaniAlogrithm; } }
+        public override string Name { get { return Properties.Resources.MethodHelp_MamdaniAlgorithm; } }
 
         public double calcAnswer(List<Tuple<FuzzySet1D, FuzzySet1D>> conditions, List<FuzzySet1D> conclusions, double x0, double y0)
         {

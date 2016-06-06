@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmModule));
             this.button1 = new System.Windows.Forms.Button();
             this.binRelationsPropButton = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
@@ -45,77 +46,48 @@
             // 
             // button1
             // 
-            this.button1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button1.Location = new System.Drawing.Point(2, 154);
-            this.button1.Margin = new System.Windows.Forms.Padding(2);
+            resources.ApplyResources(this.button1, "button1");
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(459, 34);
-            this.button1.TabIndex = 0;
-            this.button1.Text = "Andrii";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // binRelationsPropButton
             // 
-            this.binRelationsPropButton.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.binRelationsPropButton.Location = new System.Drawing.Point(3, 117);
+            resources.ApplyResources(this.binRelationsPropButton, "binRelationsPropButton");
             this.binRelationsPropButton.Name = "binRelationsPropButton";
-            this.binRelationsPropButton.Size = new System.Drawing.Size(457, 32);
-            this.binRelationsPropButton.TabIndex = 0;
-            this.binRelationsPropButton.Text = "Властивості бін. відн.";
             this.binRelationsPropButton.UseVisualStyleBackColor = true;
             this.binRelationsPropButton.Click += new System.EventHandler(this.binRelationsPropButton_Click);
             // 
             // button3
             // 
-            this.button3.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button3.Location = new System.Drawing.Point(2, 2);
-            this.button3.Margin = new System.Windows.Forms.Padding(2);
+            resources.ApplyResources(this.button3, "button3");
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(459, 34);
-            this.button3.TabIndex = 0;
-            this.button3.Text = "Dmytro";
             this.button3.UseVisualStyleBackColor = true;
             this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // buttonOperOnRelation
             // 
-            this.buttonOperOnRelation.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.buttonOperOnRelation.Location = new System.Drawing.Point(2, 40);
-            this.buttonOperOnRelation.Margin = new System.Windows.Forms.Padding(2);
+            resources.ApplyResources(this.buttonOperOnRelation, "buttonOperOnRelation");
             this.buttonOperOnRelation.Name = "buttonOperOnRelation";
-            this.buttonOperOnRelation.Size = new System.Drawing.Size(459, 34);
-            this.buttonOperOnRelation.TabIndex = 0;
-            this.buttonOperOnRelation.Text = "Операції над нечіткими відношенннями";
             this.buttonOperOnRelation.UseVisualStyleBackColor = true;
             this.buttonOperOnRelation.Click += new System.EventHandler(this.buttonOperOnRelation_Click);
             // 
             // buttonImageSets
             // 
-            this.buttonImageSets.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.buttonImageSets.Location = new System.Drawing.Point(2, 78);
-            this.buttonImageSets.Margin = new System.Windows.Forms.Padding(2);
+            resources.ApplyResources(this.buttonImageSets, "buttonImageSets");
             this.buttonImageSets.Name = "buttonImageSets";
-            this.buttonImageSets.Size = new System.Drawing.Size(459, 34);
-            this.buttonImageSets.TabIndex = 0;
-            this.buttonImageSets.Text = "Відображення нечітких множин";
             this.buttonImageSets.UseVisualStyleBackColor = true;
             this.buttonImageSets.Click += new System.EventHandler(this.buttonImageSets_Click);
             // 
             // button7
             // 
-            this.button7.Location = new System.Drawing.Point(-184, 128);
-            this.button7.Margin = new System.Windows.Forms.Padding(2);
+            resources.ApplyResources(this.button7, "button7");
             this.button7.Name = "button7";
-            this.button7.Size = new System.Drawing.Size(89, 41);
-            this.button7.TabIndex = 0;
-            this.button7.Text = "button1";
             this.button7.UseVisualStyleBackColor = true;
             // 
             // tableLayoutPanel1
             // 
-            this.tableLayoutPanel1.ColumnCount = 1;
-            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100F));
+            resources.ApplyResources(this.tableLayoutPanel1, "tableLayoutPanel1");
             this.tableLayoutPanel1.Controls.Add(this.buttonImageSets, 0, 2);
             this.tableLayoutPanel1.Controls.Add(this.button3, 0, 0);
             this.tableLayoutPanel1.Controls.Add(this.binRelationsPropButton, 0, 3);
@@ -126,88 +98,50 @@
             this.tableLayoutPanel1.Controls.Add(this.buttonSugenoAlgo, 0, 7);
             this.tableLayoutPanel1.Controls.Add(this.buttonLarsenAlgo, 0, 8);
             this.tableLayoutPanel1.Controls.Add(this.buttonSimplifiedAlgo, 0, 9);
-            this.tableLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tableLayoutPanel1.Location = new System.Drawing.Point(0, 0);
             this.tableLayoutPanel1.Name = "tableLayoutPanel1";
-            this.tableLayoutPanel1.RowCount = 10;
-            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 10F));
-            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 10F));
-            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 10F));
-            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 10F));
-            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 10F));
-            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 10F));
-            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 10F));
-            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 10F));
-            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 10F));
-            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 10F));
-            this.tableLayoutPanel1.Size = new System.Drawing.Size(463, 383);
-            this.tableLayoutPanel1.TabIndex = 1;
             // 
             // buttonMamdaniAlgo
             // 
-            this.buttonMamdaniAlgo.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.buttonMamdaniAlgo.Location = new System.Drawing.Point(3, 193);
+            resources.ApplyResources(this.buttonMamdaniAlgo, "buttonMamdaniAlgo");
             this.buttonMamdaniAlgo.Name = "buttonMamdaniAlgo";
-            this.buttonMamdaniAlgo.Size = new System.Drawing.Size(457, 32);
-            this.buttonMamdaniAlgo.TabIndex = 1;
-            this.buttonMamdaniAlgo.Text = "Алгоритм Мамдані";
             this.buttonMamdaniAlgo.UseVisualStyleBackColor = true;
             this.buttonMamdaniAlgo.Click += new System.EventHandler(this.buttonMamdaniAlgo_Click);
             // 
             // buttonTsukamotoAlgo
             // 
-            this.buttonTsukamotoAlgo.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.buttonTsukamotoAlgo.Location = new System.Drawing.Point(3, 231);
+            resources.ApplyResources(this.buttonTsukamotoAlgo, "buttonTsukamotoAlgo");
             this.buttonTsukamotoAlgo.Name = "buttonTsukamotoAlgo";
-            this.buttonTsukamotoAlgo.Size = new System.Drawing.Size(457, 32);
-            this.buttonTsukamotoAlgo.TabIndex = 2;
-            this.buttonTsukamotoAlgo.Text = "Алгоритм Цукамото";
             this.buttonTsukamotoAlgo.UseVisualStyleBackColor = true;
             this.buttonTsukamotoAlgo.Click += new System.EventHandler(this.buttonTsukamotoAlgo_Click);
             // 
             // buttonSugenoAlgo
             // 
-            this.buttonSugenoAlgo.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.buttonSugenoAlgo.Location = new System.Drawing.Point(3, 269);
+            resources.ApplyResources(this.buttonSugenoAlgo, "buttonSugenoAlgo");
             this.buttonSugenoAlgo.Name = "buttonSugenoAlgo";
-            this.buttonSugenoAlgo.Size = new System.Drawing.Size(457, 32);
-            this.buttonSugenoAlgo.TabIndex = 3;
-            this.buttonSugenoAlgo.Text = "Алгоритм Сугено і Такажі";
             this.buttonSugenoAlgo.UseVisualStyleBackColor = true;
             this.buttonSugenoAlgo.Click += new System.EventHandler(this.buttonSugenoAlgo_Click);
             // 
             // buttonLarsenAlgo
             // 
-            this.buttonLarsenAlgo.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.buttonLarsenAlgo.Location = new System.Drawing.Point(3, 307);
+            resources.ApplyResources(this.buttonLarsenAlgo, "buttonLarsenAlgo");
             this.buttonLarsenAlgo.Name = "buttonLarsenAlgo";
-            this.buttonLarsenAlgo.Size = new System.Drawing.Size(457, 32);
-            this.buttonLarsenAlgo.TabIndex = 4;
-            this.buttonLarsenAlgo.Text = "Алгоритм Ларсена";
             this.buttonLarsenAlgo.UseVisualStyleBackColor = true;
             this.buttonLarsenAlgo.Click += new System.EventHandler(this.buttonLarsenAlgo_Click);
             // 
             // buttonSimplifiedAlgo
             // 
-            this.buttonSimplifiedAlgo.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.buttonSimplifiedAlgo.Location = new System.Drawing.Point(3, 345);
+            resources.ApplyResources(this.buttonSimplifiedAlgo, "buttonSimplifiedAlgo");
             this.buttonSimplifiedAlgo.Name = "buttonSimplifiedAlgo";
-            this.buttonSimplifiedAlgo.Size = new System.Drawing.Size(457, 35);
-            this.buttonSimplifiedAlgo.TabIndex = 5;
-            this.buttonSimplifiedAlgo.Text = "Спрощений алгоритм";
             this.buttonSimplifiedAlgo.UseVisualStyleBackColor = true;
             this.buttonSimplifiedAlgo.Click += new System.EventHandler(this.buttonSimplifiedAlgo_Click);
             // 
             // frmModule
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            resources.ApplyResources(this, "$this");
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(463, 383);
             this.Controls.Add(this.tableLayoutPanel1);
             this.Controls.Add(this.button7);
-            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "frmModule";
-            this.Text = "frmModule";
             this.tableLayoutPanel1.ResumeLayout(false);
             this.ResumeLayout(false);
 

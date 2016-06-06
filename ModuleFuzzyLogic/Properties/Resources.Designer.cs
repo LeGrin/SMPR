@@ -99,7 +99,7 @@ namespace Modules.ModuleFuzzyLogic.Properties {
         /// <summary>
         ///   Looks up a localized string similar to Алгоритм Мамдані.
         /// </summary>
-        internal static string MamdaniAlogrithm {
+        internal static string MethodHelp_MamdaniAlgorithm {
             get {
                 return ResourceManager.GetString("MamdaniAlogrithm", resourceCulture);
             }

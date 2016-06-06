@@ -148,6 +148,7 @@
     <None Include="Resourses\MethodHelp_binOper.rtf" />
     <None Include="Resourses\MethodHelp_BinOperationsPropMethod.rtf" />
     <None Include="Resourses\MethodHelp_FuzzySetsImageMethod.rtf" />
+    <None Include="Resourses\MethodHelp_MamdaniAlgorithm.rtf" />
     <None Include="Resourses\MethodHelp_OperOnRelaionMethods.rtf" />
   </ItemGroup>
   <ItemGroup />
@@ -168,10 +169,22 @@
     <EmbeddedResource Include="frmBinOperations.resx">
       <DependentUpon>frmBinOperations.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmMamdaniAlgorithm.en.resx">
+      <DependentUpon>frmMamdaniAlgorithm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmMamdaniAlgorithm.resx">
       <DependentUpon>frmMamdaniAlgorithm.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmMamdaniAlgorithm.ru-RU.resx">
+      <DependentUpon>frmMamdaniAlgorithm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmModule.en.resx">
+      <DependentUpon>frmModule.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmModule.resx">
+      <DependentUpon>frmModule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmModule.ru.resx">
       <DependentUpon>frmModule.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmOperOnRelation.resx">
