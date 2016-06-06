@@ -138,6 +138,9 @@
   <data name="setC2.HeaderText" xml:space="preserve">
     <value>Множество C2</value>
   </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>Множества задаются в формате ЧИСЛО/ВЕРОЯТНОСТЬ</value>
+  </data>
   <data name="button2.Text" xml:space="preserve">
     <value>Сгенерировать случайные</value>
   </data>
@@ -146,5 +149,8 @@
   </data>
   <data name="button4.Text" xml:space="preserve">
     <value>Сохранить множество</value>
+  </data>
+  <data name="button5.Text" xml:space="preserve">
+    <value>Загрузить множество</value>
   </data>
 </root>

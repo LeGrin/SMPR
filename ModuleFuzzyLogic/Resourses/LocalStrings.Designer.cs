@@ -70,6 +70,42 @@ namespace Modules.ModuleFuzzyLogic.Resourses {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Please enter value of a1.
+        /// </summary>
+        internal static string Get_a1 {
+            get {
+                return ResourceManager.GetString("Get_a1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Please enter value of a2.
+        /// </summary>
+        internal static string Get_a2 {
+            get {
+                return ResourceManager.GetString("Get_a2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Please enter value of b1.
+        /// </summary>
+        internal static string Get_b1 {
+            get {
+                return ResourceManager.GetString("Get_b1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Please enter value of a2.
+        /// </summary>
+        internal static string Get_b2 {
+            get {
+                return ResourceManager.GetString("Get_b2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Please enter value of X0.
         /// </summary>
         internal static string GetX0 {

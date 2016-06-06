@@ -205,7 +205,13 @@
     <EmbeddedResource Include="frmOperOnRelation.resx">
       <DependentUpon>frmOperOnRelation.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmSugenoAndTakagiAlgo.en.resx">
+      <DependentUpon>frmSugenoAndTakagiAlgo.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmSugenoAndTakagiAlgo.resx">
+      <DependentUpon>frmSugenoAndTakagiAlgo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSugenoAndTakagiAlgo.ru.resx">
       <DependentUpon>frmSugenoAndTakagiAlgo.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="InputBox.resx">

@@ -150,6 +150,9 @@
   <data name="button4.Text" xml:space="preserve">
     <value>Сохранить множество</value>
   </data>
+  <data name="button5.Text" xml:space="preserve">
+    <value>Загрузить множество</value>
+  </data>
   <data name="$this.Text" xml:space="preserve">
     <value>Алгоритм Мамдани</value>
   </data>

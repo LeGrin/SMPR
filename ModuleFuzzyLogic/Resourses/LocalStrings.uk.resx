@@ -126,4 +126,16 @@
   <data name="GetY0" xml:space="preserve">
     <value>Введіть значення Y0</value>
   </data>
+  <data name="Get_a1" xml:space="preserve">
+    <value>Введіть значення a1</value>
+  </data>
+  <data name="Get_a2" xml:space="preserve">
+    <value>Введіть значення a2</value>
+  </data>
+  <data name="Get_b1" xml:space="preserve">
+    <value>Введіть значення b1</value>
+  </data>
+  <data name="Get_b2" xml:space="preserve">
+    <value>Введіть значення b2</value>
+  </data>
 </root>

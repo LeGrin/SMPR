@@ -52,38 +52,38 @@ namespace Modules.ModuleFuzzyLogic
 
             DialogResult dialRes;
             double x0, y0, a1, a2, b1, b2;
-            InputBox prompt = new InputBox("Введіть значення X0");
+            InputBox prompt = new InputBox(Resourses.LocalStrings.GetX0);
             do {
                 dialRes = prompt.ShowDialog();
                 if (dialRes != System.Windows.Forms.DialogResult.OK) return;
             } while (!Double.TryParse(prompt.Value, out x0));
 
-            prompt = new InputBox("Введіть значення Y0");
+            prompt = new InputBox(Resourses.LocalStrings.GetY0);
             do {
                 dialRes = prompt.ShowDialog();
                 if (dialRes != System.Windows.Forms.DialogResult.OK) return;
             } while (!Double.TryParse(prompt.Value, out y0));
 
-            prompt = new InputBox("Введіть значення a1");
+            prompt = new InputBox(Resourses.LocalStrings.Get_a1);
             do
             {
                 dialRes = prompt.ShowDialog();
                 if (dialRes != System.Windows.Forms.DialogResult.OK) return;
             } while (!Double.TryParse(prompt.Value, out a1));
 
-            prompt = new InputBox("Введіть значення a2");
+            prompt = new InputBox(Resourses.LocalStrings.Get_a2);
             do
             {
                 dialRes = prompt.ShowDialog();
                 if (dialRes != System.Windows.Forms.DialogResult.OK) return;
             } while (!Double.TryParse(prompt.Value, out a2));
-            prompt = new InputBox("Введіть значення b1");
+            prompt = new InputBox(Resourses.LocalStrings.Get_b1);
             do
             {
                 dialRes = prompt.ShowDialog();
                 if (dialRes != System.Windows.Forms.DialogResult.OK) return;
             } while (!Double.TryParse(prompt.Value, out b1));
-            prompt = new InputBox("Введіть значення b2");
+            prompt = new InputBox(Resourses.LocalStrings.Get_b2);
             do
             {
                 dialRes = prompt.ShowDialog();
@@ -115,7 +115,7 @@ namespace Modules.ModuleFuzzyLogic
                 new KeyValuePair<string, int>("C2", 5)
             };
             
-            InputComboBox prompt = new InputComboBox("Виберіть множину");
+            InputComboBox prompt = new InputComboBox(Resourses.LocalStrings.ChooseSet);
             prompt.SetItems<int>(vals);
             if (prompt.ShowDialog() != System.Windows.Forms.DialogResult.OK) return;
 
@@ -138,7 +138,7 @@ namespace Modules.ModuleFuzzyLogic
                 new KeyValuePair<string, int>("C2", 5)
             };
             
-            InputComboBox prompt = new InputComboBox("Виберіть множину");
+            InputComboBox prompt = new InputComboBox(Resourses.LocalStrings.ChooseSet);
             prompt.SetItems<int>(vals);
             if (prompt.ShowDialog() != System.Windows.Forms.DialogResult.OK) return;
 
