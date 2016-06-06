@@ -50,28 +50,28 @@ namespace Modules.ModuleFuzzyLogic
             DialogResult dialRes;
             double c1, c2;
             double x0, y0;
-            InputBox prompt = new InputBox("Введіть значення C1");
+            InputBox prompt = new InputBox(Resourses.LocalStrings.GetC1);
             do
             {
                 dialRes = prompt.ShowDialog();
                 if (dialRes != System.Windows.Forms.DialogResult.OK) return;
             } while (!Double.TryParse(prompt.Value, out c1));
 
-            prompt = new InputBox("Введіть значення C2");
+            prompt = new InputBox(Resourses.LocalStrings.GetC2);
             do
             {
                 dialRes = prompt.ShowDialog();
                 if (dialRes != System.Windows.Forms.DialogResult.OK) return;
             } while (!Double.TryParse(prompt.Value, out c2));
 
-            prompt = new InputBox("Введіть значення X0");
+            prompt = new InputBox(Resourses.LocalStrings.GetX0);
             do
             {
                 dialRes = prompt.ShowDialog();
                 if (dialRes != System.Windows.Forms.DialogResult.OK) return;
             } while (!Double.TryParse(prompt.Value, out x0));
 
-            prompt = new InputBox("Введіть значення Y0");
+            prompt = new InputBox(Resourses.LocalStrings.GetY0);
             do
             {
                 dialRes = prompt.ShowDialog();

@@ -153,4 +153,7 @@
   <data name="button5.Text" xml:space="preserve">
     <value>Load set</value>
   </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Sugeno and Takagi algorithm</value>
+  </data>
 </root>

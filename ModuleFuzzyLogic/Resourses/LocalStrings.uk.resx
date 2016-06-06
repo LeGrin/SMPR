@@ -120,6 +120,12 @@
   <data name="ChooseSet" xml:space="preserve">
     <value>Виберіть множину</value>
   </data>
+  <data name="GetC1" xml:space="preserve">
+    <value>Введіть значення C1</value>
+  </data>
+  <data name="GetC2" xml:space="preserve">
+    <value>Введіть значення C2</value>
+  </data>
   <data name="GetX0" xml:space="preserve">
     <value>Введіть значення X0</value>
   </data>

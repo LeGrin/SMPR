@@ -117,31 +117,31 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="ChooseSet" xml:space="preserve">
-    <value>Choose set</value>
+  <data name="setA1.HeaderText" xml:space="preserve">
+    <value>Set A1</value>
   </data>
-  <data name="GetC1" xml:space="preserve">
-    <value>Please enter value of C1</value>
+  <data name="setA2.HeaderText" xml:space="preserve">
+    <value>Set A2</value>
   </data>
-  <data name="GetC2" xml:space="preserve">
-    <value>Please enter value of C2</value>
+  <data name="setB1.HeaderText" xml:space="preserve">
+    <value>Set B1</value>
   </data>
-  <data name="GetX0" xml:space="preserve">
-    <value>Please enter value of X0</value>
+  <data name="setB2.HeaderText" xml:space="preserve">
+    <value>Set B2</value>
   </data>
-  <data name="GetY0" xml:space="preserve">
-    <value>Please enter value of Y0</value>
+  <data name="label1.Text" xml:space="preserve">
+    <value>Set format: NUMBER/PROBABILITY</value>
   </data>
-  <data name="Get_a1" xml:space="preserve">
-    <value>Please enter value of a1</value>
+  <data name="button1.Text" xml:space="preserve">
+    <value>Compute</value>
   </data>
-  <data name="Get_a2" xml:space="preserve">
-    <value>Please enter value of a2</value>
+  <data name="button2.Text" xml:space="preserve">
+    <value>Generate random</value>
   </data>
-  <data name="Get_b1" xml:space="preserve">
-    <value>Please enter value of b1</value>
+  <data name="button3.Text" xml:space="preserve">
+    <value>Clear</value>
   </data>
-  <data name="Get_b2" xml:space="preserve">
-    <value>Please enter value of a2</value>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Simplified algorithm</value>
   </data>
 </root>

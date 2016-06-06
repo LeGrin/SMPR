@@ -253,7 +253,13 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>LocalStrings.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="SimplifiedAlgoForm.en.resx">
+      <DependentUpon>SimplifiedAlgoForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="SimplifiedAlgoForm.resx">
+      <DependentUpon>SimplifiedAlgoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SimplifiedAlgoForm.ru.resx">
       <DependentUpon>SimplifiedAlgoForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="TsukamotoAlgoForm.resx">

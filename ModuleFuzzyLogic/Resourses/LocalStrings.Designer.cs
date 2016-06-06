@@ -106,6 +106,24 @@ namespace Modules.ModuleFuzzyLogic.Resourses {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Please enter value of C1.
+        /// </summary>
+        internal static string GetC1 {
+            get {
+                return ResourceManager.GetString("GetC1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Please enter value of C2.
+        /// </summary>
+        internal static string GetC2 {
+            get {
+                return ResourceManager.GetString("GetC2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Please enter value of X0.
         /// </summary>
         internal static string GetX0 {
