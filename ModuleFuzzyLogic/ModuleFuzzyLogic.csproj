@@ -214,10 +214,22 @@
     <EmbeddedResource Include="frmSugenoAndTakagiAlgo.ru.resx">
       <DependentUpon>frmSugenoAndTakagiAlgo.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="InputBox.en.resx">
+      <DependentUpon>InputBox.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="InputBox.resx">
       <DependentUpon>InputBox.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="InputBox.ru.resx">
+      <DependentUpon>InputBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InputComboBox.en.resx">
+      <DependentUpon>InputComboBox.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="InputComboBox.resx">
+      <DependentUpon>InputComboBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InputComboBox.ru.resx">
       <DependentUpon>InputComboBox.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="LarsenAlgorithmForm.en.resx">
