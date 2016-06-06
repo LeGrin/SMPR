@@ -163,8 +163,12 @@
     <None Include="Resourses\MethodHelp_binOper.rtf" />
     <None Include="Resourses\MethodHelp_BinOperationsPropMethod.rtf" />
     <None Include="Resourses\MethodHelp_FuzzySetsImageMethod.rtf" />
+    <None Include="Resourses\MethodHelp_LarsenAlgo.rtf" />
     <None Include="Resourses\MethodHelp_MamdaniAlgorithm.rtf" />
     <None Include="Resourses\MethodHelp_OperOnRelaionMethods.rtf" />
+    <None Include="Resourses\MethodHelp_SimplifiedAlgo.rtf" />
+    <None Include="Resourses\MethodHelp_SugenoAndTakagiAlgo.rtf" />
+    <None Include="Resourses\MethodHelp_TsucamotoAlgo.rtf" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
@@ -243,7 +247,7 @@
       <DependentUpon>LarsenAlgorithmForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
-      <Generator>ResXFileCodeGenerator</Generator>
+      <Generator>PublicResXFileCodeGenerator</Generator>
       <SubType>Designer</SubType>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>

@@ -130,9 +130,6 @@
   <data name="BinOperationsPropMethod" xml:space="preserve">
     <value>Властивості бінарних нечітких відношень</value>
   </data>
-  <data name="MethodHelp_binOper" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\resourses\methodhelp_binoper.rtf;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
-  </data>
   <data name="MethodHelp_BinOperationsPropMethod" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resourses\methodhelp_binoperationspropmethod.rtf;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
   </data>
@@ -151,7 +148,34 @@
   <data name="MethodHelp_FuzzySetsImageMethod" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resourses\methodhelp_fuzzysetsimagemethod.rtf;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
   </data>
-  <data name="MamdaniAlogrithm" xml:space="preserve">
+  <data name="MamdaniAlgorithm" xml:space="preserve">
     <value>Алгоритм Мамдані</value>
+  </data>
+  <data name="MethodHelp_MamdaniAlgorithm" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resourses\MethodHelp_MamdaniAlgorithm.rtf;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="LarsenAlgo" xml:space="preserve">
+    <value>Алгоритм Ларсена</value>
+  </data>
+  <data name="SimplifiedAlgo" xml:space="preserve">
+    <value>Спрощений алгоритм</value>
+  </data>
+  <data name="SugenoAndTakagiAlgo" xml:space="preserve">
+    <value>Алгоритм Сугено і Такажі</value>
+  </data>
+  <data name="TsucamotoAlgo" xml:space="preserve">
+    <value>Алгоритм Цукамото</value>
+  </data>
+  <data name="MethodHelp_LarsenAlgo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resourses\MethodHelp_LarsenAlgo.rtf;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="MethodHelp_SimplifiedAlgo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resourses\MethodHelp_SimplifiedAlgo.rtf;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="MethodHelp_SugenoAndTakagiAlgo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resourses\MethodHelp_SugenoAndTakagiAlgo.rtf;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
+  </data>
+  <data name="MethodHelp_TsucamotoAlgo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resourses\MethodHelp_TsucamotoAlgo.rtf;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1251</value>
   </data>
 </root>

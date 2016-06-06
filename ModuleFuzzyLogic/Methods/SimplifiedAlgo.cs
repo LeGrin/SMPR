@@ -9,10 +9,8 @@ namespace Modules.ModuleFuzzyLogic.Methods
 {
     public class SimplifiedAlgo : Method
     {
-        public override string Name
-        {
-            get { return "Спрощений алгоритм"; }
-        }
+        public override string Name { get { return Properties.Resources.SimplifiedAlgo; } }
+
 
         public void Defuzzificate(FuzzySet1D A1, FuzzySet1D A2, FuzzySet1D B1, FuzzySet1D B2,
             double c1, double c2, double x0, double y0)

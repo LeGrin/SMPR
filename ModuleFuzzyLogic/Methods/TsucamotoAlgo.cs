@@ -9,10 +9,8 @@ namespace Modules.ModuleFuzzyLogic.Methods
 {
     class TsucamotoAlgo : Method
     {
-        public override string Name
-        {
-            get { return "Алгоритм Тсукамото"; }
-        }
+        public override string Name { get { return Properties.Resources.TsucamotoAlgo; } }
+
         public double CalcAlgo(FuzzySet1D A1, FuzzySet1D A2, FuzzySet1D B1, FuzzySet1D B2, 
             FuzzySet1D C1, FuzzySet1D C2, double x0, double y0)
         {

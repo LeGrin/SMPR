@@ -9,10 +9,8 @@ namespace Modules.ModuleFuzzyLogic.Methods
 {
     public class SugenoAndTakagiAlgo : Method
     {
-        public override string Name
-        {
-            get { return "Алгоритм Сугено і Такажі"; }
-        }
+        public override string Name { get { return Properties.Resources.SugenoAndTakagiAlgo; } }
+
 
        public void GetAnswer(FuzzySet1D A1, FuzzySet1D A2, FuzzySet1D B1, FuzzySet1D B2,
             FuzzySet1D C1, FuzzySet1D C2, double x0, double y0, double a1, double a2, double b1, double b2)

@@ -9,10 +9,8 @@ namespace Modules.ModuleFuzzyLogic.Methods
 {
     public class LarsenAlgo : Method
     {
-        public override string Name
-        {
-            get { return "Алгоритм Ларсена"; }
-        }
+        public override string Name { get { return Properties.Resources.LarsenAlgo; } }
+
 
         public double Defuzzificate(FuzzySet1D A1, FuzzySet1D A2, FuzzySet1D B1, FuzzySet1D B2, 
             FuzzySet1D C1, FuzzySet1D C2, double x0, double y0)
