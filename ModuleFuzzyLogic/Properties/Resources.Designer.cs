@@ -22,7 +22,7 @@ namespace Modules.ModuleFuzzyLogic.Properties {
     [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "4.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    internal class Resources {
+    public class Resources {
         
         private static global::System.Resources.ResourceManager resourceMan;
         
@@ -36,7 +36,7 @@ namespace Modules.ModuleFuzzyLogic.Properties {
         ///   Returns the cached ResourceManager instance used by this class.
         /// </summary>
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
-        internal static global::System.Resources.ResourceManager ResourceManager {
+        public static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
                     global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Modules.ModuleFuzzyLogic.Properties.Resources", typeof(Resources).Assembly);
@@ -51,7 +51,7 @@ namespace Modules.ModuleFuzzyLogic.Properties {
         ///   resource lookups using this strongly typed resource class.
         /// </summary>
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
-        internal static global::System.Globalization.CultureInfo Culture {
+        public static global::System.Globalization.CultureInfo Culture {
             get {
                 return resourceCulture;
             }
@@ -63,7 +63,7 @@ namespace Modules.ModuleFuzzyLogic.Properties {
         /// <summary>
         ///   Looks up a localized string similar to Бінарні операції над нечіткими множинами.
         /// </summary>
-        internal static string binOper {
+        public static string binOper {
             get {
                 return ResourceManager.GetString("binOper", resourceCulture);
             }
@@ -72,7 +72,7 @@ namespace Modules.ModuleFuzzyLogic.Properties {
         /// <summary>
         ///   Looks up a localized string similar to Властивості бінарних нечітких відношень.
         /// </summary>
-        internal static string BinOperationsPropMethod {
+        public static string BinOperationsPropMethod {
             get {
                 return ResourceManager.GetString("BinOperationsPropMethod", resourceCulture);
             }
@@ -81,7 +81,7 @@ namespace Modules.ModuleFuzzyLogic.Properties {
         /// <summary>
         ///   Looks up a localized string similar to Нечіткі відношення переваги.
         /// </summary>
-        internal static string FuzzyPreferenceRelationss {
+        public static string FuzzyPreferenceRelationss {
             get {
                 return ResourceManager.GetString("FuzzyPreferenceRelationss", resourceCulture);
             }
@@ -90,19 +90,27 @@ namespace Modules.ModuleFuzzyLogic.Properties {
         /// <summary>
         ///   Looks up a localized string similar to Відображення нечітких множин.
         /// </summary>
-        internal static string FuzzySetsImage {
+        public static string FuzzySetsImage {
             get {
                 return ResourceManager.GetString("FuzzySetsImage", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to {\rtf1\adeflang1025\ansi\ansicpg1251\uc1\adeff31507\deff0\stshfdbch31506\stshfloch31506\stshfhich31506\stshfbi31507\deflang1049\deflangfe1049\themelang1049\themelangfe0\themelangcs0{\fonttbl{\f0\fbidi \froman\fcharset204\fprq2{\*\panose 02020603050405020304}Times New Roman;}
-        ///{\f34\fbidi \froman\fcharset204\fprq2{\*\panose 02040503050406030204}Cambria Math;}{\f37\fbidi \fswiss\fcharset204\fprq2{\*\panose 020f0502020204030204}Calibri;}{\f41\fbidi \froman\fcharset204\fprq2{\*\panose 02040503050406030204}Cambr [rest of string was truncated]&quot;;.
+        ///   Looks up a localized string similar to Алгоритм Ларсена.
         /// </summary>
-        internal static string MethodHelp_binOper {
+        public static string LarsenAlgo {
             get {
-                return ResourceManager.GetString("MethodHelp_binOper", resourceCulture);
+                return ResourceManager.GetString("LarsenAlgo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Алгоритм Мамдані.
+        /// </summary>
+        public static string MamdaniAlgorithm {
+            get {
+                return ResourceManager.GetString("MamdaniAlgorithm", resourceCulture);
             }
         }
         
@@ -110,7 +118,7 @@ namespace Modules.ModuleFuzzyLogic.Properties {
         ///   Looks up a localized string similar to {\rtf1\adeflang1025\ansi\ansicpg1251\uc1\adeff31507\deff0\stshfdbch31506\stshfloch31506\stshfhich31506\stshfbi31507\deflang1049\deflangfe1049\themelang1049\themelangfe0\themelangcs0{\fonttbl{\f0\fbidi \froman\fcharset204\fprq2{\*\panose 02020603050405020304}Times New Roman;}
         ///{\f34\fbidi \froman\fcharset204\fprq2{\*\panose 02040503050406030204}Cambria Math;}{\f37\fbidi \fswiss\fcharset204\fprq2{\*\panose 020f0502020204030204}Calibri;}{\f38\fbidi \fswiss\fcharset204\fprq2{\*\panose 020b0604030504040204}Tahom [rest of string was truncated]&quot;;.
         /// </summary>
-        internal static string MethodHelp_BinOperationsPropMethod {
+        public static string MethodHelp_BinOperationsPropMethod {
             get {
                 return ResourceManager.GetString("MethodHelp_BinOperationsPropMethod", resourceCulture);
             }
@@ -120,7 +128,7 @@ namespace Modules.ModuleFuzzyLogic.Properties {
         ///   Looks up a localized string similar to {\rtf1\ansi\deff3\adeflang1025
         ///{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\froman\fprq2\fcharset2 Symbol;}{\f2\fswiss\fprq2\fcharset0 Arial;}{\f3\froman\fprq2\fcharset204 Liberation Serif{\*\falt Times New Roman};}{\f4\fswiss\fprq2\fcharset204 Liberation Sans{\*\falt Arial};}{\f5\fnil\fprq0\fcharset204 sans-serif{\*\falt Arial};}{\f6\fnil\fprq0\fcharset204 Linux Libertine{\*\falt Georgia};}{\f7\fnil\fprq0\fcharset204 Verdana{\*\falt Arial};}{\f8\froman\fprq2\fcharset128 Times New Roman;}{\f9 [rest of string was truncated]&quot;;.
         /// </summary>
-        internal static string MethodHelp_FuzzyPreferenceRelations {
+        public static string MethodHelp_FuzzyPreferenceRelations {
             get {
                 return ResourceManager.GetString("MethodHelp_FuzzyPreferenceRelations", resourceCulture);
             }
@@ -130,9 +138,29 @@ namespace Modules.ModuleFuzzyLogic.Properties {
         ///   Looks up a localized string similar to {\rtf1\adeflang1025\ansi\ansicpg1251\uc1\adeff31507\deff0\stshfdbch31506\stshfloch31506\stshfhich31506\stshfbi31507\deflang1049\deflangfe1049\themelang1049\themelangfe0\themelangcs0{\fonttbl{\f0\fbidi \froman\fcharset204\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\fbidi \fswiss\fcharset204\fprq2{\*\panose 020b0604020202020204}Arial;}
         ///{\f34\fbidi \froman\fcharset1\fprq2{\*\panose 02040503050406030204}Cambria Math;}{\f37\fbidi \fswiss\fcharset204\fprq2{\*\panose 020f0502020204030204}Calibri;}        /// [rest of string was truncated]&quot;;.
         /// </summary>
-        internal static string MethodHelp_FuzzySetsImageMethod {
+        public static string MethodHelp_FuzzySetsImageMethod {
             get {
                 return ResourceManager.GetString("MethodHelp_FuzzySetsImageMethod", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to {\rtf1\adeflang1025\ansi\ansicpg1251\uc1\adeff31507\deff0\stshfdbch31506\stshfloch31506\stshfhich31506\stshfbi31507\deflang1049\deflangfe1049\themelang1049\themelangfe0\themelangcs0{\fonttbl{\f0\fbidi \froman\fcharset204\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\fbidi \fswiss\fcharset204\fprq2{\*\panose 020b0604020202020204}Arial;}
+        ///{\f34\fbidi \froman\fcharset204\fprq2{\*\panose 00000000000000000000}Cambria Math;}{\f39\fbidi \fswiss\fcharset204\fprq2{\*\panose 020f0502020204030204}Calibri; [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string MethodHelp_LarsenAlgo {
+            get {
+                return ResourceManager.GetString("MethodHelp_LarsenAlgo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to {\rtf1\adeflang1025\ansi\ansicpg1251\uc1\adeff31507\deff0\stshfdbch31506\stshfloch31506\stshfhich31506\stshfbi31507\deflang1049\deflangfe1049\themelang1049\themelangfe0\themelangcs0{\fonttbl{\f0\fbidi \froman\fcharset204\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\fbidi \fswiss\fcharset204\fprq2{\*\panose 020b0604020202020204}Arial;}
+        ///{\f2\fbidi \fmodern\fcharset204\fprq1{\*\panose 02070309020205020404}Courier New;}{\f3\fbidi \froman\fcharset2\fprq2{\*\panose 05050102010706020507}Symbol;}{\f1 [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string MethodHelp_MamdaniAlgorithm {
+            get {
+                return ResourceManager.GetString("MethodHelp_MamdaniAlgorithm", resourceCulture);
             }
         }
         
@@ -141,16 +169,46 @@ namespace Modules.ModuleFuzzyLogic.Properties {
         ///{\f34\fbidi \froman\fcharset204\fprq2{\*\panose 02040503050406030204}Cambria Math;}{\f38\fbidi \fswiss\fcharset204\fprq2{\*\panose 020b0604030504040204}Tahoma;}
         ///{\flomajor\f31500\fbidi \froman\fcharset204\fprq2{\*\panose 02020603050405020304} [rest of string was truncated]&quot;;.
         /// </summary>
-        internal static string MethodHelp_OperOnRelaionMethods {
+        public static string MethodHelp_OperOnRelaionMethods {
             get {
                 return ResourceManager.GetString("MethodHelp_OperOnRelaionMethods", resourceCulture);
             }
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to {\rtf1\adeflang1025\ansi\ansicpg1251\uc1\adeff31507\deff0\stshfdbch31506\stshfloch31506\stshfhich31506\stshfbi31507\deflang1049\deflangfe1049\themelang1049\themelangfe0\themelangcs0{\fonttbl{\f0\fbidi \froman\fcharset204\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\fbidi \fswiss\fcharset204\fprq2{\*\panose 020b0604020202020204}Arial;}
+        ///{\f4\fbidi \fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Helvetica;}{\f34\fbidi \froman\fcharset204\fprq2{\*\panose 00000000000000000000}Cambria Math;} [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string MethodHelp_SimplifiedAlgo {
+            get {
+                return ResourceManager.GetString("MethodHelp_SimplifiedAlgo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to {\rtf1\adeflang1025\ansi\ansicpg1251\uc1\adeff31507\deff0\stshfdbch31506\stshfloch31506\stshfhich31506\stshfbi31507\deflang1049\deflangfe1049\themelang1049\themelangfe0\themelangcs0{\fonttbl{\f0\fbidi \froman\fcharset204\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f34\fbidi \froman\fcharset1\fprq2{\*\panose 02040503050406030204}Cambria Math;}
+        ///{\f39\fbidi \fswiss\fcharset204\fprq2{\*\panose 020f0502020204030204}Calibri;}{\f40\fbidi \fswiss\fcharset204\fprq2{\*\panose 020b0604030504040204}Verdana [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string MethodHelp_SugenoAndTakagiAlgo {
+            get {
+                return ResourceManager.GetString("MethodHelp_SugenoAndTakagiAlgo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to {\rtf1\adeflang1025\ansi\ansicpg1251\uc1\adeff31507\deff0\stshfdbch31506\stshfloch31506\stshfhich31506\stshfbi31507\deflang1049\deflangfe1049\themelang1049\themelangfe0\themelangcs0{\fonttbl{\f0\fbidi \froman\fcharset204\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\fbidi \fswiss\fcharset204\fprq2{\*\panose 020b0604020202020204}Arial;}
+        ///{\f34\fbidi \froman\fcharset204\fprq2{\*\panose 00000000000000000000}Cambria Math;}{\f39\fbidi \fswiss\fcharset204\fprq2{\*\panose 020f0502020204030204}Calibri; [rest of string was truncated]&quot;;.
+        /// </summary>
+        public static string MethodHelp_TsucamotoAlgo {
+            get {
+                return ResourceManager.GetString("MethodHelp_TsucamotoAlgo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Операції над нечіткими відношеннями.
         /// </summary>
-        internal static string MethodOperationsOnRelationships {
+        public static string MethodOperationsOnRelationships {
             get {
                 return ResourceManager.GetString("MethodOperationsOnRelationships", resourceCulture);
             }
@@ -159,9 +217,36 @@ namespace Modules.ModuleFuzzyLogic.Properties {
         /// <summary>
         ///   Looks up a localized string similar to Операції над нечіткими відношеннями.
         /// </summary>
-        internal static string OperationOnRelation {
+        public static string OperationOnRelation {
             get {
                 return ResourceManager.GetString("OperationOnRelation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Спрощений алгоритм.
+        /// </summary>
+        public static string SimplifiedAlgo {
+            get {
+                return ResourceManager.GetString("SimplifiedAlgo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Алгоритм Сугено і Такажі.
+        /// </summary>
+        public static string SugenoAndTakagiAlgo {
+            get {
+                return ResourceManager.GetString("SugenoAndTakagiAlgo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Алгоритм Цукамото.
+        /// </summary>
+        public static string TsucamotoAlgo {
+            get {
+                return ResourceManager.GetString("TsucamotoAlgo", resourceCulture);
             }
         }
     }

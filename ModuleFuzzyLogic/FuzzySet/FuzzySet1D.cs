@@ -474,5 +474,221 @@ namespace FuzzySets
                 this.dots.Add(pair.Key, pair.Value);
             this.discrete = set.discrete;
         }
+        
+        public double getMu(double x)
+        {
+            SortedList<double, double> v = new SortedList<double, double>(dots);
+            int len = v.Count;
+
+            for (int i = 0; i + 1 < len; i++)
+            {
+                if (x >= v.Keys[i] && x <= v.Keys[i + 1])
+                {
+                    double x1 = v.Keys[i], x2 = v.Keys[i + 1];
+                    double y1 = v.Values[i], y2 = v.Values[i + 1];
+                    return (x2 * y1 - x1 * y2 + (y2 - y1) * x) / (x2 - x1);
+                }
+            }
+            return 0.0;
+        }
+        public double Inv(double y)
+        {
+            SortedList<double, double> v = new SortedList<double, double>(dots);
+            int len = v.Count;
+
+            for (int i = 0; i + 1 < len; i++)
+            {
+                if (y >= v.Values[i] && y <= v.Values[i + 1])
+                {
+                    double x1 = v.Keys[i], x2 = v.Keys[i + 1];
+                    double y1 = v.Values[i], y2 = v.Values[i + 1];
+
+                    return (y*(x2-x1) + x1*y2 -x2*y1)/(y2-y1);
+                }
+            }
+            return 0.0;
+        }
+        public FuzzySet1D sliceSet(double alpha)
+        {
+            FuzzySet1D res = new FuzzySet1D();
+            SortedList<double, double> v = new SortedList<double, double>(dots);
+            int len = v.Count;
+            bool isOpen = false;
+
+            for (int i = 0; i < len; i++)
+            {
+                if (isOpen)
+                {
+                    if (v.Values[i] < alpha)
+                    {
+                        double x1 = v.Keys[i - 1], x2 = v.Keys[i];
+                        double y1 = v.Values[i - 1], y2 = v.Values[i];
+                        double x = alpha * ((x2 - x1) / (y2 - y1)) - (x2 * y1 - x1 * y2) / (y2 - y1);
+                        res.AddDot(x, alpha);
+                        res.AddDot(v.Keys[i], v.Values[i]);
+                        isOpen = false;
+                    } else
+                    if (i + 1 == len)
+                    {
+                        res.AddDot(v.Keys[i], alpha);
+                    }
+                }
+                else
+                {
+                    if (v.Values[i] <= alpha)
+                    {
+                        res.AddDot(v.Keys[i], v.Values[i]);
+                    }
+                    else
+                    {
+                        if (i > 0)
+                        {
+                            double x1 = v.Keys[i - 1], x2 = v.Keys[i];
+                            double y1 = v.Values[i - 1], y2 = v.Values[i];
+                            double x = alpha * ((x2 - x1) / (y2 - y1)) - (x2 * y1 - x1 * y2) / (y2 - y1);
+                            res.AddDot(x, alpha);
+                            if (i + 1 == len)
+                            {
+                                res.AddDot(v.Keys[i], alpha);
+                            }
+                        }
+                        else
+                        {
+                            res.AddDot(v.Keys[i], alpha);
+                        }
+                        isOpen = true;
+                    }
+                }
+            }
+            return res;
+        }
+
+        // помножити функцію належності на множник, множник в [0,1]
+        public FuzzySet1D multiplyMuOn(double multiplier) {
+            if (multiplier > 1 || multiplier < 0) return null;
+            FuzzySet1D res = new FuzzySet1D();
+            foreach (var dot in dots) {
+                res.AddDot(dot.Key, dot.Value * multiplier);
+            }
+            return res;
+        }
+
+        public FuzzySet1D unite(FuzzySet1D that)
+        {
+            if(this.Dots.Count == 0)return that;
+            if(that.Dots.Count == 0)return this;
+
+            FuzzySet1D res = new FuzzySet1D();
+            int firstPos = 0, secondPos = 0;
+            double last = 0.0;
+            double eps = 1e-9;
+
+            SortedList<double, double>[] set = new SortedList<double,double>[2];
+            set[0] = new SortedList<double,double>(this.Dots);
+            set[1] = new SortedList<double,double>(that.Dots);
+
+            if(set[0].Keys[0] + eps < set[1].Keys[0]){
+                last = set[0].Keys[0];
+                firstPos++;
+                res.AddDot(set[0].Keys[0], set[0].Values[0]);
+            } else
+            if(set[0].Keys[0] > set[1].Keys[0] + eps){
+                last = set[1].Keys[0];
+                secondPos++;
+                res.AddDot(set[1].Keys[0], set[1].Values[0]);
+            } else
+            {
+                last = set[0].Keys[0];
+
+                if(set[0].Values[0] > set[1].Values[0] + eps){
+                    firstPos++;
+                    res.AddDot(set[0].Keys[0], set[0].Values[0]);
+                }
+                else {
+                    secondPos++;
+                    res.AddDot(set[1].Keys[0], set[1].Values[0]);
+                }
+            }
+
+            while(firstPos < set[0].Count || secondPos < set[1].Count){
+                if(firstPos == set[0].Count){
+                    res.AddDot(set[1].Keys[secondPos], set[1].Values[secondPos]);
+                    secondPos++;
+                } else
+                if(secondPos == set[1].Count){
+                    res.AddDot(set[0].Keys[firstPos], set[0].Values[firstPos]);
+                    firstPos++;
+                }
+                else {
+
+                    double x1 = last;
+                    double x2 = Math.Min(set[0].Keys[firstPos], 
+                                         set[1].Keys[secondPos]);
+                    double m1 = this.getMu(x2);
+                    double m2 = that.getMu(x2);
+                    double lastM1 = this.getMu(last);
+                    double lastM2 = that.getMu(last);
+
+                    if ((m1 > m2 + eps || Math.Abs(m1 - m2) < eps) &&
+                       (lastM1 > lastM2 + eps || Math.Abs(lastM1 - lastM2) < eps))
+                    {
+                        res.AddDot(x2, m1);
+                    } else
+                    if((m2 > m1 + eps || Math.Abs(m1 - m2) < eps) && 
+                       (lastM2 > lastM1 + eps || Math.Abs(lastM1 - lastM2) < eps)){
+                        res.AddDot(x2, m2);
+                    } else 
+                    if ((lastM1 > lastM2 + eps && m1 + eps < m2) ||
+                        (lastM1 + eps < lastM2 && m1 > m2 + eps))
+                    {
+                        double x = (x1 * (m1 - m2) + x2 * (lastM2 - lastM1)) /
+                                   (m1 - lastM1 - m2 + lastM2);
+                        double y = this.getMu(x);
+
+                        res.AddDot(x, y);
+                        res.AddDot(x2, Math.Max(m1, m2));
+                    }
+
+                    last = x2;
+                    if (Math.Abs(x2 - set[0].Keys[firstPos]) < eps) firstPos++;
+                    if (Math.Abs(x2 - set[1].Keys[secondPos]) < eps) secondPos++;
+
+                }
+
+            }
+            return res;
+        }
+
+        public double integral(bool flag)
+        {
+            double res = 0.0;
+            SortedList<double, double> z = new SortedList<double, double>(this.Dots);
+            int N = z.Count;
+            for (int i = 0; i + 1 < N; i++)
+            {
+                double a = z.Keys[i], b = z.Keys[i + 1];
+                double middle = (a + b) / 2.0;
+                double len = b - a;
+                if (flag)
+                {
+                    //Simpson's rule
+                    //I = (b - a) * (f(a) + b(b) + 4 * f((a + b) / 2)) / 6
+
+                    double cur = this.getMu(a) + this.getMu(b) +
+                                 4.0 * middle * this.getMu(middle);
+
+                    res += cur * len / 6.0;
+                }
+                else
+                {
+                    //Rectangle method
+                    //I = (b - a) * f((a + b) / 2)
+
+                    double cur = len * this.getMu(middle);
+                    res += cur;
+                }
+            }
+            return res;
+        }
     }
 }

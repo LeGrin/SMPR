@@ -48,11 +48,18 @@
     <Compile Include="BinRelationsPropForm.Designer.cs">
       <DependentUpon>BinRelationsPropForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="CellValueValidator.cs" />
     <Compile Include="frmBinOperations.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="frmBinOperations.Designer.cs">
       <DependentUpon>frmBinOperations.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMamdaniAlgorithm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMamdaniAlgorithm.Designer.cs">
+      <DependentUpon>frmMamdaniAlgorithm.cs</DependentUpon>
     </Compile>
     <Compile Include="frmModule.cs">
       <SubType>Form</SubType>
@@ -66,6 +73,12 @@
     <Compile Include="frmOperOnRelation.Designer.cs">
       <DependentUpon>frmOperOnRelation.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmSugenoAndTakagiAlgo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSugenoAndTakagiAlgo.Designer.cs">
+      <DependentUpon>frmSugenoAndTakagiAlgo.cs</DependentUpon>
+    </Compile>
     <Compile Include="FuzzySet\FuzzySet.cs" />
     <Compile Include="FuzzySet\FuzzySet1D.cs" />
     <Compile Include="fuzzyPreferenceRelations.cs">
@@ -74,11 +87,31 @@
     <Compile Include="fuzzyPreferenceRelations.Designer.cs">
       <DependentUpon>fuzzyPreferenceRelations.cs</DependentUpon>
     </Compile>
+    <Compile Include="InputBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InputBox.Designer.cs">
+      <DependentUpon>InputBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InputComboBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InputComboBox.Designer.cs">
+      <DependentUpon>InputComboBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LarsenAlgorithmForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LarsenAlgorithmForm.Designer.cs">
+      <DependentUpon>LarsenAlgorithmForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Method.cs" />
     <Compile Include="Methods\binOper.cs" />
     <Compile Include="Methods\BinOperationsPropMethod.cs" />
     <Compile Include="Methods\BinRelationsProp.cs" />
     <Compile Include="Methods\FuzzyPreferenceRelations.cs" />
+    <Compile Include="Methods\MamdaniAlgorithm.cs" />
+    <Compile Include="Methods\LarsenAlgo.cs" />
     <Compile Include="Methods\OperOnRelaionMethods.cs" />
     <Compile Include="FuzzySetsImage.cs">
       <SubType>Form</SubType>
@@ -87,6 +120,9 @@
       <DependentUpon>FuzzySetsImage.cs</DependentUpon>
     </Compile>
     <Compile Include="Methods\FuzzySetsImageMethod.cs" />
+    <Compile Include="Methods\SimplifiedAlgo.cs" />
+    <Compile Include="Methods\SugenoAndTakagiAlgo.cs" />
+    <Compile Include="Methods\TsucamotoAlgo.cs" />
     <Compile Include="Module.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\Resources.Designer.cs">
@@ -94,13 +130,45 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <Compile Include="Resourses\LocalStrings.uk.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LocalStrings.uk.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Resourses\LocalStrings.ru.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LocalStrings.ru.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Resourses\LocalStrings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LocalStrings.resx</DependentUpon>
+    </Compile>
+    <Compile Include="SimplifiedAlgoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SimplifiedAlgoForm.Designer.cs">
+      <DependentUpon>SimplifiedAlgoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TsukamotoAlgoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TsukamotoAlgoForm.Designer.cs">
+      <DependentUpon>TsukamotoAlgoForm.cs</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <None Include="Resourses\MethodHelp_FuzzyPreferencesRelations.rtf" />
     <None Include="Resourses\MethodHelp_binOper.rtf" />
     <None Include="Resourses\MethodHelp_BinOperationsPropMethod.rtf" />
     <None Include="Resourses\MethodHelp_FuzzySetsImageMethod.rtf" />
+    <None Include="Resourses\MethodHelp_LarsenAlgo.rtf" />
+    <None Include="Resourses\MethodHelp_MamdaniAlgorithm.rtf" />
     <None Include="Resourses\MethodHelp_OperOnRelaionMethods.rtf" />
+    <None Include="Resourses\MethodHelp_SimplifiedAlgo.rtf" />
+    <None Include="Resourses\MethodHelp_SugenoAndTakagiAlgo.rtf" />
+    <None Include="Resourses\MethodHelp_TsucamotoAlgo.rtf" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
@@ -120,14 +188,66 @@
     <EmbeddedResource Include="frmBinOperations.resx">
       <DependentUpon>frmBinOperations.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmMamdaniAlgorithm.en.resx">
+      <DependentUpon>frmMamdaniAlgorithm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMamdaniAlgorithm.resx">
+      <DependentUpon>frmMamdaniAlgorithm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMamdaniAlgorithm.ru-RU.resx">
+      <DependentUpon>frmMamdaniAlgorithm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmModule.en.resx">
+      <DependentUpon>frmModule.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmModule.resx">
+      <DependentUpon>frmModule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmModule.ru.resx">
       <DependentUpon>frmModule.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmOperOnRelation.resx">
       <DependentUpon>frmOperOnRelation.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmSugenoAndTakagiAlgo.en.resx">
+      <DependentUpon>frmSugenoAndTakagiAlgo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSugenoAndTakagiAlgo.resx">
+      <DependentUpon>frmSugenoAndTakagiAlgo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSugenoAndTakagiAlgo.ru.resx">
+      <DependentUpon>frmSugenoAndTakagiAlgo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InputBox.en.resx">
+      <DependentUpon>InputBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InputBox.resx">
+      <DependentUpon>InputBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InputBox.ru.resx">
+      <DependentUpon>InputBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InputComboBox.en.resx">
+      <DependentUpon>InputComboBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InputComboBox.resx">
+      <DependentUpon>InputComboBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InputComboBox.ru.resx">
+      <DependentUpon>InputComboBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LarsenAlgorithmForm.en.resx">
+      <DependentUpon>LarsenAlgorithmForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LarsenAlgorithmForm.resx">
+      <DependentUpon>LarsenAlgorithmForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LarsenAlgorithmForm.ru.resx">
+      <DependentUpon>LarsenAlgorithmForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
-      <Generator>ResXFileCodeGenerator</Generator>
+      <Generator>PublicResXFileCodeGenerator</Generator>
       <SubType>Designer</SubType>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
@@ -136,6 +256,36 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FuzzySetsImage.resx">
       <DependentUpon>FuzzySetsImage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resourses\LocalStrings.uk.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>LocalStrings.uk.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resourses\LocalStrings.ru.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>LocalStrings.ru.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resourses\LocalStrings.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>LocalStrings.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SimplifiedAlgoForm.en.resx">
+      <DependentUpon>SimplifiedAlgoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SimplifiedAlgoForm.resx">
+      <DependentUpon>SimplifiedAlgoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SimplifiedAlgoForm.ru.resx">
+      <DependentUpon>SimplifiedAlgoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TsukamotoAlgoForm.en.resx">
+      <DependentUpon>TsukamotoAlgoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TsukamotoAlgoForm.resx">
+      <DependentUpon>TsukamotoAlgoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TsukamotoAlgoForm.ru.resx">
+      <DependentUpon>TsukamotoAlgoForm.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
