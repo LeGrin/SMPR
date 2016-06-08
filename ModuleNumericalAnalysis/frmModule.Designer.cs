@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmModule));
             this.label1 = new System.Windows.Forms.Label();
             this.btnFixedPointIteration = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
@@ -37,75 +38,52 @@
             // 
             // label1
             // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F);
-            this.label1.Location = new System.Drawing.Point(179, 33);
+            resources.ApplyResources(this.label1, "label1");
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(217, 29);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "Numerical Analysis";
             // 
             // btnFixedPointIteration
             // 
+            resources.ApplyResources(this.btnFixedPointIteration, "btnFixedPointIteration");
             this.btnFixedPointIteration.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
-            this.btnFixedPointIteration.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.btnFixedPointIteration.Location = new System.Drawing.Point(135, 87);
             this.btnFixedPointIteration.Name = "btnFixedPointIteration";
-            this.btnFixedPointIteration.Size = new System.Drawing.Size(292, 35);
-            this.btnFixedPointIteration.TabIndex = 1;
-            this.btnFixedPointIteration.Text = "Fixed Point Iteration";
             this.btnFixedPointIteration.UseVisualStyleBackColor = false;
             this.btnFixedPointIteration.Click += new System.EventHandler(this.btnFixedPointIteration_Click);
             // 
             // button1
             // 
+            resources.ApplyResources(this.button1, "button1");
             this.button1.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
-            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.button1.Location = new System.Drawing.Point(135, 143);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(292, 36);
-            this.button1.TabIndex = 2;
-            this.button1.Text = "Seidel Method";
             this.button1.UseVisualStyleBackColor = false;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button2
             // 
+            resources.ApplyResources(this.button2, "button2");
             this.button2.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
-            this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.button2.Location = new System.Drawing.Point(135, 200);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(292, 36);
-            this.button2.TabIndex = 3;
-            this.button2.Text = "Picard Iteration";
             this.button2.UseVisualStyleBackColor = false;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // button3
             // 
+            resources.ApplyResources(this.button3, "button3");
             this.button3.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
-            this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.button3.Location = new System.Drawing.Point(135, 257);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(292, 36);
-            this.button3.TabIndex = 4;
-            this.button3.Text = "Parameter Continuation";
             this.button3.UseVisualStyleBackColor = false;
             this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // frmModule
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            resources.ApplyResources(this, "$this");
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Info;
-            this.ClientSize = new System.Drawing.Size(579, 414);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.btnFixedPointIteration);
             this.Controls.Add(this.label1);
             this.Name = "frmModule";
-            this.Text = "frmModule";
             this.ResumeLayout(false);
             this.PerformLayout();
 

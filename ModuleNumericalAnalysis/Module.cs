@@ -15,7 +15,7 @@ namespace Modules.ModuleNumericalAnalysis
         public Module()
         {
             form = new frmModule();
-            
+            form.Show();
         }
 
         public Module(Method meth)

@@ -106,5 +106,10 @@ namespace Modules.ModuleNumericalAnalysis
                 }
             }
         }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

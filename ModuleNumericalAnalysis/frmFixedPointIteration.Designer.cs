@@ -28,19 +28,20 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmFixedPointIteration));
             this.button1 = new System.Windows.Forms.Button();
             this.variableNumber = new System.Windows.Forms.NumericUpDown();
             this.label1 = new System.Windows.Forms.Label();
             this.dgvFunctions = new System.Windows.Forms.DataGridView();
-            this.Variable = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.function = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.firstValue = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.max_iter_numeric = new System.Windows.Forms.NumericUpDown();
             this.epsilon = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
             this.answer = new System.Windows.Forms.Label();
+            this.Variable = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.function = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.firstValue = new System.Windows.Forms.DataGridViewTextBoxColumn();
             ((System.ComponentModel.ISupportInitialize)(this.variableNumber)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dgvFunctions)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.max_iter_numeric)).BeginInit();
@@ -48,27 +49,21 @@
             // 
             // button1
             // 
+            resources.ApplyResources(this.button1, "button1");
             this.button1.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
-            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F);
-            this.button1.Location = new System.Drawing.Point(494, 345);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(182, 63);
-            this.button1.TabIndex = 0;
-            this.button1.Text = "Get result";
             this.button1.UseVisualStyleBackColor = false;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // variableNumber
             // 
-            this.variableNumber.Location = new System.Drawing.Point(150, 38);
+            resources.ApplyResources(this.variableNumber, "variableNumber");
             this.variableNumber.Minimum = new decimal(new int[] {
             1,
             0,
             0,
             0});
             this.variableNumber.Name = "variableNumber";
-            this.variableNumber.Size = new System.Drawing.Size(120, 22);
-            this.variableNumber.TabIndex = 1;
             this.variableNumber.Value = new decimal(new int[] {
             1,
             0,
@@ -78,17 +73,13 @@
             // 
             // label1
             // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.label1.Location = new System.Drawing.Point(3, 7);
+            resources.ApplyResources(this.label1, "label1");
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(222, 25);
-            this.label1.TabIndex = 2;
-            this.label1.Text = "The number of variables";
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // dgvFunctions
             // 
+            resources.ApplyResources(this.dgvFunctions, "dgvFunctions");
             this.dgvFunctions.AllowUserToAddRows = false;
             this.dgvFunctions.AllowUserToDeleteRows = false;
             this.dgvFunctions.BackgroundColor = System.Drawing.SystemColors.GradientInactiveCaption;
@@ -97,89 +88,63 @@
             this.Variable,
             this.function,
             this.firstValue});
-            this.dgvFunctions.Location = new System.Drawing.Point(180, 90);
             this.dgvFunctions.Name = "dgvFunctions";
             this.dgvFunctions.RowTemplate.Height = 24;
-            this.dgvFunctions.Size = new System.Drawing.Size(343, 238);
-            this.dgvFunctions.TabIndex = 3;
             this.dgvFunctions.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
-            // 
-            // Variable
-            // 
-            this.Variable.HeaderText = "Variable name";
-            this.Variable.Name = "Variable";
-            // 
-            // function
-            // 
-            this.function.HeaderText = "function";
-            this.function.Name = "function";
-            // 
-            // firstValue
-            // 
-            this.firstValue.HeaderText = "First value";
-            this.firstValue.Name = "firstValue";
             // 
             // label2
             // 
-            this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.label2.Location = new System.Drawing.Point(286, 7);
+            resources.ApplyResources(this.label2, "label2");
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(76, 25);
-            this.label2.TabIndex = 5;
-            this.label2.Text = "Epsilon";
             this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // label3
             // 
-            this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.label3.Location = new System.Drawing.Point(456, 9);
+            resources.ApplyResources(this.label3, "label3");
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(81, 25);
-            this.label3.TabIndex = 6;
-            this.label3.Text = "Max iter";
             this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // max_iter_numeric
             // 
-            this.max_iter_numeric.Location = new System.Drawing.Point(528, 37);
+            resources.ApplyResources(this.max_iter_numeric, "max_iter_numeric");
             this.max_iter_numeric.Name = "max_iter_numeric";
-            this.max_iter_numeric.Size = new System.Drawing.Size(120, 22);
-            this.max_iter_numeric.TabIndex = 7;
             // 
             // epsilon
             // 
-            this.epsilon.Location = new System.Drawing.Point(349, 37);
+            resources.ApplyResources(this.epsilon, "epsilon");
             this.epsilon.Name = "epsilon";
-            this.epsilon.Size = new System.Drawing.Size(100, 22);
-            this.epsilon.TabIndex = 8;
             // 
             // label4
             // 
-            this.label4.AutoSize = true;
-            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F);
-            this.label4.Location = new System.Drawing.Point(98, 368);
+            resources.ApplyResources(this.label4, "label4");
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(93, 29);
-            this.label4.TabIndex = 9;
-            this.label4.Text = "Answer";
             this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
             // answer
             // 
-            this.answer.AutoSize = true;
-            this.answer.Location = new System.Drawing.Point(159, 368);
+            resources.ApplyResources(this.answer, "answer");
             this.answer.Name = "answer";
-            this.answer.Size = new System.Drawing.Size(0, 17);
-            this.answer.TabIndex = 10;
+            // 
+            // Variable
+            // 
+            resources.ApplyResources(this.Variable, "Variable");
+            this.Variable.Name = "Variable";
+            // 
+            // function
+            // 
+            resources.ApplyResources(this.function, "function");
+            this.function.Name = "function";
+            // 
+            // firstValue
+            // 
+            resources.ApplyResources(this.firstValue, "firstValue");
+            this.firstValue.Name = "firstValue";
             // 
             // frmFixedPointIteration
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            resources.ApplyResources(this, "$this");
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Info;
-            this.ClientSize = new System.Drawing.Size(758, 454);
             this.Controls.Add(this.answer);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.epsilon);
@@ -191,7 +156,6 @@
             this.Controls.Add(this.variableNumber);
             this.Controls.Add(this.button1);
             this.Name = "frmFixedPointIteration";
-            this.Text = "frmFixedPointIteration";
             ((System.ComponentModel.ISupportInitialize)(this.variableNumber)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dgvFunctions)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.max_iter_numeric)).EndInit();
@@ -206,14 +170,14 @@
         private System.Windows.Forms.NumericUpDown variableNumber;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.DataGridView dgvFunctions;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Variable;
-        private System.Windows.Forms.DataGridViewTextBoxColumn function;
-        private System.Windows.Forms.DataGridViewTextBoxColumn firstValue;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.NumericUpDown max_iter_numeric;
         private System.Windows.Forms.TextBox epsilon;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label answer;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Variable;
+        private System.Windows.Forms.DataGridViewTextBoxColumn function;
+        private System.Windows.Forms.DataGridViewTextBoxColumn firstValue;
     }
 }
