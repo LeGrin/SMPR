@@ -219,7 +219,7 @@ namespace Modules.ModuleFuzzyLogic
                 double a, b;
                 a = Convert.ToDouble(dataGridViewSets.Rows[0].Cells[col].Value);
                 b = Convert.ToDouble(dataGridViewSets.Rows[1].Cells[col].Value);
-                OperSet.Add(a, b);
+				if (!OperSet.ContainsKey(a)) OperSet.Add(a, b);
             }
             return OperSet;
         }

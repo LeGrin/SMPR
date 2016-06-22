@@ -26,6 +26,7 @@ namespace Modules.CollectiveBenefitFunctions
         ArrayList LB1 = new ArrayList();
 
         int cx = 10;
+		bool lastPigu = false;
         int iCount;
 
         public frmModule(List<Method> methods, Method method)
@@ -233,7 +234,7 @@ namespace Modules.CollectiveBenefitFunctions
 
         private void cbFunctions_SelectedIndexChanged(object sender, EventArgs e)
         {
-            if ((cbFunctions.SelectedItem as Method).Name == Properties.Resources.PiguMethodName)
+			if ((cbFunctions.SelectedItem as Method).Name == Properties.Resources.PiguMethodName || lastPigu)
             {
                 foreach (Label l in LB)
                     l.Dispose();
@@ -243,7 +244,9 @@ namespace Modules.CollectiveBenefitFunctions
                 cx = 5;
                 iMemberCount = 0;
                 UD_Members.Value = 0;
+				lastPigu = true;
             }
+			lastPigu = (cbFunctions.SelectedItem as Method).Name == Properties.Resources.PiguMethodName;
 
             foreach (Label l in LB1)
                 l.Dispose();

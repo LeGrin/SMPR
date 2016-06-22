@@ -88,6 +88,11 @@ namespace Modules.MulticriterionProblemMethods
         {
             if (showDataEditForm())
             {
+				if (!_dataStorage.HasData)
+				{
+					Messenger.Current.ShowMessage(MessageKind.Warning_Ok, Properties.Resources.NoData);
+					return;
+				}
                 try
                 {
                     m.Init(_dataStorage.Matrix);
@@ -153,7 +158,8 @@ namespace Modules.MulticriterionProblemMethods
             //}
 
             ///NEW. Exciting!
-            _parrentForm.HighlightAlternatives(_dataStorage.LastResult);
+			if (_parrentForm != null)
+				_parrentForm.HighlightAlternatives(_dataStorage.LastResult);
         }
 
         /// <summary>
