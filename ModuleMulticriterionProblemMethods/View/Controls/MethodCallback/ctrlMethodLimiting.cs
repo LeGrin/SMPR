@@ -180,7 +180,7 @@ namespace Modules.MulticriterionProblemMethods.View.Controls.MethodCallback
                 i++;
             }
 
-            return i;
+            return 0;
         }
 
         private ArrayList Mult(double mult, ArrayList temp)
@@ -301,7 +301,7 @@ namespace Modules.MulticriterionProblemMethods.View.Controls.MethodCallback
 
         private double GetMaxValVector(ArrayList v)
         {
-            double maxVal = 0;
+			double maxVal = Convert.ToDouble(v[0]);
             foreach (int i in v.ToArray())
             {
                 if (i > maxVal)

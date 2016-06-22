@@ -44,6 +44,7 @@ namespace Modules.ModuleFuzzyLogic.Methods
             foreach (double x in set.Keys)
             {
                 double y = functionClearImage(x, func, koef);
+				if (ans.ContainsKey(y)) break;
                 ans.Add(y, set[x]);
             }
             return ans;

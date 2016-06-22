@@ -28,10 +28,11 @@ namespace SMPR
             listView1.SmallImageList = new ImageList();
             foreach(var module in ModuleInfo.Modules)
             {
-                if (module.MenuIcon!=null)
-                listView1.SmallImageList.Images.Add(module.MenuIcon);
-                var item = new ListViewItem();
-                item.ImageIndex = listView1.SmallImageList.Images.Count - 1;
+				var item = new ListViewItem();
+				if (module.MenuIcon != null) {
+					listView1.SmallImageList.Images.Add(module.MenuIcon);
+					item.ImageIndex = listView1.SmallImageList.Images.Count - 1;
+				}
                 item.Name = module.Name;
                 item.Text = module.Name;
                 item.Tag = module;
