@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B02AFDD1-CF7C-4CCC-A431-53EC7E11A92A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Modules.ModuleNumericalAnalysis</RootNamespace>
+    <AssemblyName>ModuleNumericalAnalysis</AssemblyName>
+    <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MathNet.Numerics, Version=3.11.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MathNet.Numerics.3.11.1\lib\net40\MathNet.Numerics.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="NCalc, Version=1.3.8.0, Culture=neutral, PublicKeyToken=973cde3f1cafed03, processorArchitecture=MSIL">
+      <HintPath>..\packages\ncalc.1.3.8\lib\NCalc.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmFixedPointIteration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmFixedPointIteration.Designer.cs">
+      <DependentUpon>frmFixedPointIteration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmModule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmModule.Designer.cs">
+      <DependentUpon>frmModule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmParameterContinuation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmParameterContinuation.Designer.cs">
+      <DependentUpon>frmParameterContinuation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPicardIteration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPicardIteration.Designer.cs">
+      <DependentUpon>frmPicardIteration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSeidelMethod.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSeidelMethod.Designer.cs">
+      <DependentUpon>frmSeidelMethod.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Method.cs" />
+    <Compile Include="Methods\FixedPointIteration.cs" />
+    <Compile Include="Methods\ParameterContinuation.cs" />
+    <Compile Include="Methods\PicardIteration.cs" />
+    <Compile Include="Methods\SeidelMethod.cs" />
+    <Compile Include="Module.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmFixedPointIteration.resx">
+      <DependentUpon>frmFixedPointIteration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFixedPointIteration.ru.resx">
+      <DependentUpon>frmFixedPointIteration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFixedPointIteration.uk.resx">
+      <DependentUpon>frmFixedPointIteration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmModule.resx">
+      <DependentUpon>frmModule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmModule.ru.resx">
+      <DependentUpon>frmModule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmModule.uk.resx">
+      <DependentUpon>frmModule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmParameterContinuation.resx">
+      <DependentUpon>frmParameterContinuation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmParameterContinuation.ru.resx">
+      <DependentUpon>frmParameterContinuation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmParameterContinuation.uk.resx">
+      <DependentUpon>frmParameterContinuation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPicardIteration.resx">
+      <DependentUpon>frmPicardIteration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPicardIteration.ru.resx">
+      <DependentUpon>frmPicardIteration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPicardIteration.uk.resx">
+      <DependentUpon>frmPicardIteration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSeidelMethod.resx">
+      <DependentUpon>frmSeidelMethod.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSeidelMethod.uk.resx">
+      <DependentUpon>frmSeidelMethod.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Resources\ModuleHelp.rtf" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Common\Common.csproj">
+      <Project>{1e272a87-5c29-47e9-8864-bc5d1919a0f0}</Project>
+      <Name>Common</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
